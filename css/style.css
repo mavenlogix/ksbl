@@ -4,16 +4,22 @@
 
     font-display: swap;
 
-    src: url(../fonts/MyriadPro-Regular.woff2) format('WOFF2'),
-
-        url(../fonts/MyriadPro-Regular.woff) format('woff');
+    src:  url(../fonts/MyriadPro-Regular.woff) format('woff');
 
 }
 
 
-  
+  @font-face {
 
-  
+    font-family: MyriadPro-Cond;
+
+    font-display: swap;
+
+    src:url(../fonts/MyriadPro-Cond.woff) format('woff');
+
+}
+
+
 @font-face {
 
     font-family: MyriadPro-Light;
@@ -26,19 +32,6 @@
 
 }
 
-
-
-@font-face {
-
-    font-family: MyriadPro-Cond;
-
-    font-display: swap;
-
-    src: url(../fonts/MyriadPro-Cond.woff2) format('WOFF2'),
-
-        url(../fonts/MyriadPro-Cond.woff) format('woff');
-
-}
 
 
 
