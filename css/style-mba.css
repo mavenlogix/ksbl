@@ -5287,6 +5287,12 @@ a.campus-link.active:before {
     background-size: 100% auto;
     background-attachment: fixed;
 }
+
+.main-meba #header {
+    background: url(../images/meba/meba.png) no-repeat top center;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
 .curriculum #header {
     background: url(../images/mba/mba_curriculum.jpg) no-repeat top center;
     background-size: 100% auto;
