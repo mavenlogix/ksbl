@@ -5289,7 +5289,7 @@ a.campus-link.active:before {
 }
 
 .main-meba #header {
-    background: url(../images/meba/meba.png) no-repeat top center;
+    background: url(../images/meba/meba.png)  no-repeat top center;
     background-size: 100% auto;
     background-attachment: fixed;
 }
