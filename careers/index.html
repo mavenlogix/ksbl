@@ -222,7 +222,7 @@
 										</div>
 										<div class="tab-links">
 										<a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
-										<a href="/careers/apply-for-job-positions.html" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+										<a href="apply-for-job-positions.html" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
 										</div>
 									</div>
 									
@@ -914,5 +914,12 @@
 		</footer>
 		<script src="../js/jquery.js"></script>
 		<script src="../js/script.js"></script>
+		<script type="text/javascript">
+			var origin   = window.location.origin;
+
+			if(orgin == "https://mavenology.site/"){
+				$('title="Apply"').attr("href", +origin+"/ksbl/careers/apply-for-job-positions")
+			}
+		</script>
 	</body>
 </html>
