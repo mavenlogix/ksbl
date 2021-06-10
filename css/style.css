@@ -4,18 +4,18 @@
 
     font-display: swap;
 
-    src:  url(../fonts/MyriadPro-Regular.woff) format('woff');
+    src: url(../fonts/MyriadPro-Regular.woff) format('woff');
 
 }
 
 
-  @font-face {
+@font-face {
 
     font-family: MyriadPro-Cond;
 
     font-display: swap;
 
-    src:url(../fonts/MyriadPro-Cond.woff) format('woff');
+    src: url(../fonts/MyriadPro-Cond.woff) format('woff');
 
 }
 
@@ -5552,6 +5552,158 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     margin-top: 10px;
 }
 
+/*MEBA*/
+.main-meba .about-ksbl-section .right-side {
+    max-width: 253px;
+}
+
+.main-meba .about-curriculum .right-side p {
+    font-size: 14px;
+    margin: 0;
+    font-family: MyriadPro-Regular;
+}
+
+.main-meba .about-curriculum .right-side h2 {
+    font-size: 32px;
+    min-width: 225px;
+    font-weight: normal;
+    line-height: 28px;
+    margin: 8px 0;
+    font-family: MyriadPro-Cond;
+}
+
+.main-meba .mebaSecOne {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f3f3f3+0,ffffff+68,ffffff+100 */
+    background: #f3f3f3;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #f3f3f3 0%, #ffffff 68%, #ffffff 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #f3f3f3 0%, #ffffff 68%, #ffffff 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #f3f3f3 0%, #ffffff 68%, #ffffff 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f3f3f3', endColorstr='#ffffff', GradientType=0);
+    /* IE6-9 */
+
+}
+
+.mebaSecOneGrid {
+    display: grid;
+    grid-template-columns: 16% 39% 22.5% 22.5%;
+    align-items: center;
+    background: #fff;
+
+}
+
+.mebaSecOneGrid:first-child {
+    margin-top: 50px;
+}
+
+.mebaSecOneGrid .boxMeba {
+    padding: 15px;
+    height: 182px;
+}
+
+.mebaSecOneGrid .boxMeba ul {
+    padding-left: 15px;
+    margin: 4px 0 0;
+}
+
+.mebaSecOneGrid .mebaSecOneBoxOne {
+    text-align: center;
+    background: #3282dc;
+    border: 1px solid #000;
+    border-right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+}
+
+.mebaSecOneGrid:nth-of-type(2) .mebaSecOneBoxOne {
+    background: #faa633;
+    border-top: 0;
+}.mebaSecOneGrid:nth-of-type(3) .mebaSecOneBoxOne {
+    background: #db4157;
+    border-top: 0;
+}
+
+.mebaSecOneGrid .mebaSecOneBoxOne h2 {
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 32px;
+    font-family: MyriadPro-Cond;
+    text-transform: uppercase;
+    color: #fff;
+
+}
+
+.mebaSecOneGrid .mebaSecOneBoxTwo {
+    border: 1px solid #000;
+    border-left: 0;
+    border-right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mebaSecOneGrid:nth-of-type(2) .boxMeba,
+.mebaSecOneGrid:nth-of-type(3) .boxMeba {
+    border-top: 0;
+}
+
+.mebaSecOneGrid .mebaSecOneBoxTwo p,
+.mebaSecOneGrid li {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    font-family: MyriadPro-Regular;
+    color: #000
+}
+
+
+
+.mebaSecOneGrid .mebaSecOneBoxThree {
+    border: 1px solid #000;
+
+    border-right: 0;
+}
+
+.mebaSecOneGrid .mebaSecOneBoxFour {
+    border: 1px solid #000;
+
+}
+
+/*.mebaSecOneBoxFour:after {
+    content: '';
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: -4px;
+    bottom: -1px;
+    box-shadow: 4px -2px 4px rgba(0, 0, 0, 0.4);
+    background: linear-gradient(38deg,
+        #1D1F20 48%,
+        #aaa 57%,
+        #bbb 63%,
+        white);
+    transform: skew(-6deg);
+    width: 90px;
+    height: 70px;
+    transition: .3s;
+
+
+}*/
+
+.mebaSecOneGrid .mebaSecOneBoxThree h4,
+.mebaSecOneGrid .mebaSecOneBoxFour h4 {
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 22px;
+    font-family: MyriadPro-Regular;
+    color: #000;
+    margin: 0;
+}
 
 
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -5995,7 +6147,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
         font-size: 16px;
 
         height: 50px;
-           line-height: 17px;
+        line-height: 17px;
 
     }
 

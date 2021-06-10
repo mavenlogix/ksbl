@@ -223,6 +223,10 @@
     font-family: MyriadPro-Regular;
     font-size: 15px;
 }
+
+.main-meba .ksbl-program.active{
+	border: 0;
+}
 .mba .ksbl-program:hover{
 	color: #FAA633;
 }
@@ -374,6 +378,11 @@
     padding-right: 155px;
     display: flex;
     flex-flow: column;
+}
+
+.main-meba .mba-section .right-side{
+     max-width: calc(100% - 495px);
+    padding-right: 44px;
 }
 
 .mba-section h2 {
@@ -5284,6 +5293,12 @@ a.campus-link.active:before {
 }
 .main-mba #header {
     background: url(../images/mba/mba-header.jpg) no-repeat top center;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+
+.main-meba #header {
+    background: url(../images/meba/meba.png) no-repeat top center;
     background-size: 100% auto;
     background-attachment: fixed;
 }
