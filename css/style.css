@@ -5704,7 +5704,17 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     color: #000;
     margin: 0;
 }
+.mebaSecOneBottom{
+    margin-top: 20px;
+}
 
+.mebaSecOneBottom p{
+  color: #000;
+    margin: 0;
+ font-size: 14px;
+  line-height: 22px;
+    font-family: MyriadPro-Regular;
+}
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
@@ -5974,8 +5984,13 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
 
 
+.mebaSecOneGrid .boxMeba{
+    height: 100%;
+}
+.mebaSecOneGrid .mebaSecOneBoxOne h2{
+        font-size: 28px;
 
-
+}
 
 }
 
