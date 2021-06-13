@@ -5623,7 +5623,9 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 .mebaSecOneGrid:nth-of-type(2) .mebaSecOneBoxOne {
     background: #faa633;
     border-top: 0;
-}.mebaSecOneGrid:nth-of-type(3) .mebaSecOneBoxOne {
+}
+
+.mebaSecOneGrid:nth-of-type(3) .mebaSecOneBoxOne {
     background: #db4157;
     border-top: 0;
 }
@@ -5704,15 +5706,16 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     color: #000;
     margin: 0;
 }
-.mebaSecOneBottom{
+
+.mebaSecOneBottom {
     margin-top: 20px;
 }
 
-.mebaSecOneBottom p{
-  color: #000;
+.mebaSecOneBottom p {
+    color: #000;
     margin: 0;
- font-size: 14px;
-  line-height: 22px;
+    font-size: 14px;
+    line-height: 22px;
     font-family: MyriadPro-Regular;
 }
 
@@ -5984,13 +5987,14 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
 
 
-.mebaSecOneGrid .boxMeba{
-    height: 100%;
-}
-.mebaSecOneGrid .mebaSecOneBoxOne h2{
+    .mebaSecOneGrid .boxMeba {
+        height: 100%;
+    }
+
+    .mebaSecOneGrid .mebaSecOneBoxOne h2 {
         font-size: 28px;
 
-}
+    }
 
 }
 
@@ -6273,6 +6277,15 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
         font-size: 13.5px;
 
     }
+
+    .main-meba .mba-section .right-side {
+        max-width: calc(100% - 804px);
+    }
+
+    .mebaSecOneGrid .boxMeba {
+        height: 100%
+    }
+
 
 }
 
@@ -6575,9 +6588,6 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     }
 
 
-
-
-
     .faculty_grid_left {
 
         background: url(../images/about/faculty-farooq-e-azam-mobile.png) no-repeat left center;
@@ -6588,7 +6598,30 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
     }
 
+   .mebaSecOneGrid {
+        grid-template-columns: auto;
 
+    }
+
+    .mebaSecOneGrid .boxMeba {
+        height: 100%
+    }
+
+    .mebaSecOneGrid .mebaSecOneBoxTwo,
+    .mebaSecOneGrid .mebaSecOneBoxThree,
+    .mebaSecOneGrid .mebaSecOneBoxOne {
+        border: 1px solid #000;
+        border-bottom: 0;
+    }
+
+    .mebaSecOneGrid:nth-of-type(2) .boxMeba,
+    .mebaSecOneGrid:nth-of-type(3) .boxMeba {
+        border-top: 1px solid#000;
+    }
+
+    .mebaSecOneGrid+.mebaSecOneGrid {
+        margin-top: 20px;
+    }
 
 }
 
@@ -6626,4 +6659,28 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
     }
 
+    .mebaSecOneGrid {
+        grid-template-columns: auto;
+
+    }
+
+    .mebaSecOneGrid .boxMeba {
+        height: 100%
+    }
+
+    .mebaSecOneGrid .mebaSecOneBoxTwo,
+    .mebaSecOneGrid .mebaSecOneBoxThree,
+    .mebaSecOneGrid .mebaSecOneBoxOne {
+        border: 1px solid #000;
+        border-bottom: 0;
+    }
+
+    .mebaSecOneGrid:nth-of-type(2) .boxMeba,
+    .mebaSecOneGrid:nth-of-type(3) .boxMeba {
+        border-top: 1px solid#000;
+    }
+
+    .mebaSecOneGrid+.mebaSecOneGrid {
+        margin-top: 20px;
+    }
 }
