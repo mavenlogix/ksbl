@@ -5601,6 +5601,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
 .mebaSecOneGrid .boxMeba {
     padding: 15px;
+    position: relative;
     height: 182px;
 }
 
@@ -5676,27 +5677,41 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
 }
 
-/*.mebaSecOneBoxFour:after {
+.mebaSecOneGrid:nth-of-type(1) .mebaSecOneBoxFour:after {
     content: '';
-    width: 0;
-    height: 0;
     position: absolute;
-    left: -4px;
-    bottom: -1px;
-    box-shadow: 4px -2px 4px rgba(0, 0, 0, 0.4);
-    background: linear-gradient(38deg,
-        #1D1F20 48%,
-        #aaa 57%,
-        #bbb 63%,
-        white);
+    right: -2px;
+    top: -2px;
+    background: linear-gradient(38deg, #3282dc 48%, #f7f7f7 57%, #f8f8f8 63%, #f8f8f8);
     transform: skew(-6deg);
-    width: 90px;
-    height: 70px;
-    transition: .3s;
+    width: 18px;
+    height: 18px;
 
+}
 
-}*/
+.mebaSecOneGrid:nth-of-type(2) .mebaSecOneBoxFour:after {
+    content: '';
+    position: absolute;
+    right: -2px;
+    top: 0;
+    background: linear-gradient(38deg, #faa633 48%, #f7f7f7 57%, #f8f8f8 63%, #f8f8f8);
+    transform: skew(-6deg);
+    width: 18px;
+    height: 18px;
 
+}
+
+.mebaSecOneGrid:nth-of-type(3) .mebaSecOneBoxFour:after {
+    content: '';
+    position: absolute;
+    right: -2px;
+    top: 0;
+    background: linear-gradient(38deg, #db4157 48%, #f7f7f7 57%, #f8f8f8 63%, #f8f8f8);
+    transform: skew(-6deg);
+    width: 18px;
+    height: 18px;
+
+}
 .mebaSecOneGrid .mebaSecOneBoxThree h4,
 .mebaSecOneGrid .mebaSecOneBoxFour h4 {
     font-weight: normal;
@@ -6598,7 +6613,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
     }
 
-   .mebaSecOneGrid {
+    .mebaSecOneGrid {
         grid-template-columns: auto;
 
     }
@@ -6685,12 +6700,12 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     }
 }
 
-@media (min-width: 1200px) and (max-width: 1280px){
+@media (min-width: 1200px) and (max-width: 1280px) {
     .mebaSecOneGrid .boxMeba {
         height: 100%
     }
 
-    .main-meba #header{
+    .main-meba #header {
         height: 330px;
     }
 }
