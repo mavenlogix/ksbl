@@ -6303,28 +6303,29 @@ a.campus-link.active:before {
         background-attachment: inherit;
         background-size: auto 100%;
     }
-     .main-meba #header {
 
-           background-size: cover;
-           background-attachment:initial;
+    .main-meba #header {
+
+        background-size: cover;
+        background-attachment: initial;
 
     }
 
-  .mba .ksbl-program{
-  	min-width: 12%
-  }
+    .mba .ksbl-program {
+        min-width: 12%
+    }
 
-   .main-meba .mba-section .right-side{
+    .main-meba .mba-section .right-side {
         max-width: 50%;
         padding-right: 0;
     }
 }
 
-@media(max-width: 767px){
-	.main-meba .mba-section .right-side {
-    max-width: 100%;
-    padding-right: 0;
-}
+@media(max-width: 767px) {
+    .main-meba .mba-section .right-side {
+        max-width: 100%;
+        padding-right: 0;
+    }
 }
 
 @media (max-width: 567px) {
@@ -6341,5 +6342,3 @@ a.campus-link.active:before {
 
 
 }
-
-
