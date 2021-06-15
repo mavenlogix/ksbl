@@ -339,7 +339,7 @@ $(".owl-carousel").owlCarousel({
 			console.log(pathname) 
 			if(origin == "https://mavenology.site"){
 				
-				$('a').attr("href", origin+pathname)
+				$('a').attr("href", origin)
 			}	
 			
 			})();
