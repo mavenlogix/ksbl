@@ -333,4 +333,13 @@ $(".owl-carousel").owlCarousel({
 });
 
 })(jQuery);	
+			(function(){
+			var origin   = window.location.origin;
+			var pathname = window.location.pathname;
+			console.log(pathname) 
+			if(origin == "https://mavenology.site"){
+				
+				$('a').attr("href", origin+"/ksbl"+pathname)
+			}	
 			
+			})();
