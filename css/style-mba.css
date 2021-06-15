@@ -6262,6 +6262,12 @@ a.campus-link.active:before {
     background-attachment: fixed;
 }
 
+.its #header {
+    background: url(../images/its/hero_its.png) no-repeat top center;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+
 .curriculum #header {
     background: url(../images/mba/mba_curriculum.jpg) no-repeat top center;
     background-size: 100% auto;
