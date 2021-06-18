@@ -4,6 +4,9 @@ RewriteEngine On
 #File to file
 RewriteRule \index.html / [R=301,L]
 
+
+
+RewriteCond %{HTTP_HOST} ^mavenology\.site [NC]
 RewriteCond %{SERVER_PORT} 80
 RewriteRule ^(.*)$ https://mavenology.site/$1 [R,L]
 
