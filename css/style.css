@@ -2465,6 +2465,11 @@
  .spanYellow {
      color: #faa633;
 }
+
+.program-detail{
+      max-width: 200px;
+      width: 100%;
+}
  @media (min-width: 992px) and (max-width: 1199px) {
      .non_faculty_grid_img {
          height: 153px;
@@ -2811,6 +2816,11 @@
          font-size: 24px;
          line-height: 22px;
     }
+
+    .program-detail {
+    max-width: 50px;
+    width: 100%;
+}
 }
  @media (min-width: 320px) and (max-width: 480px) {
      .non_faculty_grid {
