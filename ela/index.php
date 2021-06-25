@@ -4,7 +4,6 @@
 
 	 <!-- <title> Engro Leadership Academy | ELA - Karachi School of Business and Leadership </title> -->
   
-
 <?php 
 
 include('../partials/head.php');
