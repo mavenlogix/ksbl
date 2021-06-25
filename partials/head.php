@@ -22,7 +22,7 @@
     <meta name="keywords" content="KSBL, management school, business school, KSBL advantage, business education, management sciences">
     <link rel="icon" href="favicon.png" sizes="16x16">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<?php echo $url ?>/css/style-mba.css">
+    <link rel="stylesheet" href="./css/style-mba.css">
     <link rel="stylesheet" href="./css/style.css">
     
     <link rel="preload" as="font" href="./fonts/MyriadPro-Cond.woff" type="font/woff" crossorigin="anonymous">
