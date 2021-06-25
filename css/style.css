@@ -29,7 +29,7 @@
  img {
      max-width: 100%;
 }
- body .container {
+ .container {
      width: 1310px;
      margin: 0 auto;
      position: relative;
