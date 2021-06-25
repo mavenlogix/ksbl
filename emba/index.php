@@ -8,7 +8,7 @@
    <title> Executive Evening MBA Program | Karachi School of Business and Leadership </title> -->
    <?php 
 
-include('./partials/head.php');
+include('../partials/head.php');
 
 ?>
 
@@ -23,7 +23,7 @@ include('./partials/head.php');
 			</div-->
         <div class="container">
              <?php
-                include('./partials/navbar.php'); 
+                include('../partials/navbar.php'); 
             ?>
             <div class="header-content">
                 <a href="../index.html" title="KSBL" class="logo">
@@ -313,11 +313,11 @@ include('./partials/head.php');
 	#----------------------------------------------------------------->
     <!-- footer start -->
     <?php
-        include('./partials/footer.php');
+        include('../partials/footer.php');
     ?>
     <!-- footer end -->
    <?php
-        include('./partials/footer-scripts.php');
+        include('../partials/footer-scripts.php');
     ?>
   
 </body>
