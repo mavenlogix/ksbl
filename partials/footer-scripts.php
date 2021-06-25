@@ -5,4 +5,4 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="js/owl.carousel.js"></script>
     <script src="js/script.js"></script>
-    <script src="js/script-faculty.js"></script>
+   
