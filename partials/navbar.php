@@ -53,7 +53,7 @@
                             <ul>
                                 <li><a href="index.html" class="active" title="Home">Home</a></li>
                                 <li><a href="blog/category/news-and-updates/" title="News">News</a></li>
-                                <li><a href="alumni/success-stories.html" title="Alumni">Alumni</a></li>
+                                <li><a href="alumni/success-stories" title="Alumni">Alumni</a></li>
                                 <li><a href="future-of-work.html" title="Future of Work">Future of Work</a></li>
                             </ul>
                         </div>
