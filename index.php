@@ -7,6 +7,7 @@
 
 include('./partials/head.php');
 
+
 ?>
 
 <body class="home">
