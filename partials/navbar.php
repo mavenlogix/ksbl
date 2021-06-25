@@ -24,7 +24,7 @@
                 </ul>
             </li>
             <li><a href="blog/category/news-and-updates/" title="News">News</a></li>
-            <li><a href="alumni/success-stories.html" title="Alumni">Alumni</a></li>
+            <li><a href="alumni/success-stories.php" title="Alumni">Alumni</a></li>
         </ul>
     </nav>
     <div class="menu-serch">
