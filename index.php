@@ -130,7 +130,7 @@ include('./partials/head.php');
 	#                      Content Area Start                          #
 	#----------------------------------------------------------------->
     <div class="content-section" id="content-area">
-        <div class="container">
+        <div class="container d-block">
             <!-- === START News and Event == -->
             <div class="news-and-events container-boxes addmission">
                 <!-- <a href="blog/ksbl_appoints_mubashar.html" class="latest-news-event big-wrap">
