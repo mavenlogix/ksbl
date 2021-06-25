@@ -70,7 +70,7 @@ $(".come-out:not(.come-in)").each(function(i, el) {
 
 $(document).ready(function(){
 	
-		$('div').click(function(){
+		$(document).click(function(){
 			if($(this).parents('.header-top').length < 1 && $('.header-top').hasClass('open')){
 				$('.header-top,.header-model').removeClass('open');
 				$('.icon-link').removeClass('active');
