@@ -33,17 +33,17 @@ include('../partials/navbar.php');
             </div>
         </div><!-- container -->
           <div class="header-bottom">
-            <div class="ksbl-programs-wrap">
+              <div class="ksbl-programs-wrap">
                 <div class="container">
                     <div class="ksbl-programs">
-                        <a href="../mba/" class="ksbl-program mba active">MBA</a>
+                        <a href="mba/" class="ksbl-program mba active">MBA</a>
                         <!-- mba -->
-                        <a href="../emba/" class="ksbl-program executive-mba">Executive MBA</a>
+                        <a href="emba/" class="ksbl-program executive-mba">Executive MBA</a>
                         <!-- executive-mba -->
-                        <a href="../ms-business-analytics/" class="ksbl-program engro-leadership-academy ">MS Business Analytics</a>
-                        <a href="../meba/" class="ksbl-program executive-edu-mba ">BS MEBA</a>
-                        <a href="../bs-its/" class="ksbl-program executive-edu-mba">BS IT&S</a>
-                        <a href="../executive-education-services/" class="ksbl-program executive-edu-mba">Executive Education</a>
+                        <a href="ms-business-analytics/" class="ksbl-program engro-leadership-academy ">MS Business Analytics</a>
+                        <a href="meba/" class="ksbl-program executive-edu-mba ">BS MEBA</a>
+                        <a href="bs-its/" class="ksbl-program executive-edu-mba">BS IT&S</a>
+                        <a href="executive-education-services/" class="ksbl-program executive-edu-mba">Executive Education</a>
                         <!-- executive-edu-mba -->
                     </div><!-- container -->
                 </div>
