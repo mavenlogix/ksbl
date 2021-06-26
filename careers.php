@@ -299,12 +299,12 @@ include('./partials/navbar.php');
 	#                       Header END                                 #
 	#----------------------------------------------------------------->
    <?php
-include('../partials/footer.php');
+include('./partials/footer.php');
 ?>
 
 <!-- footer end -->
 <?php
-include('../partials/footer-scripts.php');
+include('./partials/footer-scripts.php');
 ?>
 
 </body>
