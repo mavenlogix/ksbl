@@ -79,8 +79,8 @@ include('../partials/head.php');
                             <br>Finance
                             <br>Human Resources</b>
                     </p>
-                    <a href="admissions/BS Managemenet, Entrepreneurship & Business Administration - Fall Admissions 2021 - V1.pdf" class="default-btn btn-primary">Download Brochure</a>
-                    <a href="http://admissions.colaraz.com/signup?institute=ksbledu" class="default-btn btn-primary">Apply Now</a>
+                    <a href="admissions/BS Managemenet, Entrepreneurship & Business Administration - Fall Admissions 2021 - V1.pdf" class=" btn-primary">Download Brochure</a>
+                    <a href="http://admissions.colaraz.com/signup?institute=ksbledu" class=" btn-primary">Apply Now</a>
                 </div>
             </div>
         </div>
