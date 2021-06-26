@@ -168,8 +168,7 @@ include('../../partials/footer.php');
 
 <!-- footer end -->
 <?php
-include('../
-../partials/footer-scripts.php');
+include('../../partials/footer-scripts.php');
 ?>
 </body>
 
