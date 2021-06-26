@@ -65,7 +65,7 @@
                     <h3>Life at KSBL</h3>
                     <ul>
                         <li><a href="../campus.html" title="Campus">Campus</a></li>
-                        <li><a href="../student-placement.html" title="Student Placements">Student Placements</a>
+                        <li><a href="../student-placement.php" title="Student Placements">Student Placements</a>
                         <li><a href="../student-achievements.html" title="Student Achievements">Student Achievements</a>
                         <li><a href="../activities-and-clubs.html" title="Societies & Clubs">Societies & Clubs</a>
                     </ul>
