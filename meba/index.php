@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../css/style-mba.css">
 </head> -->
 <?php 
-
+$page_meta_key = 'meba';
 include('../partials/head.php');
 
 ?>
