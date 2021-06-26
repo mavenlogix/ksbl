@@ -20,7 +20,7 @@
                     <li><a href="mba/fee/" title="Fee Structure">Fees</a></li>
                     <li><a href="mba/financial-assistance/" title="Financial Assistance">Financial Assistance</a></li>
                     <li><a href="mba/information-sessions/" title="Open House Sessions">Open House</a></li>
-                    <li><a href="why-KSBL.html" title="Why KSBL">Why KSBL</a></li>
+                    <li><a href="why-KSBL.php" title="Why KSBL">Why KSBL</a></li>
                 </ul>
             </li>
             <li><a href="blog/category/news-and-updates/" title="News">News</a></li>
@@ -88,7 +88,7 @@
                                 <li><a href="mba/fee/" title="Fee Structure">Fees</a></li>
                                 <li><a href="mba/financial-assistance/" title="Financial Assistance">Financial Assistance</a></li>
                                 <li><a href="mba/information-sessions/" title="Open House Sessions">Open House</a></li>
-                                <li><a href="why-KSBL.html" title="Why KSBL">Why KSBL</a></li>
+                                <li><a href="why-KSBL.php" title="Why KSBL">Why KSBL</a></li>
                             </ul>
                         </div>
                         <div class="ksbl-menu heder-menu">
