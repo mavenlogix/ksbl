@@ -5,7 +5,13 @@
 require_once(__DIR__ . '/page_meta.php');
 require_once(__DIR__ . '/functions.php');
 
-$metas = $page_meta[$page_meta_key];
+$metas = [];
+
+if(isset($page_meta_key)){
+    $metas = $page_meta[$page_meta_key];
+}else{
+    $metas = $page_meta['home'];
+}
 
  $protocol = "https://";
  $baseUrl = $_SERVER['SERVER_NAME'];
