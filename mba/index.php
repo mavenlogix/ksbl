@@ -118,8 +118,8 @@ include('../partials/navbar.php');
                             <br>Digital Marketing
                             <br>Talent Management</b>
                     </p>
-                    <a href="admissions/KSBL MBA Brochure - Admissions Fall 2021 (V1).pdf" download class="default-btn btn-primary">Download Brochure</a>
-                    <a href="http://admissions.colaraz.com/signup?institute=ksbledu" class="default-btn btn-primary">Apply Now</a>
+                    <a href="admissions/KSBL MBA Brochure - Admissions Fall 2021 (V1).pdf" download class="btn-primary">Download Brochure</a>
+                    <a href="http://admissions.colaraz.com/signup?institute=ksbledu" class=" btn-primary">Apply Now</a>
                 </div>
             </div>
         </div>
