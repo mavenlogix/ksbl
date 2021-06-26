@@ -98,8 +98,8 @@
                                 <li><a href="about/board-of-governors.html" title="Board of Governors">Board of Governors</a></li>
                                 <li><a href="faculty.php" title="Faculty">Faculty</a></li>
                                 <li><a href="about/karachi-education-initiative/" title="Karachi Education Initiative (KEI)">Karachi Education Initiative (KEI)</a></li>
-                                <li><a href="careers.html" title="Jobs at KSBL">Jobs</a></li>
-                                <li><a href="contact-us.html" title="Contact Us">Contact Us</a></li>
+                                <li><a href="careers.php" title="Jobs at KSBL">Jobs</a></li>
+                                <li><a href="contact-us.php" title="Contact Us">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
