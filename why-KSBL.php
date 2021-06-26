@@ -25,7 +25,7 @@ include('./partials/head.php');
             </div-->
         <div class="container">
             <?php
-include('../partials/navbar.php'); 
+include('./partials/navbar.php'); 
 ?>
             <div class="header-content">
                 <a href="index.html" title="KSBL" class="logo">
@@ -109,12 +109,12 @@ include('../partials/navbar.php');
     #                    Research Learning END                         #
     #----------------------------------------------------------------->
    <?php
-include('../partials/footer.php');
+include('./partials/footer.php');
 ?>
 
 <!-- footer end -->
 <?php
-include('../partials/footer-scripts.php');
+include('./partials/footer-scripts.php');
 ?>
 </body>
 
