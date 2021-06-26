@@ -9,10 +9,10 @@
                 </div>
                 <div class="main-menu footer-menu">
                     <ul>
-                        <li><a href="index.html" class="active" title="Home">Home</a></li>
-                        <li><a href="blog/category/news-and-updates/" title="News">News</a></li>
-                        <li><a href="alumni/success-stories.html" title="Alumni">Alumni</a></li>
-                        <li><a href="future-of-work.html" title="Future of Work">Future of Work</a></li>
+                        <li><a href="index.html" class="<?= is_active('index.html') ?>" title="Home">Home</a></li>
+                        <li><a href="blog/category/news-and-updates/" class="<?= is_active('blog/category/news-and-updates') ?>" title="News">News</a></li>
+                        <li><a href="alumni/success-stories.html" class="<?= is_active('alumni/success-stories.html') ?>" title="Alumni">Alumni</a></li>
+                        <li><a href="future-of-work.html" class="<?= is_active('future-of-work.html') ?>" title="Future of Work">Future of Work</a></li>
                     </ul>
                 </div>
             </div>
@@ -31,43 +31,43 @@
                 <div class="program-services footer-menu">
                     <h3>Programs</h3>
                     <ul>
-                        <li><a href="../mba/" class="" title="MBA">MBA</a></li>
-                        <li><a href="../emba/" title="Executive MBA">Executive MBA</a></li>
+                        <li><a href="../mba/" class="<?= is_active('mba') ?>" title="MBA">MBA</a></li>
+                        <li><a href="../emba/" class="<?= is_active('emba') ?>" title="Executive MBA">Executive MBA</a></li>
 
-                        <li><a href="../ms-business-analytics/" title="MS Business Analytics">MS Business Analytics</a></li>
-                        <li><a href="../executive-education-services/" title="Executive Education">Executive Education</a></li>
-                        <li><a href="../meba/"   title="Meba">Meba</a></li>
-                        <li><a href="../bs-its/"   title="ITS">BS ITS</a></li>
+                        <li><a href="../ms-business-analytics/" class="<?= is_active('ms-business-analytics') ?>" title="MS Business Analytics">MS Business Analytics</a></li>
+                        <li><a href="../executive-education-services/" class="<?= is_active('executive-education-services') ?>" title="Executive Education">Executive Education</a></li>
+                        <li><a href="../meba/" class="<?= is_active('meba') ?>" title="Meba">Meba</a></li>
+                        <li><a href="../bs-its/" class="<?= is_active('bs-its') ?>" title="ITS">BS ITS</a></li>
                     </ul>
                 </div>
                 <div class="admissions footer-menu">
                     <h3>Admissions</h3>
                     <ul>
-                        <li><a href="../mba/admissions/" title="Admission Process">Admission Process</a></li>
-                        <li><a href="../mba/fee/" title="Fee Structure">Fees</a></li>
-                        <li><a href="../mba/financial-assistance/" title="Financial Assistance">Financial Assistance</a></li>
-                        <li><a href="../mba/information-sessions/" title="Open House Sessions">Open House</a></li>
-                        <li><a href="../why-KSBL.html" title="Why KSBL">Why KSBL</a></li>
+                        <li><a href="../mba/admissions/" class="<?= is_active('mba/admissions') ?>" title="Admission Process">Admission Process</a></li>
+                        <li><a href="../mba/fee/" class="<?= is_active('mba/fee') ?>" title="Fee Structure">Fees</a></li>
+                        <li><a href="../mba/financial-assistance/" class="<?= is_active('mba/financial-assistance') ?>" title="Financial Assistance">Financial Assistance</a></li>
+                        <li><a href="../mba/information-sessions/" class="<?= is_active('mba/information-sessions') ?>" title="Open House Sessions">Open House</a></li>
+                        <li><a href="../why-KSBL.html" class="<?= is_active('why-KSBL.html') ?>" title="Why KSBL">Why KSBL</a></li>
                     </ul>
                 </div>
                 <div class="about footer-menu">
                     <h3>About</h3>
                     <ul>
-                        <li><a href="../about/" title="Vision & Mission">Vision & Mission</a></li>
-                        <li><a href="../about/board-of-governors.html" title="Board of Governors">Board of Governors</a></li>
-                        <li><a href="/faculty.php" title="Faculty">Faculty</a></li>
-                        <li><a href="../about/karachi-education-initiative/" title="Karachi Education Initiative (KEI)">Karachi Education Initiative (KEI)</a></li>
-                        <li><a href="../careers.php" title="Jobs at KSBL">Jobs</a></li>
-                        <li><a href="../contact-us.php" title="Contact Us">Contact Us</a></li>
+                        <li><a href="../about/" class="<?= is_active('above') ?>" title="Vision & Mission">Vision & Mission</a></li>
+                        <li><a href="../about/board-of-governors.html" class="<?= is_active('about/board-of-governors.html') ?>" title="Board of Governors">Board of Governors</a></li>
+                        <li><a href="/faculty.php" class="<?= is_active('faculty.php') ?>" title="Faculty">Faculty</a></li>
+                        <li><a href="../about/karachi-education-initiative/" class="<?= is_active('about/karachi-education-initiative') ?>" title="Karachi Education Initiative (KEI)">Karachi Education Initiative (KEI)</a></li>
+                        <li><a href="../careers.php" class="<?= is_active('careers.php') ?>" title="Jobs at KSBL">Jobs</a></li>
+                        <li><a href="../contact-us.php" class="<?= is_active('contact-us.php') ?>" title="Contact Us">Contact Us</a></li>
                     </ul>
                 </div>
                 <div class="faculty-research footer-menu">
                     <h3>Life at KSBL</h3>
                     <ul>
-                        <li><a href="../campus.php" title="Campus">Campus</a></li>
-                        <li><a href="../student-placement.php" title="Student Placements">Student Placements</a>
-                        <li><a href="../student-achievements.php" title="Student Achievements">Student Achievements</a>
-                        <li><a href="../activities-and-clubs.php" title="Societies & Clubs">Societies & Clubs</a>
+                        <li><a href="../campus.php" class="<?= is_active('campus.php') ?>" title="Campus">Campus</a></li>
+                        <li><a href="../student-placement.php" class="<?= is_active('student-placement.php') ?>" title="Student Placements">Student Placements</a>
+                        <li><a href="../student-achievements.php" class="<?= is_active('student-achievements.php') ?>" title="Student Achievements">Student Achievements</a>
+                        <li><a href="../activities-and-clubs.php" class="<?= is_active('activities-and-clubs.php') ?>" title="Societies & Clubs">Societies & Clubs</a>
                     </ul>
                 </div>
             </div>

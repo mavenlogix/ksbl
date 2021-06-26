@@ -5,6 +5,7 @@
 
 <?php 
 
+$page_meta_key = 'home';
 include('./partials/head.php');
 
 
