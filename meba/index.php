@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KSBL | MEBA</title>
-    <link rel="icon" href="../favicon.png" sizes="16x16">
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../css/style-mba.css">
-</head> -->
 <?php 
 $page_meta_key = 'meba';
 include('../partials/head.php');
