@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <!-- 	<title>KSBL | Jobs & Career Opportunities</title> -->
-
 <?php 
 
 include('./partials/head.php');
@@ -24,11 +23,11 @@ gtag('config', 'UA-55371745-1');
 	#----------------------------------------------------------------->
     <header id="header" class="run">
         <div class="container">
-         
-<?php
+            <?php
 include('./partials/navbar.php'); 
 ?>
-      <div class="header-content">
+
+            <div class="header-content">
                 <a href="index.html" title="KSBL" class="logo">
                     <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
@@ -40,7 +39,7 @@ include('./partials/navbar.php');
                 </div>
                 <div class="open-house-tabs">
                     <!-- === Tab 1 === -->
-                    <div class="tab-section mt-5">
+                    <div class="tab-section">
                         <div class="student-achievement">
                             <div class="content-section">
                                 <h2>Chief Financial Officer</h2>
@@ -89,7 +88,7 @@ include('./partials/navbar.php');
                     </div>
                     <!-- === END Tab 1 === -->
                     <!-- === Tab 2 === -->
-                    <div class="tab-section mt-5">
+                    <div class="tab-section">
                         <div class="student-achievement">
                             <div class="content-section">
                                 <h2>Manager Career Services & Alumni</h2>
@@ -141,7 +140,7 @@ include('./partials/navbar.php');
                     </div>
                     <!-- === END Tab 2 === -->
                     <!-- === Tab 3 === -->
-                    <div class="tab-section mt-5">
+                    <div class="tab-section">
                         <div class="student-achievement">
                             <div class="content-section">
                                 <h2>Assistant Manager Student Services</h2>
@@ -196,7 +195,7 @@ include('./partials/navbar.php');
                     </div>
                     <!-- === END Tab 3 === -->
                     <!-- === Tab 4 === -->
-                    <div class="tab-section mt-5">
+                    <div class="tab-section">
                         <div class="student-achievement">
                             <div class="content-section">
                                 <h2>HR Generalist</h2>
@@ -248,7 +247,7 @@ include('./partials/navbar.php');
                     </div>
                     <!-- === END Tab 4 === -->
                     <!-- === Tab 5 === -->
-                    <div class="tab-section mt-5">
+                    <div class="tab-section">
                         <div class="student-achievement">
                             <div class="content-section">
                                 <h2>Admissions Executive</h2>
@@ -299,15 +298,14 @@ include('./partials/navbar.php');
     <!-----------------------------------------------------------------#
 	#                       Header END                                 #
 	#----------------------------------------------------------------->
-    <?php
-include('./partials/footer.php');
+   <?php
+include('../partials/footer.php');
 ?>
 
 <!-- footer end -->
 <?php
-include('./partials/footer-scripts.php');
+include('../partials/footer-scripts.php');
 ?>
-
 
 </body>
 
