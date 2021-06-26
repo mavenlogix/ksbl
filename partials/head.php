@@ -25,7 +25,7 @@ if(isset($page_meta_key)){
 
  	$url = $protocol.'mavenology.site/';
  }
-define('SCRIPT_BASE', $url); 
+define('SCRIPT_BASE', str_replace(['http://','https://'], '', $url)); 
 ?>
 	<base href="<?php echo $url ?>" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
