@@ -3,7 +3,7 @@
 <!-- <title>KSBL | Custom Programs</title> -->
 <?php 
 
-include('./customized-programs/partials/head.php');
+include('.../partials/head.php');
 
 ?>
 
@@ -17,7 +17,7 @@ include('./customized-programs/partials/head.php');
 			</div-->
         <div class="container">
             <?php
-include('./customized-programs/partials/navbar.php'); 
+include('../partials/navbar.php'); 
 ?>
 
             <div class="header-content">
@@ -261,12 +261,12 @@ include('./customized-programs/partials/navbar.php');
 	#                  ENGRO FERTILIZERS END                           #
 	#----------------------------------------------------------------->
     <?php
-include('./customized-programspartials/footer.php');
+include('../partials/footer.php');
 ?>
 
 <!-- footer end -->
 <?php
-include('./customized-programs/partials/footer-scripts.php');
+include('../partials/footer-scripts.php');
 ?>
 
 </body>
