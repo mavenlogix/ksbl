@@ -51,7 +51,7 @@
                         </a>
                         <div class="main-menu heder-menu">
                             <ul>
-                                <li><a href="index.html" class="active" title="Home">Home</a></li>
+                                <li><a href="index.php" class="active" title="Home">Home</a></li>
                                 <li><a href="blog/category/news-and-updates/" title="News">News</a></li>
                                 <li><a href="alumni/success-stories.php" title="Alumni">Alumni</a></li>
                                 <li><a href="future-of-work.html" title="Future of Work">Future of Work</a></li>
