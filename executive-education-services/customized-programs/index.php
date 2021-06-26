@@ -3,7 +3,7 @@
 <!-- <title>KSBL | Custom Programs</title> -->
 <?php 
 
-include('.../partials/head.php');
+include('../../partials/head.php');
 
 ?>
 
@@ -17,7 +17,7 @@ include('.../partials/head.php');
 			</div-->
         <div class="container">
             <?php
-include('../partials/navbar.php'); 
+include('../../partials/navbar.php'); 
 ?>
 
             <div class="header-content">
