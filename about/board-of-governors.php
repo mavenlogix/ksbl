@@ -45,7 +45,7 @@ include('../partials/navbar.php');
             <!-- Accreditation -->
             <a href="../about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
             <!-- KEi -->
-            <a href="../contact-us.php" class="department" title="Contact Us">Contact Us</a>
+            <a href="/contact-us.php" class="department" title="Contact Us">Contact Us</a>
             <!-- Contact -->
         </div><!-- container -->
     </div>
