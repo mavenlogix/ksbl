@@ -21,7 +21,7 @@ include('./partials/head.php');
                 include('./partials/navbar.php'); 
             ?>
             <div class="header-content">
-                <a href="index.html" title="KSBL" class="logo">
+                <a href="index.php" title="KSBL" class="logo">
                     <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
@@ -71,7 +71,7 @@ include('./partials/head.php');
             <div class="group">
                 <!-- Person 2 -->
                 <div class="person come-out">
-                    <a href="faculty-profile/Dr-Farooq-e-Azam-Cheema.html">
+                    <a href="faculty-profile/Dr-Farooq-e-Azam-Cheema.php">
                         <div class="person-info">
                             <img src="images/faculty/Dr-Cheema-2_new.jpg" alt="Dr. Farooq-e-Azam Cheema" />
                         </div>
@@ -86,7 +86,7 @@ include('./partials/head.php');
                 <!-- END Person 2 -->
                 <!-- Person 12- to move  3 -->
                 <div class="person come-out">
-                    <a href="faculty-profile/Dr-Tariq-Basheer.html">
+                    <a href="faculty-profile/Dr-Tariq-Basheer.php">
                         <div class="person-info">
                             <img src="images/faculty/Dr-Tariq_new.jpg" alt="Dr. Tariq Basheer" />
                         </div>
@@ -103,7 +103,7 @@ include('./partials/head.php');
                 <!-- END Person 12 to move 3 -->
                 <!-- Person 4 -->
                 <div class="person come-out">
-                    <a href="faculty-profile/Dr-Muhammad-Nadeem-Javaid.html">
+                    <a href="faculty-profile/Dr-Muhammad-Nadeem-Javaid.php">
                         <div class="person-info">
                             <img src="images/faculty/Dr-Nadeem_new.jpg" alt="Dr. Nadeem Javaid" />
                         </div>
@@ -119,7 +119,7 @@ include('./partials/head.php');
                 <!-- END Person 4 -->
                 <!-- Person 2 -->
                 <div class="person come-out">
-                    <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.html">
+                    <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">
                         <div class="person-info">
                             <img src="images/faculty/Dr-Athar_new.jpg" alt="Dr. Athar Siddiqui" />
                         </div>
@@ -135,7 +135,7 @@ include('./partials/head.php');
                 <!-- END Person 2 -->
                 <!-- Person 7 -->
                 <div class="person come-out">
-                    <a href="faculty-profile/Dr-Shazib-Ehsan-Shaikh.html">
+                    <a href="faculty-profile/Dr-Shazib-Ehsan-Shaikh.php">
                         <div class="person-info">
                             <img src="images/faculty/Dr-Shazib_new.jpg" alt="Dr. Shazib E. Shaikh" />
                         </div>
@@ -167,7 +167,7 @@ include('./partials/head.php');
                 <!-- END Person 5 -->
                 <!-- Person 3 -->
                 <div class="person come-out">
-                    <a href="faculty-profile/Dr-Jawaid-Abdul-Ghani.html">
+                    <a href="faculty-profile/Dr-Jawaid-Abdul-Ghani.php">
                         <div class="person-info">
                             <img src="images/faculty/Dr-Jawaid-Ghani_new.jpg" alt="Dr. Jawaid Abdul Ghani" />
                         </div>
@@ -183,7 +183,7 @@ include('./partials/head.php');
                 <!-- END Person 3 -->
                 <!-- Person 5 -->
                 <div class="person come-out">
-                    <a href="faculty-profile/Dr-Waheed-Ali-Umrani.html">
+                    <a href="faculty-profile/Dr-Waheed-Ali-Umrani.php">
                         <div class="person-info">
                             <img src="images/faculty/waheed-umarani_new.jpg" alt="Dr. Waheed Umrani" />
                         </div>
@@ -199,7 +199,7 @@ include('./partials/head.php');
                 <!-- END Person 5 -->
                 <!-- Person 5 -->
                 <div class="person come-out">
-                    <a href="faculty-profile/Dr-Shoaib-ul-Haq.html">
+                    <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">
                         <div class="person-info">
                             <img src="images/faculty/Dr Shoaib_new.jpg" alt="Dr. Shoaib ul Haq" />
                         </div>
@@ -215,7 +215,7 @@ include('./partials/head.php');
                 <!-- END Person 5 -->
                 <!-- Person 6 -->
                 <div class="person come-out">
-                    <a href="faculty-profile/Dr-Muhammad-Talha-Salam.html">
+                    <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">
                         <div class="person-info">
                             <img src="images/faculty/Dr-Talha2_new.jpg" alt="Dr. Muhammad Talha Salam" />
                         </div>

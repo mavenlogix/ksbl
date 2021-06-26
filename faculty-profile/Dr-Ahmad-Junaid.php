@@ -64,7 +64,7 @@ include('../partials/head.php');
                 <div class="faculty_grid_center">
                     <ul class="nav nav-tabs border-0" role="tablist">
                          <li class="nav-item">
-                            <a class="nav-link active" data-toggle="tab" href="<?php echo $url ?>#vita">Profile Summary</a>
+                            <a class="nav-link active" data-toggle="tab" href="#vita">Profile Summary</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="tab" href="#credentials">Credentials</a>
