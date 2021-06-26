@@ -17,7 +17,6 @@ if(isset($page_meta_key)){
  $baseUrl = $_SERVER['SERVER_NAME'];
 
  $url = 'http://localhost/ksbl_local/';
-define('SCRIPT_BASE', $url);
 
  if ($baseUrl == 'ksbl.edu.pk'){
  	$url = $protocol.'ksbl.edu.pk/';
@@ -26,6 +25,7 @@ define('SCRIPT_BASE', $url);
 
  	$url = $protocol.'mavenology.site/';
  }
+define('SCRIPT_BASE', $url); 
 ?>
 	<base href="<?php echo $url ?>" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
