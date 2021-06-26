@@ -68,8 +68,8 @@ include('../partials/head.php');
                     <div class="detail">
                         <p>Make the right move to prepare for the job market of the future with rigorous training that would enable you to work in a multitude of areas including <b>designing algorithms, programming, data, robotics, and AI and much more.</b> The curriculum includes foundational learning in the initial years, on to more specialized courses, and in-depth understanding of the <b>business and socio-economic impact of these systems.</b> The training by an experienced local and international faculty culminates in an exciting project in which students demonstrate the use of their technical and business expertise. </p>
                         <br>
-                        <a href="http://admissions.colaraz.com/signup?institute=ksbledu" class="default-btn btn-primary">Apply Now</a>
-                        <a href="admissions/BS Information Technology & Systems - Fall Admissions 2021 - V1.pdf" title="Download Brochure" class="default-btn btn-primary">Download Brochure</a>
+                        <a href="http://admissions.colaraz.com/signup?institute=ksbledu" class=" btn-primary">Apply Now</a>
+                        <a href="admissions/BS Information Technology & Systems - Fall Admissions 2021 - V1.pdf" title="Download Brochure" class="btn-primary">Download Brochure</a>
                     </div>
                 </div>
                 <div class="right-side-two">
