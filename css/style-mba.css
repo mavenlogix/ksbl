@@ -480,6 +480,7 @@ a.btn-primary {
     border-style: solid;
     border-color: #FFFFFF;
     border-width: 1px;
+    padding: 10px 20px;
 }
 
 a.btn-primary:hover {
