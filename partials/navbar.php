@@ -2,8 +2,8 @@
     <nav id="top-navigation">
         <ul>
             <li><a href="index.html" class="<?= is_active(['index.html', '']) ?>" title="Home">Home</a></li>
-            <li class="expend <?= is_active(['mba', 'emba', 'ms-business-analytics', 'meba', 'bs-its', 'executive-education-services']) ?>">
-                <a href="javascript:void(0)" title="Programs">Programs</a>
+            <li class="expend">
+                <a href="javascript:void(0)" class="<?= is_active(['mba', 'emba', 'ms-business-analytics', 'meba', 'bs-its', 'executive-education-services']) ?>" title="Programs">Programs</a>
                 <ul class="sub-menu">
                     <li><a href="mba/" title="MBA">MBA</a></li>
                     <li><a href="emba/" title="Executive MBA">Executive MBA</a></li>
@@ -13,8 +13,8 @@
                     <li><a href="executive-education-services/" title="Executive Education">Executive Education</a></li>
                 </ul>
             </li>
-            <li class="expend <?= is_active(['mba/admissions', 'mba/fee', 'mba/financial-assistance', 'mba/information-sessions', 'why-KSBL.php']) ?>">
-                <a href="javascript:void(0)" title="Admissions">Admissions</a>
+            <li class="expend">
+                <a href="javascript:void(0)" class="<?= is_active(['mba/admissions', 'mba/fee', 'mba/financial-assistance', 'mba/information-sessions', 'why-KSBL.php']) ?>" title="Admissions">Admissions</a>
                 <ul class="sub-menu">
                     <li><a href="mba/admissions/" title="Admission Process">Admission Process</a></li>
                     <li><a href="mba/fee/" title="Fee Structure">Fees</a></li>
