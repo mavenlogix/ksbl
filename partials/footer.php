@@ -64,10 +64,10 @@
                 <div class="faculty-research footer-menu">
                     <h3>Life at KSBL</h3>
                     <ul>
-                        <li><a href="../campus.html" title="Campus">Campus</a></li>
+                        <li><a href="../campus.php" title="Campus">Campus</a></li>
                         <li><a href="../student-placement.php" title="Student Placements">Student Placements</a>
-                        <li><a href="../student-achievements.html" title="Student Achievements">Student Achievements</a>
-                        <li><a href="../activities-and-clubs.html" title="Societies & Clubs">Societies & Clubs</a>
+                        <li><a href="../student-achievements.php" title="Student Achievements">Student Achievements</a>
+                        <li><a href="../activities-and-clubs.php" title="Societies & Clubs">Societies & Clubs</a>
                     </ul>
                 </div>
             </div>
