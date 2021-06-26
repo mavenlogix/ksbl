@@ -3,7 +3,7 @@
 <!-- 	<title>KSBL | Apply for Job Positions</title> -->
 <?php 
 
-include('./partials/head.php');
+include('../partials/head.php');
 
 ?>
 
