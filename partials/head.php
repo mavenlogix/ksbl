@@ -40,7 +40,5 @@ define('SCRIPT_BASE', str_replace(['http://','https://'], '', $url));
     <link rel="preload" as="font" href="./fonts/MyriadPro-Cond.woff" type="font/woff" crossorigin="anonymous">
     <link rel="preload" as="font" href="./fonts/MyriadPro-Regular.woff" type="font/woff" crossorigin="anonymous">
     <link rel="preload" as="font" href="./fonts/MyriadPro-Light.woff" type="font/woff" crossorigin="anonymous">
-    <script>
-        console.log('<?= SCRIPT_BASE ?>')
-    </script>
+
 </head>
