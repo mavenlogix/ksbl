@@ -9,6 +9,7 @@ include('../../partials/head.php');
 
 ?>
 
+
 <body class="mba financial-assst full-height">
     <!-----------------------------------------------------------------#
     #                       Header START                               #
