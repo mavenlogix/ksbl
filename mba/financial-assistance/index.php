@@ -59,11 +59,11 @@ include('../../partials/navbar.php');
     #----------------------------------------------------------------->
     <div class="departments add">
         <div class="container">
-            <a href="../admissions/" class="department" title="Admission Process">Admissions Process</a>
-            <a href="../fee/" class="department" title="Fees">Fees</a>
-            <a href="../financial-assistance/" class="department active" title="Financial Assistance">Financial Assistance</a>
-            <a href="../information-sessions/" class="department" title="Open House">Open House</a>
-            <a href="../../why-KSBL.php" class="department" title="Why KSBL">Why KSBL</a>
+            <a href="admissions/" class="department" title="Admission Process">Admissions Process</a>
+            <a href="fee/" class="department" title="Fees">Fees</a>
+            <a href="financial-assistance/" class="department active" title="Financial Assistance">Financial Assistance</a>
+            <a href="information-sessions/" class="department" title="Open House">Open House</a>
+            <a href="why-KSBL.php" class="department" title="Why KSBL">Why KSBL</a>
         </div>
     </div>
     <!-----------------------------------------------------------------#
@@ -75,7 +75,7 @@ include('../../partials/navbar.php');
     <div class="mba-section financialassistance assistance">
         <div class="container">
             <div class="left-side">
-                <img src="../../images/mba/financialassistance.jpg" alt="Financial Assistance" />
+                <img src="images/mba/financialassistance.jpg" alt="Financial Assistance" />
             </div>
             <div class="right-side">
                 <h2>Financial Assistance</h2>
@@ -101,7 +101,7 @@ include('../../partials/navbar.php');
     <div class="mba-section applicationassistance assistance">
         <div class="container">
             <div class="left-side">
-                <img src="../../images/mba/application-assistance-process.jpg" alt="Application Assessment Process" />
+                <img src="images/mba/application-assistance-process.jpg" alt="Application Assessment Process" />
             </div>
             <div class="right-side">
                 <h2>Application Assessment Process</h2>
@@ -124,7 +124,7 @@ include('../../partials/navbar.php');
                Apply Now!                   
             </div> -->
                 <div class="upcoming-event">
-                    <img src="../../images/mba/meet-team.png" alt="Meet the Team">
+                    <img src="images/mba/meet-team.png" alt="Meet the Team">
                     <h3>Apply Now! </h3>
                     <div class="event-detail">
                         <div class="event-date">
