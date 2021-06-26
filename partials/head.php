@@ -18,7 +18,7 @@
 	<base href="<?php echo $url ?>" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Karachi School of Business and Leadership | KSBL </title>
-    <meta name="description" content=" Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.">
+    <meta name="description" content="  Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.">
     <meta name="keywords" content="KSBL, management school, business school, KSBL advantage, business education, management sciences">
     <link rel="icon" href="favicon.png" sizes="16x16">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
