@@ -23,7 +23,7 @@ gtag('config', 'UA-55371745-1');
 	#----------------------------------------------------------------->
     <header id="header" class="run">
         <div class="container">
-                     <?php
+            <?php
 include('./partials/navbar.php'); 
 ?>
             <div class="header-content">
@@ -122,15 +122,13 @@ include('./partials/navbar.php');
     <!-----------------------------------------------------------------#
 	#                       Header END                                 #
 	#----------------------------------------------------------------->
-   <?php
+    <?php
 include('../partials/footer.php');
 ?>
-
-<!-- footer end -->
-<?php
+    <!-- footer end -->
+    <?php
 include('../partials/footer-scripts.php');
 ?>
-
 </body>
 
 </html>
