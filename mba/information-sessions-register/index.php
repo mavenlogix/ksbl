@@ -18,8 +18,8 @@ include('../../partials/navbar.php');
 ?>
 
             <div class="header-content">
-                <a href="../../index.php" title="KSBL" class="logo">
-                    <img src="../../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
             </div>
             <div class="open-house-content">
@@ -28,7 +28,7 @@ include('../../partials/navbar.php');
                 <div class="open-house-tabs">
                     <!-- === Tab 1 === -->
                     <div class="tab-section active">
-                        <div class="tag-area"><a href="../information-sessions/" class="back-link" title="Back to All Sessions">All Sessions</a><span class="tag orange">REGISTER</div>
+                        <div class="tag-area"><a href="information-sessions" class="back-link" title="Back to All Sessions">All Sessions</a><span class="tag orange">REGISTER</div>
                         <div class="program-details">
                             <div class="about-program">
                                 <h2>Open House</h2>

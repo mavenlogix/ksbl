@@ -23,8 +23,8 @@ include('../partials/head.php');
 include('../partials/navbar.php'); 
 ?>
             <div class="header-content">
-                <a href="../index.html" title="KSBL" class="logo">
-                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>MBA</h1>
