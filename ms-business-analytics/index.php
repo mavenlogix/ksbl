@@ -23,8 +23,8 @@ include('../partials/navbar.php');
 
 
             <div class="header-content">
-                <a href="../index.html" title="KSBL" class="logo">
-                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>MSBA</h1>
@@ -36,14 +36,14 @@ include('../partials/navbar.php');
             <div class="ksbl-programs-wrap">
                 <div class="container">
                     <div class="ksbl-programs">
-                        <a href="../mba/" class="ksbl-program mba ">MBA</a>
+                        <a href="mba/" class="ksbl-program mba ">MBA</a>
                         <!-- mba -->
-                        <a href="../emba/" class="ksbl-program executive-mba">Executive MBA</a>
+                        <a href="emba/" class="ksbl-program executive-mba">Executive MBA</a>
                         <!-- executive-mba -->
-                        <a href="../ms-business-analytics/" class="ksbl-program engro-leadership-academy active">MS Business Analytics</a>
-                        <a href="../meba/" class="ksbl-program executive-edu-mba ">BS MEBA</a>
-                        <a href="../bs-its/" class="ksbl-program executive-edu-mba ">BS IT&S</a>
-                        <a href="../executive-education-services/" class="ksbl-program executive-edu-mba">Executive Education</a>
+                        <a href="ms-business-analytics/" class="ksbl-program engro-leadership-academy active">MS Business Analytics</a>
+                        <a href="meba/" class="ksbl-program executive-edu-mba ">BS MEBA</a>
+                        <a href="bs-its/" class="ksbl-program executive-edu-mba ">BS IT&S</a>
+                        <a href="executive-education-services/" class="ksbl-program executive-edu-mba">Executive Education</a>
                       
                     </div><!-- container -->
                 </div>
@@ -88,7 +88,7 @@ include('../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../images/ms-business-analytics/ba-1.jpg" alt="About our MBA" />
+                <img src="images/ms-business-analytics/ba-1.jpg" alt="About our MBA" />
             </div>
             <div class="right-side">
                 <h2>MS Business Analytics</h2>
@@ -107,7 +107,7 @@ include('../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../images/ms-business-analytics/ba-3.jpg" alt="Faculty" />
+                <img src="images/ms-business-analytics/ba-3.jpg" alt="Faculty" />
             </div>
             <div class="right-side">
                 <h2>Why Study Business Analytics at KSBL?</h2>
@@ -115,7 +115,7 @@ include('../partials/navbar.php');
                     <p>KSBL provides a unique ecosystem that enables hands-on learning during both in-classroom / lab teaching and thesis project selection and research. The transformationary nature of this field makes this program relevant for professionals from all sectors, industries and regions who realize the immense potential that it offers as digital innovation becomes rampant.
                         <br><br>Organizations that leverage data and build insights are proven to outperform competitors. Data literate candidates are increasingly becoming most sought-after in the fourth industrial revolution.
                     </p>
-                    <a href="../mba/admissions/MS Business Analytics - Admissions Fall 2021- V1.pdf" title="MSBA Program Info Pack" class="default-btn btn-primary">Download Program Info Pack </a>
+                    <a href="mba/admissions/MS Business Analytics - Admissions Fall 2021- V1.pdf" title="MSBA Program Info Pack" class="default-btn btn-primary">Download Program Info Pack </a>
                     <a href="http://admissions.colaraz.com/signup?institute=ksbledu" target="_blank" title="Apply Now" class="default-btn btn-primary">Apply Now</a>
                 </div>
             </div>
@@ -131,7 +131,7 @@ include('../partials/navbar.php');
 		<div class="container">	
 		
 			<div class="mba-step curriculum">
-				<div class="step-icon"><img src="../images/mba/curriculum.png" alt="Curriculum"/></div>
+				<div class="step-icon"><img src="images/mba/curriculum.png" alt="Curriculum"/></div>
 				<h2>Curriculum</h2>
 				<div class="detail">
 					The KSBL MBA program has been meticulously designed with the latest business education, innovation, interpersonal skills, interdisciplinary teaching and character building at its core. Apart from CEO mentorship, industry projects, or internship, the MBA program incorporates content from the leadership and executive education services as well as adding to a holistic learning experience at KSBL
@@ -141,7 +141,7 @@ include('../partials/navbar.php');
 			
 					
 			<div class="mba-step admission">
-				<div class="step-icon"><img src="../images/mba/admission.png" alt="Admission"/></div>
+				<div class="step-icon"><img src="images/mba/admission.png" alt="Admission"/></div>
 				<h2>Admission</h2>
 				<div class="detail">
 					At KSBL, we ignite students' personal journeys to develop character, humility & ethical decision-making. This requires enrolling individuals solely based on their drive, merit and determination. For each of our programs, a carefully designed selection criterion is in place that weighs in various competencies and diversities in students. This ensures that each upcoming session is the perfect mix of students from various backgrounds
@@ -150,7 +150,7 @@ include('../partials/navbar.php');
 			</div>
 			
 			<div class="mba-step fee-structure">
-				<div class="step-icon"><img src="../images/mba/fee-structure.png" alt="Fee Structure"/></div>
+				<div class="step-icon"><img src="images/mba/fee-structure.png" alt="Fee Structure"/></div>
 				<h2>Fee Structure</h2>
 				<div class="detail">
 					The fee you pay covers all tuition fees, essential course costs, registration and exams. Funding is available to eligible students towards the cost of tuition fees, depending on where you live before starting your course<br><br><br><br><br><br>
@@ -159,7 +159,7 @@ include('../partials/navbar.php');
 			</div>
 			
 			<div class="mba-step financial-assistance">
-				<div class="step-icon"><img src="../images/mba/financial-assistance.png" alt="Financial Assistance"/></div>
+				<div class="step-icon"><img src="images/mba/financial-assistance.png" alt="Financial Assistance"/></div>
 				<h2>Financial Assistance</h2>
 				<div class="detail">
 					KSBL endeavours to make business education accessible to students from all strata of society irrespective of their socio-economic standing. Our needs blind admissions policy ensures that each application is assessed entirely on merit only. We make our KSBL MBA program available to deserving students through our Financial Assistance program.<br><br><br>
@@ -254,7 +254,7 @@ include('../partials/navbar.php');
 			   Apply Now!					
 			</div> -->
                 <div class="upcoming-event">
-                    <img src="../images/mba/meet-team.png" alt="Meet the Team">
+                    <img src="images/mba/meet-team.png" alt="Meet the Team">
                     <h3>Apply Now! </h3>
                     <div class="event-detail">
                         <div class="event-date">
