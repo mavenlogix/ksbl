@@ -60,7 +60,7 @@ include('../../partials/navbar.php');
             <a href="mba/fee/" class="department active" title="Fees">Fees</a>
             <a href="mba/financial-assistance/" class="department" title="Financial Assistance">Financial Assistance</a>
             <a href="mba/information-sessions/" class="department" title="Open House">Open House</a>
-            <a href="why-KSBL.html" class="department" title="Why KSBL">Why KSBL</a>
+            <a href="why-KSBL.php" class="department" title="Why KSBL">Why KSBL</a>
         </div>
     </div>
     <!-----------------------------------------------------------------#
