@@ -193,7 +193,7 @@ include('../../../partials/navbar.php');
                             </div>
                         </div>
                     </a>
-                    <a href="blog/daraz..php" class="latest-news-event half-wrap">
+                    <a href="blog/daraz.php" class="latest-news-event half-wrap">
                         <div class="image-area">
                             <img src="images/blog/daraz.jpg" alt="Daraz">
                         </div>
