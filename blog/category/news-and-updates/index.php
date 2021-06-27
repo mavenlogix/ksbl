@@ -37,7 +37,7 @@ include('../../../partials/navbar.php');
 
 					--->
                 <div class="center-page-content news-and-events container-boxes">
-                    <a href="../../ksbl_simerge.php" class="latest-news-event half-wrap  ">
+                    <a href="../../../ksbl_simerge.php" class="latest-news-event half-wrap  ">
                         <div class="image-area">
                             <img src="images/blog/ksbl_simerge_image4.png" alt="Data Science">
                         </div>
