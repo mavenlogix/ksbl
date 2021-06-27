@@ -273,7 +273,7 @@ include('../../partials/navbar.php');
                                         including GMAT, GRE and NTS-GAT.
                                         <br><br>
                                         For details, please <strong> <a target="_blank" href="admissions/KSBL - KMAT - TestDetails.pdf">click here</a></strong> <br>
-                                        For sample test, please <strong><a target="_blank" href="admissions/ KSBL-KMAT-SampleTest.pdf  ">click here</a> </strong>
+                                        For sample test, please <strong><a target="_blank" href="admissions/KSBL-KMAT-SampleTest.pdf  ">click here</a> </strong>
                                     </div>
                                 </div>
                             </div>
