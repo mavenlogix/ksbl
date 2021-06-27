@@ -21,8 +21,8 @@ include('../partials/navbar.php');
 ?>
 
             <div class="header-content">
-                <a href="../index.html" title="KSBL" class="logo">
-                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>EXECUTIVE EDUCATION</h1>
@@ -30,23 +30,23 @@ include('../partials/navbar.php');
                 </div><!-- container -->
             </div>
         </div><!-- container -->
-        <div class="header-bottom">
+         <div class="header-bottom">
             <div class="ksbl-programs-wrap">
                 <div class="container">
                     <div class="ksbl-programs">
-                        <a href="../mba/" class="ksbl-program mba">MBA</a>
+                        <a href="mba/" class="ksbl-program mba ">MBA</a>
                         <!-- mba -->
-                        <a href="../emba/" class="ksbl-program executive-mba">Executive MBA</a>
+                        <a href="emba/" class="ksbl-program executive-mba ">Executive MBA</a>
                         <!-- executive-mba -->
-                        <a href="../ms-business-analytics/" class="ksbl-program engro-leadership-academy ">MS Business Analytics</a>
-                        <a href="../executive-education-services/" class="ksbl-program executive-edu-mba active">Executive Education</a>
+                        <a href="ms-business-analytics/" class="ksbl-program engro-leadership-academy ">MS Business Analytics</a>
+                        <a href="meba/" class="ksbl-program executive-edu-mba ">BS MEBA</a>
+                        <a href="bs-its/" class="ksbl-program executive-edu-mba">BS IT&S</a>
+                        <a href="executive-education-services/" class="ksbl-program executive-edu-mba active">Executive Education</a>
                         <!-- executive-edu-mba -->
-                        <!--a href="../ela/" class="ksbl-program engro-leadership-academy">Engro Leadership Academy</a-->
-                        <!-- engro-leadership-academy -->
                     </div><!-- container -->
                 </div>
             </div>
-        </div><!-- container -->
+        </div>
         </div><!-- Header-bottom -->
     </header>
     <!-----------------------------------------------------------------#
@@ -57,11 +57,11 @@ include('../partials/navbar.php');
 	#----------------------------------------------------------------->
     <div class="departments">
         <div class="container">
-            <a href="../executive-education-services/" class="department active" title="MBA">About</a>
+            <a href="executive-education-services/" class="department active" title="MBA">About</a>
             <!-- About Executive Education -->
-            <a href="../executive-education-services/customized-programs/" class="department" title="Custom Programs">Custom Programs</a>
+            <a href="executive-education-services/customized-programs/" class="department" title="Custom Programs">Custom Programs</a>
             <!-- Custom Programs -->
-            <a href="../ela/" class="department" title="Engro Leadership Academy">Engro Leadership Academy</a>
+            <a href="ela/" class="department" title="Engro Leadership Academy">Engro Leadership Academy</a>
         </div><!-- container -->
     </div>
     <!-----------------------------------------------------------------#
@@ -73,7 +73,7 @@ include('../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../images/ees/ee-1.jpg" alt="About our MBA" />
+                <img src="images/ees/ee-1.jpg" alt="About our MBA" />
             </div>
             <div class="right-side">
                 <h2>Changing the Way Executives are Trained</h2>
@@ -94,7 +94,7 @@ include('../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../images/ees/ee-2.jpg" alt="Faculty" />
+                <img src="images/ees/ee-2.jpg" alt="Faculty" />
             </div>
             <div class="right-side">
                 <h2>KSBL Executive Education Program Areas</h2>
@@ -159,7 +159,7 @@ include('../partials/navbar.php');
                 <h2>Contact our Executive Education Team</h2>
                 <a href="mailto:execed@ksbl.edu.pk">execed@ksbl.edu.pk</a>
                 <a href="tel:00922134855382">PABX: +923028222016, +92(21) 38771999, Ext 716</a>
-                <a href="../contact-us.html" title="Contact Us">Contact</a>
+                <a href="contact-us.php" title="Contact Us">Contact</a>
             </div>
         </div>
     </div>
