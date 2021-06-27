@@ -13,7 +13,7 @@ include('../../partials/head.php');
 	#----------------------------------------------------------------->
     <header id="header" class="run">
         <!--div class="header-video">
-			<img src="../../images/ees/custom-programs.jpg" alt="Customized Programs"/>
+			<img src="images/ees/custom-programs.jpg" alt="Customized Programs"/>
 			</div-->
         <div class="container">
             <?php
@@ -30,23 +30,23 @@ include('../../partials/navbar.php');
                 </div><!-- container -->
             </div>
         </div><!-- container -->
-        <div class="header-bottom">
+         <div class="header-bottom">
             <div class="ksbl-programs-wrap">
                 <div class="container">
                     <div class="ksbl-programs">
-                        <a href="mba/" class="ksbl-program mba">MBA</a>
+                        <a href="mba/" class="ksbl-program mba ">MBA</a>
                         <!-- mba -->
-                        <a href="emba/" class="ksbl-program executive-mba">Executive MBA</a>
+                        <a href="emba/" class="ksbl-program executive-mba ">Executive MBA</a>
                         <!-- executive-mba -->
                         <a href="ms-business-analytics/" class="ksbl-program engro-leadership-academy ">MS Business Analytics</a>
+                        <a href="meba/" class="ksbl-program executive-edu-mba ">BS MEBA</a>
+                        <a href="bs-its/" class="ksbl-program executive-edu-mba">BS IT&S</a>
                         <a href="executive-education-services/" class="ksbl-program executive-edu-mba active">Executive Education</a>
                         <!-- executive-edu-mba -->
-                        <!--a href="ela/" class="ksbl-program engro-leadership-academy">Engro Leadership Academy</a-->
-                        <!-- engro-leadership-academy -->
                     </div><!-- container -->
                 </div>
             </div>
-        </div><!-- container -->
+        </div>
         </div><!-- Header-bottom -->
     </header>
     <!-----------------------------------------------------------------#
@@ -115,7 +115,7 @@ include('../../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../../images/ees/ici-pakistan.jpg" alt="ICI Pakistan Limited" />
+                <img src="images/ees/ici-pakistan.jpg" alt="ICI Pakistan Limited" />
             </div>
             <div class="right-side">
                 <h2>ICI Pakistan Limited</h2>
@@ -134,7 +134,7 @@ include('../../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../../images/ees/aga-khan.jpg" alt="Aga Khan University Hospital" />
+                <img src="images/ees/aga-khan.jpg" alt="Aga Khan University Hospital" />
             </div>
             <div class="right-side">
                 <h2>Aga Khan University Hospital</h2>
@@ -153,7 +153,7 @@ include('../../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../../images/ees/uep.jpg" alt="United Energy Pakistan (UEP)" />
+                <img src="images/ees/uep.jpg" alt="United Energy Pakistan (UEP)" />
             </div>
             <div class="right-side">
                 <h2>United Energy Pakistan (UEP)</h2>
@@ -172,7 +172,7 @@ include('../../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../../images/ees/parco.jpg" alt="PARCO" />
+                <img src="images/ees/parco.jpg" alt="PARCO" />
             </div>
             <div class="right-side">
                 <h2>PARCO</h2>
@@ -191,7 +191,7 @@ include('../../partials/navbar.php');
     <div class="mba-section little">
         <div class="container">
             <div class="left-side">
-                <img src="../../images/ees/hubco.jpg" alt="HUBCO" />
+                <img src="images/ees/hubco.jpg" alt="HUBCO" />
             </div>
             <div class="right-side">
                 <h2>HUBCO</h2>
@@ -211,7 +211,7 @@ include('../../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../../images/ees/k-electric.jpg" alt="K ELECTRIC" />
+                <img src="images/ees/k-electric.jpg" alt="K ELECTRIC" />
             </div>
             <div class="right-side">
                 <h2>K ELECTRIC</h2>
@@ -230,7 +230,7 @@ include('../../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../../images/ees/engro.jpg" alt="ENGRO FERTILIZERS" />
+                <img src="images/ees/engro.jpg" alt="ENGRO FERTILIZERS" />
             </div>
             <div class="right-side">
                 <h2>ENGRO FERTILIZERS</h2>
