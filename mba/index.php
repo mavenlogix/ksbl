@@ -88,7 +88,7 @@ include('../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../images/mba/about-mba.jpg" alt="About our MBA" />
+                <img src="images/mba/about-mba.jpg" alt="About our MBA" />
             </div>
             <div class="right-side">
                 <h2>Our MBA Program</h2>
@@ -108,7 +108,7 @@ include('../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../images/mba/faculty.jpg" alt="Faculty" />
+                <img src="images/mba/faculty.jpg" alt="Faculty" />
             </div>
             <div class="right-side">
                 <h2>Market-Driven Specializations</h2>
@@ -134,7 +134,7 @@ include('../partials/navbar.php');
 		<div class="container">	
 		
 			<div class="mba-step curriculum">
-				<div class="step-icon"><img src="../images/mba/curriculum.png" alt="Curriculum"/></div>
+				<div class="step-icon"><img src="images/mba/curriculum.png" alt="Curriculum"/></div>
 				<h2>Curriculum</h2>
 				<div class="detail">
 					The KSBL MBA program has been meticulously designed with the latest business education, innovation, interpersonal skills, interdisciplinary teaching and character building at its core. Apart from CEO mentorship, industry projects, or internship, the MBA program incorporates content from the leadership and executive education services as well as adding to a holistic learning experience at KSBL
@@ -144,7 +144,7 @@ include('../partials/navbar.php');
 			
 					
 			<div class="mba-step admission">
-				<div class="step-icon"><img src="../images/mba/admission.png" alt="Admission"/></div>
+				<div class="step-icon"><img src="images/mba/admission.png" alt="Admission"/></div>
 				<h2>Admission</h2>
 				<div class="detail">
 					At KSBL, we ignite students' personal journeys to develop character, humility & ethical decision-making. This requires enrolling individuals solely based on their drive, merit and determination. For each of our programs, a carefully designed selection criterion is in place that weighs in various competencies and diversities in students. This ensures that each upcoming session is the perfect mix of students from various backgrounds
@@ -153,7 +153,7 @@ include('../partials/navbar.php');
 			</div>
 			
 			<div class="mba-step fee-structure">
-				<div class="step-icon"><img src="../images/mba/fee-structure.png" alt="Fee Structure"/></div>
+				<div class="step-icon"><img src="images/mba/fee-structure.png" alt="Fee Structure"/></div>
 				<h2>Fee Structure</h2>
 				<div class="detail">
 					The fee you pay covers all tuition fees, essential course costs, registration and exams. Funding is available to eligible students towards the cost of tuition fees, depending on where you live before starting your course<br><br><br><br><br><br>
@@ -162,7 +162,7 @@ include('../partials/navbar.php');
 			</div>
 			
 			<div class="mba-step financial-assistance">
-				<div class="step-icon"><img src="../images/mba/financial-assistance.png" alt="Financial Assistance"/></div>
+				<div class="step-icon"><img src="images/mba/financial-assistance.png" alt="Financial Assistance"/></div>
 				<h2>Financial Assistance</h2>
 				<div class="detail">
 					KSBL endeavours to make business education accessible to students from all strata of society irrespective of their socio-economic standing. Our needs blind admissions policy ensures that each application is assessed entirely on merit only. We make our KSBL MBA program available to deserving students through our Financial Assistance program.<br><br><br>
@@ -309,7 +309,7 @@ include('../partials/navbar.php');
 			   Apply Now!					
 			</div> -->
                 <div class="upcoming-event">
-                    <img src="../images/mba/meet-team.png" alt="Meet the Team">
+                    <img src="images/mba/meet-team.png" alt="Meet the Team">
                     <h3>Apply Now! </h3>
                     <div class="event-detail">
                         <div class="event-date">

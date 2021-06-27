@@ -13,7 +13,7 @@ include('../../partials/head.php');
     #----------------------------------------------------------------->
     <header id="header" class="run">
         <!--div class="header-video">
-            <img src="../../images/mba/mba_fee.jpg" alt="MBA">
+            <img src="images/mba/mba_fee.jpg" alt="MBA">
             </div-->
         <div class="container">
                  <?php
@@ -56,11 +56,11 @@ include('../partials/navbar.php');
     #----------------------------------------------------------------->
     <div class="departments add">
         <div class="container">
-            <a href="../admissions/" class="department" title="Admission Process">Admissions Process</a>
-            <a href="../fee/" class="department active" title="Fees">Fees</a>
-            <a href="../financial-assistance/" class="department" title="Financial Assistance">Financial Assistance</a>
-            <a href="../information-sessions/" class="department" title="Open House">Open House</a>
-            <a href="../../why-KSBL.html" class="department" title="Why KSBL">Why KSBL</a>
+            <a href="admissions/" class="department" title="Admission Process">Admissions Process</a>
+            <a href="fee/" class="department active" title="Fees">Fees</a>
+            <a href="financial-assistance/" class="department" title="Financial Assistance">Financial Assistance</a>
+            <a href="information-sessions/" class="department" title="Open House">Open House</a>
+            <a href="why-KSBL.html" class="department" title="Why KSBL">Why KSBL</a>
         </div>
     </div>
     <!-----------------------------------------------------------------#
@@ -105,7 +105,7 @@ include('../partials/navbar.php');
                 <div class="payment-table other-charges">
                     <div class="table-col heading">Mode of Payment</div>
                     <div class="table-col">
-                        <img src="../../images/mba/payorder.png" alt="Payorder" />
+                        <img src="images/mba/payorder.png" alt="Payorder" />
                         <div class="col-detail">
                             <h3>Pay Order / Demand Draft</h3>
                             <div class="other-detail">
@@ -114,7 +114,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="table-col">
-                        <img src="../../images/mba/online-payment.png" alt="Online Payment" />
+                        <img src="images/mba/online-payment.png" alt="Online Payment" />
                         <div class="col-detail">
                             <h3>E-Payment </h3>
                             <div class="other-detail">
@@ -165,7 +165,7 @@ include('../partials/navbar.php');
                Apply Now!                   
             </div> -->
                 <div class="upcoming-event">
-                    <img src="../../images/mba/meet-team.png" alt="Meet the Team">
+                    <img src="images/mba/meet-team.png" alt="Meet the Team">
                     <h3>Apply Now! </h3>
                     <div class="event-detail">
                         <div class="event-date">
@@ -209,8 +209,7 @@ include('../../partials/footer.php');
 
 <!-- footer end -->
 <?php
-include('../
-../partials/footer-scripts.php');
+include('../../partials/footer-scripts.php');
 ?>
 </body>
 
