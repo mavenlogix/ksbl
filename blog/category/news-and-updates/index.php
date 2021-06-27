@@ -333,12 +333,12 @@ include('../../../partials/navbar.php');
 	#                       Header END                                 #
 	#----------------------------------------------------------------->
        <?php
-include('../../../partials/footer.php');
+   include('../../../partials/footer.php');
 ?>
 
 <!-- footer end -->
 <?php
-include('../../../partials/footer-scripts.php');
+  include('../../../partials/footer-scripts.php');
 ?>
     <script async src="https://cse.google.com/cse.js?cx=5a67611eb2aef8e92"></script>
 </body>
