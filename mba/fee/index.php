@@ -17,7 +17,7 @@ include('../../partials/head.php');
             </div-->
         <div class="container">
                  <?php
-include('../partials/navbar.php'); 
+include('../../partials/navbar.php'); 
 ?>
             <div class="header-content">
                 <a href="index.php" title="KSBL" class="logo">
