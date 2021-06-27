@@ -64,7 +64,7 @@ include('./partials/navbar.php');
                     </p>
                 </div>
                 <div class="bootom-buttons">
-                    <a href="alumni/success-stories.html" title="Placeholder" class="btn grey-btn">Alumni</a>
+                    <a href="alumni/success-stories.php" title="Placeholder" class="btn grey-btn">Alumni</a>
                 </div>
             </div>
         </div>
