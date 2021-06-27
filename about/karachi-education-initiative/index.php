@@ -17,8 +17,8 @@ include('../../partials/head.php');
 include('../../partials/navbar.php'); 
 ?>
             <div class="header-content">
-                <a href="../../index.php" title="KSBL" class="logo">
-                    <img src="../../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>Karachi Education Initiative</h1>
@@ -36,15 +36,15 @@ include('../../partials/navbar.php');
 	#----------------------------------------------------------------->
     <div class="departments">
         <div class="container">
-            <a href="../../about/" class="department" title="Vision & Mission">Vision & Mission</a>
+            <a href="about/" class="department" title="Vision & Mission">Vision & Mission</a>
             <!-- About -->
-            <a href="../../about/board-of-governors.php" class="department" title="Board of Governors">Board of Governors</a>
+            <a href="about/board-of-governors.php" class="department" title="Board of Governors">Board of Governors</a>
             <!-- Board of Governors -->
-            <a href="../../faculty.php" class="department" title="Faculty">Faculty</a>
+            <a href="faculty.php" class="department" title="Faculty">Faculty</a>
             <!-- Accreditation -->
-            <a href="../../about/karachi-education-initiative/" class="department active" title="KEI">KEI</a>
+            <a href="about/karachi-education-initiative/" class="department active" title="KEI">KEI</a>
             <!-- KEi -->
-            <a href="../../contact-us.php" class="department" title="Contact Us">Contact Us</a>
+            <a href="contact-us.php" class="department" title="Contact Us">Contact Us</a>
             <!-- Contact -->
         </div><!-- container -->
     </div>
@@ -128,7 +128,7 @@ include('../../partials/navbar.php');
                 <!-- Person 1 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/hussain-dawood.jpg" alt="Hussain Dawood" />
+                        <img src="images/faculty/hussain-dawood.jpg" alt="Hussain Dawood" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Hussain Dawood</span> is a Pakistani industrialist and ardent philanthropist. He chairs an array of profit and not-for-profit ventures namely Dawood Hercules Corporation Ltd. the group's flagship holding arm with investments in foods and energy, Engro Corporation Ltd., the largest Independent Power Producer in Pakistan; Karachi Education Initiative, which funds the graduate management school KSBL, and The Dawood Foundation, with its legacy of establishing various education and health institutions across the country.<br /><br />
                             His social responsibilities include Memberships of the World Economic Forum and its Global Agenda Councils of Anti-Corruption and Education. He was conferred the award "Ufficiale Ordine Al merito della Repubblica Italiana" by the Republic of Italy. Hussain Dawood holds an MBA from the Kellogg School of Management, Northwestern University, USA, and is a graduate in Metallurgy from Sheffield University, UK.
@@ -146,7 +146,7 @@ include('../../partials/navbar.php');
                 <!-- Person 2 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/mubashar-hameed.jpg" alt="Mubashar Hameed" />
+                        <img src="images/faculty/mubashar-hameed.jpg" alt="Mubashar Hameed" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Mubashar Hameed</span> was appointed by the board of KSBL as the Rector on 23 April 2020. In addition to his role as Rector KSBL, Mr. Hameed serves as CEO of Karachi Education Initiative ("KEI").
                             <br><br>Mr. Hameed, a result-driven senior executive carries 32 years of experience, primarily in the USA, working for Fortune 1000 companies where he accomplished aligning global organizations with a strategic vision to realize growth and profitability objectives. He holds strong track record of driving fast-paced enterprise transformation initiatives, building digital capabilities, and bringing technology into the mainstream of a company's business model.
@@ -169,7 +169,7 @@ include('../../partials/navbar.php');
                 <!-- Person 3 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/munawar-alam-siddiqui.jpg" alt="Munawar Alam Siddiqui" />
+                        <img src="images/faculty/munawar-alam-siddiqui.jpg" alt="Munawar Alam Siddiqui" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Mr. Siddiqui</span> retired as an Air Commodore from the Pakistan Air Force in 2003. His last post was as the Assistant Chief of Air Staff (Administration) at Pakistan Air Force Headquarters. For his meritorious services to the PAF, he was awarded Tamgha-e-Imtiaz (Military) and Sitara-e-Imtiaz (Military).<br /><br />
                             He was commissioned in the GD(P) Branch of the Pakistan Air Force in 1974. He is a qualified flying instructor and has flown over 8000 hours on different aircraft including C-130, Boeing-707 and Dassault Falcon 20. He has served as a VVIP and Presidential pilot during his tenure of service and has held various key Command and Staff appointments in the PAF. He served as Director of Air Transport at Air Headquarters from 1996 to 1998 and commanded an operational air force base with over 8,500 personnel from 2000 to 2002.<br /><br />
@@ -191,7 +191,7 @@ include('../../partials/navbar.php');
                 <!-- Person 4 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/mr-muhammad-ali-tabba.jpg" alt="Muhammad Ali Tabba" />
+                        <img src="images/faculty/mr-muhammad-ali-tabba.jpg" alt="Muhammad Ali Tabba" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Muhammad Ali Tabba</span> is the Chief Executive of Lucky Cement Limited, Pakistan's largest producer and leading exporter of quality cement. Lucky Cement is a part of the Yunus Brothers Group in Pakistan with diversified interests in textiles, energy, cement and other construction related sectors.<br /><br />
                             Mr. Tabba is widely recognised and venerated for his role in reforming and exponentially growing different companies of the group. Due to his extensive engagement in many community welfare projects, he has received numerous recognitions and awards.<br /><br />
@@ -212,7 +212,7 @@ include('../../partials/navbar.php');
                 <!-- Person 5 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/mr-nauman-ansari.jpg" alt="Nauman Ansari" />
+                        <img src="images/faculty/mr-nauman-ansari.jpg" alt="Nauman Ansari" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Nauman</span> has served various banks during his twenty-four year professional career, including leading institutions like Standard Chartered Bank, Bank of America, ABN Amro, Fortis Bank and Samba. He is a business graduate of Miami University, USA.<br /><br />
                             He began his career with Standard Chartered Bank, Karachi in 1993, followed by three years at the Bank of America. After joining ABN Amro Bank in 1998, he was appointed Director Portfolio Strategy & Execution in 2004. He then joined Fortis Bank, Dubai, in 2006, as Head of Institutional Banking - Middle East & Pakistan, followed by the role of Head of Corporate Banking at Samba Bank Limited (formerly known as Crescent Commercial Bank) in 2007. He joined Bank Alfalah Limited as President and CEO in July 2017.<br /><br />
@@ -231,7 +231,7 @@ include('../../partials/navbar.php');
                 <!-- Person 6 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/ms-sabrina-dawood.jpg" alt="Ms. Sabrina Dawood" />
+                        <img src="images/faculty/ms-sabrina-dawood.jpg" alt="Ms. Sabrina Dawood" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Sabrina Dawood</span> is currently the CEO of The Dawood Foundation & Public School and Director of Engro Foods Limited, prior to which she has been working in various companies of the Dawood Hercules Group, such as Dawood Hercules Corporation Limited and Dawood Lawrencepur Limited in marketing, corporate communications, administration and CSR. She holds an MSc in Medical Anthropology from University College London and a BA from London School of Economics in Anthropology & Law.
                         </div>
@@ -249,7 +249,7 @@ include('../../partials/navbar.php');
                 <!-- Person 7 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/mr-arif-habib.jpg" alt="Arif Habib" />
+                        <img src="images/faculty/mr-arif-habib.jpg" alt="Arif Habib" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Arif Habib</span> is currently the Chief Executive of Arif Habib Corporation Limited. He is also the Chairman of Pakarab Fertilizers Limited, Fatima Fertilizer Company Limited, and Arif Habib DMCC Dubai. He also serves as a Director in various companies including Sui Northern Gas Pipelines Company Limited. He was appointed to AHCL's Board on September 21, 2013.<br /><br />
                             Mr. Arif Habib remained the elected President/Chairman of Karachi Stock Exchange for six times in the past and was a Founding Member and Chairman of the Central Depository Company of Pakistan Limited. He has served as a Member of the Privatization Commission, Board of Investment, Tariff Reforms Commission and Securities & Exchange Ordinance Review Committee. Over the years he has been nominated on the Board of Directors of a number of companies by the Government of Pakistan.<br /><br />
@@ -271,7 +271,7 @@ include('../../partials/navbar.php');
                 <!-- Person 8 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/ms-henna-inam.jpg" alt="Henna Inam" />
+                        <img src="images/faculty/ms-henna-inam.jpg" alt="Henna Inam" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Henna Inam</span> joined the Board of Engro Corporation in 2017 and also serves as Chair of the Board People's Committee. Ms. Inam is the CEO of Transformational Leadership Inc., an organization that helps Fortune 500 companies grow transformational leaders. She is a former C-suite executive who drove transformation throughout her corporate career, including roles such as: Global Head e-Innovation at Novartis, and Chief Marketing & Innovation Officer and Region President for the Americas at Ciba-Vision. Ms. Inam is on a mission to grow transformational leaders globally. She believes the world and workplaces need leaders at every level who are inspired by the work they do, and lead with agility from the core of who they are. She works with leaders and teams who have missions that matter to them, and are inspired to transform themselves in service of those missions. Ms. Inam is an executive coach and trusted advisor to C-suite leaders, author of the book Wired for Authenticity, and writes for Forbes on leadership. She brings a global perspective, having lived and worked in seven countries across four continents. She is passionate about advancing women in leadership and is the founder and organizer for TEDxWomen in Atlanta. She is also a founding charter member of OPEN Atlanta. OPEN is the largest Pakistani entrepreneurship and leadership organization in the world. Henna Inam completed her MBA from Wharton Business School at the University of Pennsylvania, and participated in Executive Education programs at Harvard Business School.
                         </div>
@@ -288,7 +288,7 @@ include('../../partials/navbar.php');
                 <!-- Person 3 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/hasan-irfan-khan.jpg" alt="Hasan Irfan Khan" />
+                        <img src="images/faculty/hasan-irfan-khan.jpg" alt="Hasan Irfan Khan" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Hasan Irfan Khan</span> is an advocate admitted to practice before the hon'ble Supreme Court of Pakistan and has been practicing corporate, commercial and Intellectual Property law since 1993. He is an internationally acclaimed lawyer and is legal adviser to a number of 'Fortune 100' and 'Fortune 500' Companies in Pakistan. He is member of the Board of Governors, World Wildlife Fund (WWF Pakistan) and Chair, Human Resource Committee since June 2008, and Member Executive Committee since April 2010. Mr. Khan has been a member of the Board of Management, Punjab Institute of Cardiology for over 7 years; his last term ending June 2011. He is the Managing Trustee of the Irfan Family foundation, "Asifa-Irfan Foundation" which focuses on health, education, poverty alleviation, protection and conservation of the environment.<br /><br />
                             Mr. Khan has authored and co-authored key chapters for numerous legal publications of International repute. He has drafted proposed laws in the public health, pharmaceuticals and the agriculture sectors as well as Intellectual Property laws. He is also one of the five co-authors of the Electronic Transactions Ordinance 2000. He is a member of Patent Advisory Committee of Higher Education Commission, and has also been a member of numerous law related advisory committees to the Government of Pakistan.<br /><br />
@@ -308,7 +308,7 @@ include('../../partials/navbar.php');
                 <!-- Person 9 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/mr-ghias-khan.jpg" alt="Ghias Khan" />
+                        <img src="images/faculty/mr-ghias-khan.jpg" alt="Ghias Khan" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Ghias Khan</span> is the 4th President & CEO of Engro Corporation. Since he came on board at end of 2016, Ghias has been instrumental in revamping Engro's strategy, culture, and global outreach.<br /><br />
                             Ghias currently serves as Chairman on the Boards of Engro Fertilizers Limited, Engro Polymer & Chemicals Limited, and Engro Energy Limited. Moreover, he is also leading several innovative transformations at Engro, including an extensive HR transformation that focuses on revamping all talent management, development, and reward philosophies. In 2018 marked the launch of the Engro Leadership Academy, which will serve as a platform to develop effective leaders. Furthermore, Ghias is spearheading Engro's One SAP initiative, which will bring the group onto a singular technology platform and will lay the foundation for a digital future.
@@ -326,7 +326,7 @@ include('../../partials/navbar.php');
                 <!-- Person 10 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/mr-muneer-kamal.jpg" alt="Muneer Kamal" />
+                        <img src="images/faculty/mr-muneer-kamal.jpg" alt="Muneer Kamal" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Muneer Kamal's</span> diverse corporate governance experience includes having previously served as Chairman of Pakistan Stock Exchange, Chairman of National Bank of Pakistan, Trustee of Shaukat Khanum Memorial Cancer Hospital, Director of Engro Corporation, Director of New Horizon Exploration & Production Ltd., Director of Government Holdings Private Ltd., and Vice Chairman of KASB Group.<br /><br />
                             Muneer Kamal's career in banking & financial services sector spanning over 35 years started with Citibank Pakistan where he served in various local and international positions, including Head of Country Public Sector & Financial Institutions. Subsequently, Muneer Kamal went on to executive roles, appointed in President/ CEO roles at Faysal Bank Ltd, Union Bank Ltd. and KASB Bank Limited, successively. He currently serves as a member of the board at Dawood Hercules Corporation.<br /><br />
@@ -344,7 +344,7 @@ include('../../partials/navbar.php');
                 <!-- Person 11 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/sima-kamil.jpg" alt="Sima Kamil" />
+                        <img src="images/faculty/sima-kamil.jpg" alt="Sima Kamil" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Sima Kamil</span> started off her career at American Express Bank and went on to work at ANZ Grindlays and Standard Chartered. She served at Habib Bank for the last 16 years, first as Head of Corporate & Investment Banking and then as Head of Branch Banking. Her 30 years of overall experience in Banking involves assignments in Risk Management, Retail, Corporate & Investment Banking. She is also the Chair of the Board of Governors of Karachi Grammar School and on the Board of the NotreDame Institute of Education. Moreover, she also has a degree in business from Kingston University, UK, and an MBA from City University, London. She is the first woman to head a major commercial Bank in Pakistan's 70-year history.<br /><br />
                             Ms. Sima Kamil joined UBL as Deputy CEO on 28 March 2017. During the transitional period of her banking career, she became well acquainted with all business aspects, support system and control functions of the Banking sector.
@@ -362,7 +362,7 @@ include('../../partials/navbar.php');
                 <!-- Person 12 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/mr-mohammad-naeem-mukhtar.jpg" alt="Mohammad Naeem Mukhtar" />
+                        <img src="images/faculty/mr-mohammad-naeem-mukhtar.jpg" alt="Mohammad Naeem Mukhtar" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Mohammad Naeem Mukhtar</span> is currently the Chairman of Board of Directors, Allied Bank Limited. He completed his MBA in Finance from Cardiff Business School U.K, and did his Post Graduate diploma in Textiles and Chartered Textile Engineering (CText ATI) from The Textile Institute, U.K. He has over 27 years of extensive experience in banking, finance and industry. Besides holding the position of Chairman Allied Bank Limited, he is also the Chief Executive Officer of M/s Ibrahim Fibres Limited, Director, M/s Ibrahim Agencies (Pvt.) Limited and Member Board of Governors of National Management Foundation, the parent body of Lahore University of Management Sciences (LUMS).
                         </div>
@@ -380,7 +380,7 @@ include('../../partials/navbar.php');
                 <!-- Person 12 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/mr-imran-sayeed.jpg" alt="Imran Sayeed" />
+                        <img src="images/faculty/mr-imran-sayeed.jpg" alt="Imran Sayeed" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Imran Sayeed</span> is the Senior Lecturer, Technological Innovation, and Entrepreneurship & Strategic Movement at the MIT Sloan School of Management. Working with MIT Enterprise Forum, he has started and developed entrepreneurial ecosystems in Central America and South Asia. Previously, Sayeed started and led the Digital practice for NTT Data, the 6th largest technology consulting company in the world with 75,000 employees in 45 countries and $16 Billion in annual revenue. He was also the Chief Technology Officer and head of innovation. Prior to Keane, Sayeed was an entrepreneur for 13 years, having founded two successful software products and services companies. He was also the member of founding team of Open Environment, a leading middleware product company that he helped grow from a 10-person startup, to an IPO in 1995. He then started NetNumina, a technology strategy and consulting company and as its CEO he expanded it from a 15 person startup, to one of the Computerworld's Top 100 emerging companies. This was also mentioned on Inc 500's fastest growing businesses that was subsequently sold to Keane in 2005.<br /><br />
                             He was also the founding global President of OPEN, the largest Pakistani entrepreneurship and leadership organization in the world, with over 5000 executives and entrepreneurs in 12 cities in the US, UK, Canada and Pakistan. Mr. Sayeed also holds a patent on Internet security technology that he jointly developed with Citibank. He was also named by Computerworld as one of the Premier 100 IT Leaders for 2013. Moreover, Mr. Sayeed has also been featured in the Wall Street Journal, Forbes, Harvard Business Review and most of the other leading business and technology publications, for his work on entrepreneurship, digital technologies, and innovation. Mr. Sayeed is also the co-founder of Teach the World Foundation, a global literacy non-profit organization, that is using technology to radically transform how children across the world learn to read, write and do math. Sayeed attended Brown University where he majored in<br /><br />
@@ -399,7 +399,7 @@ include('../../partials/navbar.php');
                 <!-- Person 12 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/ms-tania-aidrus.jpg" alt="Tania Aidrus" />
+                        <img src="images/faculty/ms-tania-aidrus.jpg" alt="Tania Aidrus" />
                         <div class="hover-detail">
                             The former Google Executive, Ms. Tania Aidrus holds extensive experience in the field of IT. She has 20 years of international exposure in the field and returned back to Pakistan after 20 years of work experience. She also worked as Director, Product, Payment for Next billion Users, Google. Ms. Aidrus also remained Country Manager for South Asia Emerging Markets in Google. She is a founding member of Click Diagnostics Inc., an online health platform. She served as a Senior Consultant in Booz Allen Hamilton.<br /><br />
                             Moreover Ms. Aidrus was a research assistant at First Consulting Group. With the vast experience on the forefront of global tech industries, she is ready to lead Pakistan into the digital era with the project "Digital Pakistan".
@@ -417,7 +417,7 @@ include('../../partials/navbar.php');
                 <!-- Person 12 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../../images/faculty/mr-inam-ur-rahman.jpg" alt="Inam-Ur-Rahman" />
+                        <img src="images/faculty/mr-inam-ur-rahman.jpg" alt="Inam-Ur-Rahman" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Inam ur Rahman</span> is currently the Chief Executive Officer at DH Corp. In the recent past, he has led renewable businesses of the Dawood Group, as the CEO of Reon Energy Limited and Tenaga Generasi Limited.<br /><br />
                             With more than 25 years of professional experience, Mr. Rahman showcases his diverse business expertise, dominating a wide spectrum of industries that involve renewable energy, food sciences & production, textiles, fashion & apparel, lifestyle, and business consultancy. His portfolio of directorships include Sui Northern Gas Pipelines Limited, Dawood Hercules Chemicals Limited, Dawood Lawrencepur Limited, Sind Engro Coal Mining Company, Hub Power Company Limited, Laraib Energy Limited, SACH International Limited, and Pebbles Private Limited.<br /><br />
