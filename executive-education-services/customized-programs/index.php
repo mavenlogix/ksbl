@@ -21,8 +21,8 @@ include('../../partials/navbar.php');
 ?>
 
             <div class="header-content">
-                <a href="../../index.html" title="KSBL" class="logo">
-                    <img src="../../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>CUSTOM PROGRAMS</h1>
@@ -34,14 +34,14 @@ include('../../partials/navbar.php');
             <div class="ksbl-programs-wrap">
                 <div class="container">
                     <div class="ksbl-programs">
-                        <a href="../../mba/" class="ksbl-program mba">MBA</a>
+                        <a href="mba/" class="ksbl-program mba">MBA</a>
                         <!-- mba -->
-                        <a href="../../emba/" class="ksbl-program executive-mba">Executive MBA</a>
+                        <a href="emba/" class="ksbl-program executive-mba">Executive MBA</a>
                         <!-- executive-mba -->
-                        <a href="../../ms-business-analytics/" class="ksbl-program engro-leadership-academy ">MS Business Analytics</a>
-                        <a href="../../executive-education-services/" class="ksbl-program executive-edu-mba active">Executive Education</a>
+                        <a href="ms-business-analytics/" class="ksbl-program engro-leadership-academy ">MS Business Analytics</a>
+                        <a href="executive-education-services/" class="ksbl-program executive-edu-mba active">Executive Education</a>
                         <!-- executive-edu-mba -->
-                        <!--a href="../../ela/" class="ksbl-program engro-leadership-academy">Engro Leadership Academy</a-->
+                        <!--a href="ela/" class="ksbl-program engro-leadership-academy">Engro Leadership Academy</a-->
                         <!-- engro-leadership-academy -->
                     </div><!-- container -->
                 </div>
@@ -57,11 +57,11 @@ include('../../partials/navbar.php');
 	#----------------------------------------------------------------->
     <div class="departments">
         <div class="container">
-            <a href="../" class="department" title="MBA">About</a>
+            <a href="" class="department" title="MBA">About</a>
             <!-- About Executive Education -->
-            <a href="../executive-education-services/customized-programs/" class="department active" title="Custom Programs">Custom Programs</a>
+            <a href="executive-education-services/customized-programs/" class="department active" title="Custom Programs">Custom Programs</a>
             <!-- Custom Programs -->
-            <a href="../../ela/" class="department" title="Engro Leadership Academy">Engro Leadership Academy</a>
+            <a href="ela/" class="department" title="Engro Leadership Academy">Engro Leadership Academy</a>
         </div><!-- container -->
     </div>
     <!-----------------------------------------------------------------#
@@ -96,7 +96,7 @@ include('../../partials/navbar.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../../images/ees/novartis.jpg" alt="Novartis" />
+                <img src="images/ees/novartis.jpg" alt="Novartis" />
             </div>
             <div class="right-side">
                 <h2>Novartis Pharma (Pakistan) Limited</h2>

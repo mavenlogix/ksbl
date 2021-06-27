@@ -19,7 +19,7 @@ include('../partials/head.php');
 	#----------------------------------------------------------------->
     <header id="header" class="run">
         <!--div class="header-video">
-			<img src="../images/emba/header.jpg" alt="EMBA"/>
+			<img src="images/emba/header.jpg" alt="EMBA"/>
 			</div-->
         <div class="container">
              <?php
