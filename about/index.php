@@ -18,8 +18,8 @@ include('../partials/navbar.php');
 ?>
 
             <div class="header-content">
-                <a href="../index.html" title="KSBL" class="logo">
-                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>About KSBL</h1>
@@ -38,15 +38,15 @@ include('../partials/navbar.php');
 	#----------------------------------------------------------------->
     <div class="departments">
         <div class="container">
-            <a href="../about/" class="department active" title="Vision & Mission">Vision & Mission</a>
+            <a href="about/" class="department active" title="Vision & Mission">Vision & Mission</a>
             <!-- About -->
-            <a href="../about/board-of-governors.php" class="department" title="Board of Governors">Board of Governors</a>
+            <a href="about/board-of-governors.php" class="department" title="Board of Governors">Board of Governors</a>
             <!-- Board of Governors -->
-            <a href="../faculty.php" class="department" title="Faculty">Faculty</a>
+            <a href="faculty.php" class="department" title="Faculty">Faculty</a>
             <!-- Accreditation -->
-            <a href="../about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
+            <a href="about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
             <!-- KEi -->
-            <a href="../contact-us.php" class="department" title="Contact Us">Contact Us</a>
+            <a href="contact-us.php" class="department" title="Contact Us">Contact Us</a>
             <!-- Contact -->
         </div><!-- container -->
     </div>
@@ -98,7 +98,7 @@ include('../partials/navbar.php');
                 </div>
             </div>
         </div>
-        <img src="../images/about/about-page.jpg" alt="About KSBL" />
+        <img src="images/about/about-page.jpg" alt="About KSBL" />
     </div>
     <!-----------------------------------------------------------------#
 	#                     Vission KSBL END                             #

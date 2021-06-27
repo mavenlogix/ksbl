@@ -18,8 +18,8 @@ include('../partials/navbar.php');
 ?>
 
             <div class="header-content">
-                <a href="../index.php" title="KSBL" class="logo">
-                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>Board of Governors</h1>
@@ -37,13 +37,13 @@ include('../partials/navbar.php');
 	#----------------------------------------------------------------->
     <div class="departments">
         <div class="container">
-            <a href="../about/" class="department" title="Vision & Mission">Vision & Mission</a>
+            <a href="about/" class="department" title="Vision & Mission">Vision & Mission</a>
             <!-- About -->
-            <a href="../about/board-of-governors.php" class="department active" title="Board of Governors">Board of Governors</a>
+            <a href="about/board-of-governors.php" class="department active" title="Board of Governors">Board of Governors</a>
             <!-- Board of Governors -->
-            <a href="../faculty.php" class="department" title="Faculty">Faculty</a>
+            <a href="faculty.php" class="department" title="Faculty">Faculty</a>
             <!-- Accreditation -->
-            <a href="../about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
+            <a href="about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
             <!-- KEi -->
             <a href="contact-us.php" class="department" title="Contact Us">Contact Us</a>
             <!-- Contact -->
@@ -64,7 +64,7 @@ include('../partials/navbar.php');
                 <!-- Person 1 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/hussain-dawood.jpg" alt="Hussain Dawood" />
+                        <img src="images/faculty/hussain-dawood.jpg" alt="Hussain Dawood" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Hussain Dawood</span> is a Pakistani industrialist and ardent philanthropist. He chairs an array of profit and not-for-profit ventures namely Dawood Hercules Corporation Ltd. the group's flagship holding arm with investments in foods and energy, Engro Corporation Ltd., the largest Independent Power Producer in Pakistan; Karachi Education Initiative, which funds the graduate management school Karachi School of Business & Leadership, and The Dawood Foundation, with its legacy of establishing various education and health institutions across the country.
                             <br /><br />
@@ -82,7 +82,7 @@ include('../partials/navbar.php');
                 <!-- Person 2 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/mubashar-hameed.jpg" alt="Mubashar Hameed" />
+                        <img src="images/faculty/mubashar-hameed.jpg" alt="Mubashar Hameed" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Mubashar Hameed</span> was appointed by the board of Karachi School of Business and Leadership as the Rector on 23 April 2020. In addition to his role as Rector KSBL, Mr. Hameed serves as CEO of Karachi Education Initiative ("KEI").
                             <br><br>Mr. Hameed, a result-driven senior executive carries 32 years of experience, primarily in the USA, working for Fortune 1000 companies where he accomplished aligning global organizations with a strategic vision to realize growth and profitability objectives. He holds strong track record of driving fast-paced enterprise transformation initiatives, building digital capabilities, and bringing technology into the mainstream of a company's business model.
@@ -105,7 +105,7 @@ include('../partials/navbar.php');
                 <!-- Person 3 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/hasan-irfan-khan.jpg" alt="Hasan Irfan Khan" />
+                        <img src="images/faculty/hasan-irfan-khan.jpg" alt="Hasan Irfan Khan" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Hasan Irfan Khan</span> is an advocate admitted to practice before the hon'ble Supreme Court of Pakistan and has been practising corporate, commercial and Intellectual Property law since 1993. He is an internationally acclaimed lawyer and is legal adviser to many 'Fortune 100' and 'Fortune 500' Companies in Pakistan. He is a member of the Board of Governors, World Wildlife Fund (WWF Pakistan) and Chair, Human Resource Committee since June 2008, and Member Executive Committee since April 2010. Mr. Khan has been a member of the Board of Management, Punjab Institute of Cardiology for over 7 years; his last term ending June 2011. He is the Managing Trustee of the Irfan Family foundation, "Asifa-Irfan Foundation" which focuses on health, education, poverty alleviation, protection and conservation of the environment.
                             <br /><br />
@@ -128,7 +128,7 @@ include('../partials/navbar.php');
                 <!-- Person 4 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/dr-atta-ur-rahman.jpg" alt="Dr. Atta-ur-Rahman" />
+                        <img src="images/faculty/dr-atta-ur-rahman.jpg" alt="Dr. Atta-ur-Rahman" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Dr. Atta-ur-Rahman</span> has 843 publications in organic chemistry including 663 research publications, 18 patents, 103 books and 59 chapters in books.
                             <br /><br />
@@ -152,7 +152,7 @@ include('../partials/navbar.php');
                 <!-- Person 5 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/munawar-alam-siddiqui.jpg" alt="Munawar Alam Siddiqui" />
+                        <img src="images/faculty/munawar-alam-siddiqui.jpg" alt="Munawar Alam Siddiqui" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Mr. Siddiqui</span> retired as an Air Commodore from the Pakistan Air Force in 2003. His last post was as the Assistant Chief of Air Staff (Administration) at Pakistan Air Force Headquarters. For his meritorious services to the PAF, he was awarded Tamgha-e-Imtiaz (Military) and Sitara-e-Imtiaz (Military).
                             <br /><br />
@@ -174,7 +174,7 @@ include('../partials/navbar.php');
                 <!-- Person 13 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/m-aslam-uqaili.jpg" alt="Professor Dr. Mohammad Aslam Uqaili" />
+                        <img src="images/faculty/m-aslam-uqaili.jpg" alt="Professor Dr. Mohammad Aslam Uqaili" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Professor Dr. Mohammad Aslam Uqaili</span> is an engineer, academician, economist and development professional. He has earned bachelors, masters and doctoral degrees in electrical engineering and masters in economics. He has supervised 11 doctoral and 24 masters students. Professor Uqaili has written 13 chapters in international books, 75 research papers in national and international research journals, and presented 56 research papers in national and international conferences. Professor Dr Uqaili has also edited four international books.
                             <br><br>Professor Uqaili is currently working as vice chancellor, MUET. Previously, he held positions of pro vice chancellor, registrar and dean, Quality Enhancement Cell (QEC), MUET, Jamshoro. He is a member on editorial board of several research journals. He has held other positions in the different statutory forums of MUET, Jamshoro.
@@ -194,7 +194,7 @@ include('../partials/navbar.php');
                 <!-- Person 9 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/dr-sarosh-hashmat-lodhi.jpg" alt="Dr. Sarosh Hashmat Lodhi" />
+                        <img src="images/faculty/dr-sarosh-hashmat-lodhi.jpg" alt="Dr. Sarosh Hashmat Lodhi" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Dr. Sarosh Lodi</span> is currently serving as the Vice-Chancellor of NED University of Engineering and Technology, Karachi. He is the professor at the Department of Civil Engineering, NED University. Mr. Lodhi has previously served as the Dean, Chairman, Registrar and Managing Representative ISO in the same University. His research interests include Higher Education, Civil Engineering and Engineering Education. He has served as principal investigator and co-principal investigator for various research projects, related to Civil Engineering. His is also currently working on a research project on Constitutive Modelling of Ferrocement Elements
                             <br><br><br>
@@ -212,7 +212,7 @@ include('../partials/navbar.php');
                 <!-- Person 12 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/mr-imran-sayeed.jpg" alt="Imran Sayeed" />
+                        <img src="images/faculty/mr-imran-sayeed.jpg" alt="Imran Sayeed" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Imran Sayeed</span> is the Senior Lecturer, Technological Innovation, and Entrepreneurship & Strategic Movement at the MIT Sloan School of Management. Working with MIT Enterprise Forum, he has started and developed entrepreneurial ecosystems in Central America and South Asia. Previously, Sayeed started and led the Digital practice for NTT Data, the 6th largest technology consulting company in the world with 75,000 employees in 45 countries and $16 Billion in annual revenue. He was also the Chief Technology Officer and head of innovation. Prior to Keane, Sayeed was an entrepreneur for 13 years, having founded two successful software products and services companies. He was also the member of founding team of Open Environment, a leading middleware product company that he helped grow from a 10-person startup, to an IPO in 1995. He then started NetNumina, a technology strategy and consulting company and as its CEO he expanded it from a 15 person startup, to one of the Computerworld's Top 100 emerging companies. This was also mentioned on Inc 500's fastest growing businesses that was subsequently sold to Keane in 2005.<br /><br />
                             He was also the founding global President of OPEN, the largest Pakistani entrepreneurship and leadership organization in the world, with over 5000 executives and entrepreneurs in 12 cities in the US, UK, Canada and Pakistan. Mr. Sayeed also holds a patent on Internet security technology that he jointly developed with Citibank. He was also named by Computerworld as one of the Premier 100 IT Leaders for 2013. Moreover, Mr. Sayeed has also been featured in the Wall Street Journal, Forbes, Harvard Business Review and most of the other leading business and technology publications, for his work on entrepreneurship, digital technologies, and innovation. Mr. Sayeed is also the co-founder of Teach the World Foundation, a global literacy non-profit organization, that is using technology to radically transform how children across the world learn to read, write and do math. Sayeed attended Brown University where he majored in<br /><br />
@@ -231,7 +231,7 @@ include('../partials/navbar.php');
                 <!-- Person 11 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/mr-mir-muhammad-nasir.jpg" alt="Mir Muhammad Nasir" />
+                        <img src="images/faculty/mr-mir-muhammad-nasir.jpg" alt="Mir Muhammad Nasir" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Mir Muhammad Nasir </span>is the former Chief Executive Officer (CEO) & Executive Director at Inbox Business Technologies Ltd. As the Co-Founder of company, he led expansion of business in Sri Lanka, Maldives, Bangladesh and Singapore. His key accomplishments there involved building the oracle ERP practice from Scratch, and expansion of business vertical to USD 5 million.<br><br>
                             Mr. Nasir completed his undergraduate degree from the Southeastern University with the Bachelors, in Finance.<br><br>
@@ -250,7 +250,7 @@ include('../partials/navbar.php');
                 <!-- Person 10 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/mr-rizwan-masood-raja.jpg" alt="Rizwan Masood Raja" />
+                        <img src="images/faculty/mr-rizwan-masood-raja.jpg" alt="Rizwan Masood Raja" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Rizwan Masood Raja</span> is the Senior Vice President & Chief People Officer at Engro Corporation. Rizwan's experience spans over 25 years. He was with Standard Chartered Bank (SCB) for over 15 years and, before that, with Jaffer Group for 9 years. He has held multiple senior roles within HR with a focus on Retail Banking, SME Business, Financial Crime Compliance & Talent Acquisition, across strategic markets such as in Pakistan, Hong Kong, Singapore, China, Taiwan and South Korea.
                             <br /><br />
@@ -271,7 +271,7 @@ include('../partials/navbar.php');
                 <!-- Person 6 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/professor-abuzar-wajidi.jpg" alt="Professor Abuzar Wajidi" />
+                        <img src="images/faculty/professor-abuzar-wajidi.jpg" alt="Professor Abuzar Wajidi" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Professor Wajidi</span> has been an Acting Vice-Chancellor, University of Karachi. He has held several other positions which include: Dean Faculty of Commerce & Business Administration, Dean Faculty of Arts, Dean Faculty of Education & Chairman Department of Public Administration, at the University of Karachi. He has a teaching experience of 38 years and has produced 30 PhDs and 3 M.Phil.s.
                             <br /><br />
@@ -290,7 +290,7 @@ include('../partials/navbar.php');
                 <!-- Person 7 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/justice-aqeel-ahmed-abbasi.jpg" alt="Justice Aqeel Ahmed Abbasi" />
+                        <img src="images/faculty/justice-aqeel-ahmed-abbasi.jpg" alt="Justice Aqeel Ahmed Abbasi" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Justice Abbasi</span> started legal practice as a Taxation & Corporate Laws Consultant in the year 1988 in the chambers of his illustrious father Professor Masood Ahmed Abbasi Advocate, one of the pioneers on the tax side, whose law firm was established in 1949 under the name and style of M/S Abbasi & Company Advocates.<br /><br />
                             He was appointed as Legal Advisor to the Income Tax Department, Federal Board of Revenue (FBR), Government of Pakistan in 2000. He was also appointed as Advocate on Panels of Custom Central Excise & Sales Tax Department, Government of Pakistan, Industrial Development Bank of Pakistan, Government of Pakistan and House building Finance Corporation, Government of Pakistan.<br /><br />
@@ -311,7 +311,7 @@ include('../partials/navbar.php');
                 <!-- Person 8 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="../images/faculty/mr-parvez-ahmed-seehar.jpg" alt="Parvez Ahmed Seehar" />
+                        <img src="images/faculty/mr-parvez-ahmed-seehar.jpg" alt="Parvez Ahmed Seehar" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Parvez Ahmed Seehar</span> is the Secretary to Government of Sindh in Department of Culture, Tourism & Antiquities. Previously, he served as Special Secretary Education Department, Chief Program Manager in Sindh education reforms, and other positions for ten years.
                             <br /><br />
