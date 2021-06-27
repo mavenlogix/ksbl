@@ -26,8 +26,8 @@ include('../partials/head.php');
                 include('../partials/navbar.php'); 
             ?>
             <div class="header-content">
-                <a href="../index.html" title="KSBL" class="logo">
-                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>EXECUTIVE MBA</h1>
@@ -39,14 +39,14 @@ include('../partials/head.php');
             <div class="ksbl-programs-wrap">
                 <div class="container">
                     <div class="ksbl-programs">
-                        <a href="../mba/" class="ksbl-program mba ">MBA</a>
+                        <a href="mba/" class="ksbl-program mba ">MBA</a>
                         <!-- mba -->
-                        <a href="../emba/" class="ksbl-program executive-mba active">Executive MBA</a>
+                        <a href="emba/" class="ksbl-program executive-mba active">Executive MBA</a>
                         <!-- executive-mba -->
-                        <a href="../ms-business-analytics/" class="ksbl-program engro-leadership-academy ">MS Business Analytics</a>
-                        <a href="../meba/" class="ksbl-program executive-edu-mba ">BS MEBA</a>
-                        <a href="../bs-its/" class="ksbl-program executive-edu-mba">BS IT&S</a>
-                        <a href="../executive-education-services/" class="ksbl-program executive-edu-mba">Executive Education</a>
+                        <a href="ms-business-analytics/" class="ksbl-program engro-leadership-academy ">MS Business Analytics</a>
+                        <a href="meba/" class="ksbl-program executive-edu-mba ">BS MEBA</a>
+                        <a href="bs-its/" class="ksbl-program executive-edu-mba">BS IT&S</a>
+                        <a href="executive-education-services/" class="ksbl-program executive-edu-mba">Executive Education</a>
                         <!-- executive-edu-mba -->
                     </div><!-- container -->
                 </div>
@@ -66,7 +66,7 @@ include('../partials/head.php');
 						
 			<a href="index.html" class="department active" title="EMBA">EMBA</a>
 			
-			<a href="../emba/faculty/" class="department" title="Faculty">Faculty</a>
+			<a href="emba/faculty/" class="department" title="Faculty">Faculty</a>
 			
 			<a href="programme-information/curriculum/" class="department" title="Curriculum">Curriculum</a>
 			
@@ -89,7 +89,7 @@ include('../partials/head.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../images/emba/emba-1.jpg" alt="About our MBA" />
+                <img src="images/emba/emba-1.jpg" alt="About our MBA" />
             </div>
             <div class="right-side">
                 <h2>KSBL Executive MBA Program</h2>
@@ -109,7 +109,7 @@ include('../partials/head.php');
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
-                <img src="../images/emba/emba-2.jpg" alt="Faculty" />
+                <img src="images/emba/emba-2.jpg" alt="Faculty" />
             </div>
             <div class="right-side">
                 <h2>Market-Driven Specializations </h2>
@@ -134,7 +134,7 @@ include('../partials/head.php');
 		<div class="container">	
 		
 			<div class="mba-step curriculum">
-				<div class="step-icon"><img src="../images/mba/curriculum.png" alt="Curriculum"/></div>
+				<div class="step-icon"><img src="images/mba/curriculum.png" alt="Curriculum"/></div>
 				<h2>Curriculum</h2>
 				<div class="detail">
 					The KSBL EMBA program has been meticulously designed to give students the 360-degree experience of the latest business education with innovation, interpersonal skills, interdisciplinary teaching and character building at its core. The various components of the program all add to the holistic learning experience at KSBL
@@ -145,7 +145,7 @@ include('../partials/head.php');
 			
 					
 			<div class="mba-step admission">
-				<div class="step-icon"><img src="../images/mba/admission.png" alt="Admission"/></div>
+				<div class="step-icon"><img src="images/mba/admission.png" alt="Admission"/></div>
 				<h2>Admissions</h2>
 				<div class="detail">
 					At KSBL, we ignite students’ journeys to develop humility, character & ethical decision-making. This requires enrolling individuals solely based on their drive, merit and determination. Therefore, for each of our programs, a carefully designed selection criterion is in place that weighs in various competencies and diversities in students. This ensures that each upcoming session is the perfect mix of students from various backgrounds
@@ -155,7 +155,7 @@ include('../partials/head.php');
 			</div>
 			
 			<div class="mba-step fee-structure">
-				<div class="step-icon"><img src="../images/mba/fee-structure.png" alt="Fee Structure"/></div>
+				<div class="step-icon"><img src="images/mba/fee-structure.png" alt="Fee Structure"/></div>
 				<h2>Fee Structure</h2>
 				<div class="detail">
 					The fee you pay covers all tuition fees, essential course costs, registration and exams. Funding is available to eligible students towards the cost of tuition fees, depending on where you live before starting your course
@@ -165,7 +165,7 @@ include('../partials/head.php');
 			</div>
 			
 			<div class="mba-step financial-assistance">
-				<div class="step-icon"><img src="../images/mba/financial-assistance.png" alt="Financial Assistance"/></div>
+				<div class="step-icon"><img src="images/mba/financial-assistance.png" alt="Financial Assistance"/></div>
 				<h2>Financial Assistance</h2>
 				<div class="detail">
 					KSBL endeavours to make business education accessible to students from all strata of society irrespective of their socio-economic standing. Our needs blind admissions policy ensures that each application is assessed entirely on merit only
@@ -273,7 +273,7 @@ include('../partials/head.php');
 			   Apply Now!					
 			</div> -->
                 <div class="upcoming-event">
-                    <img src="../images/mba/meet-team.png" alt="Meet the Team">
+                    <img src="images/mba/meet-team.png" alt="Meet the Team">
                     <h3>Apply Now! </h3>
                     <div class="event-detail">
                         <div class="event-date">
