@@ -79,7 +79,7 @@ include('./partials/navbar.php');
                             <div class="address-area">
                                 <h2>Human Resources</h2>
                                 <div class="complete-address">
-                                    <b>Email:</b> <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                    <b>Email:</b> <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a> 
                                 </div>
                             </div>
                         </div>
