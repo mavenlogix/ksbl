@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- <title>KSBL | Student Placement and Internships Office</title> -->
+
 <?php 
 $page_meta_key = 'student-placement';
 include('./partials/head.php');

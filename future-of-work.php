@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!-- <title> Future of Work - Karachi School of Business & Leadership </title> 
-<title> Future of Work - Karachi School of Business & Leadership </title>
-    <meta name="description" content=" A futuristic business school that foresees and attends to industry demand and needs">
-    <meta name="keywords" content="future of work, industry 4.0, business education, value system, business school, management sciences">-->
-<?php 
 
+<?php 
+$page_meta_key = 'future-of-work';
 include('./partials/head.php');
 
 ?>
