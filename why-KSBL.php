@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<!--     <title> Success Stories - Karachi School of Business and Leadership </title> -->
+
 <?php 
 $page_meta_key = 'why-KSBL';
 include('./partials/head.php');
