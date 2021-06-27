@@ -1,7 +1,7 @@
 <div class="header-top">
     <nav id="top-navigation">
         <ul>
-            <li><a href="index.html" class="<?= is_active(['index.html', '']) ?>" title="Home">Home</a></li>
+            <li><a href="index.php" class="<?= is_active(['index.php', '']) ?>" title="Home">Home</a></li>
             <li class="expend">
                 <a href="javascript:void(0)" class="<?= is_active(['mba', 'emba', 'ms-business-analytics', 'meba', 'bs-its', 'executive-education-services']) ?>" title="Programs">Programs</a>
                 <ul class="sub-menu">
@@ -46,15 +46,15 @@
             <div class="navigation-content header-model">
                 <div class="container">
                     <div class="naviagtions">
-                        <a href="index.html" title="KSBL" class="hmbg-logo">
+                        <a href="index.php" title="KSBL" class="hmbg-logo">
                             <img src="ksbl-menu-logo.png" width="239" alt="KSBL" />
                         </a>
                         <div class="main-menu heder-menu">
                             <ul>
-                                <li><a href="index.php" class="<?= is_active(['index.html', '']) ?>" title="Home">Home</a></li>
+                                <li><a href="index.php" class="<?= is_active(['index.php', '']) ?>" title="Home">Home</a></li>
                                 <li><a href="blog/category/news-and-updates/" class="<?= is_active('blog/category/news-and-updates') ?>" title="News">News</a></li>
                                 <li><a href="alumni/success-stories.php" class="<?= is_active('alumni/success-stories.php') ?>" title="Alumni">Alumni</a></li>
-                                <li><a href="future-of-work.html" class="<?= is_active('future-of-work.html') ?>" title="Future of Work">Future of Work</a></li>
+                                <li><a href="future-of-work.php" class="<?= is_active('future-of-work.php') ?>" title="Future of Work">Future of Work</a></li>
                             </ul>
                         </div>
                         <div class="program-services heder-menu">
@@ -62,8 +62,8 @@
                             <ul class="desktop-menu">
                                 <li><a href="mba/" class="<?= is_active('mba') ?>" title="MBA">MBA</a></li>
                                 <li><a href="emba/" class="<?= is_active('emba') ?>" title="Executive MBA">Executive MBA</a></li>
-                                 <li><a href="../meba/" class="<?= is_active('meba') ?>" title="MEBA">BS MEBA</a></li>
-                               <li><a href="../bs-its/" class="<?= is_active('bs-its') ?>" title="IT&S">BS IT&S</a></li>
+                                 <li><a href="meba/" class="<?= is_active('meba') ?>" title="MEBA">BS MEBA</a></li>
+                               <li><a href="bs-its/" class="<?= is_active('bs-its') ?>" title="IT&S">BS IT&S</a></li>
                                 <li><a href="ms-business-analytics/" class="<?= is_active('ms-business-analytics') ?>" title="MS Business Analytics">MS Business Analytics</a></li>
                                 <li><a href="executive-education-services/" class="<?= is_active('executive-education-services') ?>" title="Executive Education">Executive Education</a></li>
                             </ul>
@@ -95,7 +95,7 @@
                             <h3>About</h3>
                             <ul>
                                 <li><a href="about/" class="<?= is_active('about') ?>" title="Vision & Mission">Vision & Mission</a></li>
-                                <li><a href="about/board-of-governors.html" class="<?= is_active('about/board-of-governors.html') ?>" title="Board of Governors">Board of Governors</a></li>
+                                <li><a href="about/board-of-governors.php" class="<?= is_active('about/board-of-governors.php') ?>" title="Board of Governors">Board of Governors</a></li>
                                 <li><a href="faculty.php" class="<?= is_active('faculty.php') ?>" title="Faculty">Faculty</a></li>
                                 <li><a href="about/karachi-education-initiative/" class="<?= is_active('about/karachi-education-initiative') ?>" title="Karachi Education Initiative (KEI)">Karachi Education Initiative (KEI)</a></li>
                                 <li><a href="careers.php" class="<?= is_active('careers.php') ?>" title="Jobs at KSBL">Jobs</a></li>
