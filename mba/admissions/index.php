@@ -21,7 +21,7 @@ include('../../partials/navbar.php');
 ?>
 
             <div class="header-content">
-                <a href="index.html" title="KSBL" class="logo">
+                <a href="index.php" title="KSBL" class="logo">
                     <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
@@ -272,8 +272,8 @@ include('../../partials/navbar.php');
                                         Candidates can opt for other tests in lieu of KMAT
                                         including GMAT, GRE and NTS-GAT.
                                         <br><br>
-                                        For details, please <strong> <a href="KSBL - KMAT - TestDetails.pdf">click here</a></strong> <br>
-                                        For sample test, please <strong><a href=" KSBL-KMAT-SampleTest.pdf  ">click here</a> </strong>
+                                        For details, please <strong> <a target="_blank" href="admissions/KSBL - KMAT - TestDetails.pdf">click here</a></strong> <br>
+                                        For sample test, please <strong><a target="_blank" href="admissions/ KSBL-KMAT-SampleTest.pdf  ">click here</a> </strong>
                                     </div>
                                 </div>
                             </div>
