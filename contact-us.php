@@ -73,13 +73,13 @@ include('./partials/navbar.php');
                             <div class="address-area">
                                 <h2>Partnering with KSBL</h2>
                                 <div class="complete-address">
-                                    <b>Email:</b> <a href="rd@ksbl.edu.pk">rd@ksbl.edu.pk</a>
+                                    <b>Email:</b> <a href="mailto:rd@ksbl.edu.pk">rd@ksbl.edu.pk</a>
                                 </div>
                             </div>
                             <div class="address-area">
                                 <h2>Human Resources</h2>
                                 <div class="complete-address">
-                                    <b>Email:</b> <a href="hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                    <b>Email:</b> <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
                                 </div>
                             </div>
                         </div>
