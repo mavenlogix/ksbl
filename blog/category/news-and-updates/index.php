@@ -2,7 +2,7 @@
 <html lang="en">
 <!-- <title>KSBL | News & Events</title> -->
 <?php 
-$page_meta_key = 'meba';
+
 include('../../../partials/head.php');
 
 ?>

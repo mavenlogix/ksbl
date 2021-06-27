@@ -2,7 +2,7 @@
 <html lang="en">
 <!-- <title>KSBL | News & Events</title> -->
 <?php 
-$page_meta_key = 'meba';
+
 include('../partials/head.php');
 
 ?>
@@ -18,8 +18,8 @@ include('../partials/navbar.php');
 ?>
 
             <div class="header-content">
-                <a href="../index.html" title="KSBL" class="logo">
-                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
             </div>
             <div class="open-house-content single-blog">
@@ -39,7 +39,7 @@ include('../partials/navbar.php');
                 <a href="category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
                 <div class="center-page-content news-and-events container-boxes">
                     <div class="blog-header">
-                        <img src="../images/blog/alumni-reunion.jpg" alt="Signs an MoU" />
+                        <img src="images/blog/alumni-reunion.jpg" alt="Signs an MoU" />
                         <div class="blog-name">
                             <div class="tag">EVENTS</div>
                             <h2>KSBL Organized Alumni Reunion 2020</h2>
@@ -59,127 +59,127 @@ include('../partials/navbar.php');
                     <div class="other-pictures">
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-1.jpg" alt="Blog other" />
+                                <img src="images/blog/alumni-reunion-1.jpg" alt="Blog other" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-2.jpg" alt="Blog other 2" />
+                                <img src="images/blog/alumni-reunion-2.jpg" alt="Blog other 2" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-3.jpg" alt="Blog other 3" />
+                                <img src="images/blog/alumni-reunion-3.jpg" alt="Blog other 3" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-4.jpg" alt="Blog other 4" />
+                                <img src="images/blog/alumni-reunion-4.jpg" alt="Blog other 4" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-5.jpg" alt="Blog other" />
+                                <img src="images/blog/alumni-reunion-5.jpg" alt="Blog other" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-6.jpg" alt="Blog other 2" />
+                                <img src="images/blog/alumni-reunion-6.jpg" alt="Blog other 2" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-7.jpg" alt="Blog other 3" />
+                                <img src="images/blog/alumni-reunion-7.jpg" alt="Blog other 3" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-8.jpg" alt="Blog other 4" />
+                                <img src="images/blog/alumni-reunion-8.jpg" alt="Blog other 4" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-9.jpg" alt="Blog other" />
+                                <img src="images/blog/alumni-reunion-9.jpg" alt="Blog other" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-10.jpg" alt="Blog other 2" />
+                                <img src="images/blog/alumni-reunion-10.jpg" alt="Blog other 2" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-11.jpg" alt="Blog other 3" />
+                                <img src="images/blog/alumni-reunion-11.jpg" alt="Blog other 3" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-12.jpg" alt="Blog other 4" />
+                                <img src="images/blog/alumni-reunion-12.jpg" alt="Blog other 4" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-13.jpg" alt="Blog other" />
+                                <img src="images/blog/alumni-reunion-13.jpg" alt="Blog other" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-14.jpg" alt="Blog other 2" />
+                                <img src="images/blog/alumni-reunion-14.jpg" alt="Blog other 2" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-15.jpg" alt="Blog other 3" />
+                                <img src="images/blog/alumni-reunion-15.jpg" alt="Blog other 3" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-16.jpg" alt="Blog other 4" />
+                                <img src="images/blog/alumni-reunion-16.jpg" alt="Blog other 4" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-17.jpg" alt="Blog other 3" />
+                                <img src="images/blog/alumni-reunion-17.jpg" alt="Blog other 3" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-18.jpg" alt="Blog other 4" />
+                                <img src="images/blog/alumni-reunion-18.jpg" alt="Blog other 4" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-19.jpg" alt="Blog other" />
+                                <img src="images/blog/alumni-reunion-19.jpg" alt="Blog other" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-20.jpg" alt="Blog other 2" />
+                                <img src="images/blog/alumni-reunion-20.jpg" alt="Blog other 2" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-21.jpg" alt="Blog other 3" />
+                                <img src="images/blog/alumni-reunion-21.jpg" alt="Blog other 3" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-22.jpg" alt="Blog other 4" />
+                                <img src="images/blog/alumni-reunion-22.jpg" alt="Blog other 4" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-23.jpg" alt="Blog other" />
+                                <img src="images/blog/alumni-reunion-23.jpg" alt="Blog other" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-24.jpg" alt="Blog other 2" />
+                                <img src="images/blog/alumni-reunion-24.jpg" alt="Blog other 2" />
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="../images/blog/alumni-reunion-25.jpg" alt="Blog other 3" />
+                                <img src="images/blog/alumni-reunion-25.jpg" alt="Blog other 3" />
                             </div>
                         </div>
                     </div>
