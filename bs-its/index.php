@@ -14,8 +14,8 @@ include('../partials/head.php');
                 include('../partials/navbar.php'); 
             ?>
             <div class="header-content">
-                <a href="../index.html" title="KSBL" class="logo">
-                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>BS IT&S</h1>
@@ -29,14 +29,14 @@ include('../partials/head.php');
             <div class="ksbl-programs-wrap">
                 <div class="container">
                     <div class="ksbl-programs">
-                        <a href="../mba/" class="ksbl-program mba ">MBA</a>
+                        <a href="mba/" class="ksbl-program mba ">MBA</a>
                         <!-- mba -->
-                        <a href="../emba/" class="ksbl-program executive-mba">Executive MBA</a>
+                        <a href="emba/" class="ksbl-program executive-mba">Executive MBA</a>
                         <!-- executive-mba -->
-                        <a href="../ms-business-analytics/" class="ksbl-program engro-leadership-academy ">MS Business Analytics</a>
-                        <a href="../meba/" class="ksbl-program executive-edu-mba ">BS MEBA</a>
-                        <a href="../bs-its/" class="ksbl-program executive-edu-mba active">BS IT&S</a>
-                        <a href="../executive-education-services/" class="ksbl-program executive-edu-mba">Executive Education</a>
+                        <a href="ms-business-analytics/" class="ksbl-program engro-leadership-academy ">MS Business Analytics</a>
+                        <a href="meba/" class="ksbl-program executive-edu-mba ">BS MEBA</a>
+                        <a href="bs-its/" class="ksbl-program executive-edu-mba active">BS IT&S</a>
+                        <a href="executive-education-services/" class="ksbl-program executive-edu-mba">Executive Education</a>
                         <!-- executive-edu-mba -->
                     </div><!-- container -->
                 </div>
@@ -51,7 +51,7 @@ include('../partials/head.php');
         <div class="container">
             <div class="its-section-grid">
                 <div class="left-side">
-                    <img src="../images/its/its_1.png" alt="About our meba" />
+                    <img src="images/its/its_1.png" alt="About our meba" />
                 </div>
                 <div class="right-side">
                     <h2>KSBL BS IT&S Program</h2>
@@ -73,7 +73,7 @@ include('../partials/head.php');
                     </div>
                 </div>
                 <div class="right-side-two">
-                    <img src="../images/its/its_2.png" alt="About our meba" />
+                    <img src="images/its/its_2.png" alt="About our meba" />
                 </div>
             </div>
         </div>
@@ -214,7 +214,7 @@ include('../partials/head.php');
                Apply Now!                   
             </div> -->
                 <div class="upcoming-event">
-                    <img src="../images/mba/meet-team.png" alt="Meet the Team">
+                    <img src="images/mba/meet-team.png" alt="Meet the Team">
                     <h3>Apply Now! </h3>
                     <div class="event-detail">
                         <div class="event-date">
