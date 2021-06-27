@@ -18,5 +18,13 @@ $page_meta = [
             'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',
             'keywords' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
         ]
-    ]
+    ], 'why-KSBL' => [
+        //title
+        'title' => 'Success Stories - Karachi School of Business and Leadership',
+        //meta tags
+        'meta' => [
+            'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',
+            'keywords' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
+        ]
+    ],
 ];
