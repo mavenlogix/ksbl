@@ -19,8 +19,8 @@ include('../partials/head.php');
 include('../partials/navbar.php'); 
 ?>
             <div class="header-content">
-                <a href="../index.html" title="KSBL" class="logo">
-                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>FACULTY</h1>
@@ -37,15 +37,15 @@ include('../partials/navbar.php');
     #----------------------------------------------------------------->
     <div class="departments">
         <div class="container">
-            <a href="../about/" class="department" title="Vision & Mission">Vision & Mission</a>
+            <a href="about/" class="department" title="Vision & Mission">Vision & Mission</a>
             <!-- About -->
-            <a href="../about/board-of-governors.html" class="department " title="Board of Governors">Board of Governors</a>
+            <a href="about/board-of-governors.php" class="department " title="Board of Governors">Board of Governors</a>
             <!-- Board of Governors -->
-            <a href="../faculty.html" class="department" title="Faculty">Faculty</a>
+            <a href="faculty.php" class="department" title="Faculty">Faculty</a>
             <!-- Accreditation -->
-            <a href="../about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
+            <a href="about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
             <!-- KEi -->
-            <a href="../contact-us.html" class="department" title="Contact Us">Contact Us</a>
+            <a href="contact-us.php" class="department" title="Contact Us">Contact Us</a>
             <!-- Contact -->
         </div><!-- container -->
     </div>
@@ -284,25 +284,25 @@ include('../partials/navbar.php');
                     <h4>Other Faculty Members</h4>
                     <div class="non_faculty_grid_right_scroll">
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="Dr-Farooq-e-Azam-Cheema.html">Dr. Farooq E Azam Cheema
+                            <a href="faculty-profile/Dr-Farooq-e-Azam-Cheema.php">Dr. Farooq E Azam Cheema
                                 <span>Provost & Acting Registrar</span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="Dr-Muhammad-Nadeem-Javaid.html">Dr. Nadeem Javaid
+                            <a href="faculty-profile/Dr-Muhammad-Nadeem-Javaid.php">Dr. Nadeem Javaid
                                 <span>Professor<br>
                                     Strategy & Economics<br>
                                 </span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="Dr-Muhammad-Athar-Siddiqui.html">Dr. Athar Siddiqui
+                            <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">Dr. Athar Siddiqui
                                 <span>Associate Professor<br>
                                     OB & HR</span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="Dr-Shazib-Ehsan-Shaikh.html">Dr. Shazib Shaikh
+                            <a href="faculty-profile/Dr-Shazib-Ehsan-Shaikh.php">Dr. Shazib Shaikh
                                 <span>Associate Professor,<br>
                                     Business Analytics<br>
                                     Head of Department, Decision Sciences
@@ -310,29 +310,29 @@ include('../partials/navbar.php');
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="Dr-Ahmad-Junaid.html">Dr. Ahmad Junaid
+                            <a href="faculty-profile/Dr-Ahmad-Junaid.php">Dr. Ahmad Junaid
                                 <span>Associate Professor<br>
                                     Finance & Accounting
                                 </span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="Dr-Jawaid-Abdul-Ghani.html">Dr. Jawaid Ghani
+                            <a href="faculty-profile/Dr-Jawaid-Abdul-Ghani.php">Dr. Jawaid Ghani
                                 <span>Professor<br>Strategy & Marketing Research </span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="Dr-Waheed-Ali-Umrani.html">Dr. Umrani
+                            <a href="faculty-profile/Dr-Waheed-Ali-Umrani.php">Dr. Umrani
                                 <span>Associate Professor <br>HR & OB</span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="Dr-Shoaib-ul-Haq.html">Dr. Shoaib ul Haq
+                            <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">Dr. Shoaib ul Haq
                                 <span>Associate Professor<br>General Management & Digital Economy</span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="Dr-Muhammad-Talha-Salam.html">Dr. Talha Salam
+                            <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">Dr. Talha Salam
                                 <span>Assistant Professor<br>Marketing & Analytics</span>
                             </a>
                         </div>
