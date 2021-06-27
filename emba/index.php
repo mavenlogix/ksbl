@@ -118,7 +118,7 @@ include('../partials/head.php');
                         <br><b>Digital Marketing</b>
                         <br><b>Fintech</b>
                         <br><b>Talent Management</b> </p>
-                    <a target="_blank" href="admissions/KSBL Executive MBA - Fall Admissions 2021 (V1).pdf" title="Download Brochure" class=" btn-primary">Download Brochure</a>
+                    <a target="_blank" href="/admissions/KSBL Executive MBA - Fall Admissions 2021 (V1).pdf" title="Download Brochure" class=" btn-primary">Download Brochure</a>
                     <a target="_blank" href="http://admissions.colaraz.com/signup?institute=ksbledu" class=" btn-primary">Apply Now</a>
                 </div>
             </div>
