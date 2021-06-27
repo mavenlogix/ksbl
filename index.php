@@ -197,7 +197,7 @@ include('./partials/head.php');
                                 A holistic program that helps leaders harness the power of data</div>
                         </div>
                     </div>
-                    <a class="default-btn apply-now" href="ms-business-analytics.html">More</a>
+                    <a class="default-btn apply-now" href="ms-business-analytics.php">More</a>
                 </div>
                 <div href="" target="new" class="latest-news-event half-wrap mobile-visible">
                     <div class="image-area">
@@ -348,7 +348,7 @@ include('./partials/head.php');
     <div class="explore-campus">
         <div class="container">
             <img src="images/explore-campus-high.png" alt="Explore Campus" class="explore-campus-image" />
-            <a href="campus.html" class="about-campus" title="Explore our campus virtually">
+            <a href="campus.php" class="about-campus" title="Explore our campus virtually">
                 <img src="images/camera-high.png" width="62" alt="camera" />
                 <div class="campus-info">While our campus remains closed during COVID'19 lockdown, here is your chance to explore our campus <strong>virtually</strong>!</div>
                 <div class="virtual-visit">Explore our campus!</div>
