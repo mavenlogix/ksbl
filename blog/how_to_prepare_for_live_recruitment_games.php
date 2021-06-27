@@ -1,14 +1,10 @@
-<html>
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>KSBL | News & Events</title>
-		<link rel="icon" href="../favicon.png" sizes="16x16">
-		
-		<link rel="stylesheet" href="../css/style.css">
-		<link rel="stylesheet" href="../css/style-mba.css">
-		<link rel="preload" as="font" href="../fonts/MyriadPro-Cond.woff" type="font/woff" crossorigin="anonymous">
-     <link rel="preload" as="font" href="../fonts/MyriadPro-Regular.woff" type="font/woff" crossorigin="anonymous">
-	</head>
+ <!DOCTYPE html>
+<html lang="en">
+<?php 
+
+include('../partials/head.php');
+
+?>
 	
 	<body class="mba open-house center-page category-page">
 	<!-----------------------------------------------------------------#
