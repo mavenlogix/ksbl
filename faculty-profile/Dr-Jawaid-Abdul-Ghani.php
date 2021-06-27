@@ -377,7 +377,7 @@ include('../partials/head.php');
                        
 
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="Dr-Farooq-e-Azam-Cheema.html">Dr. Farooq-e-Azam Cheema
+                            <a href="faculty-profile/Dr-Farooq-e-Azam-Cheema.php">Dr. Farooq-e-Azam Cheema
                                 <span>Provost & Acting Registrar</span>
 
                             </a>
@@ -385,7 +385,7 @@ include('../partials/head.php');
 
                         <div class="non_faculty_grid_right_sub_head">
 
-                            <a href="Dr-Tariq-Basheer.html">Dr. Tariq Basheer
+                            <a href="faculty-profile/Dr-Tariq-Basheer.php">Dr. Tariq Basheer
 
                                 <span>Professor<br> Accounting & Finance<br>
 
@@ -397,7 +397,7 @@ include('../partials/head.php');
 
                         <div class="non_faculty_grid_right_sub_head">
 
-                            <a href="Dr-Muhammad-Nadeem-Javaid.html">Dr. Nadeem Javaid
+                            <a href="faculty-profile/Dr-Muhammad-Nadeem-Javaid.php">Dr. Nadeem Javaid
 
                                 <span>Professor<br>
 
@@ -411,7 +411,7 @@ include('../partials/head.php');
 
                         <div class="non_faculty_grid_right_sub_head">
 
-                            <a href="Dr-Muhammad-Athar-Siddiqui.html">Dr. Athar Siddiqui
+                            <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">Dr. Athar Siddiqui
 
                                 <span>Associate Professor<br>
 
@@ -423,7 +423,7 @@ include('../partials/head.php');
 
                         <div class="non_faculty_grid_right_sub_head">
 
-                            <a href="Dr-Shazib-Ehsan-Shaikh.html">Dr. Shazib Ehsan Shaikh
+                            <a href="faculty-profile/Dr-Shazib-Ehsan-Shaikh.php">Dr. Shazib Ehsan Shaikh
 
                                 <span>Associate Professor,<br>
 
@@ -439,7 +439,7 @@ include('../partials/head.php');
 
                         <div class="non_faculty_grid_right_sub_head">
 
-                            <a href="Dr-Ahmad-Junaid.html">Dr. Ahmad Junaid
+                            <a href="faculty-profile/Dr-Ahmad-Junaid.php">Dr. Ahmad Junaid
 
                                 <span>Associate Professor<br>
 
@@ -455,7 +455,7 @@ include('../partials/head.php');
 
                         <div class="non_faculty_grid_right_sub_head">
 
-                            <a href="Dr-Waheed-Ali-Umrani.html">Dr. Waheed Ali Umrani
+                            <a href="faculty-profile/Dr-Waheed-Ali-Umrani.php">Dr. Waheed Ali Umrani
 
                                 <span>Associate Professor <br>HR & OB</span>
 
@@ -465,7 +465,7 @@ include('../partials/head.php');
 
                         <div class="non_faculty_grid_right_sub_head">
 
-                            <a href="Dr-Shoaib-ul-Haq.html">Dr. Shoaib ul Haq
+                            <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">Dr. Shoaib ul Haq
 
                                 <span>Associate Professor<br>General Management & Digital Economy</span>
 
@@ -475,7 +475,7 @@ include('../partials/head.php');
 
                         <div class="non_faculty_grid_right_sub_head">
 
-                            <a href="Dr-Muhammad-Talha-Salam.html">Dr. Muhammad Talha Salam
+                            <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">Dr. Muhammad Talha Salam
 
                                 <span>Assistant Professor<br>Marketing & Analytics</span>
 
