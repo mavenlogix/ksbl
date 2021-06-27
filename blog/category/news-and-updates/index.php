@@ -205,7 +205,7 @@ include('../../../partials/navbar.php');
                             </div>
                         </div>
                     </a>
-                    <a href="blog/ksbl_appoints_mubashar..php" class="latest-news-event half-wrap">
+                    <a href="blog/ksbl_appoints_mubashar.php" class="latest-news-event half-wrap">
                         <div class="image-area">
                             <img src="images/blog/mubashar-hameed.jpg" alt="Mubashar Hameed">
                         </div>
@@ -217,7 +217,7 @@ include('../../../partials/navbar.php');
                             </div>
                         </div>
                     </a>
-                    <a href="blog/mrsohailbaig..php" class="latest-news-event half-wrap">
+                    <a href="blog/mrsohailbaig.php" class="latest-news-event half-wrap">
                         <div class="image-area">
                             <img src="images/blog/students-meetup.jpg" alt="meets students">
                         </div>
@@ -229,7 +229,7 @@ include('../../../partials/navbar.php');
                             </div>
                         </div>
                     </a>
-                    <a href="blog/ksbl_signs_mou..php" class="latest-news-event half-wrap">
+                    <a href="blog/ksbl_signs_mou.php" class="latest-news-event half-wrap">
                         <div class="image-area">
                             <img src="images/blog/delta-initiative.jpg" alt="DELTA Initiative">
                         </div>
@@ -241,7 +241,7 @@ include('../../../partials/navbar.php');
                             </div>
                         </div>
                     </a>
-                    <a href="blog/talk_on_ai..php" class="latest-news-event half-wrap">
+                    <a href="blog/talk_on_ai.php" class="latest-news-event half-wrap">
                         <div class="image-area">
                             <img src="images/blog/artificial-intelligence-ai.jpg" alt="Artificial Intelligence AI">
                         </div>
@@ -253,7 +253,7 @@ include('../../../partials/navbar.php');
                             </div>
                         </div>
                     </a>
-                    <a href="blog/alumni_reunion..php" class="latest-news-event half-wrap">
+                    <a href="blog/alumni_reunion.php" class="latest-news-event half-wrap">
                         <div class="image-area">
                             <img src="images/blog/alumni-reunion.jpg" alt="Alumni Reunion">
                         </div>
@@ -265,7 +265,7 @@ include('../../../partials/navbar.php');
                             </div>
                         </div>
                     </a>
-                    <a href="blog/fieldtrip_to_metro..php" class="latest-news-event half-wrap">
+                    <a href="blog/fieldtrip_to_metro.php" class="latest-news-event half-wrap">
                         <div class="image-area">
                             <img src="images/blog/metro_fieldtrip.jpg" alt="Daraz">
                         </div>
@@ -277,7 +277,7 @@ include('../../../partials/navbar.php');
                             </div>
                         </div>
                     </a>
-                    <a href="blog/unilever_visits..php" class="latest-news-event half-wrap">
+                    <a href="blog/unilever_visits.php" class="latest-news-event half-wrap">
                         <div class="image-area">
                             <img src="images/blog/unilever_visits.jpg" alt="Unilever visits KSBL">
                         </div>
@@ -289,7 +289,7 @@ include('../../../partials/navbar.php');
                             </div>
                         </div>
                     </a>
-                    <a href="blog/media_buying_planning..php" class="latest-news-event half-wrap">
+                    <a href="blog/media_buying_planning.php" class="latest-news-event half-wrap">
                         <div class="image-area">
                             <img src="images/blog/mediabuying_planning.jpg" alt="Media Buying & Planning">
                         </div>
@@ -301,7 +301,7 @@ include('../../../partials/navbar.php');
                             </div>
                         </div>
                     </a>
-                    <a href="blog/netwokring_night_2020..php" class="latest-news-event half-wrap">
+                    <a href="blog/netwokring_night_2020.php" class="latest-news-event half-wrap">
                         <div class="image-area">
                             <img src="images/blog/networking_night_2020.jpg" alt="Networking Night 2020">
                         </div>
@@ -313,7 +313,7 @@ include('../../../partials/navbar.php');
                             </div>
                         </div>
                     </a>
-                    <a href="blog/session_on_mentalhealth..php" class="latest-news-event half-wrap">
+                    <a href="blog/session_on_mentalhealth.php" class="latest-news-event half-wrap">
                         <div class="image-area">
                             <img src="images/blog/session_on_mentalhealth.jpg" alt="Session on Mental Health">
                         </div>
