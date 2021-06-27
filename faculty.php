@@ -47,13 +47,13 @@ include('./partials/head.php');
         <div class="container">
             <a href="about/" class="department" title="Vision & Mission">Vision & Mission</a>
             <!-- About -->
-            <a href="about/board-of-governors.html" class="department" title="Board of Governors">Board of Governors</a>
+            <a href="about/board-of-governors.php" class="department" title="Board of Governors">Board of Governors</a>
             <!-- Board of Governors -->
-            <a href="faculty.html" class="department active" title="Faculty">Faculty</a>
+            <a href="faculty.php" class="department active" title="Faculty">Faculty</a>
             <!-- Accreditation -->
             <a href="about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
             <!-- KEi -->
-            <a href="contact-us.html" class="department" title="Contact Us">Contact Us</a>
+            <a href="contact-us.php" class="department" title="Contact Us">Contact Us</a>
             <!-- Contact -->
         </div><!-- container -->
     </div>
