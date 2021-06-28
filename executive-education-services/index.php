@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- <title> Executive Education Programs - Karachi School of Business and Leadership </title> -->
-<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content=" Executive Education at KSBL is a mid-career program for managers and entrepreneurs to prepare for future leadership roles .">
-    <meta name="keywords" content="executive management programs,executive program, evening MBA, management school, business school, post graduate MBA, business education, management sciences">
-     -->
-<?php 
 
+<?php 
+$page_meta_key = 'Executive-Education-Programs';
 include('../partials/head.php');
 
 ?>

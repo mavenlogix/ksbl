@@ -161,5 +161,13 @@ $page_meta = [
             'description' => 'MBA financial assistance support program and scholarships for deserving and needy students',
             'keywords' => 'MBA scholarships, financial assistance, FA, KSBL scholarships, KSBL financial assistance',
         ]
+    ],'Executive-Education-Programs' => [
+        //title
+        'title' => 'Executive Education Programs - Karachi School of Business and Leadership',
+        //meta tags
+        'meta' => [
+            'description' => 'Executive Education at KSBL is a mid-career program for managers and entrepreneurs to prepare for future leadership roles.',
+            'keywords' => 'executive management programs,executive program, evening MBA, management school, business school, post graduate MBA, business education, management sciences',
+        ]
     ],
 ];
