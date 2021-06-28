@@ -54,7 +54,7 @@ $page_meta = [
     ],
     'faculty' => [
         //title
-        'title' => 'KSBL | Faculty',
+        'title' => 'Faculty | Karachi School of Business and Leadership',
         //meta tags
         'meta' => [
             'description' => 'A futuristic business school that foresees and attends to industry demand and needs',
