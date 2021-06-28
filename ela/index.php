@@ -79,7 +79,7 @@ include('../partials/head.php');
             <div class="left-side">
                 <h2>Engro Leadership Academy (ELA)</h2>
                 <div class="detail">
-                    <p>ELA is a structured academia-industry collaboration offering leadership development and capability building at scale for private and public-sector institutions, developed in partnership with Engro Corporation. The program offers a McKinsey designed immersive 9-month leadership program has been designed following the global business vision to promote character building and improved decision-making capacity. Each program consists of 3 elements; first having a total of four boot camps, each comprising 3 days; second, reinforcement through practical fieldwork and third - individual learning and development paths. </p>
+                    <p>ELA is a structured academia-industry collaboration offering leadership development and capability building at scale for private and public-sector institutions, developed in partnership with Engro Corporation. The program offers a McKinsey designed immersive 9-month leadership program following the global business vision to promote character building and improved decision-making capacity. Each program consists of 3 elements; first having a total of four boot camps, each comprising 3 days; second, reinforcement through practical fieldwork and third - individual learning and development paths. </p>
                 </div>
             </div>
         </div>
