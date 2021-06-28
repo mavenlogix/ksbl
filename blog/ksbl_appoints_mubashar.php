@@ -36,7 +36,7 @@ include('../partials/navbar.php');
 						</div>
 
 					--->
-                <a href="category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
+                <a href="blogs/category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
                 <div class="center-page-content news-and-events container-boxes">
                     <div class="blog-header">
                         <img src="images/blog/mubashar-hameed.jpg" alt="Mubashar Hameed" />
@@ -54,7 +54,7 @@ include('../partials/navbar.php');
                         <p>Mr. Hameed holds MBA and BS in Electrical Engineering from Wichita State University where he was inducted into the Eta Kappa Nu engineering honorary. He is a graduate of GE's Management Development Program and is Six Sigma certified.</p>
                     </div>
                 </div>
-                <a href="category/news-and-updates/" class="back-link" title="Back to News">Back to News & Events</a>
+                <a href="blogs/category/news-and-updates/" class="back-link" title="Back to News">Back to News & Events</a>
             </div>
         </div><!-- container -->
     </header>
