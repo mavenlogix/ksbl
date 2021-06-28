@@ -153,4 +153,13 @@ $page_meta = [
             'keywords' => 'MBA scholarships, financial assistance, FA, KSBL scholarships, KSBL financial assistance',
         ]
     ],
+    'information-sessions-reg' => [
+        //title
+        'title' => 'KSBL | Register, Open House',
+        //meta tags
+        'meta' => [
+            'description' => 'MBA financial assistance support program and scholarships for deserving and needy students',
+            'keywords' => 'MBA scholarships, financial assistance, FA, KSBL scholarships, KSBL financial assistance',
+        ]
+    ],
 ];

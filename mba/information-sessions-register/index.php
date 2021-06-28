@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!-- <title>KSBL | Register, Open House</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'information-sessions-reg';
 include('../../partials/head.php');
 
 ?>
@@ -28,7 +28,7 @@ include('../../partials/navbar.php');
                 <div class="open-house-tabs">
                     <!-- === Tab 1 === -->
                     <div class="tab-section active">
-                        <div class="tag-area"><a href="information-sessions" class="back-link" title="Back to All Sessions">All Sessions</a><span class="tag orange">REGISTER</div>
+                        <div class="tag-area"><a href="mba/information-sessions" class="back-link" title="Back to All Sessions">All Sessions</a><span class="tag orange">REGISTER</div>
                         <div class="program-details">
                             <div class="about-program">
                                 <h2>Open House</h2>
