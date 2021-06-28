@@ -136,5 +136,21 @@ $page_meta = [
             'description' => 'MBA financial assistance support program and scholarships for deserving and needy students',
             'keywords' => 'MBA scholarships, financial assistance, FA, KSBL scholarships, KSBL financial assistance',
         ]
+    ],'MBA-Fee-Structure' => [
+        //title
+        'title' => 'MBA Fee Structure - Karachi School of Business & Leadership',
+        //meta tags
+        'meta' => [
+            'description' => 'MBA financial assistance support program and scholarships for deserving and needy students',
+            'keywords' => 'MBA scholarships, financial assistance, FA, KSBL scholarships, KSBL financial assistance',
+        ]
+    ],'MBA-Admissions' => [
+        //title
+        'title' => 'MBA Admissions - Karachi School of Business & Leadership',
+        //meta tags
+        'meta' => [
+            'description' => 'MBA financial assistance support program and scholarships for deserving and needy students',
+            'keywords' => 'MBA scholarships, financial assistance, FA, KSBL scholarships, KSBL financial assistance',
+        ]
     ],
 ];

@@ -1,9 +1,9 @@
 
  <!DOCTYPE html>
 <html lang="en">
-<!-- <title> MBA Admissions - Karachi School of Business & Leadership </title -->
-<?php 
 
+<?php 
+$page_meta_key = 'MBA-Admissions';
 include('../../partials/head.php');
 
 ?>

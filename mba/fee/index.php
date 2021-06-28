@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!--  <title> MBA Fee Structure - Karachi School of Business & Leadership </title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'MBA-Fee-Structure';
 include('../../partials/head.php');
 
 ?>
