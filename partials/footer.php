@@ -35,9 +35,10 @@
                         <li><a href="emba/" class="<?= is_active('emba') ?>" title="Executive MBA">Executive MBA</a></li>
 
                         <li><a href="ms-business-analytics/" class="<?= is_active('ms-business-analytics') ?>" title="MS Business Analytics">MS Business Analytics</a></li>
+                        <li><a href="meba/" class="<?= is_active('meba') ?>" title="Meba">BS MEBA</a></li>
+                        <li><a href="bs-its/" class="<?= is_active('bs-its') ?>" title="ITS">BS IT&S</a></li>
                         <li><a href="executive-education-services/" class="<?= is_active('executive-education-services') ?>" title="Executive Education">Executive Education</a></li>
-                        <li><a href="meba/" class="<?= is_active('meba') ?>" title="Meba">Meba</a></li>
-                        <li><a href="bs-its/" class="<?= is_active('bs-its') ?>" title="ITS">BS ITS</a></li>
+                        
                     </ul>
                 </div>
                 <div class="admissions footer-menu">
