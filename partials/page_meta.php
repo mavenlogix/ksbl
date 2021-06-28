@@ -61,4 +61,13 @@ $page_meta = [
             'keywords' => 'future of work, industry 4.0, business education, value system, business school, management sciences',
         ]
     ],
+    'contact-us' => [
+        //title
+        'title' => 'KSBL | Contact Us',
+        //meta tags
+        'meta' => [
+            'description' => 'A futuristic business school that foresees and attends to industry demand and needs',
+            'keywords' => 'future of work, industry 4.0, business education, value system, business school, management sciences',
+        ]
+    ],
 ];

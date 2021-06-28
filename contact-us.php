@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!-- 	<title>KSBL | Contact Us</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'contact-us';
 include('./partials/head.php');
 
 ?>
