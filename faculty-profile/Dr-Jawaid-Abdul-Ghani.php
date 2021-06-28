@@ -6,7 +6,7 @@
 
  
 <?php 
-
+$page_meta_key = 'faculty';
 include('../partials/head.php');
 
 ?>
