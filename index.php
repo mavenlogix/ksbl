@@ -197,7 +197,7 @@ include('./partials/head.php');
                                 A holistic program that helps leaders harness the power of data</div>
                         </div>
                     </div>
-                    <a class="default-btn apply-now" href="ms-business-analytics.php">More</a>
+                    <a class="default-btn apply-now" href="ms-business-analytics">More</a>
                 </div>
                 <div href="" target="new" class="latest-news-event half-wrap mobile-visible">
                     <div class="image-area">
