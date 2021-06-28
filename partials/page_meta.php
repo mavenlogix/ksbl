@@ -179,7 +179,7 @@ $page_meta = [
         ]
     ],'emba' => [
         //title
-        'title' => 'Executive Evening MBA Program | Karachi School of Business and Leadership',
+        'title' => 'Executive MBA Program | Karachi School of Business and Leadership',
         //meta tags
         'meta' => [
             'description' => 'Executive Evening MBA at KSBL is a mid-career program for managers and entrepreneurs to prepare for future leadership roles.',
