@@ -72,7 +72,7 @@ include('../partials/head.php');
                             <br>Finance
                             <br>Human Resources</b>
                     </p>
-                    <a target="_blank" href="meba/admissions/BS Managemenet, Entrepreneurship & Business Administration - Fall Admissions 2021 - V1.pdf" class="  btn-primary">Download Brochure</a>
+                    <a target="_blank" href="meba/admissions/BS-MEBA-brochure.pdf" class="  btn-primary">Download Brochure</a>
                     <a target="_blank" href="http://admissions.colaraz.com/signup?institute=ksbledu" class=" btn-primary">Apply Now</a>
                 </div>
             </div>
