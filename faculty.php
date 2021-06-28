@@ -249,16 +249,23 @@ include('./partials/head.php');
             </div>
             <div class="group">
                 <!-- Person 9 -->
-                <div class="person come-out no-hover">
+              
+                  <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/abdul-rehman-syed.jpg" alt="Abdur-Rahman Syed" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Abdur-Rahman Syed</span> - Management Communications<br><br><br>
-
-
-
-                        </div> -->
+                        <img src="images/faculty/Dr_Ronald.jpg" alt="Dr. Ronald Jensen" />
+                       
+                    </div>
+                    <div class="person-detail">
+                        <div class="name">Dr. Ronald Jensen</div>
+                        <div class="designation">
+                            Business Ethics
+                        </div>
+                    </div>
+                </div>
+                  <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/ABD 2 2021.06.24_new.jpg" alt="Abdur-Rahman Syed" />
+                       
                     </div>
                     <div class="person-detail">
                         <div class="name">Abdur-Rahman Syed</div>
@@ -269,46 +276,13 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person 9 -->
                 <!-- Person 12 -->
-                <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/arif-iqbal-rana.jpg" alt="Arif Iqbal Rana" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Arif Iqbal Rana</span> - Operations Management & Designing Managing & Improving Operations<br><br><br>
-
-
-
-                        </div> -->
-                    </div>
-                    <div class="person-detail">
-                        <div class="name">Arif Iqbal Rana</div>
-                        <div class="designation">
-                            Operations Management & <br>Designing Managing & <br>Improving Operations
-                        </div>
-                    </div>
-                </div>
+              
                 <!-- END Person 12 -->
                 <!-- Person 10 -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/faraz-bandukda.jpg" alt="Faraz Banduka" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Mr. Faraz Younus Bandukda</span> is a seasoned trainer in the field of Finance specializing in financial modeling and Islamic Finance. At KSBL he is an adjunct Faculty member, teaching Islamic Finance, Entrepreneurship and other Finance & Economics courses, as a part of institute's graduate program.<br/><br/>
-
-
-
-Mr. Bandukda has more than 12 years of experience in the field of Islamic Capital Markets and Wealth Management. Currently the Founding Chief Executive of Al Hilal Shariah Advisors and Al Hilal Securities Advisors, He is considered an influencer in the Islamic Capital Markets of Pakistan. With more than 10 years of teaching experience, he holds a Bachelors in Computer Science majoring in Distributed Databases and Networks, from FAST National University and an MBA from IBA, Karachi. He is also a CFA Charter holder from the CFA Institute, USA and an Islamic Finance Certification from the Centre for Islamic Economics (CIE). He completed his Post Graduate Diploma in Islamic Finance from Jamia Dar ul Uloom, Karachi. Mr. Faraz is also an SECP certified directors training program holder from University of Lahore and also has holds Institute of Capital Markets certifications to his credentials. Currently he is pursuing Islamic Finance Qualification (IFQ) from the Securities and Investments Institute, UK.<br/><br/>
-
-
-
-Faraz Younus Bandukda, an entrepreneurial evangelist, Faraz has to his credit, development and launch of the very first Islamic Equity Brokerage house in Pakistan by the name of Fortune Kaamil, which is a Shariah compliant equity brokerage window of Fortune Securities Limited. Faraz has also played the lead role in structuring and development of the first ever Shariah compliant commodity brokerage in Pakistan, by the name of Fortune Commodities.<br/><br/>
-
-
-
-Previously he has remained associated with Al Meezan Investment Management Limited, supervising their Product Development and Shariah Compliance function. He is also known for structuring different Islamic mutual funds and other Shariah compliant investment structures and instruments.<br><br><br>
-
-                        </div> -->
+                        <img src="images/faculty/faraz_new.jpg" alt="Faraz Banduka" />
+                    
                     </div>
                     <div class="person-detail">
                         <div class="name">Faraz Banduka</div>
@@ -378,26 +352,7 @@ Previously he has remained associated with Al Meezan Investment Management Limit
                     </div>
                 </div>
                 <!-- END Person 7 -->
-                <!-- Person 10 -->
-                <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/blank.jpg" alt="Dr. Ronald Jensen" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Dr. Ronald Jensen</span> - Business Ethics<br><br><br>
-
-
-
-                        </div> -->
-                    </div>
-                    <div class="person-detail">
-                        <div class="name">Dr. Ronald Jensen</div>
-                        <div class="designation">
-                            Business Ethics
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 10 -->
+          
                 <!-- Person 17 -->
                 <!-- END Person 17 -->
                 <!-- Person 8 -->
@@ -423,14 +378,8 @@ Previously he has remained associated with Al Meezan Investment Management Limit
                 <!-- Person 11 -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/taha-khan.jpg" alt="Taha Ahmed" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Taha Ahmed</span> - Media Planning & Buying<br><br><br>
-
-
-
-                        </div> -->
+                        <img src="images/faculty/Taha-Ahmed.jpg" alt="Taha Ahmed" />
+                        
                     </div>
                     <div class="person-detail">
                         <div class="name">Taha Ahmed</div>
@@ -444,11 +393,7 @@ Previously he has remained associated with Al Meezan Investment Management Limit
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
                         <img src="images/faculty/raheel-aslam.jpg" alt="Raheel Aslam" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Raheel Aslam</span> - EMBA Alumni<br><br><br>
-
-                        </div> -->
+                        
                     </div>
                     <div class="person-detail">
                         <div class="name">Raheel Aslam</div>
@@ -461,7 +406,7 @@ Previously he has remained associated with Al Meezan Investment Management Limit
                 <!-- Person 3 -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/syed-shoaib.jpg" alt="Syed Sohaib Ul Hassan" />
+                        <img src="images/faculty/Sohaib Hasan.jpg" alt="Syed Sohaib Ul Hassan" />
                         <!-- <div class="hover-detail">
             
                                         <span class="orange-yellow-text">Syed Sohaib Ul Hassan</span> - MBA Alumni<br><br><br>
@@ -473,7 +418,7 @@ Previously he has remained associated with Al Meezan Investment Management Limit
                     <div class="person-detail">
                         <div class="name">Syed Sohaib Ul Hassan</div>
                         <div class="designation">
-                            MBA Alumnus
+                            Digital Marketing
                         </div>
                     </div>
                 </div>
