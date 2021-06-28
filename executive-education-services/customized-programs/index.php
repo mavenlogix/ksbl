@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- <title>KSBL | Custom Programs</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'Custom-Programs';
 include('../../partials/head.php');
 
 ?>

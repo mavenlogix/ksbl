@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!--    <title>KSBL | Apply for Job Positions</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'Apply-for-Job-Positions';
 include('../partials/head.php');
 
 ?>
@@ -17,15 +17,15 @@ include('../partials/head.php');
 include('../partials/navbar.php'); 
 ?>
             <div class="header-content">
-                <a href="../index.html" title="KSBL" class="logo">
-                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="index.php" title="KSBL" class="logo">
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
             </div>
             <div class="open-house-content">
                 <h1>Apply For Job Positions</h1>
                 <div class="page-detail">Working for the Karachi School of Business & Leadership offers you a unique opportunity to gain experience, develop skills and gain career growth. You will be part of a modern, rapidly changing organisation with national influence and impact. Our jobs offer you a scope for versatility, initiative and creativity in a stimulating and supportive environment.</div>
                 <div class="open-house-tabs">
-                    <a href="../careers.html" class="back-link" title="Back to Jobs">Back to Jobs</a>
+                    <a href="careers.html" class="back-link" title="Back to Jobs">Back to Jobs</a>
                     <!-- === Tab 1 === -->
                     <div class="tab-section active">
                         <div class="register-form">

@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php 
-
+$page_meta_key = 'BS-ITS';
 include('../partials/head.php');
 
 ?>

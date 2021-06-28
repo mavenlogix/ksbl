@@ -2,10 +2,9 @@
 <html>
 
 
-	 <!-- <title> Engro Leadership Academy | ELA - Karachi School of Business and Leadership </title> -->
   
 <?php 
-
+$page_meta_key = 'Engro-Leadership-Academy';
 include('../partials/head.php');
 
 ?>

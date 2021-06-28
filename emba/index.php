@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html>
-   <!--  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content=" Executive Evening MBA at KSBL is a mid-career program for managers and entrepreneurs to prepare for future leadership roles .">
-
-<meta name="keywords" content="executive MBA, evening MBA, management school, business school, post graduate MBA, business education, management sciences">
-
-   <title> Executive Evening MBA Program | Karachi School of Business and Leadership </title> -->
+   
    <?php 
-
+$page_meta_key = 'emba';
 include('../partials/head.php');
 
 ?>

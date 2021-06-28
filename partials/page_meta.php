@@ -158,8 +158,8 @@ $page_meta = [
         'title' => 'KSBL | Register, Open House',
         //meta tags
         'meta' => [
-            'description' => 'MBA financial assistance support program and scholarships for deserving and needy students',
-            'keywords' => 'MBA scholarships, financial assistance, FA, KSBL scholarships, KSBL financial assistance',
+            'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',
+            'keywords' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
         ]
     ],'Executive-Education-Programs' => [
         //title
@@ -169,5 +169,47 @@ $page_meta = [
             'description' => 'Executive Education at KSBL is a mid-career program for managers and entrepreneurs to prepare for future leadership roles.',
             'keywords' => 'executive management programs,executive program, evening MBA, management school, business school, post graduate MBA, business education, management sciences',
         ]
+    ],'Custom-Programs' => [
+        //title
+        'title' => 'KSBL | Custom Programs',
+        //meta tags
+        'meta' => [
+            'description' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
+            'keywords' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
+        ]
+    ],'emba' => [
+        //title
+        'title' => 'Executive Evening MBA Program | Karachi School of Business and Leadership',
+        //meta tags
+        'meta' => [
+            'description' => 'Executive Evening MBA at KSBL is a mid-career program for managers and entrepreneurs to prepare for future leadership roles.',
+            'keywords' => 'executive MBA, evening MBA, management school, business school, post graduate MBA, business education, management sciences',
+        ]
+    ],'Engro-Leadership-Academy' => [
+        //title
+        'title' => 'Engro Leadership Academy | ELA - Karachi School of Business and Leadership ',
+        //meta tags
+       'meta' => [
+            'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',
+            'keywords' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
+        ]
+    ],'Apply-for-Job-Positions' => [
+        //title
+        'title' => 'KSBL | Apply for Job Positions ',
+        //meta tags
+       'meta' => [
+            'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',
+            'keywords' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
+        ]
+    ],'BS-ITS' => [
+        //title
+        'title' => 'KSBL | BS IT&S ',
+        //meta tags
+       'meta' => [
+            'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',
+            'keywords' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
+        ]
     ],
+
+
 ];

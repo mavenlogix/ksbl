@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!-- 	<title>KSBL | Apply for Job Positions</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'Apply-for-Job-Positions';
 include('../partials/head.php');
 
 ?>
