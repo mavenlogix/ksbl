@@ -36,7 +36,7 @@ include('../partials/navbar.php');
 						</div>
 
 					--->
-                <a href="blogs/category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
+                <a href="blog/category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
                 <div class="center-page-content news-and-events container-boxes">
                     <div class="blog-header">
                         <img src="images/blog/market_segmentation_2.png" alt="Signs an MoU" />
@@ -64,7 +64,7 @@ include('../partials/navbar.php');
 							#                      END  Other Pictures                         #
 							#----------------------------------------------------------------->
                 </div>
-                <a href="blogs/category/news-and-updates/" class="back-link" title="Back to News">Back to News & Events</a>
+                <a href="blog/category/news-and-updates/" class="back-link" title="Back to News">Back to News & Events</a>
             </div>
         </div><!-- container -->
     </header>

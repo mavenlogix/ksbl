@@ -36,7 +36,7 @@ include('../partials/navbar.php');
 						</div>
 
 					--->
-                <a href="blogs/category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
+                <a href="blog/category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
                 <div class="center-page-content news-and-events container-boxes">
                     <div class="blog-header">
                         <img src="images/blog/daraz.jpg" alt="daraz" />
@@ -54,7 +54,7 @@ include('../partials/navbar.php');
                         <p>"Our objective is to engage, educate and empower the community of marketplace sellers. Education has always remained an area of special focus at Daraz and it is exciting to have found an amazing partner like KSBL to join us in the mission of upskilling our seller community and the business community at large. We are dedicated towards creating opportunities of growth not only for our existing sellers but also for those business owners who chose to transition online and start their ventures with us amidst the new normal of the COVID19 pandemic," said Syed Faraz Ali, Regional Head of Marketplace, Daraz.</p>
                     </div>
                 </div>
-                <a href="blogs/category/news-and-updates/" class="back-link" title="Back to News">Back to News & Events</a>
+                <a href="blog/category/news-and-updates/" class="back-link" title="Back to News">Back to News & Events</a>
             </div>
         </div><!-- container -->
     </header>
