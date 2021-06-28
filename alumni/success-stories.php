@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<!-- <title>KSBL | Alumni, Success Stories</title> -->
+
 	
 <?php 
-
+$page_meta_key = 'Alumni-Success-Stories';
 include('../partials/head.php');
 
 ?>
@@ -28,8 +28,8 @@ include('../partials/head.php');
             ?>
 				
 				<div class="header-content">
-					<a href="../index.html" title="KSBL" class="logo">
-						<img src="../images/ksbl-logo-high.png" width="239" alt="KSBL"/>
+					<a href="index.php" title="KSBL" class="logo">
+						<img src="images/ksbl-logo-high.png" width="239" alt="KSBL"/>
 					</a>
 				</div>
 				

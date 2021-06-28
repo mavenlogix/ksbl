@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- <title>KSBL | Alumni Directory</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'Alumni-Directory';
 include('./partials/head.php');
 
 ?>

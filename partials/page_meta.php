@@ -70,4 +70,29 @@ $page_meta = [
             'keywords' => 'future of work, industry 4.0, business education, value system, business school, management sciences',
         ]
     ],
+    'campus' => [
+        //title
+        'title' => 'KSBL | Campus',
+        //meta tags
+        'meta' => [
+            'description' => 'A futuristic business school that foresees and attends to industry demand and needs',
+            'keywords' => 'future of work, industry 4.0, business education, value system, business school, management sciences',
+        ]
+    ],'Alumni-Directory' => [
+        //title
+        'title' => 'KSBL | Alumni Directory',
+        //meta tags
+        'meta' => [
+            'description' => 'A futuristic business school that foresees and attends to industry demand and needs',
+            'keywords' => 'future of work, industry 4.0, business education, value system, business school, management sciences',
+        ]
+    ],'Alumni-Success-Stories' => [
+        //title
+        'title' => 'KSBL | Alumni, Success Stories',
+        //meta tags
+        'meta' => [
+            'description' => 'A futuristic business school that foresees and attends to industry demand and needs',
+            'keywords' => 'future of work, industry 4.0, business education, value system, business school, management sciences',
+        ]
+    ],
 ];

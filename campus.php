@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- 	<title>KSBL | Campus</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'campus';
 include('./partials/head.php');
 
 ?>
