@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- <title> Faculty for MBA and EMBA | Karachi School of Business and Leadership </title>  -->
+
 
 <?php 
-
+$page_meta_key = 'faculty';
 include('./partials/head.php');
 
 
