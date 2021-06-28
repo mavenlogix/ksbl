@@ -203,7 +203,39 @@ $page_meta = [
         ]
     ],'BS-ITS' => [
         //title
-        'title' => 'KSBL | BS IT&S ',
+        'title' => 'KSBL | BS IT&S',
+        //meta tags
+       'meta' => [
+            'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',
+            'keywords' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
+        ]
+    ],'News-and-Events' => [
+        //title
+        'title' => 'KSBL | News & Events',
+        //meta tags
+       'meta' => [
+            'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',
+            'keywords' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
+        ]
+    ],'About-Us' => [
+        //title
+        'title' => 'KSBL | About Us, Vision & Mission',
+        //meta tags
+       'meta' => [
+            'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',
+            'keywords' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
+        ]
+    ],'About-Us-Board-of-Governors' => [
+        //title
+        'title' => 'KSBL | About Us, Board of Governors',
+        //meta tags
+       'meta' => [
+            'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',
+            'keywords' => 'KSBL, management school, business school, KSBL advantage, business education, management sciences',
+        ]
+    ],'About-Us-Accreditation' => [
+        //title
+        'title' => 'KSBL | About Us, Accreditation',
         //meta tags
        'meta' => [
             'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',

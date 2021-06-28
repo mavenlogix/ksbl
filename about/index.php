@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!--  <title>KSBL | About Us, Vision & Mission</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'About-Us';
 include('../partials/head.php');
 
 ?>

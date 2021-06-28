@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!-- <title>KSBL | About Us, Board of Governors</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'About-Us-Board-of-Governors';
 include('../partials/head.php');
 
 ?>

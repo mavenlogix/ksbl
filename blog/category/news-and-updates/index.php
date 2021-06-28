@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- <title>KSBL | News & Events</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'News-and-Events';
 include('../../../partials/head.php');
 
 ?>

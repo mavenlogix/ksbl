@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!-- 	<title>KSBL | About Us, Accreditation</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'About-Us-Accreditation';
 include('../partials/head.php');
 
 ?>
