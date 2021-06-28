@@ -118,7 +118,7 @@ include('../partials/head.php');
                         <br>
                         <h2>ELA at a Glance</h2><br>
                         The purpose-driven Engro Leadership Academy is a firm-wide training that fosters leadership capabilities, knowledge and humility to all managerial employees, with an emphasis on a deep reflection around thinking-pattern, moral belief, value system and fear factors.
-                        <br><br>The content and curriculum designed for each of ELA's cohorts are delivered by world-class facilitators aimed at senior managers while KSBL facilitators take the lead for mind or junior-level managers. The main crux of the training is to empower managers at any organizational level to lead themselves, others, organization and change.
+                        <br><br>The content and curriculum designed for each of ELA's cohorts are delivered by our world-class facilitators aimed at managers at all levels. The main crux of the training is to empower managers to lead themselves, their teams, the organization, and bring meaningful change.
                     </div>
                 </div>
             </div>
