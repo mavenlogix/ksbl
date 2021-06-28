@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content=" MBA program at KSBL offers you the opportunity to learn, connect and network with some of the finest in the  ">
-<meta name="keywords" content="masters in business administration, MBA, MBA Program, management school, business school,">
-<title> Masters in Business Administration - MBA | Karachi School of Business and Leadership  </title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'mba';
 include('../partials/head.php');
 
 ?>

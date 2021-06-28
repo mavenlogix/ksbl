@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<!--  <title>KSBL | MS Business Analytics</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'MS-Business-Analytics';
 include('../partials/head.php');
 
 ?>

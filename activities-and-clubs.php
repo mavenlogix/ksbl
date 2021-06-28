@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- <title>KSBL | Activites & Clubs</title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'Activites-Clubs';
 include('./partials/head.php');
 
 ?>

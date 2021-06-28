@@ -54,7 +54,7 @@ $page_meta = [
     ],
     'faculty' => [
         //title
-        'title' => 'Faculty | Karachi School of Business and Leadership',
+        'title' => 'KSBL | Faculty',
         //meta tags
         'meta' => [
             'description' => 'A futuristic business school that foresees and attends to industry demand and needs',
@@ -93,6 +93,31 @@ $page_meta = [
         'meta' => [
             'description' => 'A futuristic business school that foresees and attends to industry demand and needs',
             'keywords' => 'future of work, industry 4.0, business education, value system, business school, management sciences',
+        ]
+    ],
+    'Activites-Clubs' => [
+        //title
+        'title' => 'KSBL | Activites & Clubs',
+        //meta tags
+        'meta' => [
+            'description' => 'A futuristic business school that foresees and attends to industry demand and needs',
+            'keywords' => 'future of work, industry 4.0, business education, value system, business school, management sciences',
+        ]
+    ], 'MS-Business-Analytics' => [
+        //title
+        'title' => 'KSBL | MS Business Analytics',
+        //meta tags
+        'meta' => [
+            'description' => 'A futuristic business school that foresees and attends to industry demand and needs',
+            'keywords' => 'future of work, industry 4.0, business education, value system, business school, management sciences',
+        ]
+    ],'mba' => [
+        //title
+        'title' => 'Masters in Business Administration - MBA | Karachi School of Business and Leadership ',
+        //meta tags
+        'meta' => [
+            'description' => 'MBA program at KSBL offers you the opportunity to learn, connect and network with some of the finest in the',
+            'keywords' => 'masters in business administration, MBA, MBA Program, management school, business school',
         ]
     ],
 ];
