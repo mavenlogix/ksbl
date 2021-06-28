@@ -119,5 +119,22 @@ $page_meta = [
             'description' => 'MBA program at KSBL offers you the opportunity to learn, connect and network with some of the finest in the',
             'keywords' => 'masters in business administration, MBA, MBA Program, management school, business school',
         ]
+    ], 
+     'MBA-Open-House' => [
+        //title
+        'title' => 'MBA Open House | Karachi School of Business and Leadership ',
+        //meta tags
+        'meta' => [
+            'description' => 'MBA program at KSBL offers you the opportunity to learn, connect and network with some of the finest in the',
+            'keywords' => 'masters in business administration, MBA, MBA Program, management school, business school',
+        ]
+    ],'MBA-Financial-Assistance' => [
+        //title
+        'title' => 'MBA Financial Assistance Support Program | KSBL',
+        //meta tags
+        'meta' => [
+            'description' => 'MBA financial assistance support program and scholarships for deserving and needy students',
+            'keywords' => 'MBA scholarships, financial assistance, FA, KSBL scholarships, KSBL financial assistance',
+        ]
     ],
 ];

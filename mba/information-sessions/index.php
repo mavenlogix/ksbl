@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!--   <title> MBA Open House | Karachi School of Business and Leadership </title> -->
-<?php 
 
+<?php 
+$page_meta_key = 'MBA-Open-House';
 include('../../partials/head.php');
 
 ?>

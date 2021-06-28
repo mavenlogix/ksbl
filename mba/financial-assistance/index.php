@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!--  <title> MBA Financial Assistance Support Program | KSBL </title> -->
-<!--  <meta name="description" content=" MBA financial assistance support program and scholarships for deserving and needy students ">
-    <meta name="keywords" content="MBA scholarships, financial assistance, FA, KSBL scholarships, KSBL financial assistance"> -->
-<?php 
 
+<?php 
+$page_meta_key = 'MBA-Financial-Assistance';
 include('../../partials/head.php');
 
 ?>
