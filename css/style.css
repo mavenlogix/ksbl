@@ -958,6 +958,9 @@
 }
 .ksbl-programs a{ text-decoration: none !important; }
 .footer-menu ul li a{ text-decoration: none;  }
+.rmv{ text-decoration: none !important; }
+.rmv:hover{ background-color: #FAA633; }
+
 
 /* ended */
 
