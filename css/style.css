@@ -944,6 +944,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 /* original */
  /* .news-and-events.addmission .latest-news-event.big-wrap .news-event-detail {
      position: absolute;
@@ -959,10 +968,19 @@
 .ksbl-programs a{ text-decoration: none !important; }
 .footer-menu ul li a{ text-decoration: none;  }
 .rmv{ text-decoration: none !important; }
-.rmv:hover{ background-color: #FAA633; }
+.rmv:hover{ background-color: #FAA633; border: none; }
 
 
 /* ended */
+
+
+
+
+
+
+
+
+
 
  .news-event-detail {
      display: flex;
