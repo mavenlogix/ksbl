@@ -941,10 +941,26 @@
  .news-and-events.addmission .latest-news-event.big-wrap .image-area {
      width: 100%;
 }
- .news-and-events.addmission .latest-news-event.big-wrap .news-event-detail {
+
+
+
+/* original */
+ /* .news-and-events.addmission .latest-news-event.big-wrap .news-event-detail {
      position: absolute;
      top: 0px;
+} */
+
+/* sajid */
+
+.news-and-events.addmission .latest-news-event.big-wrap .news-event-detail {
+    position: absolute;
+    top: 40px;
 }
+.ksbl-programs a{ text-decoration: none !important; }
+.footer-menu ul li a{ text-decoration: none;  }
+
+/* ended */
+
  .news-event-detail {
      display: flex;
      flex-flow: column;
