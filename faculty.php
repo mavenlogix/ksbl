@@ -281,7 +281,7 @@ include('./partials/head.php');
                 <!-- Person 10 -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/faraz_new.jpg" alt="Faraz Banduka" />
+                        <img src="images/faculty/faraz-2.jpg" alt="Faraz Banduka" />
                     
                     </div>
                     <div class="person-detail">
