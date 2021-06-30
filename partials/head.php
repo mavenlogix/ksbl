@@ -18,16 +18,16 @@ if(isset($page_meta_key)){
 
  $url = 'http://localhost/ksbl_local/';
 
- if ($baseUrl == 'ksbl.edu.pk'){
- 	$url = $protocol.'ksbl.edu.pk/';
+ if ($baseUrl == 'www.ksbl.edu.pk'){
+    $url = $protocol.'www.ksbl.edu.pk/';
 
  } else if ($baseUrl == 'mavenology.site'){
 
- 	$url = $protocol.'mavenology.site/';
+    $url = $protocol.'mavenology.site/';
  }
 define('SCRIPT_BASE', str_replace(['http://','https://'], '', $url)); 
 ?>
-	<base href="<?php echo $url ?>" >
+    <base href="<?php echo $url ?>" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> <?= $metas['title'] ?> </title>
     <?php foreach ($metas['meta'] as $meta_key => $meta_value): ?>
