@@ -1,7 +1,7 @@
 <div class="header-top">
     <nav id="top-navigation">
         <ul>
-            <li><a href="index.php" class="<?= is_active(['index', '']) ?>" title="Home">Home</a></li>
+            <li><a href="index.php" class="<?= is_active(['index.php', 'index']) ?>" title="Home">Home</a></li>
             <li class="expend">
                 <a href="javascript:void(0)" class="<?= is_active(['mba', 'emba', 'ms-business-analytics', 'meba', 'bs-its', 'executive-education-services']) ?>" title="Programs">Programs</a>
                 <ul class="sub-menu">
