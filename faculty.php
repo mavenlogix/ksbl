@@ -439,6 +439,25 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person 2 -->
+                             
+                  <!-- Person Talal Arif -->
+                <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Talal Arif.jpg" alt="Talal Arif" />
+                        
+                    </div>
+                    <div class="person-detail">
+                        <div class="name">Talal Arif</div>
+                        <div class="designation">
+                             Business & Corporate Law 
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Talal Arif -->
+
+
+
+
             </div>
         </div>
     </div>
