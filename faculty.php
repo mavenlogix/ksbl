@@ -403,6 +403,22 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person 12 -->
+
+                    <!-- Person 13 -->
+                    <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Irfan-Butt.jpg" alt="Dr. Irfan Butt" />
+                        
+                    </div>
+                    <div class="person-detail">
+                        <div class="name">Dr. Irfan Butt</div>
+                        <div class="designation">
+                            Marketing 
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person 13 -->
+
                 <!-- Person 3 -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
