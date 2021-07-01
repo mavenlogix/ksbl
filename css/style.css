@@ -3036,6 +3036,72 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     width: 100%;
 }
 
+.whyksbl_accordion {
+  margin: 50px 0;
+}
+
+.whyksbl_accordion #faq .card {
+border-radius: 0;
+  border: 1px solid #000000;
+
+  background: rgb(255 255 255 / 50%);
+}
+
+.whyksbl_accordion #faq .card .card-header {
+  border: 0;
+
+  border-radius: 0;
+  padding: 0;border-bottom: 1px solid #000000;
+
+}
+
+.whyksbl_accordion #faq .card .card-header .btn-header-link {
+  color: #fff;
+  display: block;
+  text-align: left;
+  
+  color: #222;
+  padding: 20px;border-bottom: 1px solid #000000;
+border-radius: 0;
+}
+
+.whyksbl_accordion #faq .card .card-header .btn-header-link:after {
+  content: "+";
+   font-size: 40px;
+ position: absolute;
+ right: 10px;
+ top:1px;
+}
+
+.whyksbl_accordion #faq .card .card-header .btn-header-link.collapsed {
+  background: rgb(255 255 255 / 15%);
+  color: #000;
+  border: 0;
+}
+
+.whyksbl_accordion #faq .card .card-header .btn-header-link.collapsed:after {
+  content: "-";
+   font-size: 40px;
+ position: absolute;
+ right: 10px;
+ top:1px;
+}
+
+.whyksbl_accordion #faq .card .collapsing {
+ 
+  line-height: 30px;
+}
+
+.whyksbl_accordion #faq .card .collapse {
+  border: 0;
+}
+
+.whyksbl_accordion #faq .card .collapse.show {
+  background: #fff;
+  line-height: 30px;
+  color: #222;
+}
+
 @media (min-width: 992px) and (max-width: 1199px) {
     .non_faculty_grid_img {
         height: 153px;

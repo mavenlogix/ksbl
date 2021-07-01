@@ -52,7 +52,7 @@
     margin: 0px;
 
     /* background: rgba(0,0,0,.6);
- padding: 15px 0;	*/
+ padding: 15px 0;   */
     padding: 0px 0px;
     background: #fff;
     min-width: 180px;
@@ -153,9 +153,9 @@
     border-top: 1px solid #7f7f7f;
 }
 
- .main-meba .foundation-box  {
+.main-meba .foundation-box {
     background: #fff;
-    
+
 }
 
 @media(max-width:992px) {
@@ -1114,8 +1114,8 @@ a.btn-primary:hover {
     flex-flow: column;
 }
 
-.main-meba .foundation-box:nth-child(-n+5){
-border-top: 1px solid #7f7f7f;
+.main-meba .foundation-box:nth-child(-n+5) {
+    border-top: 1px solid #7f7f7f;
 
 }
 
@@ -1175,7 +1175,7 @@ border-top: 1px solid #7f7f7f;
 }
 
 /* .foundation-box:last-child {
-	width:calc(20% + 1px);
+    width:calc(20% + 1px);
 } */
 .about-course-list {
     font-size: 14px;
@@ -2502,12 +2502,44 @@ input::placeholder {
     display: none;
 }
 
-.mba.why-ksbl-page .heder-info h1 {
-    color: #ddd;
-    background: linear-gradient(45deg, rgba(124, 124, 124, 1) 0%, rgba(255, 255, 255, 1) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+.mba.why-ksbl-page .header_center h1 {
+    color: #000000;
+    font-size: 50px;
+    font-weight: normal;
+    margin-bottom: 0px;
+    font-family: MyriadPro-Cond;
+    text-align: center;
+    line-height: 46px;
+    margin-top: 25px;
+    margin-top: 0px;
     margin-top: 30px;
+}
+
+.mba.why-ksbl-page .header_center h2 {
+    font-family: MyriadPro-Cond;
+    font-size: 32px;
+    color: #000;
+    font-weight: normal;
+
+    background: #ff9f19;
+    letter-spacing: .14px;
+    line-height: 19px;
+    padding: 10px 0;
+    max-width: 32%;
+    margin: 30px auto 5px;
+}
+
+.mba.why-ksbl-page .header_center p {
+    font-family: MyriadPro-Cond;
+    font-size: 24px;
+    background: ;
+    color: #000;
+    font-weight: normal;
+    margin-top: 0px;
+
+    letter-spacing: .14px;
+    line-height: 26px;
+    text-align: center;
 }
 
 .mba.why-ksbl-page .heder-info h2 a {
@@ -4643,7 +4675,7 @@ input::placeholder {
 }
 
 /* .kei .vision-left-section {
-	padding: 100px 60px 100px 0;
+    padding: 100px 60px 100px 0;
     min-width: 390px;
 } */
 .kei .vision-left-section {
