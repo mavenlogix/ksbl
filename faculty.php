@@ -392,7 +392,7 @@ include('./partials/head.php');
                 <!-- Person 12 -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/raheel-aslam.jpg" alt="Raheel Aslam" />
+                        <img src="images/faculty/Raheel-Aslam_new.jpg" alt="Raheel Aslam" />
                         
                     </div>
                     <div class="person-detail">
