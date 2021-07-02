@@ -3104,6 +3104,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     position: absolute;
     right: 10px;
     top: -5px;
+    font-family: MyriadPro-Cond;;
 }
 
 .whyksbl_accordion #faq .card .card-header .btn-header-link.collapsed {
@@ -3118,6 +3119,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     position: absolute;
     right: 10px;
     top: -5px;
+    font-family: MyriadPro-Cond;;
 
 }
 
@@ -3134,6 +3136,10 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     background: #fff;
     line-height: 30px;
     color: #222;
+}
+
+.immersive-learning-content h2{
+ font-size: 28px;
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {

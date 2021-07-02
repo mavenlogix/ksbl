@@ -106,9 +106,9 @@ include('./partials/navbar.php');
     <div class="why-ksbl-section immersive-learning">
         <div class="container d-block">
            
-            <div class="text-center">
-                <h2>We combine the technical with the strategic. Our curriculum is designed in view of both local and global considerations. With this at its core, the curriculum inspires creativity and reflection, where students are encouraged to demonstrate all these attributes while they are with us. 
-This combination is grounded in social consciousness and emphasis on the principles of ethics.</h2> 
+            <div class="text-center immersive-learning-content">
+                <h2>We combine the technical with the strategic. Our curriculum is designed in view of both local and global considerations. With this at its core, the curriculum inspires creativity and reflection, where <br>students are encouraged to demonstrate all these attributes while they are with us. 
+<br>This combination is grounded in social consciousness and emphasis on the principles of ethics.</h2> 
 <h2>
 At KSBL, students do not just receive an education – we create a profound impact on their character instilling traits like empathy and humility.  This holistic approach is all learning at KSBL helps our students equally thrive in large corporations, start-ups, or the gig-economy.</h2>
              
