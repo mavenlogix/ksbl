@@ -229,6 +229,24 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person 6 -->
+
+         <!-- Person Dr. Asim Khwaja -->
+              <div class="person come-out">
+                    <a href="#">
+                        <div class="person-info">
+                            <img src="images/faculty/asim-khwaja.jpg" alt="Dr. Asim Khwaja" />
+                        </div>
+                    </a>
+                    <div class="person-detail">
+                        <div class="name">Dr. Asim Khwaja</div>
+                        <div class="designation">
+                        Assistant Professor, Decision Sciences
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Asim Khwaja -->
+
+
             </div>
         </div>
     </div>
