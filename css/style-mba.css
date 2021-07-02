@@ -2510,9 +2510,8 @@ input::placeholder {
     font-family: MyriadPro-Cond;
     text-align: center;
     line-height: 46px;
-    margin-top: 25px;
-    margin-top: 0px;
-    margin-top: 30px;
+    margin-top: -100px;
+ 
 }
 
 .mba.why-ksbl-page .header_center h2 {
@@ -2520,7 +2519,6 @@ input::placeholder {
     font-size: 32px;
     color: #000;
     font-weight: normal;
-
     background: #ff9f19;
     letter-spacing: .14px;
     line-height: 19px;
@@ -2532,10 +2530,11 @@ input::placeholder {
 .mba.why-ksbl-page .header_center p {
     font-family: MyriadPro-Cond;
     font-size: 24px;
-    background: ;
+
     color: #000;
     font-weight: normal;
     margin-top: 0px;
+    margin-bottom: 0px;
 
     letter-spacing: .14px;
     line-height: 26px;
