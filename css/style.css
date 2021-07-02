@@ -3048,7 +3048,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
 .whyksbl_accordion #faq .card {
     border-radius: 0;
-    border:  1px solid rgb(0 0 0 / 58%);
+    border:  0.9px solid rgb(0 0 0 / 50%);
 
     background: rgb(255 255 255 / 50%);
 }
@@ -3058,8 +3058,8 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
     border-radius: 0;
     padding: 0;
-    border-bottom: 1px solid #000000;
-
+   margin: 0;
+background-color: rgb(255 255 255 / 0%);
 }
 
 .whyksbl_accordion .btn.focus,
@@ -3075,7 +3075,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     color: #000;
     font-size: 24px;
     padding: 10px 20px 10px 75px;
-    border-bottom: 1px solid #000000;
+    border: 0;
     border-radius: 0;
     position: relative;
     font-family: MyriadPro-Cond;;
@@ -3123,9 +3123,15 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
 }
 
-.whyksbl_accordion #faq .card .collapsing {
 
-    line-height: 30px;
+.whyksbl_accordion #faq .card .collapse:focus{
+    outline: 0;
+    border: 0;
+}
+.whyksbl_accordion #faq .card .collapsing {
+    background: #fff;
+    border: 0;
+    
 }
 
 .whyksbl_accordion #faq .card .collapse {
@@ -3134,8 +3140,15 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
 .whyksbl_accordion #faq .card .collapse.show {
     background: #fff;
-    line-height: 30px;
-    color: #222;
+    
+}
+
+.whyksbl_accordion #faq .card .card-body {
+    font-size: 14px;
+      line-height: 22px;
+    font-family: MyriadPro-Regular;
+    color: #000;
+    padding: 20px 40px 20px 130px;;
 }
 
 .immersive-learning-content h2{
