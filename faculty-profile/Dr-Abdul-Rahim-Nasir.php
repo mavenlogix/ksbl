@@ -146,16 +146,16 @@ include('../partials/head.php');
                     <p class="text-primary"><b>COMMUNITY SERVICE INTERESTS </b><br>
                     
                         <ul>
-                            <li>Academic Leadership<li>
-                            <li>AACSB and EFMD Academic Accreditation / Continuous Quality Improvement in Higher Education<li>
-                            <li>Curricula Development and Review<li>
-                            <li>Faculty Development / Teaching Development / Academic Supervision<li>
+                            <li>Academic Leadership</li>
+                            <li>AACSB and EFMD Academic Accreditation / Continuous Quality Improvement in Higher Education</li>
+                            <li>Curricula Development and Review</li>
+                            <li>Faculty Development / Teaching Development / Academic Supervision</li>
                         </ul>
             
                      </p>
 
                      <p class="text-primary"><b>COMMUNITY SERVICE EXPERIENCE  </b><br>
-                     Academic Leadership<br>
+                     <span class="text-dark">Academic Leadership</span>
                      <span class="text-primary">TEACHING INTERESTS </span>
                     
                         <ul>
