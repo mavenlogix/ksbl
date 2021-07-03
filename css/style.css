@@ -328,6 +328,7 @@ nav#top-navigation li.expend ul li:before {
 }
 
 .header-model {
+    z-index: 999;
     position: fixed;
     top: -650px;
     left: 0;
