@@ -220,6 +220,23 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person Dr. Shoaib ul Haq -->
 
+               <!-- Person Dr. Faryal Razzaq -->
+               <div class="person come-out">
+                    <a href="faculty-profile/Dr-Faryal-Razzaq.php">
+                        <div class="person-info">
+                            <img src="images/faculty/Dr. Faryal Razzaq.jpg" alt="Dr. Faryal Razzaq" />
+                        </div>
+                    </a>
+                    <div class="person-detail">
+                        <div class="name">Dr. Faryal Razzaq</div>
+                        <div class="designation">
+                        Assistant Professor<br>
+                        Management Sciences
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Faryal Razzaq -->
+
                 <!-- Person 6 -->
                 <div class="person come-out">
                     <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">
@@ -237,22 +254,7 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person 6 -->
 
-                <!-- Person Dr. Faryal Razzaq -->
-              <div class="person come-out">
-                    <a href="faculty-profile/Dr-Faryal-Razzaq.php">
-                        <div class="person-info">
-                            <img src="images/faculty/Dr. Faryal Razzaq.jpg" alt="Dr. Faryal Razzaq" />
-                        </div>
-                    </a>
-                    <div class="person-detail">
-                        <div class="name">Dr. Faryal Razzaq</div>
-                        <div class="designation">
-                        Assistant Professor<br>
-                        Management Sciences
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person Dr. Faryal Razzaq -->
+ 
 
          <!-- Person Dr. Asim Khwaja -->
               <div class="person come-out">

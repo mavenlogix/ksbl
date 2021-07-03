@@ -381,121 +381,80 @@ include('../partials/head.php');
                 </div>
 
                 <div class="non_faculty_grid_right">
-
                     <h4>Other Faculty Members</h4>
-
                     <div class="non_faculty_grid_right_scroll">
-
-
-                       
-
-                        <div class="non_faculty_grid_right_sub_head">
-                            <a href="faculty-profile/Dr-Farooq-e-Azam-Cheema.php">Dr. Farooq E Azam Cheema
+                    
+                      <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Farooq-e-Azam-Cheema.php">Dr. Farooq-e-Azam Cheema
                                 <span>Provost & Acting Registrar</span>
 
                             </a>
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
-
                             <a href="faculty-profile/Dr-Tariq-Basheer.php">Dr. Tariq Basheer
-
                                 <span>Professor<br> Accounting & Finance<br>
-
-                                    Dean - Faculty of Management Sciences</span>
-
+                                    Head of Department, Business Administration</span>
                             </a>
-
                         </div>
-
-
+                      
+                        
                         <div class="non_faculty_grid_right_sub_head">
-
-                            <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">Dr. Athar Siddiqui
-
-                                <span>Associate Professor<br>
-
-                                    OB & HR</span>
-
+                            <a href="faculty-profile/Dr-Abdul-Rahim-Nasir.php">Dr. Abdul Rahim Nasir
+                                <span>Professor<br>
+                                Business and Supply Chain Analytics<br>
+                                </span>
                             </a>
-
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
-
-                            <a href="faculty-profile/Dr-Shazib-Ehsan-Shaikh.php">Dr. Shazib Shaikh
-
+                            <a href="faculty-profile/Dr-Shazib-Ehsan-Shaikh.php">Dr. Shazib Ehsan Shaikh
                                 <span>Associate Professor,<br>
-
                                     Business Analytics<br>
-
                                     Head of Department, Decision Sciences
-
                                 </span>
-
                             </a>
-
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
-
                             <a href="faculty-profile/Dr-Ahmad-Junaid.php">Dr. Ahmad Junaid
-
                                 <span>Associate Professor<br>
-
                                     Finance & Accounting
-
                                 </span>
-
                             </a>
-
                         </div>
-
+                   
                         <div class="non_faculty_grid_right_sub_head">
-
-                            <a href="faculty-profile/Dr-Jawaid-Abdul-Ghani.php">Dr. Jawaid Ghani
-
-                                <span>Professor<br>Strategy & Marketing Research </span>
-
-                            </a>
-
-                        </div>
-
-                        <div class="non_faculty_grid_right_sub_head">
-
-                            <a href="faculty-profile/Dr-Waheed-Ali-Umrani.php">Dr. Umrani
-
+                            <a href="faculty-profile/Dr-Waheed-Ali-Umrani.php">Dr. Waheed Ali Umrani
                                 <span>Associate Professor <br>HR & OB</span>
-
                             </a>
-
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
-
+                            <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">Dr. Athar Siddiqui
+                                <span>Associate Professor<br>
+                                    OB & HR</span>
+                            </a>
+                        </div>
+                        <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">Dr. Shoaib ul Haq
-
                                 <span>Associate Professor<br>General Management & Digital Economy</span>
-
                             </a>
-
                         </div>
-
+                     
                         <div class="non_faculty_grid_right_sub_head">
-
-                            <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">Dr. Talha Salam
-
+                            <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">Dr. Muhammad Talha Salam
                                 <span>Assistant Professor<br>Marketing & Analytics</span>
-
                             </a>
-
                         </div>
-
-
-
-
+                        
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Faryal-Razzaq.php">Dr. Faryal Razzaq
+                                <span>Assistant Professor<br>Management Sciences</span>
+                            </a>
+                        </div>
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Asim-Khwaja.php">Dr. Asim Khwaja
+                                <span>Assistant Professor<br>Decision Sciences</span>
+                            </a>
+                        </div>
                     </div>
-
                 </div>
 
             </div>
