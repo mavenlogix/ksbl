@@ -306,19 +306,7 @@ include('./partials/head.php');
                         </div>
                     </div>
                 </div>
-                  <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/ABD 2 2021.06.24_new.jpg" alt="Abdur-Rahman Syed" />
-                       
-                    </div>
-                    <div class="person-detail">
-                        <div class="name">Abdur-Rahman Syed</div>
-                        <div class="designation">
-                            Management Communications
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 9 -->
+ 
 
                <!-- Person Dr. Irfan Butt -->
                  <div class="person come-out no-hover">
@@ -355,6 +343,21 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Dr. Muhammad Naiman Jalil -->
+
+
+                <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/ABD 2 2021.06.24_new.jpg" alt="Abdur-Rahman Syed" />
+                       
+                    </div>
+                    <div class="person-detail">
+                        <div class="name">Abdur-Rahman Syed</div>
+                        <div class="designation">
+                            Management Communications
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Abdur-Rahman Syed -->
                 <!-- Person 12 -->
               
                 <!-- END Person 12 -->
