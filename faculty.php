@@ -117,22 +117,25 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person 4 -->
-                <!-- Person 2 -->
-                <div class="person come-out">
+
+                <!-- Person Dr. Abdul Rahim Nasir -->
+              <div class="person come-out">
                     <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">
                         <div class="person-info">
-                            <img src="images/faculty/Dr-Athar_new.jpg" alt="Dr. Athar Siddiqui" />
+                            <img src="images/faculty/Abdul-Rahim.jpg" alt="Dr. Abdul Rahim Nasir" />
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Athar Siddiqui</div>
+                        <div class="name">Dr. Abdul Rahim Nasir</div>
                         <div class="designation">
-                            Associate Professor
-                            <br>OB & HR
+                              Professor
+                            <br>Business and Supply Chain Analytics
                         </div>
                     </div>
                 </div>
-                <!-- END Person 2 -->
+                <!-- END Person Dr. Abdul Rahim Nasir -->
+
+
                 <!-- Person 7 -->
                 <div class="person come-out">
                     <a href="faculty-profile/Dr-Shazib-Ehsan-Shaikh.php">
@@ -197,22 +200,25 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person 5 -->
-                <!-- Person 5 -->
+
+                
+                <!-- Person Dr. Athar Siddiqui -->
                 <div class="person come-out">
-                    <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">
+                    <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">
                         <div class="person-info">
-                            <img src="images/faculty/Dr Shoaib_new.jpg" alt="Dr. Shoaib ul Haq" />
+                            <img src="images/faculty/Dr-Athar_new.jpg" alt="Dr. Athar Siddiqui" />
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Shoaib ul Haq</div>
+                        <div class="name">Dr. Athar Siddiqui</div>
                         <div class="designation">
-                            Associate Professor<br>
-                            General Management & Digital Economy
+                            Associate Professor
+                            <br>OB & HR
                         </div>
                     </div>
                 </div>
-                <!-- END Person 5 -->
+                <!-- END Person Dr. Athar Siddiqui -->
+
                 <!-- Person 6 -->
                 <div class="person come-out">
                     <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">
@@ -245,6 +251,24 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Dr. Asim Khwaja -->
+
+                
+                <!-- Person Dr. Shoaib ul Haq -->
+                <div class="person come-out">
+                    <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">
+                        <div class="person-info">
+                            <img src="images/faculty/Dr Shoaib_new.jpg" alt="Dr. Shoaib ul Haq" />
+                        </div>
+                    </a>
+                    <div class="person-detail">
+                        <div class="name">Dr. Shoaib ul Haq</div>
+                        <div class="designation">
+                            Associate Professor<br>
+                            General Management & Digital Economy
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Shoaib ul Haq -->
 
 
             </div>
