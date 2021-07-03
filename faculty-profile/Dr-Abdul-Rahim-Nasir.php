@@ -56,9 +56,9 @@ include('../partials/head.php');
             <div class="faculty_grid">
                 <div class="faculty_grid_left dr-abdul-rahim">
                     <div class="faculty_grid_head">
-                        <h1>DR. ABDUL-RAHIM NASIR AHMAD</h1>
+                        <h1>Dr. Abdul Rahim Nasir Ahmad</h1>
                         <h4>Professor<br>Business and Supply Chain Analytics </h4>
-                        <a href="mail:to">mailto:ar.ahmad@ksbl.edu.pk</a>
+                        <a href="mail:to">ar.ahmad@ksbl.edu.pk</a>
                     </div>
                 </div>
                 <div class="faculty_grid_center">

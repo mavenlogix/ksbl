@@ -56,7 +56,7 @@ include('../partials/navbar.php');
                 <div class="faculty_grid_left dr-shazid">
                     <div class="faculty_grid_head">
                         <h1>Dr. Shazib Shaikh</h1>
-                        <h4>Associate Professor, <br> Business Analytics<br>Head of Department, Decision Sciences</h4>
+                        <h4>Associate Professor<br>Business Analytics<br>Head of Department, Decision Sciences</h4>
                         <a href="mail:to">shazib@ksbl.edu.pk</a>
                     </div>
                 </div>

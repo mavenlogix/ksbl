@@ -146,7 +146,7 @@ include('./partials/head.php');
                     <div class="person-detail">
                         <div class="name">Dr. Shazib Shaikh</div>
                         <div class="designation">
-                            Associate Professor, <br> Business Analytics
+                            Associate Professor<br>Business Analytics
                             <br>Head of Department, Decision Sciences
                         </div>
                     </div>
@@ -327,9 +327,9 @@ include('./partials/head.php');
                     
                     </div>
                     <div class="person-detail">
-                        <div class="name">Faraz Banduka</div>
+                        <div class="name">Faraz Bandukda</div>
                         <div class="designation">
-                            Visiting Faculty
+                           Finance
                         </div>
                     </div>
                 </div>
@@ -357,7 +357,7 @@ include('./partials/head.php');
                 <!-- Person 14 -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/dr-naiman-jalil.jpg" alt="Muhammad Naiman Jalil" />
+                        <img src="images/faculty/dr-naiman-jalil.jpg" alt="Dr. Muhammad Naiman Jalil" />
                         <!-- <div class="hover-detail">
 
                             <span class="orange-yellow-text">Muhammad Naiman Jalil</span> - Supply Chain Management<br><br><br>
@@ -367,7 +367,7 @@ include('./partials/head.php');
                         </div> -->
                     </div>
                     <div class="person-detail">
-                        <div class="name">Muhammad Naiman Jalil</div>
+                        <div class="name">Dr. Muhammad Naiman Jalil</div>
                         <div class="designation">
                             Supply Chain Management
                         </div>
