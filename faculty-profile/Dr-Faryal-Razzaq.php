@@ -269,6 +269,25 @@ include('../partials/head.php');
 
                                 </ol>
                             </p>
+                            <p><b> Mass Media TV appearance as panelist and Daily newspaper publication </b><br>
+                            <ol>
+                                <li>Appeared on Haq TV as emotional Intelligence expert for Workplace in a 2 part series <a href="https://m.youtube.com/watch?v=a7NtSENet-A;">https://m.youtube.com/watch?v=a7NtSENet-A;</a>  <a href="https://m.youtube.com/watch?v=xmCUbpA0w8w&feature=share">https://m.youtube.com/watch?v=xmCUbpA0w8w&feature=share</a> </li>
+                                <li>Had an interview from Canadian web channel Aijaz Qureshi Show on, “we need to talk about emotions” on 4 Oct. 2019 <a href="https://m.facebook.com/aijaz.qureshi/videos/10212303280937110/">https://m.facebook.com/aijaz.qureshi/videos/10212303280937110/</a>  </li>
+                                <li>Appeared on PTV World show, “ World this Morning” for Emotional wellbeing <a href="https://youtu.be/5dcp1_DEJFY">https://youtu.be/5dcp1_DEJFY</a>   </li>
+                                <li>Invited as panelist for World Friendship day and World day against human trafficking on 30th</li>
+                                <li>July 2019. <a href="https://youtu.be/Bd9LY_UECYU">https://youtu.be/Bd9LY_UECYU</a>  </li>
+                                <li>Invited on PTV morning show “World This Morning” 18pth  June 2019 to discuss raising ethical children <a href="https://youtu.be/3p8gn9KQOCw">https://youtu.be/3p8gn9KQOCw</a>  </li>
+                                <li>Called as an expert in Emotional Intelligence in Ramazan transmission on 29th May, 2019 <a href="https://youtu.be/fEfAeeVT08o">https://youtu.be/fEfAeeVT08o</a>   </li>
+                                <li>PTV world program as expert in emotional Intelligence aired on 14 April 2019 <a href="https://youtu.be/M9ZOTF5_GVk">https://youtu.be/M9ZOTF5_GVk</a> </li>
+                                <li>Article published in Daily times on 8th  Feb.2020 <a href="https://dailytimes.com.pk/554038/upside-of-failure/">https://dailytimes.com.pk/554038/upside-of-failure/</a> </li>
+                                <li>Article published in daily times on 28th may, 2019. <a href="https://dailytimes.com.pk/401974/need-for-teaching-emotional-intelligence-as-acore-subject">https://dailytimes.com.pk/401974/need-for-teaching-emotional-intelligence-as-acore-subject</a> </li>
+                                <li>Article published  in Daily Morning Mail on 26 Oct 2018 <a href="https://morning.pk/story/34454">https://morning.pk/story/34454</a>  </li>
+                                <li>Chosen as symbol of women empowerment interview published in Daily Times on 25th August, 2018. <a href="https://dailytimes.com.pk/287412/women-possess-moreemotional-intelligence-than-men/">https://dailytimes.com.pk/287412/women-possess-moreemotional-intelligence-than-men/</a> </li>
+                                <li>Article published in Daily Times on 27th April, 2019 <a href="https://dailytimes.com.pk/383070/we-need-to-talk-about-the-edification-of-ethics/">https://dailytimes.com.pk/383070/we-need-to-talk-about-the-edification-of-ethics/</a>   </li>
+
+                            </ol>
+
+                        </p>
 
 
                         </div>
