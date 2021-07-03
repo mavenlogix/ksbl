@@ -57,7 +57,7 @@ include('../partials/head.php');
                 <div class="faculty_grid_left dr-asim-khwaja">
                     <div class="faculty_grid_head">
                         <h1>Dr. Asim Khwaja</h1>
-                        <h4>Assistant Professor, Decision Sciences</h4>
+                        <h4>Assistant Professor<br>Decision Sciences</h4>
                         <a href="mail:to">asim.khuwaja@ksbl.edu.pk</a>
                     </div>
                 </div>

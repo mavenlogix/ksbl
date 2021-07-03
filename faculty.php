@@ -246,7 +246,7 @@ include('./partials/head.php');
                     <div class="person-detail">
                         <div class="name">Dr. Asim Khwaja</div>
                         <div class="designation">
-                        Assistant Professor, Decision Sciences
+                        Assistant Professor<br>Decision Sciences
                         </div>
                     </div>
                 </div>
@@ -317,6 +317,42 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person 9 -->
+
+               <!-- Person Dr. Irfan Butt -->
+                 <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Irfan-Butt.jpg" alt="Dr. Irfan Butt" />
+                        
+                    </div>
+                    <div class="person-detail">
+                        <div class="name">Dr. Irfan Butt</div>
+                        <div class="designation">
+                            Marketing 
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Irfan Butt -->
+
+                 <!-- Person Dr. Muhammad Naiman Jalil -->
+                  <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/dr-naiman-jalil.jpg" alt="Dr. Muhammad Naiman Jalil" />
+                        <!-- <div class="hover-detail">
+
+                            <span class="orange-yellow-text">Muhammad Naiman Jalil</span> - Supply Chain Management<br><br><br>
+
+
+
+                        </div> -->
+                    </div>
+                    <div class="person-detail">
+                        <div class="name">Dr. Muhammad Naiman Jalil</div>
+                        <div class="designation">
+                            Supply Chain Management
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Muhammad Naiman Jalil -->
                 <!-- Person 12 -->
               
                 <!-- END Person 12 -->
@@ -354,26 +390,7 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person 18 -->
-                <!-- Person 14 -->
-                <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/dr-naiman-jalil.jpg" alt="Dr. Muhammad Naiman Jalil" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Muhammad Naiman Jalil</span> - Supply Chain Management<br><br><br>
-
-
-
-                        </div> -->
-                    </div>
-                    <div class="person-detail">
-                        <div class="name">Dr. Muhammad Naiman Jalil</div>
-                        <div class="designation">
-                            Supply Chain Management
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 14 -->
+      
                 <!-- Person 7 -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
@@ -446,20 +463,7 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person 12 -->
 
-                    <!-- Person 13 -->
-                    <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/Irfan-Butt.jpg" alt="Dr. Irfan Butt" />
-                        
-                    </div>
-                    <div class="person-detail">
-                        <div class="name">Dr. Irfan Butt</div>
-                        <div class="designation">
-                            Marketing 
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 13 -->
+
 
                 <!-- Person 3 -->
                 <div class="person come-out no-hover">
