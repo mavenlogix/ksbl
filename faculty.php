@@ -232,7 +232,7 @@ include('./partials/head.php');
 
          <!-- Person Dr. Asim Khwaja -->
               <div class="person come-out">
-                    <a href="#">
+                    <a href="faculty-profile/Dr-Asim-Khwaja.php">
                         <div class="person-info">
                             <img src="images/faculty/asim-khwaja.jpg" alt="Dr. Asim Khwaja" />
                         </div>
