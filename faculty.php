@@ -461,7 +461,7 @@ include('./partials/head.php');
                   <!-- Person Talal Arif -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/Talal Arif.jpg" alt="Talal Arif" />
+                        <img src="images/faculty/talal-arif.jpg" alt="Talal Arif" />
                         
                     </div>
                     <div class="person-detail">
