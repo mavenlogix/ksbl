@@ -1,117 +1,70 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
 
-
- 
-<?php 
+   <?php 
 $page_meta_key = 'faculty';
 include('../partials/head.php');
 
 ?>
 
-
-
 <body class="mba aboutt bog main-faculty">
-
     <!-----------------------------------------------------------------#
 
     #                       Header START                               #
 
     #----------------------------------------------------------------->
-
     <header id="header" class="run">
-
         <div class="container">
-
-            <?php
-            include('../partials/navbar.php'); 
+             <?php
+                include('../partials/navbar.php'); 
             ?>
 
-
             <div class="header-content">
-
                 <a href="index.php" title="KSBL" class="logo">
-
                     <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
-
                 </a>
-
                 <div class="heder-info">
-
                     <h1>FACULTY</h1>
-
                     <h2>KSBL faculty is composed of world-class scholars, focused on <span class="orange-yellow-text">transferring their knowledge & wisdom</span> to the next generation</h2>
-
                 </div><!-- container -->
-
             </div>
-
         </div><!-- container -->
-
         </div><!-- Header-bottom -->
-
     </header>
-
     <!-----------------------------------------------------------------#
 
     #                       Header END                                 #
 
     #----------------------------------------------------------------->
-
     <div class="departments">
-
         <div class="container">
-
             <a href="about/" class="department" title="Vision & Mission">Vision & Mission</a>
-
             <!-- About -->
-
             <a href="about/board-of-governors.php" class="department " title="Board of Governors">Board of Governors</a>
-
             <!-- Board of Governors -->
-
             <a href="faculty.php" class="department" title="Faculty">Faculty</a>
-
             <!-- Accreditation -->
-
             <a href="about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
-
             <!-- KEi -->
-
             <a href="contact-us.php" class="department" title="Contact Us">Contact Us</a>
-
             <!-- Contact -->
-
         </div><!-- container -->
-
     </div>
-
     <div class="faculty-section teacher-group">
-
         <div class="container">
-
             <div class="faculty_grid">
-
-                <div class="faculty_grid_left dr-jawaid">
-
+                <div class="faculty_grid_left dr-farooq">
                     <div class="faculty_grid_head">
-
-                        <h1>Dr. Faryal Razzaq</h1>
+                    <h1>Dr. Faryal Razzaq</h1>
                         <h4>Assistant Professor<br>Management Sciences</h4>
 
                         <a href="mail:to">Faryal.razzaq@ksbl.edu.pk</a>
-
                     </div>
-
                 </div>
-
                 <div class="faculty_grid_center">
-
                     <ul class="nav nav-tabs border-0" role="tablist">
-
-                         <li class="nav-item">
+                        <li class="nav-item">
                             <a class="nav-link active" data-toggle="tab" href="#vita">Profile Summary</a>
                         </li>
                         <li class="nav-item">
@@ -123,16 +76,11 @@ include('../partials/head.php');
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="tab" href="#publications">Publications & Research</a>
                         </li>
-
                     </ul>
-
                     <!-- Tab panes -->
-
                     <div class="tab-content mt-2">
-
                         <div id="vita" class=" tab-pane active">
-
-                            <p><span style="color: #ff9f19;">Dr. Faryal Razzaq </span>
+                        <p><span style="color: #ff9f19;">Dr. Faryal Razzaq </span>
                              is an seminal academician, master trainer, research consultant, blogger for national newspapers, influencer, panelist for National TV, philanthropist, Emotional Intelligence and ethics’ education evangelist, instructional designer & member advisory boards for few institutions including Bahria University Business School curriculum advisory committee for BBA/MBA & established ZAB-Curriculum advisory & Regulation of Emotion Centre (SZABIST). She is a mentor for National Incubation Centre, CaterpillerHer (Miller Center for social entrepreneurship at Santa Clara university, CA., USA), CGI (NUML University), BIC (Bahria University), SEED and Khudi-A women empowerment project and board member for Accountability Lab. She is also in pool for ‘Cartier Women Initiative’ as Subject Matter Expert. She was the only female given fellowship by Founder Institute (Silicon Valley, CA., USA) Islamabad chapter cohort 4. She is among 20 researchers from Islamabad and KPK chapter, selected as member of Community Resilience Research Network by SDPI funded by Creative Learning, USA and awarded 02 research grants. She had been chosen as a symbol of women empowerment in national newspaper Daily Times as well as international Inspire Zone Magazine.
                             </p>
                             <p>She is a scout/influencer for Amazon Web Services (AWS), approved silver tier trainer for Google signature #IamRemarkable workshops. She is featured on The World Bank official media page for her commitment for #GirlLearnWomenEarn and #StratupFridays initiates of The World Bank action plans. She had been independent consultant for British Council, US Embassy Islamabad, CWS (Act alliance Asia Chapter). She has trained PAF officers through Professional Development Centre (Air University), and lead trainer for LDC Bahria University, HRDN, DOVE Foundation, Lincolns Corner, SAARC Women Entrepreneurs Portal Islamabad Chapter. </p>
@@ -141,38 +89,34 @@ include('../partials/head.php');
                             <p>She had been session chair and keynote speaker in many international/national conferences and delivered 100’s of talks across many social media platforms. She is an executive member for British- Pakistan business forum and Islamabad women chamber. She is a role model for Pakistan Alliance for Girls Education, general body member for Pakistan Alliance for Early childhood care, advisor READ Pakistan, trainer/member Women on Board, Connected Women, Pakistan Youth Association, LIFT Pakistan, Professional Success Summit, Jumpstart and Rupani foundation etc.<p>
                             <p>She is the founder of The FEEEL ® (Framework of Emotions, Ethics, Empowerment and Life skills) Pakistan’s first digital company working on emotional preventive care through self-help coping strategies. She is the patron-in-chief of Pakistan’s first research based digital magazine on emotional health, ‘The FEEEL Magazine’ and creator and owner of first video literacy syllabus to develop emotional resilience for primary kids, ‘The FEEEL Toons’. As a startup founder she won Women SDG Challenge Cup at Hackathon 2019 and was semi-finalist for TiE startup cup 2021. She was among 40 startup founders selected by Facebook Startup Circles training from across Pakistan in 2020.</p>
                         </div>
+                        <div id="credentials" class=" tab-pane fade">
+                        <h4 class="text-primary">Education</h4>
 
-                        <div id="credentials" class=" tab-pane fade"><br>
-                            <h4 class="text-primary">Education</h4>
+                                <p>
+                                <b>PhD, Management Sciences (HR), Bahria University Islamabad, Pakistan</b><br>
+                                Developing and validating a Scale for Emotional Intelligence at Pakistani Workplace: A    Case of Hyper Markets of Pakistan.
+                                </p>
+                                <p>
+                                <b>MS, Management Sciences (HR), COMSATS University.</b><br>
+                                Effective Change Management: A Case of Canteen Stores Department
+                                </p>
 
-                            <p>
-                            <b>PhD, Management Sciences (HR), Bahria University Islamabad, Pakistan</b><br>
-                            Developing and validating a Scale for Emotional Intelligence at Pakistani Workplace: A    Case of Hyper Markets of Pakistan.
-                            </p>
-                            <p>
-                            <b>MS, Management Sciences (HR), COMSATS University.</b><br>
-                            Effective Change Management: A Case of Canteen Stores Department
-                            </p>
-                          
 
-                            <h4 class="text-primary">Awards</h4>
-                            <p>
-                                <ol>
-                                    <li>Won 2nd runner up SDG Women Challenge Cup Pakistan by NIC, JAZZ, Huawei, Code for Pakistan, and Open Pakistan. </li>
-                                    <li>Selected as one of 20 members across Pakistan for Community Resilience Research Network member for SDPI, International Peace and Security Institute, USA and Creative Learning, USA and awarded two grants worth 1.25 Million PKR</li>
-                                    <li>Semi Finalist (amongst 200 startups across Pakistan) for TiE startup cup funded by US Embassy Islamabad.</li>
-                                    <li>Awarded 5 Copy rights, with IPO, Pakistan. </li>
-                                    <li>Awarded Female Fellowship by Founder Institute, California, and USA for Cohort 4 </li>
-                                    <li>Won Merit Scholarship for MS from CIIT, ChakShehzad Campus Islamabad. </li>
-                                    <li>Awarded travel grants twice by HEC Pakistan to present research in Malaysia (2017) and USA (2018). </li>
-                                </ol>   
-                            </p>
-
+                                <h4 class="text-primary">Awards</h4>
+                                <p>
+                                    <ol>
+                                        <li>Won 2nd runner up SDG Women Challenge Cup Pakistan by NIC, JAZZ, Huawei, Code for Pakistan, and Open Pakistan. </li>
+                                        <li>Selected as one of 20 members across Pakistan for Community Resilience Research Network member for SDPI, International Peace and Security Institute, USA and Creative Learning, USA and awarded two grants worth 1.25 Million PKR</li>
+                                        <li>Semi Finalist (amongst 200 startups across Pakistan) for TiE startup cup funded by US Embassy Islamabad.</li>
+                                        <li>Awarded 5 Copy rights, with IPO, Pakistan. </li>
+                                        <li>Awarded Female Fellowship by Founder Institute, California, and USA for Cohort 4 </li>
+                                        <li>Won Merit Scholarship for MS from CIIT, ChakShehzad Campus Islamabad. </li>
+                                        <li>Awarded travel grants twice by HEC Pakistan to present research in Malaysia (2017) and USA (2018). </li>
+                                    </ol>   
+                                </p>
                         </div>
-
-                        <div id="interests" class=" tab-pane fade"><br>
-
-                            <p><b>Professional Experience</b></p>
+                        <div id="interests" class=" tab-pane fade">
+                        <p><b>Professional Experience</b></p>
                             <p>
                                 <ul>
                                     <li>Assistant Professor, Quaid-i-Azam University, 11 September 2020- 06 July 2021</li>
@@ -229,12 +173,9 @@ include('../partials/head.php');
 
                                 </ol>
                             </p>
-
                         </div>
-
                         <div id="publications" class=" tab-pane fade"><br>
-
-                           <p><b>Academic Journals </b> </p>
+                        <p><b>Academic Journals </b> </p>
                             <p>
                                 <ol>
                                     <li>Developing a Scale on Employee Involvement and Motivation in Effective Change Management: A Case of Canteen Stores Department, in IBT Journal of Business Studies, Vol 15(1) page 63-74, 2019. </li>
@@ -271,8 +212,8 @@ include('../partials/head.php');
                             </p>
                             <p><b> Mass Media TV appearance as panelist and Daily newspaper publication </b><br>
                             <ol>
-                                <li>Appeared on Haq TV as emotional Intelligence expert for Workplace in a 2 part series <a href="https://m.youtube.com/watch?v=a7NtSENet-A;">https://m.youtube.com/watch?v=a7NtSENet-A;</a>  <a href="https://m.youtube.com/watch?v=xmCUbpA0w8w&feature=share">https://m.youtube.com/watch?v=xmCUbpA0w8w&feature=share</a> </li>
-                                <li>Had an interview from Canadian web channel Aijaz Qureshi Show on, “we need to talk about emotions” on 4 Oct. 2019 <a href="https://m.facebook.com/aijaz.qureshi/videos/10212303280937110/">https://m.facebook.com/aijaz.qureshi/videos/10212303280937110/</a>  </li>
+                                <li>Appeared on Haq TV as emotional Intelligence expert for Workplace in a 2 part series <a href="https://m.youtube.com/watch?v=a7NtSENet-A;">https://m.youtube.com/watch?v=a7NtSENet-A;</a> <br> <a href="https://m.youtube.com/watch?v=xmCUbpA0w8w&feature=share">https://m.youtube.com/watch?v=xmCUbpA0w8w&feature=share</a> </li>
+                                <li>Had an interview from Canadian web channel Aijaz Qureshi Show on, “we need to talk about emotions” on 4 Oct. 2019<br> <a href="https://m.facebook.com/aijaz.qureshi/videos/10212303280937110/">https://m.facebook.com/aijaz.qureshi/videos/10212303280937110/</a>  </li>
                                 <li>Appeared on PTV World show, “ World this Morning” for Emotional wellbeing <a href="https://youtu.be/5dcp1_DEJFY">https://youtu.be/5dcp1_DEJFY</a>   </li>
                                 <li>Invited as panelist for World Friendship day and World day against human trafficking on 30th</li>
                                 <li>July 2019. <a href="https://youtu.be/Bd9LY_UECYU">https://youtu.be/Bd9LY_UECYU</a>  </li>
@@ -288,152 +229,79 @@ include('../partials/head.php');
                             </ol>
 
                         </p>
-
-
+                            
                         </div>
-
                     </div>
-
                 </div>
-
                 <div class="non_faculty_grid_right">
-
                     <h4>Other Faculty Members</h4>
-
                     <div class="non_faculty_grid_right_scroll">
-
-
-                       
-
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="faculty-profile/Dr-Farooq-e-Azam-Cheema.php">Dr. Farooq-e-Azam Cheema
-                                <span>Provost & Acting Registrar</span>
-
-                            </a>
-                        </div>
-
-                        <div class="non_faculty_grid_right_sub_head">
-
                             <a href="faculty-profile/Dr-Tariq-Basheer.php">Dr. Tariq Basheer
-
                                 <span>Professor<br> Accounting & Finance<br>
-
-                                    Dean - Faculty of Management Sciences</span>
-
+                                    Head of Department, Business Administration</span>
                             </a>
-
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
-
                             <a href="faculty-profile/Dr-Muhammad-Nadeem-Javaid.php">Dr. Nadeem Javaid
-
                                 <span>Professor<br>
-
                                     Strategy & Economics<br>
-
                                 </span>
-
                             </a>
-
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
-
                             <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">Dr. Athar Siddiqui
-
                                 <span>Associate Professor<br>
-
                                     OB & HR</span>
-
                             </a>
-
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
-
                             <a href="faculty-profile/Dr-Shazib-Ehsan-Shaikh.php">Dr. Shazib Ehsan Shaikh
-
                                 <span>Associate Professor,<br>
-
                                     Business Analytics<br>
-
                                     Head of Department, Decision Sciences
-
                                 </span>
-
                             </a>
-
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
-
                             <a href="faculty-profile/Dr-Ahmad-Junaid.php">Dr. Ahmad Junaid
-
                                 <span>Associate Professor<br>
-
                                     Finance & Accounting
-
                                 </span>
-
                             </a>
-
                         </div>
-
-  
-
                         <div class="non_faculty_grid_right_sub_head">
-
+                            <a href="faculty-profile/Dr-Jawaid-Abdul-Ghani.php">Dr. Jawaid Abdul Ghani
+                                <span>Professor<br>Strategy & Marketing Research </span>
+                            </a>
+                        </div>
+                        <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Waheed-Ali-Umrani.php">Dr. Waheed Ali Umrani
-
                                 <span>Associate Professor <br>HR & OB</span>
-
                             </a>
-
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
-
                             <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">Dr. Shoaib ul Haq
-
                                 <span>Associate Professor<br>General Management & Digital Economy</span>
-
                             </a>
-
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
-
                             <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">Dr. Muhammad Talha Salam
-
                                 <span>Assistant Professor<br>Marketing & Analytics</span>
-
                             </a>
-
                         </div>
-
-
-
-
                     </div>
-
                 </div>
-
             </div>
-
         </div>
-
     </div>
-<?php
-include('../partials/footer-scripts.php');
-?>
-
-<?php
-include('../partials/navbar.php'); 
-?>
-
+    <?php
+        include('../partials/footer.php');
+    ?>
+    <!-- footer end -->
+   <?php
+        include('../partials/footer-scripts.php');
+    ?>
 </body>
-
-
 
 </html>
