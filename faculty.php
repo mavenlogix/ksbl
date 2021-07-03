@@ -167,16 +167,16 @@ include('./partials/head.php');
                 <!-- END Person 5 -->
                 <!-- Person 3 -->
                 <div class="person come-out">
-                    <a href="faculty-profile/Dr-Jawaid-Abdul-Ghani.php">
+                    <a href="#">
                         <div class="person-info">
-                            <img src="images/faculty/Dr-Jawaid-Ghani_new.jpg" alt="Dr. Jawaid Abdul Ghani" />
+                            <img src="images/faculty/Dr. Faryal Razzaq.jpg" alt="Dr. Faryal Razzaq" />
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Jawaid Abdul Ghani</div>
+                        <div class="name">Dr. Faryal Razzaq</div>
                         <div class="designation">
-                            Professor<br>
-                            Strategy & Marketing Research
+                        Assistant Professor<br>
+                        Management Sciences
                         </div>
                     </div>
                 </div>
