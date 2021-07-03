@@ -2632,8 +2632,8 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 560px;
 }
 
-.faculty_grid_left.dr-jawaid {
-    background: url(../images/about/Dr-Jawaid-Ghani.jpg) no-repeat left center;
+.faculty_grid_left.dr-faryal {
+    background: url(../images/about/faculty-Dr-Faryal-Razzaq.jpg) no-repeat left center;
     background-size: cover;
     height: 560px;
 }
@@ -3219,8 +3219,8 @@ background-color: rgb(255 255 255 / 0%);
         height: 224px;
     }
 
-    .faculty_grid_left.dr-jawaid {
-        background: url(../images/about/Dr-Jawaid-Ghani_1024.jpg) no-repeat top center;
+    .faculty_grid_left.dr-faryal {
+        background: url(../images/about/faculty-Dr-Faryal-Razzaq.jpg) no-repeat top center;
         background-size: cover;
         height: 224px;
     }
@@ -3323,8 +3323,8 @@ background-color: rgb(255 255 255 / 0%);
         height: 153px
     }
 
-    .faculty_grid_left.dr-jawaid {
-        background: url(../images/about/Dr-Jawaid-Ghani_1024.jpg) no-repeat top center;
+    .faculty_grid_left.dr-faryal {
+        background: url(../images/about/faculty-Dr-Faryal-Razzaq_1024.jpg) no-repeat top center;
         background-size: cover;
         height: 153px
     }

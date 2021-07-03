@@ -54,7 +54,7 @@ include('../partials/head.php');
     <div class="faculty-section teacher-group">
         <div class="container">
             <div class="faculty_grid">
-                <div class="faculty_grid_left dr-farooq">
+                <div class="faculty_grid_left dr-faryal">
                     <div class="faculty_grid_head">
                     <h1>Dr. Faryal Razzaq</h1>
                         <h4>Assistant Professor<br>Management Sciences</h4>
