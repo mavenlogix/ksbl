@@ -334,10 +334,12 @@ include('../partials/head.php');
                                 </span>
                             </a>
                         </div>
+                        
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">Dr. Athar Siddiqui
-                                <span>Associate Professor<br>
-                                    OB & HR</span>
+                            <a href="faculty-profile/Dr-Abdul-Rahim-Nasir.php">Dr. Abdul Rahim Nasir
+                                <span>Professor<br>
+                                Business and Supply Chain Analytics<br>
+                                </span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
@@ -356,8 +358,8 @@ include('../partials/head.php');
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="faculty-profile/Dr-Jawaid-Abdul-Ghani.php">Dr. Jawaid Abdul Ghani
-                                <span>Professor<br>Strategy & Marketing Research </span>
+                            <a href="faculty-profile/Dr-Faryal-Razzaq.php">Dr. Faryal Razzaq
+                                <span>Assistant Professor<br>Management Sciences</span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
@@ -366,10 +368,17 @@ include('../partials/head.php');
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">Dr. Athar Siddiqui
+                                <span>Associate Professor<br>
+                                    OB & HR</span>
+                            </a>
+                        </div>
+                        <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">Dr. Shoaib ul Haq
                                 <span>Associate Professor<br>General Management & Digital Economy</span>
                             </a>
                         </div>
+                     
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">Dr. Muhammad Talha Salam
                                 <span>Assistant Professor<br>Marketing & Analytics</span>
