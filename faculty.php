@@ -219,6 +219,23 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person Dr. Athar Siddiqui -->
 
+               <!-- Person Dr. Shoaib ul Haq -->
+               <div class="person come-out">
+                    <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">
+                        <div class="person-info">
+                            <img src="images/faculty/Dr Shoaib_new.jpg" alt="Dr. Shoaib ul Haq" />
+                        </div>
+                    </a>
+                    <div class="person-detail">
+                        <div class="name">Dr. Shoaib ul Haq</div>
+                        <div class="designation">
+                            Associate Professor<br>
+                            General Management & Digital Economy
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Shoaib ul Haq -->
+
                 <!-- Person 6 -->
                 <div class="person come-out">
                     <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">
@@ -253,22 +270,7 @@ include('./partials/head.php');
                 <!-- END Person Dr. Asim Khwaja -->
 
                 
-                <!-- Person Dr. Shoaib ul Haq -->
-                <div class="person come-out">
-                    <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">
-                        <div class="person-info">
-                            <img src="images/faculty/Dr Shoaib_new.jpg" alt="Dr. Shoaib ul Haq" />
-                        </div>
-                    </a>
-                    <div class="person-detail">
-                        <div class="name">Dr. Shoaib ul Haq</div>
-                        <div class="designation">
-                            Associate Professor<br>
-                            General Management & Digital Economy
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person Dr. Shoaib ul Haq -->
+
 
 
             </div>
