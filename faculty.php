@@ -120,7 +120,7 @@ include('./partials/head.php');
 
                 <!-- Person Dr. Abdul Rahim Nasir -->
               <div class="person come-out">
-                    <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">
+                    <a href="faculty-profile/Dr-Abdul-Rahim-Nasir.php">
                         <div class="person-info">
                             <img src="images/faculty/Abdul-Rahim.jpg" alt="Dr. Abdul Rahim Nasir" />
                         </div>

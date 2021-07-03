@@ -2686,6 +2686,12 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 560px;
 }
 
+.faculty_grid_left.dr-abdul-rahim {
+    background: url(../images/about/faculty-abdul-rahim.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
+
 .faculty_grid_center .nav-tabs .nav-item {
     width: 146px;
     margin: auto;
@@ -3273,6 +3279,12 @@ background-color: rgb(255 255 255 / 0%);
         height: 224px;
     }
 
+    .faculty_grid_left.dr-abdul-rahim {
+        background: url(../images/about/faculty-abdul-rahim_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
+
     .faculty_grid {
         grid-template-columns: auto auto;
         grid-row-gap: 50px;
@@ -3373,6 +3385,12 @@ background-color: rgb(255 255 255 / 0%);
 
     .faculty_grid_left.dr-asim-khwaja {
         background: url(../images/about/faculty-asim_khwaja_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px;
+    }
+
+    .faculty_grid_left.dr-abdul-rahim {
+        background: url(../images/about/faculty-abdul-rahim_1024.jpg) no-repeat top center;
         background-size: cover;
         height: 153px;
     }
