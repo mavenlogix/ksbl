@@ -18,7 +18,7 @@ include('./partials/head.php');
     <!-----------------------------------------------------------------#
     #                       Header START                               #
     #----------------------------------------------------------------->
-    <header id="header" class="run" style="min-height: 750px;height: 100%;">
+    <header id="header" class="run" style="min-height: 675px;height: 100%;">
         <!--div class="header-video">
             <img src="images/whyksbl_header.jpg" alt="Why KSBL"/>
             </div-->
@@ -38,7 +38,7 @@ include('./partials/navbar.php');
             </div>
         </div><!-- container -->
         <div class="whyksbl_accordion">
-            <div class="whyksbl_accordion_child" style="z-index: 2;">
+            <div class="whyksbl_accordion_child" style="padding-bottom: 100px">
                 <div class="container">
                     <div class="accordion" id="faq">
                         <div class="card">
