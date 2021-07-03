@@ -313,7 +313,7 @@ include('./partials/head.php');
                 <!-- Person 18 -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/m-taha-thanvi.jpg" alt="Mohammad Taha Thanvi" />
+                        <img src="images/faculty/Taha-Thanvi.jpg" alt="Mohammad Taha Thanvi" />
                         <!-- <div class="hover-detail">
 
                             <span class="orange-yellow-text">Mohammad Taha Thanvi</span> - Trade Marketing<br><br><br>
