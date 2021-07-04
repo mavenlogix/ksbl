@@ -3057,6 +3057,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
 .whyksbl_accordion {
     margin: 50px 0;
+    z-index: 0;
 }
 
 .whyksbl_accordion #faq .card {

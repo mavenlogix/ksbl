@@ -26,7 +26,7 @@ include('./partials/head.php');
             <?php
 include('./partials/navbar.php'); 
 ?>
-            <div class="header-content d-block">
+            <div class="header-content ">
                 <a href="index.php" title="KSBL" class="logo">
                     <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
