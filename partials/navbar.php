@@ -16,11 +16,12 @@
             <li class="expend">
                 <a href="javascript:void(0)" class="<?= is_active(['mba/admissions', 'mba/fee', 'mba/financial-assistance', 'mba/information-sessions', 'why-KSBL.php']) ?>" title="Admissions">Admissions</a>
                 <ul class="sub-menu">
+                    <li><a href="why-KSBL.php" title="Why KSBL">Why KSBL</a></li>
                     <li><a href="mba/admissions/" title="Admission Process">Admission Process</a></li>
                     <li><a href="mba/fee/" title="Fee Structure">Fees</a></li>
                     <li><a href="mba/financial-assistance/" title="Financial Assistance">Financial Assistance</a></li>
                     <li><a href="mba/information-sessions/" title="Open House Sessions">Open House</a></li>
-                    <li><a href="why-KSBL.php" title="Why KSBL">Why KSBL</a></li>
+                    
                 </ul>
             </li>
             <li><a href="blog/category/news-and-updates/" class="<?= is_active('blog/category/news-and-updates') ?>" title="News">News</a></li>
@@ -86,11 +87,12 @@
                         <div class="admission heder-menu">
                             <h3>Admissions</h3>
                             <ul>
+                                <li><a href="why-KSBL.php" class="<?= is_active('why-KSBL.php') ?>" title="Why KSBL">Why KSBL</a></li>
                                 <li><a href="mba/admissions/" class="<?= is_active('mba/admissions') ?>" title="Admission Process">Admission Process</a></li>
                                 <li><a href="mba/fee/" class="<?= is_active('mba/fee') ?>" title="Fee Structure">Fees</a></li>
                                 <li><a href="mba/financial-assistance/" class="<?= is_active('mba/financial-assistance') ?>" title="Financial Assistance">Financial Assistance</a></li>
                                 <li><a href="mba/information-sessions/" class="<?= is_active('mba/information-sessions') ?>" title="Open House Sessions">Open House</a></li>
-                                <li><a href="why-KSBL.php" class="<?= is_active('why-KSBL.php') ?>" title="Why KSBL">Why KSBL</a></li>
+                                
                             </ul>
                         </div>
                         <div class="ksbl-menu heder-menu">
