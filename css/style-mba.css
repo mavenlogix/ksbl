@@ -2502,7 +2502,7 @@ input::placeholder {
     display: none;
 }
 
-.mba.why-ksbl-page .header_center h1 {
+.why-ksbl-page .header_center h1 {
     color: #000000;
     font-size: 50px;
     font-weight: normal;
@@ -2514,7 +2514,7 @@ input::placeholder {
  
 }
 
-.mba.why-ksbl-page .header_center h2 {
+.why-ksbl-page .header_center h2 {
     font-family: MyriadPro-Cond;
     font-size: 32px;
     color: #000;
@@ -2527,7 +2527,7 @@ input::placeholder {
     margin: 30px auto 5px;
 }
 
-.mba.why-ksbl-page .header_center p {
+.why-ksbl-page .header_center p {
     font-family: MyriadPro-Cond;
     font-size: 24px;
 

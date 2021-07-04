@@ -18,7 +18,7 @@ include('./partials/head.php');
     <!-----------------------------------------------------------------#
     #                       Header START                               #
     #----------------------------------------------------------------->
-    <header id="header" class="run" style="min-height: 675px;height: 100%;">
+    <header id="header" class="run headerMove" >
         <!--div class="header-video">
             <img src="images/whyksbl_header.jpg" alt="Why KSBL"/>
             </div-->
@@ -33,12 +33,12 @@ include('./partials/navbar.php');
                 <div class="header_center text-center">
                     <h1>WHY KSBL?</h1>
                     <h2>KSBL Curriculum . Core Competencies</h2>
-                    <p>Five distinctive overarching competencies make the foundation of any academic learning <br> at KSBL leaving a transformative lifelong mark</p>
+                    <p>Five distinctive overarching competencies make the foundation of any academic learning <br class="d-none d-lg-block"> at KSBL leaving a transformative lifelong mark</p>
                 </div><!-- container -->
             </div>
         </div><!-- container -->
         <div class="whyksbl_accordion">
-            <div class="whyksbl_accordion_child" style="padding-bottom: 100px">
+            <div class="whyksbl_accordion_child" >
                 <div class="container">
                     <div class="accordion" id="faq">
                         <div class="card">
