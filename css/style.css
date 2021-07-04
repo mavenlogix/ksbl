@@ -328,7 +328,8 @@ nav#top-navigation li.expend ul li:before {
 }
 
 .header-model {
-    z-index: 999;
+    /*z-index: 999;*/
+    z-index: 0;
     position: fixed;
     top: -650px;
     left: 0;
@@ -555,7 +556,7 @@ video,
 }
 
 #header .container {
-    z-index: 4;
+    z-index: 43;
 }
 
 @media (max-width:576px) {
