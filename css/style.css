@@ -3062,6 +3062,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 .whyksbl_accordion #faq .card {
     border-radius: 0;
     border: 0.9px solid rgb(0 0 0 / 50%);
+    border-bottom: 0;
 
     background: rgb(255 255 255 / 50%);
 }
@@ -3092,7 +3093,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     border-radius: 0;
     position: relative;
     font-family: MyriadPro-Cond;
-    ;
+   
 }
 
 .whyksbl_accordion #faq .card .card-header .btn-header-link span {
