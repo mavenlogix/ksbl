@@ -3098,11 +3098,15 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     border: 0;
     border-radius: 0;
     position: relative;
-    font-family: MyriadPro-Cond;
+    font-family: MyriadPro-Cond;  
+    padding: 0 20px 0 0;
+    display: flex;
+    height: 56px;
+    align-items: center;
 
 }
 
-.whyksbl_accordion #faq .card .card-header .btn-header-link span {
+/*.whyksbl_accordion #faq .card .card-header .btn-header-link span {
     position: absolute;
     top: -27px;
     bottom: 0;
@@ -3112,6 +3116,22 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     font-size: 66px;
     color: #fff;
     font-weight: 600;
+}*/
+
+.whyksbl_accordion #faq .card .card-header .btn-header-link span {
+ 
+    width: 60px;
+    background: #f37021;
+    font-size: 55px;
+    color: #fff;
+    font-weight: 600;
+    height: 100%;
+ 
+    display: inline-flex;
+    margin-right: 20px;
+  
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
 .whyksbl_accordion .whyksbl_accordion_child .container {
@@ -3126,7 +3146,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     right: 10px;
     top: -5px;
     font-family: MyriadPro-Cond;
-    ;
+  
 }
 
 .whyksbl_accordion #faq .card .card-header .btn-header-link.collapsed {
@@ -3135,6 +3155,10 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     border: 0;
 }
 
+.whyksbl_accordion #faq .card .card-header .btn-header-link.collapsed  span {
+ 
+    background: #ff9f19;
+}
 .whyksbl_accordion #faq .card .card-header .btn-header-link.collapsed:after {
     content: "";
     font-size: initial;
@@ -3679,7 +3703,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
         width: 100%;
     }
 
-    
+
     .why-ksbl-page .header_center h2 {
         max-width: 100%;
         font-size: 24px;
@@ -3714,7 +3738,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
     .whyksbl_accordion #faq .card .card-header .btn-header-link {
         font-size: 20px;
-        padding: 10px 20px 10px 70px;
+      
     }
 
     .whyksbl_accordion #faq .card .card-header .btn-header-link.collapsed:after {
@@ -3732,12 +3756,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
         top: 3px;
     }
 
-    .whyksbl_accordion #faq .card .card-header .btn-header-link span {
-        top: -25px;
-        width: 65px;
-        font-size: 60px;
-
-    }
+   
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -3903,7 +3922,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
     .whyksbl_accordion #faq .card .card-header .btn-header-link {
         font-size: 20px;
-        padding: 10px 20px 10px 70px;
+       
     }
 
     .whyksbl_accordion #faq .card .card-header .btn-header-link.collapsed:after {
@@ -3921,12 +3940,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
         top: 3px;
     }
 
-    .whyksbl_accordion #faq .card .card-header .btn-header-link span {
-        top: -25px;
-        width: 65px;
-        font-size: 60px;
-
-    }
+   
 }
 
 @media (min-width: 320px) and (max-width: 360px) {
