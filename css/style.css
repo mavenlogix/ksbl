@@ -3135,12 +3135,13 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     content: "";
     font-size: initial;
     position: absolute;
-    right: 10px;
-    top: 27px;
-    background-image: url('../images/expand_off.png');
-    background-size: 20px 2.2px;
-    width: 20px;
+    right: 12px;
+    top: 20px;
+    background: #000;
+
+    width: 22px;
     height: 2px;
+    background-repeat: no-repeat;
 
 }
 
@@ -3155,9 +3156,18 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     background-size: initial;
     width: initial;
     height: initial;
+    background: initial;
 
 }
 
+.whyksbl_accordion #faq .card .card-header .btn-header-link.collapsed:hover::after{
+   color: #f37021;
+    background: initial; 
+}
+
+.whyksbl_accordion #faq .card .card-header .btn-header-link:hover::after {
+    background: #f37021;
+}
 .whyksbl_accordion #faq .card .card-header .btn-header-link.collapsed {
     background: rgb(255 255 255 / 15%);
     color: #000;
