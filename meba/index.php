@@ -200,7 +200,7 @@ include('../partials/head.php');
                 The Program includes 120 credit hours of courses to be completed in 4 years.
             </div>
             <div class="right-side">
-                <h2>Specilizations:</h2>
+                <h2>Specialization:</h2>
                 <h2>- Finance </h2>
                 <h2>- Human Resources </h2>
                 <h2>- Marketing </h2>
