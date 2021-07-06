@@ -100,7 +100,7 @@ include('../partials/head.php');
                 </div>
                 <div class="mebaSecOneBoxTwo boxMeba">
                     <p>
-                        Acquiring marketing skills is useful in any career as it is a vital function of any business operation. All major industries investing in marketing and cstomer experoinces are now harnessing technology.
+                        Acquiring marketing skills is useful in any career as it is a vital function of any business operation. All major industries investing in marketing and customer experiences are now harnessing technology.
                     </p>
                 </div>
                 <div class="mebaSecOneBoxThree boxMeba">
@@ -132,7 +132,7 @@ include('../partials/head.php');
                 </div>
                 <div class="mebaSecOneBoxTwo boxMeba">
                     <p>
-                        Majoring in finance can help develop skills that can be used in a number os business situations and jobs. Specialzation in finance enbles you to work for a number of organizations seting you apart with a strong foundation.
+                        Majoring in finance can help develop skills that can be used in a number os business situations and jobs. Specialzation in finance enables you to work for a number of organizations setting you apart with a strong foundation.
                     </p>
                 </div>
                 <div class="mebaSecOneBoxThree boxMeba">
@@ -163,7 +163,7 @@ include('../partials/head.php');
                     <h2>Human Resources </h2>
                 </div>
                 <div class="mebaSecOneBoxTwo boxMeba">
-                    <p>Speclization in Human Resources gives you a thoroug undersynding of talent managemnt. It gives you a holistoic perpective on the various aspects of human resource managemnt.
+                    <p>Speclization in Human Resources gives you a thorough understanding of talent management. It gives you a holistic perspective on the various aspects of human resource managemnt.
                     </p>
                 </div>
                 <div class="mebaSecOneBoxThree boxMeba">

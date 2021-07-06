@@ -75,7 +75,7 @@ include('../partials/navbar.php');
                 <h2>Changing the Way Executives are Trained</h2>
                 <div class="detail">
                     <p>Mastery for executives and decision-makers rests in the knowledge they hold, the power to communicate and a detailed yet overarching understanding of the business at hand. Our executive education programs prepare and train for all-embracing components at play.
-                        <p>Executive Education at KSBL encourages and supports intellectual leadership and ongoing innovation across all major disciplines of business education. With the ambition of being the most cutting-edge executive education center in the region, we prepare professionals for the next stage in their career. It is through our deep learning that we understand the expectations of the industry, helping us to tailor our learning interventions, keeping the professionals knowledge and skillset absolutely market-relevant.</p>
+                        <p>Executive Education at KSBL encourages and supports intellectual leadership and ongoing innovation across all major disciplines of business education. With the ambition of being the most cutting-edge executive education center in the region, we prepare professionals for the next stage in their career. It is through our deep learning that we understand the expectations of the industry, helping us to tailor our learning interventions, keeping the professionals knowledge and skill sets absolutely market-relevant.</p>
                     </p>
                 </div>
             </div>
@@ -151,7 +151,7 @@ include('../partials/navbar.php');
                 </div>
             </div>
             <div class="contact-committee">
-                <span>Since pre-program reading is required, it is advised to send registration(s) at atleast 10 working days prior to the program.</span>
+                <span>Since pre-program reading is required, it is advised to send registration(s) at least 10 working days prior to the program.</span>
                 <h2>Contact our Executive Education Team</h2>
                 <a href="mailto:execed@ksbl.edu.pk">execed@ksbl.edu.pk</a>
                 <a href="tel:00922134855382">PABX: +923028222016, +92(21) 38771999, Ext 716</a>
