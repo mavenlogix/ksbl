@@ -163,7 +163,7 @@ include('../partials/head.php');
                     <h2>Human Resources </h2>
                 </div>
                 <div class="mebaSecOneBoxTwo boxMeba">
-                    <p>Speclization in Human Resources gives you a thorough understanding of talent management. It gives you a holistic perspective on the various aspects of human resource managemnt.
+                    <p>Speclization in Human Resources gives you a thorough understanding of talent management. It gives you a holistic perspective on the various aspects of human resource management.
                     </p>
                 </div>
                 <div class="mebaSecOneBoxThree boxMeba">
