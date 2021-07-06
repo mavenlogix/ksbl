@@ -398,50 +398,11 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person 18 -->
-      
-                <!-- Person 7 -->
-                <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/omar-abedin.jpg" alt="Omar Abedin" />
-                        <!-- <div class="hover-detail">
 
-                            <span class="orange-yellow-text">Omar Abedin</span> - Marketing<br><br><br>
-
-
-
-                        </div> -->
-                    </div>
-                    <div class="person-detail">
-                        <div class="name">Omar Abedin</div>
-                        <div class="designation">
-                            Marketing
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 7 -->
           
                 <!-- Person 17 -->
                 <!-- END Person 17 -->
-                <!-- Person 8 -->
-                <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/syed-noaman-asar.jpg" alt="Syed Noaman Asar" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Syed Noaman Asar</span> - Market Research & Analysis<br><br><br>
-
-
-
-                        </div> -->
-                    </div>
-                    <div class="person-detail">
-                        <div class="name">Syed Noaman Asar</div>
-                        <div class="designation">
-                            Market Research & Analysis
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 8 -->
+ 
                 <!-- Person 11 -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
@@ -508,7 +469,26 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Talal Arif -->
+               <!-- Person Syed Noaman Asar -->
+               <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/syed-noaman-asar.jpg" alt="Syed Noaman Asar" />
+                        <!-- <div class="hover-detail">
 
+                            <span class="orange-yellow-text">Syed Noaman Asar</span> - Market Research & Analysis<br><br><br>
+
+
+
+                        </div> -->
+                    </div>
+                    <div class="person-detail">
+                        <div class="name">Syed Noaman Asar</div>
+                        <div class="designation">
+                            Market Research & Analysis
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Syed Noaman Asar -->
 
 
 
