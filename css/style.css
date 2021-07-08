@@ -3222,6 +3222,13 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     padding-bottom: 100px
 }
 
+.content-section-search{
+    padding: 40px 0;
+}
+
+.content-section-search p:hover{
+  color: #ff9f19;
+}
 @media (min-width: 992px) and (max-width: 1199px) {
     .non_faculty_grid_img {
         height: 153px;
