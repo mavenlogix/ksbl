@@ -6374,7 +6374,13 @@ a.campus-link.active:before {
         max-width: 100%;
         padding-right: 0;
     }
+
+    .why-ksbl-page #header {
+    background: url(../images/whyksbl_mobile.jpg) no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
 }
+
 
 @media (max-width: 567px) {
 
