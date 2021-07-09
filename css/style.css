@@ -3222,13 +3222,33 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     padding-bottom: 100px
 }
 
-.content-section-search{
-    padding: 40px 0;
+
+.content-section-search+.content-section-search{
+    padding:  40px 0 0; 
+}
+.search_page  .tab-section{
+    padding: 40px 40px;
+}
+.content-section-search .address-area{
+    margin-bottom:0;
+}
+.content-section-search p{
+    margin-bottom: 0;
+}
+.content-section-search p+p{
+    margin-top: 5px;
 }
 
-.content-section-search p:hover{
+.content-section-search p:hover, .content-section-search a:hover{
   color: #ff9f19;
 }
+
+header.search_page{
+    background: url(../images/search_results_bgimage.jpg) no-repeat  center top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 @media (min-width: 992px) and (max-width: 1199px) {
     .non_faculty_grid_img {
         height: 153px;
