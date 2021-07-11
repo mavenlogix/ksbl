@@ -3256,6 +3256,8 @@ color: #444242;
 .why-ksbl-page .headerMove nav#top-navigation a:hover, .why-ksbl-page .headerMove #top-navigation a.active{
 color: #000;
 }
+
+
 @media (min-width: 992px) and (max-width: 1199px) {
     .non_faculty_grid_img {
         height: 153px;
