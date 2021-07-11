@@ -2511,7 +2511,7 @@ input::placeholder {
     text-align: center;
     line-height: 46px;
     margin-top: -100px;
- 
+
 }
 
 .why-ksbl-page .header_center h2 {
@@ -6376,12 +6376,22 @@ a.campus-link.active:before {
     }
 
     .why-ksbl-page #header {
-    background: url(../images/whyksbl_mobile.jpg) no-repeat center;
-    background-size: cover;
-    background-attachment: fixed;
-}
+        background: url(../images/whyksbl_mobile.jpg) no-repeat center;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    @supports (-webkit-touch-callout: none) {
+        header.search_page {
+            background: url(../images/search_results_bgimage.jpg) no-repeat center top;
+            background-size: cover;
+            background-attachment: inherit;
+        }
+
+    }
 
 }
+
 @media (max-width: 567px) {
 
     .mba.why-ksbl-page header,
