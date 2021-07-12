@@ -3751,12 +3751,7 @@ color: #000;
         font-size: 24px;
     }
 
-    .why-ksbl-page #header.headerMove {
-        background-attachment: fixed;
-        background-size: cover;
-        max-height: initial;
-    }
-
+  
     .whyksbl_accordion .whyksbl_accordion_child .container {
         max-width: 100%;
 
@@ -3942,11 +3937,7 @@ color: #000;
         font-size: 24px;
     }
 
-    .why-ksbl-page #header.headerMove {
-        background-attachment: fixed;
-        background-size: cover;
-        max-height: initial;
-    }
+   
 
     .whyksbl_accordion .whyksbl_accordion_child .container {
         max-width: 100%;

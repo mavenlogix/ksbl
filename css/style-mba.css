@@ -6375,20 +6375,14 @@ a.campus-link.active:before {
         padding-right: 0;
     }
 
-    .why-ksbl-page #header {
+    .why-ksbl-page #header.headerMove {
         background: url(../images/whyksbl_mobile.jpg) no-repeat center;
         background-size: cover;
-        background-attachment: fixed;
+        background-attachment: inherit;
+        max-height: initial;
     }
 
-    @supports (-webkit-touch-callout: none) {
-        header.search_page {
-            background: url(../images/search_results_bgimage.jpg) no-repeat center top;
-            background-size: cover;
-            background-attachment: inherit;
-        }
 
-    }
 
 }
 
