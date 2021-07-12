@@ -326,27 +326,19 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person Dr. Irfan Butt -->
 
-                 <!-- Person Dr. Muhammad Naiman Jalil -->
-                  <div class="person come-out no-hover">
+               <!-- Person Sohaib Jamal -->
+               <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/dr-naiman-jalil.jpg" alt="Dr. Muhammad Naiman Jalil" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Muhammad Naiman Jalil</span> - Supply Chain Management<br><br><br>
-
-
-
-                        </div> -->
+                        <img src="images/faculty/Sohaib Jamal.jpg" alt="Sohaib Jamal" />
                     </div>
                     <div class="person-detail">
-                        <div class="name">Dr. Muhammad Naiman Jalil</div>
+                        <div class="name">Sohaib Jamal</div>
                         <div class="designation">
-                            Supply Chain Management
+                             Accounting
                         </div>
                     </div>
                 </div>
-                <!-- END Person Dr. Muhammad Naiman Jalil -->
-
+                <!-- END Person Sohaib Jamal -->
 
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
@@ -489,6 +481,27 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Syed Noaman Asar -->
+                
+                 <!-- Person Dr. Muhammad Naiman Jalil -->
+                 <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/dr-naiman-jalil.jpg" alt="Dr. Muhammad Naiman Jalil" />
+                        <!-- <div class="hover-detail">
+
+                            <span class="orange-yellow-text">Muhammad Naiman Jalil</span> - Supply Chain Management<br><br><br>
+
+
+
+                        </div> -->
+                    </div>
+                    <div class="person-detail">
+                        <div class="name">Dr. Muhammad Naiman Jalil</div>
+                        <div class="designation">
+                            Supply Chain Management
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Muhammad Naiman Jalil -->
 
 
 
