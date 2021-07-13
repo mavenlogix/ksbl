@@ -20,7 +20,7 @@ $page_meta = [
         ]
     ], 'why-KSBL' => [
         //title
-        'title' => 'Success Stories - Karachi School of Business and Leadership',
+        'title' => 'WHY-KSBL - Karachi School of Business and Leadership',
         //meta tags
         'meta' => [
             'description' => 'Karachi School of Business and Leadership is your launchpad to learn, network and grow as an A-class  business and management professional.',
