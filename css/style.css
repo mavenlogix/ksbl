@@ -3093,7 +3093,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     text-align: left;
     border: 0;
     color: #000;
-    font-size: 24px;
+    font-size: 28px;
     padding: 10px 20px 10px 75px;
     border: 0;
     border-radius: 0;
@@ -3770,7 +3770,7 @@ color: #000;
     }
 
     .whyksbl_accordion #faq .card .card-body {
-        padding: 20px 40px 20px 65px;
+            padding: 20px 60px 20px 80px;
     }
 
     .whyksbl_accordion #faq .card .card-header .btn-header-link {
@@ -3957,7 +3957,7 @@ color: #000;
     }
 
     .whyksbl_accordion #faq .card .card-body {
-        padding: 20px 40px 20px 65px;
+            padding: 20px 60px 20px 80px;
     }
 
     .whyksbl_accordion #faq .card .card-header .btn-header-link {
