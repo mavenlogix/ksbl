@@ -47,7 +47,7 @@ include('./partials/navbar.php');
                             </div>
                             <div id="faq1" class="collapse show" aria-labelledby="faqhead1" data-parent="#faq">
                                 <div class="card-body">
-                                    Ethical leadership is at the very foundation of learning at KSBL. Our students are systematically encouraged to reflect on their values and beliefs and impact of their decisions. Our ‘people’ and ‘processes’ exhibit ethical conduct, while the curriculum is designed to provide opportunities for both self-development, interpersonal development, and community development. 
+                                Ethical leadership is at the very foundation of learning at KSBL. Our students are systematically encouraged to reflect on their values and beliefs and the impact their decisions have on others. Our curriculum and supporting activities help our students develop an ethical framework that lets them make the right decisions in a highly turbulent and challenging world. 
                                 </div>
                             </div>
                         </div>
@@ -58,7 +58,7 @@ include('./partials/navbar.php');
                             </div>
                             <div id="faq2" class="collapse " aria-labelledby="faqhead2" data-parent="#faq">
                                 <div class="card-body">
-                                   We provide students an intellectual ecosystem that encourages creativity and problem-solving, so they cultivate an entrepreneurial mindset. The mindset of seeking new opportunities that create value, and effectively managing resources is embedded into every aspect of our teaching. This training on outcome-based decision making and facing challenges is an integral part of any learning at KSBL. 
+                                We provide our students an intellectual ecosystem that encourages creativity and innovative thinking and problem-solving. Finding new solutions and creating new opportunities is embedded in all aspects of KSBL life. A desire to do things differently and to find better ways of dealing with old and new problems also shapes our teaching methods and learning approaches.
                                 </div>
                             </div>
                         </div>
@@ -68,7 +68,7 @@ include('./partials/navbar.php');
                             </div>
                             <div id="faq3" class="collapse " aria-labelledby="faqhead3" data-parent="#faq">
                                 <div class="card-body">
-                                   Digital literacy is crucial to institutional survival in today’s world. We thoroughly prepare all our students for a digital future that is both innovative and inclusive and empowers them for better decision making. Teaching how technology is evolving and what happens behind the scenes helps students become more analytical, and creative in their approach to using it for personal and professional gains. 
+                                Digital competency is crucial in today’s world. We prepare our students to become leaders in a technology-driven world by combining a broad range of business, analytical and digital skills. Using technology-enhanced learning, we take our students far beyond understanding of how technology works to teaching them how to use technology for solving problems and creating solutions.
                                 </div>
                             </div>
                         </div>
@@ -78,7 +78,7 @@ include('./partials/navbar.php');
                             </div>
                             <div id="faq4" class="collapse " aria-labelledby="faqhead3" data-parent="#faq">
                                 <div class="card-body">
-                                    Global citizenship skills are the acknowledgement that we all feed into one interconnected system driven by technology, financial systems, and politics. A core component of our curriculum is creating global competencies and building awareness about the wider world. Knowledge of how we fit into the global community creates self-assurance to thrive in a volatile interconnected world.  
+                                Business is truly global and therefore we ensure that our students also develop a global perspective. From working with a world-wide faculty to using international simulations and case studies, our students learn to analyse issues from different perspectives, embrace new experiences and develop emotional intelligence in order to successfully lead global teams in any industry anywhere.  
                                 </div>
                             </div>
                         </div>
@@ -88,7 +88,7 @@ include('./partials/navbar.php');
                             </div>
                             <div id="faq5" class="collapse " aria-labelledby="faqhead4" data-parent="#faq">
                                 <div class="card-body">
-                                    With a growing global population and finite resources of our shared planet, there is an increasing need to adopt environmentally and socially responsible business practices. KSBL programs broaden knowledge of the complex aspects of sustainability issues and develop meaningful insights.  These changing global paradigms also make it a priority for us to be part of a network of like-minded stakeholders supporting each other on the sustainability agenda.
+                                With a growing global population and finite resources of our shared planet, there is an increasing need to adopt environmentally and socially responsible business practices. KSBL programs broaden knowledge of the complex aspects of sustainability issues and develop meaningful insights. These changing global paradigms also make it a priority for us to be part of a network of like-minded stakeholders supporting each other on the sustainability agenda.
                                 </div>
                             </div>
                         </div>
