@@ -40,7 +40,7 @@ include('./partials/navbar.php');
         <div class="whyksbl_accordion">
             <div class="whyksbl_accordion_child" >
                 <div class="container">
-                    <div class="accordion" id="faq">
+                    <div class="accordion shadow" id="faq">
                         <div class="card">
                             <div class="card-header" id="faqhead1">
                                 <a href="#" class="btn btn-header-link" data-toggle="collapse" data-target="#faq1" aria-expanded="true" aria-controls="faq1"><span>1</span>Ethical Leadership Behavior</a>
