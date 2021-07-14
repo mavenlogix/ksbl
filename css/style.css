@@ -701,9 +701,9 @@ video,
         min-height: 100%;
     }
 
-    header#header:after {
+    /*header#header:after {
         background: rgba(0, 0, 0, .4);
-    }
+    }*/
 
     .header-model {
         top: -100vh;
