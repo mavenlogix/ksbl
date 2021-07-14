@@ -3135,7 +3135,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     content: "";
     font-size: initial;
     position: absolute;
-    right: 12px;
+    right: 15px;
     top: 20px;
     background: #000;
     width: 15px;
@@ -3148,8 +3148,8 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     content: "+";
     font-size: 30px;
     position: absolute;
-    right: 10px;
-    top: 0px;
+    right: 15px;
+    top: 1px;
     font-family: MyriadPro-Cond;
     background-image: initial;
     background-size: initial;
@@ -3774,7 +3774,7 @@ color: #000;
     }
 
     .whyksbl_accordion #faq .card .card-header .btn-header-link {
-        font-size: 18px;
+        font-size: 24px;
         height: 50px;
 
     }
@@ -3784,7 +3784,7 @@ color: #000;
 
         font-size: 24px;
         position: absolute;
-        right: 8px;
+        right: 10px;
         top: 4px;
 
     }
@@ -3793,6 +3793,7 @@ color: #000;
 
         width: 10px;
         height: 2px;
+        right: 10px;
 
     }
 
@@ -3961,7 +3962,7 @@ color: #000;
     }
 
     .whyksbl_accordion #faq .card .card-header .btn-header-link {
-        font-size: 24px;
+        font-size: 22px;
         height: 50px;
 
     }
@@ -3969,7 +3970,7 @@ color: #000;
     .whyksbl_accordion #faq .card .card-header .btn-header-link.collapsed:after {
         font-size: 24px;
         position: absolute;
-        right: 8px;
+        right: 10px;
         top: 4px;
 
     }
@@ -3977,6 +3978,7 @@ color: #000;
     .whyksbl_accordion #faq .card .card-header .btn-header-link:after {
         width: 10px;
         height: 2px;
+        right: 10px;
 
     }
 
