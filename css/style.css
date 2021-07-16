@@ -2635,7 +2635,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 }
 
 .faculty_grid_left.dr-faryal {
-    background: url(../images/about/faculty-Dr-Faryal-Razzaq_1024.jpg) no-repeat left center;
+    background: url(../images/about/faculty-Dr-Faryal-Razzaq.jpg) no-repeat left center;
     background-size: cover;
     height: 560px;
 }
@@ -3317,7 +3317,7 @@ color: #000;
     }
 
     .faculty_grid_left.dr-faryal {
-        background: url(../images/about/faculty-Dr-Faryal-Razzaq.jpg) no-repeat top center;
+        background: url(../images/about/faculty-Dr-Faryal-Razzaq_1024.jpg) no-repeat top center;
         background-size: cover;
         height: 224px;
     }
