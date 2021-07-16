@@ -87,7 +87,7 @@
                         <div class="admission heder-menu">
                             <h3>Admissions</h3>
                             <ul>
-                                <li><a href="why-KSBL.php" class="<?= is_active('why-KSBL.php') ?>" title="Why KSBL">Why KSBL</a></li>
+                                <li><a href="why-KSBL.php" class="<?= is_active(['why-KSBL.php', 'why-KSBL']) ?>" title="Why KSBL">Why KSBL</a></li>
                                 <li><a href="mba/admissions/" class="<?= is_active('mba/admissions') ?>" title="Admission Process">Admission Process</a></li>
                                 <li><a href="mba/fee/" class="<?= is_active('mba/fee') ?>" title="Fee Structure">Fees</a></li>
                                 <li><a href="mba/financial-assistance/" class="<?= is_active('mba/financial-assistance') ?>" title="Financial Assistance">Financial Assistance</a></li>
@@ -100,10 +100,10 @@
                             <ul>
                                 <li><a href="about/" class="<?= is_active('about') ?>" title="Vision & Mission">Vision & Mission</a></li>
                                 <li><a href="about/board-of-governors.php" class="<?= is_active('about/board-of-governors.php') ?>" title="Board of Governors">Board of Governors</a></li>
-                                <li><a href="faculty.php" class="<?= is_active('faculty.php') ?>" title="Faculty">Faculty</a></li>
+                                <li><a href="faculty.php" class="<?= is_active(['faculty.php', 'faculty']) ?>" title="Faculty">Faculty</a></li>
                                 <li><a href="about/karachi-education-initiative/" class="<?= is_active('about/karachi-education-initiative') ?>" title="Karachi Education Initiative (KEI)">Karachi Education Initiative (KEI)</a></li>
                                 <li><a href="careers" class="<?= is_active('careers') ?>" title="Jobs at KSBL">Jobs</a></li>
-                                <li><a href="contact-us.php" class="<?= is_active('contact-us.php') ?>" title="Contact Us">Contact Us</a></li>
+                                <li><a href="contact-us.php" class="<?= is_active(['contact-us.php', 'contact-us']) ?>" title="Contact Us">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
