@@ -329,7 +329,7 @@ include('./partials/head.php');
                <!-- Person Sohaib Jamal -->
                <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/Sohaib Jamal.jpg" alt="Sohaib Jamal" />
+                        <img src="images/faculty/Sohaib-Jamal.jpg" alt="Sohaib Jamal" />
                     </div>
                     <div class="person-detail">
                         <div class="name">Sohaib Jamal</div>
