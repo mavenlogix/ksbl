@@ -224,7 +224,7 @@ include('./partials/head.php');
                <div class="person come-out">
                     <a href="faculty-profile/Dr-Faryal-Razzaq.php">
                         <div class="person-info">
-                            <img src="images/faculty/Dr. Faryal Razzaq.jpg" alt="Dr. Faryal Razzaq" />
+                            <img src="images/faculty/Dr-Faryal-Razzaq.jpg" alt="Dr. Faryal Razzaq" />
                         </div>
                     </a>
                     <div class="person-detail">
