@@ -14,7 +14,7 @@
                 </ul>
             </li>
             <li class="expend">
-                <a href="javascript:void(0)" class="<?= is_active(['mba/admissions', 'mba/fee', 'mba/financial-assistance', 'mba/information-sessions', 'why-KSBL.php']) ?>" title="Admissions">Admissions</a>
+                <a href="javascript:void(0)" class="<?= is_active(['mba/admissions', 'mba/fee', 'mba/financial-assistance', 'mba/information-sessions', 'why-KSBL.php', 'why-KSBL']) ?>" title="Admissions">Admissions</a>
                 <ul class="sub-menu">
                     <li><a href="why-KSBL.php" title="Why KSBL">Why KSBL</a></li>
                     <li><a href="mba/admissions/" title="Admission Process">Admission Process</a></li>
