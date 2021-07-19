@@ -72,11 +72,15 @@ include('../../partials/navbar.php');
     <div class="content-section">
         <div class="container">
             <div class="content-area">
-                <h2>Fee Structure 2020-21</h2>
+                <h2>Fee Structure </h2>
                 <div class="fee-table">
                     <div class="table-row heading">
                         <div class="table-col">Fee Listings</div>
                         <div class="table-col">Amount in PKR</div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col">Graduate Programs</div>
+                        <div class="table-col"></div>
                     </div>
                     <div class="table-row">
                         <div class="table-col">* Application Fee</div>
