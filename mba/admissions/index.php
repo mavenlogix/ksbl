@@ -111,12 +111,12 @@ include('../../partials/navbar.php');
                             <div class="sec-row">
                                 <div class="sec-col heading"><strong>Eligibility Criteria</strong></div>
                                 <div class="sec-col">
-                                    <p>Graduate Programs</p>
+                                    <p style="margin-bottom: 0px">Graduate Programs</p>
                                     <ul>
                                         <li>16 years of Education at the time of Admission (Those awaiting result may also apply)</li>
                                         <li>Undergraduate CGPA 2.5 or more</li>
                                     </ul>
-                                    <p>Undergraduate Programs</p>
+                                    <p style="margin-bottom: 5px">Undergraduate Programs</p>
                                     <ul>
                                       <li>12 years of Education at the time of Admission (Those awaiting result may also apply)</li>
                                       <li>This includes <b>HSC</b> (min. 60% marks), <b>A Levels or Equivalent</b> (min. 1B, 2Cs & no grade less than C) & <b>IB</b></li>
@@ -126,10 +126,14 @@ include('../../partials/navbar.php');
                             <div class="sec-row">
                                 <div class="sec-col heading"><strong>Selection Process</strong></div>
                                 <div class="sec-col">
+                                <p style="margin-bottom: 0px">Graduate Programs</p>
                                     <ul>
-                                        Candidates are shortlisted based on:
                                         <li>KMAT (KSBL Management Admission Test). NTS GAT, GRE, GMAT are also accepted</li>
                                         <li>Interview by KSBL Admission Committee</li>
+                                    </ul>
+                                    <p style="margin-bottom: 5px">Undergraduate Programs</p>
+                                    <ul>
+                                      <li>SAT based Admission Test</li>
                                     </ul>
                                 </div>
                             </div>
