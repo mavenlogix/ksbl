@@ -111,9 +111,15 @@ include('../../partials/navbar.php');
                             <div class="sec-row">
                                 <div class="sec-col heading"><strong>Eligibility Criteria</strong></div>
                                 <div class="sec-col">
+                                    <p>Graduate Programs</p>
                                     <ul>
                                         <li>16 years of Education at the time of Admission (Those awaiting result may also apply)</li>
                                         <li>Undergraduate CGPA 2.5 or more</li>
+                                    </ul>
+                                    <p>Undergraduate Programs</p>
+                                    <ul>
+                                      <li>12 years of Education at the time of Admission (Those awaiting result may also apply)</li>
+                                      <li>This includes <b>HSC</b> (min. 60% marks), <b>A Levels or Equivalent</b> (min. 1B, 2Cs & no grade less than C) & <b>IB</b></li>
                                     </ul>
                                 </div>
                             </div>
