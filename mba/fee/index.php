@@ -90,6 +90,20 @@ include('../../partials/navbar.php');
                         <div class="table-col">Per Credit Hour Fee (All inclusive)</div>
                         <div class="table-col">25,000</div>
                     </div>
+                    <!-- undergraduate program -->
+                    <div class="table-row">
+                        <div class="table-col">Undergraduate Programs</div>
+                        <div class="table-col"></div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col">* Application Fee</div>
+                        <div class="table-col">3,000 <br>(Inclusive of Admissions Test) </div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col">Per Credit Hour Fee (All inclusive)</div>
+                        <div class="table-col">15,000</div>
+                    </div>
+
                     <div class="table-row">
                         <div class="table-col"><br>* Those not attempting KMAT will be required to pay PKR. 2,000 at the time of registration
                             <br>* KMAT fee includes 2 attempts
