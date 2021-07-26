@@ -356,20 +356,22 @@ include('./partials/head.php');
                 <!-- Person 12 -->
               
                 <!-- END Person 12 -->
-                <!-- Person 10 -->
-                <div class="person come-out no-hover">
+
+                  <!-- Person Dr. Nicole Cunningham -->
+                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/faraz-2.jpg" alt="Faraz Banduka" />
+                        <img src="images/faculty/Dr-Nicole-Cunningham.jpg" alt="Dr. Nicole Cunningham" />
                     
                     </div>
                     <div class="person-detail">
-                        <div class="name">Faraz Bandukda</div>
+                        <div class="name">Dr. Nicole Cunningham</div>
                         <div class="designation">
-                           Finance
+                           Marketing
                         </div>
                     </div>
                 </div>
-                <!-- END Person 10 -->
+                <!-- END Person Dr. Nicole Cunningham -->
+
                 <!-- Person 18 -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
@@ -424,10 +426,38 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person 12 -->
 
-
-
-                <!-- Person 3 -->
+             <!-- Person Faraz Bandukda -->
+                  <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/faraz-2.jpg" alt="Faraz Banduka" />
+                    
+                    </div>
+                    <div class="person-detail">
+                        <div class="name">Faraz Bandukda</div>
+                        <div class="designation">
+                           Finance
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Faraz Bandukda -->
+                             
+                  <!-- Person Talal Arif -->
                 <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/talal-arif.jpg" alt="Talal Arif" />
+                        
+                    </div>
+                    <div class="person-detail">
+                        <div class="name">Talal Arif</div>
+                        <div class="designation">
+                             Business & Corporate Law 
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Talal Arif -->
+
+             <!-- Person Syed Sohaib Ul Hassan -->
+                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
                         <img src="images/faculty/Sohaib Hasan.jpg" alt="Syed Sohaib Ul Hassan" />
                         <!-- <div class="hover-detail">
@@ -445,22 +475,8 @@ include('./partials/head.php');
                         </div>
                     </div>
                 </div>
-                <!-- END Person 2 -->
-                             
-                  <!-- Person Talal Arif -->
-                <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/talal-arif.jpg" alt="Talal Arif" />
-                        
-                    </div>
-                    <div class="person-detail">
-                        <div class="name">Talal Arif</div>
-                        <div class="designation">
-                             Business & Corporate Law 
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person Talal Arif -->
+                <!-- END Person Syed Sohaib Ul Hassan -->
+
                <!-- Person Syed Noaman Asar -->
                <div class="person come-out no-hover">
                     <div class="person-info no-hover">
