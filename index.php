@@ -52,7 +52,7 @@ include('./partials/head.php');
                             <a href="mba/" class="ksbl-program mba">
                                 <h4>MBA</h4>
                                 <div class="program-detail">
-                                    Full-time MBA program  designed to enhance your leadership potential
+                                    Full-time MBA program  designed to enhance your leadership <br>potential
                                 </div>
                             </a><!-- mba -->
                             
@@ -72,7 +72,7 @@ include('./partials/head.php');
                             <a href="./meba" class="ksbl-program executive-edu-mba">
                                 <h4>BS MEBA</h4>
                                 <div class="program-detail">
-                                    A well-rounded approach in teaching Management, Entrepreneurship and Business Administration
+                                   A well-rounded approach in teaching Management, Entrepreneurship & Business Administration potential EMBA
                                 </div>
                             </a><!-- executive-edu-mba -->
                             <a href="./bs-its" class="ksbl-program executive-edu-mba">
@@ -81,13 +81,13 @@ include('./partials/head.php');
                                     A holistic program enabling young minds to understand Information Technology and Systems
                                 </div>
                             </a><!-- executive-edu-mba -->
-                            <a href="executive-education-services/" class="ksbl-program executive-edu-mba">
+                          <!--   <a href="executive-education-services/" class="ksbl-program executive-edu-mba">
                                 <h4>Executive Education</h4>
                                 <div class="program-detail">
                                     Open enrollment & customized programs for Managers, Leaders & Innovators
                                 </div>
-                            </a><!-- executive-edu-mba -->
-                            
+                            </a>
+                             -->
                             <!--a href="ela/" class="ksbl-program engro-leadership-academy">
                                 <h4>Engro Leadership Academy</h4>
                                 <div class="program-detail">
