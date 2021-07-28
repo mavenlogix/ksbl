@@ -45,7 +45,7 @@ include('./partials/head.php');
 
                     <div class="ksbl-programs-wrap">
                     <div class="container">
-                        <h2>KSBL Programs</h2>
+                        <h2 class="text-uppercase">Admissions Open!</h2>
                         
                         <div class="ksbl-programs">
                         
