@@ -40,7 +40,7 @@ foreach ($files as $key => $file) {
         $title,
         strlen($text) > 180 ? substr($text, 0, 180) . '...' : $text,
         $text,
-        BASEURL . $file
+        $file
     );
     $files_processed[] = $file;
 }

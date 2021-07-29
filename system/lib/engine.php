@@ -21,15 +21,19 @@ class Engine
     }
     public function search($keyword, $limit = 10, $offset = 0)
     {
-        $raw = $this->eg->search($keyword, ['limit' => $limit, 'offset' => $offset])['documents'];
-        $raw = array_values($raw);
-        return array_map(function ($val) {
-            return [
-                'title' => $val['title'],
-                'url' => $val['url'],
-                'description' => $val['description'],
-            ];
-        }, $raw);
+        $raw = $this->eg->search($keyword, ['limit' => $limit, 'offset' => $offset]);
+        $num = $raw['numFound'];
+        $raw = array_values($raw['documents']);
+        return [
+            'total_results' => $num,
+            'results' => array_map(function ($val) {
+                return [
+                    'title' => $val['title'],
+                    'url' => $val['url'],
+                    'description' => $val['description'],
+                ];
+            }, $raw)
+        ];
     }
     public function clear()
     {
