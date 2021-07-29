@@ -30,7 +30,7 @@ define('SCRIPT_BASE', str_replace(['http://','https://'], '', $url));
     <base href="<?php echo $url ?>" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> <?= $metas['title'] ?> </title>
-    <?php foreach ($metas['meta'] as $meta_key => $meta_value): ?>
+    <?php foreach (@($metas['meta'] ?? []) as $meta_key => $meta_value): ?>
         <meta property="<?= $meta_key ?>" name="<?= $meta_key ?>" content="<?= $meta_value ?>">
     <?php endforeach ?>
     <link rel="icon" href="favicon.png" sizes="16x16">
