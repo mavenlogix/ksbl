@@ -19,6 +19,7 @@ if ($files) {
 $files_processed = [];
 foreach ($files as $key => $file) {
     $html = file_get_contents($file);
+    $headings = remove_spaces(strip_tags(get_headings(remove_scripts($html))));
     $text = remove_spaces(strip_tags(remove_scripts($html)));
     if (strlen($text) <= 1) {
         continue;
@@ -38,6 +39,7 @@ foreach ($files as $key => $file) {
     $engine->add(
         $key,
         $title,
+        $headings,
         strlen($text) > 180 ? substr($text, 0, 180) . '...' : $text,
         $text,
         $file
@@ -64,6 +66,13 @@ function remove_spaces($html)
 {
     $html = preg_replace('#\s+#is', ' ', $html);
     return trim(preg_replace('#\n+#is', ' ', $html));
+}
+
+function get_headings($html)
+{
+    $matches = [];
+    preg_match_all('#<h\d>.*?<\/h\d>#is', $html, $matches);
+    return implode(' ', $matches);
 }
 
 function print_rr($data)

@@ -4,13 +4,11 @@ if (!isset($_GET['debug'])) {
 }
 require_once './lib/engine.php';
 $engine = new Engine();
-if (isset($_POST['q'])) {
+if (isset($_GET['term'])) {
     header('Content-Type: application/json');
-    $res = $engine->suggest($_POST['q']);
+    $res = $engine->suggest($_GET['term']);
     if ($res) {
-        echo json_encode(['success' => $res]);
-    } else {
-        echo json_encode(['error' => 'No result found']);
+        echo json_encode($res);
     }
 }
 exit;

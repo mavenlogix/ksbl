@@ -4,12 +4,13 @@ define('LIB', __DIR__);
 
 class Engine
 {
-    public function add($id, $title, $description, $content, $url)
+    public function add($id, $title, $headings, $description, $content, $url)
     {
         return $this->eg->update([
             "id" => $id,
             'type' => 'page',
             "title" => $title,
+            "headings" => $headings,
             "description" => $description,
             "content" => $content,
             "url" => $url,
@@ -58,21 +59,27 @@ class Engine
                         "_filterable" => true,
                         "_boost" => 5,
                     ],
+                    "headings" => [
+                        '_type' => 'text',
+                        '_indexed' => true,
+                        '_filterable' => true,
+                        "_boost" => 10,
+                    ],
                     "description" => [
                         "_type" => "text",
                         "_indexed" => false,
-                        "_filterable" => true,
+                        "_filterable" => false,
                     ],
                     "content" => [
                         "_type" => "text",
-                        "_indexed" => true,
-                        "_filterable" => true,
+                        "_indexed" => false,
+                        "_filterable" => false,
                         "_boost" => 10,
                     ],
                     "url" => [
                         "_type" => "text",
-                        "_indexed" => true,
-                        "_filterable" => true,
+                        "_indexed" => false,
+                        "_filterable" => false,
                         "_boost" => 0.5,
                     ],
                 ],
