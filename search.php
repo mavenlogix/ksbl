@@ -1,3 +1,14 @@
+<?php
+if (!isset($_GET['debug'])) {
+    ini_set('display_errors', 0);
+}
+$results = [];
+if(isset($_GET['q'])){
+    require_once './system/lib/engine.php';
+    $engine = new Engine();
+    $results = $engine->search($_GET['q'], $_GET['limit'] ?? 10, $_GET['page'] ?? 0);
+}
+?>
 <!DOCTYPE html>
 <html>
 
@@ -33,33 +44,27 @@ include('./partials/navbar.php');
             </div>
             <div class="open-house-content">
                 <h1>SEARCH RESULTS</h1>
-                <div class="page-detail">Your Searched For <b>'MBA FEE'</b> - 5 results found:</div>
+                <div class="page-detail">Your Searched For <b>'<?= htmlentities($_GET['q']) ?>'</b> - <?= $results['total_results'] ?? 0 ?> results found:</div>
                 <div class="open-house-tabs">
                     <!-- === Tab 1 === -->
-                    <div class="tab-section active">
+                    <div class="tab-section active resultsdiv">
+                        <?php if(empty(@$results['results'])): ?>
+                            <div>Oops, we couldn't find what you were looking for. Go back home</div>
+                        <?php endif?>
+                        <?php foreach ($results['results'] as $result):?>
                         <div class="content-section-search">
                             <div class="address-area">
-                                <h2>MBA Fee Structure</h2>
+                                <h2><?= $result['title'] ?></h2>
                                 <div class="complete-address">
-                                    <a href="" class="font-weight-bold">www.ksbl.edu.pk > mba > Fee</a>
-                                    <p>KSBL Curriculum . Core Competencies</p>
+                                    <a href="<?= $url . $result['url'] ?>" class="font-weight-bold">www.ksbl.edu.pk > <?= $result['pretty-url'] ?></a>
+                                    <p><?= $result['description'] ?></p>
                                 </div>
                             </div>
-                          
                         </div>
-                         <div class="content-section-search">
-                            <div class="address-area">
-                                <h2>General Enquiries</h2>
-                                <div class="complete-address">
-                                    <a href="" class="font-weight-bold">www.ksbl.edu.pk > mba > Fee</a>
-                                    <p>KSBL Curriculum . Core Competencies</p>
-                                </div>
-                            </div>
-                          
-                        </div>
-
+                        <?php endforeach ?>
                     </div>
-
+                    <button type="button" class="btn btn-default btn-back">Back</button>
+                    <button type="button" class="btn btn-default btn-next">Next</button>
                     <!-- === END Tab 1 === -->
                 </div>
             </div>
@@ -76,7 +81,52 @@ include('./partials/footer.php');
 <?php
 include('./partials/footer-scripts.php');
 ?>
-
+<script>
+    window.q = '<?= $_GET['q'] ?? '' ?>';
+    window.page = '<?= $_GET['page'] ?? 0 ?>';
+    window.total_results = <?= $results['total_results'] ?? 0 ?>;
+    function getresults() {
+        $.ajax({
+            type: "POST",
+            url: "<?= $url ?>system/search.php",
+            data: {
+                q: window.q,
+                page: window.page
+            },
+            success: function (res) {
+                if(res.success && res.success.results){
+                    html = '';
+                    res.success.results.forEach(el => {
+                        html += `<div class="content-section-search">
+                            <div class="address-area">
+                                <h2>${el.title}</h2>
+                                <div class="complete-address">
+                                    <a href="<?= $url ?>${el.url}" class="font-weight-bold">www.ksbl.edu.pk > ${el['pretty-url']}</a>
+                                    <p>${el.description}</p>
+                                </div>
+                            </div>
+                        </div>`
+                    });
+                    $('.resultsdiv').html(html)
+                }
+            }
+        });
+    }
+    $(document).ready(function () {
+        $('.btn-next').on('click', function () {
+            if((window.page + 1) * 10 < window.total_results){
+                window.page++
+                getresults()
+            }
+        });
+        $('.btn-back').on('click', function () {
+            if(window.page > 0){
+                window.page--
+                getresults()
+            }
+        });
+    });
+</script>
 </body>
 
 </html>

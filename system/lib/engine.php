@@ -14,6 +14,7 @@ class Engine
             "description" => $description,
             "content" => $content,
             "url" => $url,
+            "pretty-url" => $this->generate_link_text($url),
         ]);
     }
     public function suggest($keyword)
@@ -22,7 +23,7 @@ class Engine
     }
     public function search($keyword, $limit = 10, $offset = 0)
     {
-        $raw = $this->eg->search($keyword, ['limit' => $limit, 'offset' => $offset]);
+        $raw = $this->eg->search($keyword, ['limit' => $limit, 'offset' => $offset * $limit]);
         $num = $raw['numFound'];
         $raw = array_values($raw['documents']);
         return [
@@ -31,9 +32,10 @@ class Engine
                 return [
                     'title' => $val['title'],
                     'url' => $val['url'],
+                    'pretty-url' => $val['pretty-url'],
                     'description' => $val['description'],
                 ];
-            }, $raw)
+            }, $raw),
         ];
     }
     public function clear()
@@ -43,6 +45,21 @@ class Engine
     public function build()
     {
         $this->eg->getIndex()->rebuild();
+    }
+    private function generate_link_text($url)
+    {
+        $url = str_replace('.php', '', $url);
+        $url = explode('/', $url);
+        $url = array_map(function ($val) {
+            return ucwords(preg_replace('#[\W_]+#is', ' ', $val));
+        }, $url);
+        $url = array_filter($url, function ($val) {
+            if (empty($val) || strtolower(trim($val)) == 'index') {
+                return false;
+            }
+            return true;
+        });
+        return implode(' > ', $url);
     }
     private $eg;
     public function __construct()
@@ -77,6 +94,12 @@ class Engine
                         "_boost" => 10,
                     ],
                     "url" => [
+                        "_type" => "text",
+                        "_indexed" => false,
+                        "_filterable" => false,
+                        "_boost" => 0.5,
+                    ],
+                    "pretty-url" => [
                         "_type" => "text",
                         "_indexed" => false,
                         "_filterable" => false,

@@ -35,8 +35,10 @@
             <div class="search-content header-model">
                 <div class="container">
                     <h2>Search KSBL</h2>
-                    <script async src="https://cse.google.com/cse.js?cx=5a67611eb2aef8e92"></script>
-                    <div class="gcse-search"></div>
+                    <form action="<?= $url ?>search.php">
+                        <input type="text" name="q" id="searchfield" class="search" style="padding: 1px 6px; border: 1px solid #ddd; width: 99%; height: 40px">
+                        <button type="submit">Submit</button>
+                    </form>
                 </div>
             </div>
         </div>
