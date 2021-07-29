@@ -2,7 +2,7 @@
 <html>
 <!-- <title>KSBL | About Us, Karachi Education Initiative</title> -->
 <?php 
-
+$page_meta_key = 'karachi-education-initiative';
 include('../../partials/head.php');
 
 ?>
