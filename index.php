@@ -17,7 +17,7 @@ include('./partials/head.php');
     <!-----------------------------------------------------------------#
 	#                       Header START                               #
 	#----------------------------------------------------------------->
-    <header id="header" class="run ">
+    <header id="header" class="run">
         <div class="header-video">
             <video id="myvideo" width="1000" height="400" autoplay loop muted playsinline>
                 <source class="active" src="images/ksbl-video-desktop.mp4" data-mobile="images/ksbl-video-mobile.mp4" data-desktop="images/ksbl-video-desktop.mp4" type="video/mp4">
@@ -35,19 +35,17 @@ include('./partials/head.php');
 
             <a href="index.php" title="KSBL" class="logo">
                 <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
-                <h1 class="d-block d-md-none mt-n1">Where leaders take flight...</h1>
-               <h2 class=" homeHeading d-sm-none d-block mt-5">Admissions Open!</h2>
             </a>
         </div><!-- container -->
         <div class="header-bottom">
                 <div class="container">
-                    <h1  class="d-none d-md-block">Where leaders take flight...</h1>
+                    <h1>Where leaders take flight...</h1>
                 </div><!-- container -->
                 
 
                     <div class="ksbl-programs-wrap">
                     <div class="container">
-                        <h2 class="homeHeading">Admissions Open!</h2>
+                        <h2 class="text-uppercase homeHeading">Admissions Open!</h2>
                         
                         <div class="ksbl-programs">
                         
