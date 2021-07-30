@@ -36,7 +36,7 @@ include('./partials/head.php');
             <a href="index.php" title="KSBL" class="logo">
                 <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 <h1 class="d-block d-md-none mt-n1">Where leaders take flight...</h1>
-               <h2 class=" homeHeading d-sm-none d-block mt-5">Admissions Open!</h2>
+               
             </a>
         </div><!-- container -->
         <div class="header-bottom">
