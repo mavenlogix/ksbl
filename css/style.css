@@ -757,7 +757,7 @@ h1 {
     background: rgba(0, 0, 0, .5);
 }
 
-.ksbl-programs-wrap h2 {
+.ksbl-programs-wrap h2.homeHeading, .home  h2.homeHeading{
     font-weight: normal;
     text-align: center;
     text-transform: uppercase;
@@ -3264,7 +3264,7 @@ header.search_page {
 
 
 .why-ksbl-page .headerMove nav#top-navigation a:hover,
-.why-ksbl-page .headerMove #top-navigation a.active {
+.why-ksbl-page .headerMove #top-navigation a.active, .contact-us nav#top-navigation li:before {
     color: #000;
 }
 
