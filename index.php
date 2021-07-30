@@ -42,6 +42,7 @@ include('./partials/head.php');
         <div class="header-bottom">
                 <div class="container">
                     <h1  class="d-none d-md-block">Where leaders take flight...</h1>
+                     <h2 class=" homeHeading d-sm-none d-block mt-5">Admissions Open!</h2>
                 </div><!-- container -->
                 
 
