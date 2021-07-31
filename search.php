@@ -154,6 +154,9 @@ include('./partials/footer-scripts.php');
         });
         $('ul.pagination').on('click', '.gotopage', function (e) {
             e.preventDefault()
+            if($(this).data('page') == window.page){
+                return
+            }
             window.page = $(this).data('page')
             window.history.pushState('', '', window.location.href.split('?')[0] + `?q=${window.q}&page=${window.page}`);
             getresults()
