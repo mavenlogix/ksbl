@@ -63,8 +63,14 @@ include('./partials/navbar.php');
                         </div>
                         <?php endforeach ?>
                     </div>
-                    <button type="button" class="btn btn-default btn-back">Back</button>
-                    <button type="button" class="btn btn-default btn-next">Next</button>
+                    <ul class="pagination">
+                        <li class="page-item <?= $_GET['page'] == 1 ? 'disabled' : null ?>"><a class="page-link btn-back" href="#">Previous</a></li>
+                        <?php $pages = ceil($results['total_results'] / 10);
+                        for ($page=1; $page<=$pages; $page++) { ?>
+                            <li class="page-item <?= $_GET['page'] == $page ? 'active' : null ?>"><a class="page-link gotopage" data-page="<?= $page ?>" href="#"><?= $page ?></a></li>
+                        <?php } ?>
+                        <li class="page-item <?= $_GET['page'] == $pages ? 'disabled' : null ?>"><a class="page-link btn-next" href="#">Next</a></li>
+                    </ul>
                     <!-- === END Tab 1 === -->
                 </div>
             </div>
@@ -85,6 +91,7 @@ include('./partials/footer-scripts.php');
     window.q = '<?= $_GET['q'] ?? '' ?>';
     window.page = '<?= $_GET['page'] ?? 1 ?>';
     window.total_results = <?= $results['total_results'] ?? 0 ?>;
+    window.total_pages = <?= ceil($results['total_results'] / 10) ?>;
     function getresults() {
         $.ajax({
             type: "POST",
@@ -108,24 +115,48 @@ include('./partials/footer-scripts.php');
                         </div>`
                     });
                     $('.resultsdiv').html(html)
+                    button_toggle()
                 }
             }
         });
     }
+    function button_toggle() {
+        var back_btn = $('.btn-back').closest('li');
+        var next_btn = $('.btn-next').closest('li');
+        var pagination = $('ul.pagination')
+        back_btn.removeClass('disabled')
+        next_btn.removeClass('disabled')
+        pagination.find('li.active').removeClass('active')
+        pagination.find(`li:nth-child(${window.page + 1})`).addClass('active')
+        if(window.page == 1){
+            back_btn.addClass('disabled')
+        }
+        if(window.page + 1 > window.total_pages){
+            next_btn.addClass('disabled')
+        }
+    }
     $(document).ready(function () {
-        $('.btn-next').on('click', function () {
+        $('.btn-next').on('click', function (e) {
+            e.preventDefault()
             if((window.page  * 10) < window.total_results){
                 window.page++
                 window.history.pushState('', '', window.location.href.split('?')[0] + `?q=${window.q}&page=${window.page}`);
                 getresults()
             }
         });
-        $('.btn-back').on('click', function () {
+        $('.btn-back').on('click', function (e) {
+            e.preventDefault()
             if(window.page > 1){
                 window.page--
                 window.history.pushState('', '', window.location.href.split('?')[0] + `?q=${window.q}&page=${window.page}`);
                 getresults()
             }
+        });
+        $('ul.pagination').on('click', '.gotopage', function (e) {
+            e.preventDefault()
+            window.page = $(this).data('page')
+            window.history.pushState('', '', window.location.href.split('?')[0] + `?q=${window.q}&page=${window.page}`);
+            getresults()
         });
     });
 </script>
