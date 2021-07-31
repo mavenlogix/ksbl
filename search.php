@@ -6,7 +6,7 @@ $results = [];
 if(isset($_GET['q'])){
     require_once './system/lib/engine.php';
     $engine = new Engine();
-    $results = $engine->search($_GET['q'], $_GET['limit'] ?? 10, $_GET['page'] ?? 0);
+    $results = $engine->search($_GET['q'], $_GET['limit'] ?? 10, $_GET['page'] ?? 1);
 }
 ?>
 <!DOCTYPE html>
@@ -56,7 +56,7 @@ include('./partials/navbar.php');
                             <div class="address-area">
                                 <h2><?= $result['title'] ?></h2>
                                 <div class="complete-address">
-                                    <a href="<?= $url . $result['url'] ?>" class="font-weight-bold">www.ksbl.edu.pk > <?= $result['pretty-url'] ?></a>
+                                    <a href="<?= $url . $result['url'] ?>" class="font-weight-bold">www.ksbl.edu.pk > <?= implode(' > ', explode(',', $result['pretty-url'])) ?></a>
                                     <p><?= $result['description'] ?></p>
                                 </div>
                             </div>
@@ -83,7 +83,7 @@ include('./partials/footer-scripts.php');
 ?>
 <script>
     window.q = '<?= $_GET['q'] ?? '' ?>';
-    window.page = '<?= $_GET['page'] ?? 0 ?>';
+    window.page = '<?= $_GET['page'] ?? 1 ?>';
     window.total_results = <?= $results['total_results'] ?? 0 ?>;
     function getresults() {
         $.ajax({
@@ -101,7 +101,7 @@ include('./partials/footer-scripts.php');
                             <div class="address-area">
                                 <h2>${el.title}</h2>
                                 <div class="complete-address">
-                                    <a href="<?= $url ?>${el.url}" class="font-weight-bold">www.ksbl.edu.pk > ${el['pretty-url']}</a>
+                                    <a href="<?= $url ?>${el.url}" class="font-weight-bold">www.ksbl.edu.pk > ${el['pretty-url'].split(',').join(' > ')}</a>
                                     <p>${el.description}</p>
                                 </div>
                             </div>
@@ -114,14 +114,16 @@ include('./partials/footer-scripts.php');
     }
     $(document).ready(function () {
         $('.btn-next').on('click', function () {
-            if((window.page + 1) * 10 < window.total_results){
+            if((window.page  * 10) < window.total_results){
                 window.page++
+                window.history.pushState('', '', window.location.href.split('?')[0] + `?q=${window.q}&page=${window.page}`);
                 getresults()
             }
         });
         $('.btn-back').on('click', function () {
-            if(window.page > 0){
+            if(window.page > 1){
                 window.page--
+                window.history.pushState('', '', window.location.href.split('?')[0] + `?q=${window.q}&page=${window.page}`);
                 getresults()
             }
         });

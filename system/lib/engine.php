@@ -21,9 +21,9 @@ class Engine
     {
         return $this->eg->suggestToken($keyword, ['facets' => ["title", "url"]]);
     }
-    public function search($keyword, $limit = 10, $offset = 0)
+    public function search($keyword, $limit = 10, $offset = 1)
     {
-        $raw = $this->eg->search($keyword, ['limit' => $limit, 'offset' => $offset * $limit]);
+        $raw = $this->eg->search($keyword, ['limit' => $limit, 'offset' => (intval($offset) - 1) * $limit]);
         $num = $raw['numFound'];
         $raw = array_values($raw['documents']);
         return [
@@ -59,7 +59,7 @@ class Engine
             }
             return true;
         });
-        return implode(' > ', $url);
+        return implode(',', $url);
     }
     private $eg;
     public function __construct()
