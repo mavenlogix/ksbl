@@ -56,7 +56,7 @@ include('./partials/navbar.php');
                             <div class="address-area">
                                 <h2><?= $result['title'] ?></h2>
                                 <div class="complete-address">
-                                    <a href="<?= $url . $result['url'] ?>" class="font-weight-bold">www.ksbl.edu.pk > <?= implode(' > ', explode(',', $result['pretty-url'])) ?></a>
+                                    <a href="<?= $url . $result['url'] ?>" class="font-weight-bold">www.ksbl.edu.pk <i class="fa fa-angle-right"></i> <?= implode(' <i class="fa fa-angle-right"></i> ', explode(',', $result['pretty-url'])) ?></a>
                                     <p><?= $result['description'] ?></p>
                                 </div>
                             </div>
@@ -108,7 +108,7 @@ include('./partials/footer-scripts.php');
                             <div class="address-area">
                                 <h2>${el.title}</h2>
                                 <div class="complete-address">
-                                    <a href="<?= $url ?>${el.url}" class="font-weight-bold">www.ksbl.edu.pk > ${el['pretty-url'].split(',').join(' > ')}</a>
+                                    <a href="<?= $url ?>${el.url}" class="font-weight-bold">www.ksbl.edu.pk <i class="fa fa-angle-right"></i> ${el['pretty-url'].split(',').join(' <i class="fa fa-angle-right"></i> ')}</a>
                                     <p>${el.description}</p>
                                 </div>
                             </div>
