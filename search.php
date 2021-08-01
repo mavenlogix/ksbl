@@ -64,7 +64,7 @@ include('./partials/navbar.php');
                         <?php endforeach ?>
                     </div>
                     <ul class="pagination">
-                        <li class="page-item <?= $_GET['page'] == 1 ? 'disabled' : null ?>"><a class="page-link btn-back" href="#">Previous</a></li>
+                        <li class="page-item <?= ($_GET['page'] ?? 1) == 1 ? 'disabled' : null ?>"><a class="page-link btn-back" href="#">Previous</a></li>
                         <?php $pages = ceil($results['total_results'] / 10);
                         for ($page=1; $page<=$pages; $page++) { ?>
                             <li class="page-item <?= ($_GET['page'] ?? 1) == $page ? 'active' : null ?>"><a class="page-link gotopage" data-page="<?= $page ?>" href="#"><?= $page ?></a></li>
