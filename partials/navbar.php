@@ -36,8 +36,8 @@
                 <div class="container">
                     <h2>Search KSBL</h2>
                     <form action="<?= $url ?>search.php">
-                        <input type="text" name="q" id="searchfield" class="search" style="padding: 1px 6px; border: 1px solid #ddd; width: 99%; height: 40px">
-                        <button type="submit">Submit</button>
+                        <input placeholder="Please Search Website" type="text" name="q" id="searchfield" class="form-control search" required="">
+                        <button type="submit" class="btn_search_box"><i class="fa fa-search"></i></button>
                     </form>
                 </div>
             </div>

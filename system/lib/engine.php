@@ -51,7 +51,7 @@ class Engine
         $url = str_replace('.php', '', $url);
         $url = explode('/', $url);
         $url = array_map(function ($val) {
-            return ucwords(preg_replace('#[\W_]+#is', ' ', $val));
+            return preg_replace('#[\W_]+#is', ' ', $val);
         }, $url);
         $url = array_filter($url, function ($val) {
             if (empty($val) || strtolower(trim($val)) == 'index') {

@@ -3236,6 +3236,8 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
 .content-section-search .address-area {
     margin-bottom: 0;
+    width: 100%;
+    padding-right: 0;
 }
 
 .content-section-search p {
@@ -3276,6 +3278,40 @@ header.search_page {
 .search_page .pagination {
     justify-content: flex-end;
     margin-top: 20px;
+}
+
+.search_page .pagination{
+
+}
+.btn_search_box{
+    background: #FAA633;
+    padding: 8px;
+    min-height: 50px;
+    min-width: 100px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 0;
+}
+
+.search {
+    height: 50px;
+    border-radius: 0;
+    margin-right: 12px;
+}
+
+.search .btn_search_box i {
+     font-size: 24px;
+     color: #fff;
+}
+
+ .search:focus{
+ box-shadow: none;
+}
+.search_page .resultsdiv{
+    height: 500px;
+    overflow-y: auto;
+
 }
 @media (min-width: 992px) and (max-width: 1199px) {
     .non_faculty_grid_img {

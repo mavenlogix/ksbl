@@ -63,10 +63,10 @@
 			}
 			event.stopImmediatePropagation();
 		}); */
-		$('.search-content').on('mouseleave', function(){
-			$('.header-top,.header-model').removeClass('open');
-			$('.icon-link').removeClass('active');
-		})
+		// $('.search-content').on('mouseleave', function(){
+		// 	$('.header-top,.header-model').removeClass('open');
+		// 	$('.icon-link').removeClass('active');
+		// })
 		$('.menu-serch .search img,.menu-serch .main-navigation img').mouseover(function () {
 			if ($(window).width() > 576) {
 				$('.header-top').removeClass('open');

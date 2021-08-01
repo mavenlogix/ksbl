@@ -44,7 +44,7 @@ include('./partials/navbar.php');
             </div>
             <div class="open-house-content">
                 <h1>SEARCH RESULTS</h1>
-                <div class="page-detail">Your Searched For <b>'<?= htmlentities($_GET['q']) ?>'</b> - <?= $results['total_results'] ?? 0 ?> results found:</div>
+                <div class="page-detail">Your searched for <b>'<?= htmlentities($_GET['q']) ?>'</b> - <?= $results['total_results'] ?? 0 ?> results found:</div>
                 <div class="open-house-tabs">
                     <!-- === Tab 1 === -->
                     <div class="tab-section active resultsdiv">
@@ -116,6 +116,10 @@ include('./partials/footer-scripts.php');
                     });
                     $('.resultsdiv').html(html)
                     button_toggle()
+                      $('html, body').animate({
+                    scrollTop: $(".open-house-content").offset().top - 60
+                }, 200)
+
                 }
             }
         });
