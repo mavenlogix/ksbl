@@ -69,7 +69,7 @@ include('./partials/navbar.php');
                         for ($page=1; $page<=$pages; $page++) { ?>
                             <li class="page-item <?= ($_GET['page'] ?? 1) == $page ? 'active' : null ?>"><a class="page-link gotopage" data-page="<?= $page ?>" href="#"><?= $page ?></a></li>
                         <?php } ?>
-                        <li class="page-item <?= $_GET['page'] == $pages ? 'disabled' : null ?>"><a class="page-link btn-next" href="#">Next</a></li>
+                        <li class="page-item <?= ($_GET['page'] ?? 1) == $pages ? 'disabled' : null ?>"><a class="page-link btn-next" href="#">Next</a></li>
                     </ul>
                     <!-- === END Tab 1 === -->
                 </div>
