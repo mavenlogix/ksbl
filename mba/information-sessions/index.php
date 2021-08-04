@@ -24,7 +24,7 @@ include('../../partials/navbar.php');
                 </a>
             </div>
             <div class="open-house-content">
-                <h1>Open House</h1>
+                <h1>KSBL Undergraduate Open House</h1>
                 <div class="page-detail">Become a part of KSBL's Open House and learn more about our programs.
                     This is an excellent opportunity for prospective students to learn more about our programs and meet officeholders, faculty, alumni, staff and other representatives from your program of interest. You may register now to join in and know more about what makes KSBL unique, be it our leading faculty, action-oriented pedagogy, leadership centralized around ethics and character development, mentorship from eminent leaders, an outstanding placement record and preparing leaders for the new economy.
                     <br><br>Register now for our Open House here. We look forward to meeting you!
