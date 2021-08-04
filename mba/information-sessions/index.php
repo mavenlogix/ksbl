@@ -64,7 +64,7 @@ include('../../partials/navbar.php');
                         <div class="program-details">
                             <div class="about-program">
                                 <h2>KSBL Undergraduate Open House</h2>
-                                <div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="https://us02web.zoom.us/meeting/register/tZ0oc-2tqzgoGt3t2ZIMfJcWZ2Sp52GHFRaH ">
+                                <div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="http://bit.ly/BS-OHS2">
 								      August  8, 2021 (4 pm PST)
                                     </a> </div>
                                 <div class="program-at"></div>
