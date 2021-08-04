@@ -146,7 +146,7 @@ include('../partials/navbar.php');
                                     <li>Resume writing & career counseling</li>
                                 </ul>
                             </p>
-                            <h4 class="text-primary">Awards & Achievements<h4>
+                            <h4 class="text-primary">Awards & Achievements</h4>
                                     <p>
                                         <ul>
                                             <li>Won a consulting project of developing a social business promotion handbook <b>(Spring 2021)</b></li>
