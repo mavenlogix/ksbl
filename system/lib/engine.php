@@ -74,13 +74,13 @@ class Engine
                         "_type" => "string",
                         "_indexed" => true,
                         "_filterable" => true,
-                        "_boost" => 5,
+                        "_boost" => 8,
                     ],
                     "headings" => [
                         '_type' => 'text',
                         '_indexed' => true,
                         '_filterable' => true,
-                        "_boost" => 10,
+                        "_boost" => 5,
                     ],
                     "description" => [
                         "_type" => "text",
@@ -101,9 +101,9 @@ class Engine
                     ],
                     "pretty-url" => [
                         "_type" => "text",
-                        "_indexed" => false,
-                        "_filterable" => false,
-                        "_boost" => 0.5,
+                        "_indexed" => true,
+                        "_filterable" => true,
+                        "_boost" => 10,
                     ],
                 ],
             ],
