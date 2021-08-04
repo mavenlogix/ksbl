@@ -63,15 +63,15 @@ include('../../partials/navbar.php');
                         <div class="tag-area"><span class="tag orange">UPCOMING</div>
                         <div class="program-details">
                             <div class="about-program">
-                                <h2>Open House</h2>
+                                <h2>KSBL Undergraduate Open House</h2>
                                 <div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="https://us02web.zoom.us/meeting/register/tZ0oc-2tqzgoGt3t2ZIMfJcWZ2Sp52GHFRaH ">
-                                        May 29, 2021 (3 pm PST)
+								      August  8, 2021 (4 pm PST)
                                     </a> </div>
                                 <div class="program-at"></div>
                             </div>
                             <div class="program-connection">
                                 <a href="javascript:void(0)" class="btn-highlights">Highlights</a>
-                                <a href="https://us02web.zoom.us/meeting/register/tZUsf-uhpjwvGdYmP1E4EvINC0nhC0Gwmw-9" title="Register Now" class="btn-blue">Register Now</a>
+                                <a href="http://bit.ly/BS-OHS2" title="Register Now" class="btn-blue">Register Now</a>
                                 <!--../information-sessions-register -->
                             </div>
                         </div>
