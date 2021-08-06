@@ -39,7 +39,7 @@ include('../../../partials/navbar.php');
                 <div class="center-page-content news-and-events container-boxes">
                 
                 
-                <a href="#" class="latest-news-event half-wrap  ">
+                <a href="blog/transformation-initiatives.php" class="latest-news-event half-wrap  ">
                         <div class="image-area">
                             <img src="images/blog/transfermative-initiative.jpg" alt="Data Science">
                         </div>
@@ -52,7 +52,7 @@ include('../../../partials/navbar.php');
                         </div>
                     </a>
 
-                <a href="#" class="latest-news-event half-wrap  ">
+                <a href="blog/waheed-umrani-case-research.php" class="latest-news-event half-wrap  ">
                         <div class="image-area">
                             <img src="images/blog/dr-waheed-umrani.jpg" alt="Data Science">
                         </div>
