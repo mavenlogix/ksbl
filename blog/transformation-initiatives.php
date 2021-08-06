@@ -41,7 +41,7 @@ include('../partials/navbar.php');
                     <div class="blog-header">
                         <img src="images/blog/transfermative-initiative.jpg" alt="daraz" />
                         <div class="blog-name">
-                            <div class="tag">NEWS</div>
+                            <div class="tag">Events</div>
                             <h2>Rector KSBL Mr. Mubashar Hameed conducts a townhall with employees about the latest transformation initiatives</h2>
                             <div class="post-date">Thursday, July 1st, 2021</div>
                         </div>
