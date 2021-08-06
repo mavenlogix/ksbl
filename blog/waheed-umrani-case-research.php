@@ -54,13 +54,13 @@ include('../partials/navbar.php');
                         
                         <p>
                         Complete article may be accessed at:<br>
-                        <a href="https://www.worldscientific.com/.../10.../S0218927521500036">https://www.worldscientific.com/.../10.../S0218927521500036</a>
+                        <a href="https://www.worldscientific.com/doi/10.1142/S0218927521500036?fbclid=IwAR0_0pwAleIwOhzvdN3L5cydygOwDB3ztj03IXttbKb2MMzKA2ASXQ4Yv40">https://www.worldscientific.com/.../10.../S0218927521500036</a>
                         </p>
 
                         <p>
                         Dr. Umrani is ranked at number 12/117 in the ABDC P-Rank in Pakistan - a publication ranking that recognizes scholars with notable publication output.
                         <br>
-                        <a href="#ksblfaculty #research #publication #entrepreneurship #CaseStudy">#ksblfaculty #research #publication #entrepreneurship #CaseStudy</a>
+                        <a href="https://www.facebook.com/hashtag/entrepreneurship?__eep__=6&__cft__%5b0%5d=AZUlNGnSlv97onhQSCyw2ExloaxcroM_7bFePxu0B7Ce6nSmx9QGDJYGUR2mmWS9BdnBFL1y4mnWQRDrTi3L2B3sh2KXK01tO9ne11IqeJ-m6c1p6QELHVNx8UhLZAtGEt2Dmhncava1XPN4_Y8UwPQuTHCueWcDRI_iYBdJkRF7LXqOKDcF9cbf87G009bPo8I&__tn__=*NK-R">#ksblfaculty #research #publication #entrepreneurship #CaseStudy</a>
                         </p>
 
                     </div>
