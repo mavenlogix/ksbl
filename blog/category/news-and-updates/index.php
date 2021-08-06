@@ -37,7 +37,20 @@ include('../../../partials/navbar.php');
 
 					--->
                 <div class="center-page-content news-and-events container-boxes">
-
+                
+                
+                <a href="#" class="latest-news-event half-wrap  ">
+                        <div class="image-area">
+                            <img src="images/blog/transfermative-initiative.jpg" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">NEWS</div>
+                            <div class="other-details">
+                                <div class="detail">Rector KSBL Mr. Mubashar Hameed conducts a townhall with employees about the latest transformation initiatives</div>
+                                <div class="date">Thursday, July 1st, 2021</div>
+                            </div>
+                        </div>
+                    </a>
 
                 <a href="#" class="latest-news-event half-wrap  ">
                         <div class="image-area">
