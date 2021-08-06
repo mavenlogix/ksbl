@@ -519,6 +519,26 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person Dr. Muhammad Naiman Jalil -->
 
+                <!-- Person Dr. Bridget Kustin -->
+                 <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Dr-Bridget-Kustin.jpg" alt="Dr. Bridget Kustin" />
+                        <!-- <div class="hover-detail">
+
+                            <span class="orange-yellow-text">Muhammad Naiman Jalil</span> - Supply Chain Management<br><br><br>
+
+
+
+                        </div> -->
+                    </div>
+                    <div class="person-detail">
+                        <div class="name">Dr. Bridget Kustin</div>
+                        <div class="designation">
+                            Economics
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Bridget Kustin -->
 
 
             </div>
