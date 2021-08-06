@@ -37,6 +37,20 @@ include('../../../partials/navbar.php');
 
 					--->
                 <div class="center-page-content news-and-events container-boxes">
+
+
+                <a href="#" class="latest-news-event half-wrap  ">
+                        <div class="image-area">
+                            <img src="images/blog/dr-waheed-umrani.jpg" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">NEWS</div>
+                            <div class="other-details">
+                                <div class="detail">Head of KSBL Case Research Centre, Dr. Waheed Umrani’s latest Publication</div>
+                                <div class="date">Tuesday, May 25th, 2021</div>
+                            </div>
+                        </div>
+                    </a>
                     <a href="blog/ksbl_simerge.php" class="latest-news-event half-wrap  ">
                         <div class="image-area">
                             <img src="images/blog/ksbl_simerge_image4.png" alt="Data Science">
