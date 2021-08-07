@@ -71,7 +71,7 @@ function remove_spaces($html)
 function get_headings($html)
 {
     $matches = [];
-    preg_match_all('#<h\d>.*?<\/h\d>#is', $html, $matches);
+    preg_match_all('#<h\d.*?>.*?<\/h\d>#is', $html, $matches);
     return implode(' ', $matches[0]);
 }
 
