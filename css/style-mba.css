@@ -1915,6 +1915,7 @@ a.btn-primary:hover {
 .teacher-group .name {
     font-family: MyriadPro-Cond;
     font-size: 21px;
+    margin: 0;
 }
 
 .teacher-group .designation {

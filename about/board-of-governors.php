@@ -72,7 +72,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Hussain Dawood</div>
+                        <h2 class="name">Hussain Dawood</h2>
                         <div class="designation">
                             Founding Chairman, KSBL
                         </div>
@@ -94,7 +94,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Mubashar Hameed</div>
+                        <h2 class="name">Mubashar Hameed</h2>
                         <div class="designation">
                             Rector, KSBL
                             <br>CEO, Karachi Education Initiative
@@ -116,7 +116,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Hasan Irfan Khan</div>
+                        <h2 class="name">Hasan Irfan Khan</h2>
                         <div class="designation">
                             Director<br />
                             Member Board of Trustees<br>
@@ -141,7 +141,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Dr. Atta-ur-Rahman</div>
+                        <h2 class="name">Dr. Atta-ur-Rahman</h2>
                         <div class="designation">
                             Director & Chair <br>HR & Academic Committee<br />
                             President, Pak Academy of Sciences
@@ -163,7 +163,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Munawar Alam Siddiqui</div>
+                        <h2 class="name">Munawar Alam Siddiqui</h2>
                         <div class="designation">
                             Director & Chair <br>Infrastructure Committee<br />
                             Chairman, J.S Investments Limited
@@ -184,7 +184,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Dr. Mohammad Aslam Uqaili</div>
+                        <h2 class="name">Dr. Mohammad Aslam Uqaili</h2>
                         <div class="designation">
                             VC, Mehran University
                         </div>
@@ -201,7 +201,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Dr. Sarosh Hashmat Lodhi</div>
+                        <h2 class="name">Dr. Sarosh Hashmat Lodhi</h2>
                         <div class="designation">
                             Vice-Chancellor
                             <br>NED University of Engineering <br>& Technology
@@ -220,7 +220,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Imran Sayeed</div>
+                        <h2 class="name">Imran Sayeed</h2>
                         <div class="designation">
                             Director, KEI<br />
                             Senior Lecturer, Technical Innovation, <br>Entrepreneurship & <br>Strategic Movement at MIT
@@ -240,7 +240,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Mir Muhammad Nasir</div>
+                        <h2 class="name">Mir Muhammad Nasir</h2>
                         <div class="designation">
                             Executive Director<br>Inbox Business Technologies Ltd.
                         </div>
@@ -260,7 +260,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Rizwan Masood Raja</div>
+                        <h2 class="name">Rizwan Masood Raja</h2>
                         <div class="designation">
                             Senior Vice President
                             <br>& Chief People Officer<br>Engro Corporation
@@ -280,7 +280,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Abuzar Wajidi</div>
+                        <h2 class="name">Abuzar Wajidi</h2>
                         <div class="designation">
                             Meritorious Professor<br>Department of Public Administration <br>University of Karachi
                         </div>
@@ -299,8 +299,8 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Justice Aqeel Ahmed Abbasi
-                        </div>
+                        <h2 class="name">Justice Aqeel Ahmed Abbasi
+                        </h2>
                         <div class="designation">
                             Advocate
                             <br>Supreme Court of Pakistan
@@ -322,7 +322,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Parvez Ahmed Seehar</div>
+                        <h2 class="name">Parvez Ahmed Seehar</h2>
                         <div class="designation">
                             Secretary to Government of Sindh<br> in Department of Culture, <br>Tourism & Antiquities
                         </div>
