@@ -10,7 +10,6 @@ include('../partials/head.php');
     body,html{
         overflow-x: hidden;
     }
-
 </style>
 <body class="mba about bog">
     <!-----------------------------------------------------------------#
