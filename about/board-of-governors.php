@@ -6,7 +6,12 @@ $page_meta_key = 'About-Us-Board-of-Governors';
 include('../partials/head.php');
 
 ?>
+<style type="text/css">
+    body,html{
+        overflow-x: hidden;
+    }
 
+</style>
 <body class="mba about bog">
     <!-----------------------------------------------------------------#
 	#                       Header START                               #
