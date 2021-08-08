@@ -77,7 +77,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Farooq-e-Azam Cheema</div>
+                        <h2 class="name">Dr. Farooq-e-Azam Cheema</h2>
                         <div class="designation">
                             Provost & Acting Registrar
                         </div>
@@ -92,7 +92,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Tariq Basheer</div>
+                        <h2 class="name">Dr. Tariq Basheer</h2>
                         <div class="designation">
                             Professor
                             <br>Accounting & Finance
@@ -109,7 +109,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Nadeem Javaid</div>
+                        <h2 class="name">Dr. Nadeem Javaid</h2>
                         <div class="designation">
                             Professor<br>
                             Strategy & Economics
@@ -126,7 +126,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Abdul Rahim Nasir</div>
+                        <h2 class="name">Dr. Abdul Rahim Nasir</h2>
                         <div class="designation">
                               Professor
                             <br>Business and Supply Chain Analytics
@@ -144,7 +144,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Shazib Shaikh</div>
+                        <h2 class="name">Dr. Shazib Shaikh</h2>
                         <div class="designation">
                             Associate Professor<br>Business Analytics
                             <br>Head of Department, Decision Sciences
@@ -160,7 +160,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Ahmad Junaid</div>
+                        <h2 class="name">Dr. Ahmad Junaid</h2>
                         <div class="designation">
                             Associate Professor
                             <br> Finance & Accounting
@@ -176,7 +176,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Waheed Umrani</div>
+                        <h2 class="name">Dr. Waheed Umrani</h2>
                         <div class="designation">
                             Associate Professor
                             <br>HR & OB
@@ -194,7 +194,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Athar Siddiqui</div>
+                        <h2 class="name">Dr. Athar Siddiqui</h2>
                         <div class="designation">
                             Associate Professor
                             <br>OB & HR
@@ -211,7 +211,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Shoaib ul Haq</div>
+                        <h2 class="name">Dr. Shoaib ul Haq</h2>
                         <div class="designation">
                             Associate Professor<br>
                             General Management & Digital Economy
@@ -228,7 +228,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Faryal Razzaq</div>
+                        <h2 class="name">Dr. Faryal Razzaq</h2>
                         <div class="designation">
                         Assistant Professor<br>
                         Management Sciences
@@ -245,7 +245,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Muhammad Talha Salam</div>
+                        <h2 class="name">Dr. Muhammad Talha Salam</h2>
                         <div class="designation">
                             Assistant Professor
                             <br>Marketing & Analytics
@@ -264,7 +264,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <div class="name">Dr. Asim Khwaja</div>
+                        <h2 class="name">Dr. Asim Khwaja</h2>
                         <div class="designation">
                         Assistant Professor<br>Decision Sciences
                         </div>
@@ -303,7 +303,7 @@ include('./partials/head.php');
                        
                     </div>
                     <div class="person-detail">
-                        <div class="name">Dr. Ronald Jensen</div>
+                        <h2 class="name">Dr. Ronald Jensen</h2>
                         <div class="designation">
                             Business Ethics
                         </div>
@@ -318,7 +318,7 @@ include('./partials/head.php');
                         
                     </div>
                     <div class="person-detail">
-                        <div class="name">Dr. Irfan Butt</div>
+                        <h2 class="name">Dr. Irfan Butt</h2>
                         <div class="designation">
                             Marketing 
                         </div>
@@ -332,7 +332,7 @@ include('./partials/head.php');
                         <img src="images/faculty/Sohaib-Jamal.jpg" alt="Sohaib Jamal" />
                     </div>
                     <div class="person-detail">
-                        <div class="name">Sohaib Jamal</div>
+                        <h2 class="name">Sohaib Jamal</h2>
                         <div class="designation">
                              Accounting
                         </div>
@@ -346,7 +346,7 @@ include('./partials/head.php');
                        
                     </div>
                     <div class="person-detail">
-                        <div class="name">Abdur-Rahman Syed</div>
+                        <h2 class="name">Abdur-Rahman Syed</h2>
                         <div class="designation">
                             Management Communications
                         </div>
@@ -364,7 +364,7 @@ include('./partials/head.php');
                     
                     </div>
                     <div class="person-detail">
-                        <div class="name">Dr. Nicole Cunningham</div>
+                        <h2 class="name">Dr. Nicole Cunningham</h2>
                         <div class="designation">
                            Marketing
                         </div>
@@ -385,7 +385,7 @@ include('./partials/head.php');
                         </div> -->
                     </div>
                     <div class="person-detail">
-                        <div class="name">Mohammad Taha Thanvi</div>
+                        <h2 class="name">Mohammad Taha Thanvi</h2>
                         <div class="designation">
                             Trade Marketing
                         </div>
@@ -404,7 +404,7 @@ include('./partials/head.php');
                         
                     </div>
                     <div class="person-detail">
-                        <div class="name">Taha Ahmed</div>
+                        <h2 class="name">Taha Ahmed</h2>
                         <div class="designation">
                             Media Planning & Buying
                         </div>
@@ -418,7 +418,7 @@ include('./partials/head.php');
                         
                     </div>
                     <div class="person-detail">
-                        <div class="name">Raheel Aslam</div>
+                        <h2 class="name">Raheel Aslam</h2>
                         <div class="designation">
                             Digital Marketing
                         </div>
@@ -433,7 +433,7 @@ include('./partials/head.php');
                     
                     </div>
                     <div class="person-detail">
-                        <div class="name">Faraz Bandukda</div>
+                        <h2 class="name">Faraz Bandukda</h2>
                         <div class="designation">
                            Finance
                         </div>
@@ -454,7 +454,7 @@ include('./partials/head.php');
                         </div> -->
                     </div>
                     <div class="person-detail">
-                        <div class="name">Dr. Bridget Kustin</div>
+                        <h2 class="name">Dr. Bridget Kustin</h2>
                         <div class="designation">
                             Economics
                         </div>
@@ -469,7 +469,7 @@ include('./partials/head.php');
                         
                     </div>
                     <div class="person-detail">
-                        <div class="name">Talal Arif</div>
+                        <h2 class="name">Talal Arif</h2>
                         <div class="designation">
                              Business & Corporate Law 
                         </div>
@@ -490,7 +490,7 @@ include('./partials/head.php');
                                     </div> -->
                     </div>
                     <div class="person-detail">
-                        <div class="name">Syed Sohaib Ul Hassan</div>
+                        <h2 class="name">Syed Sohaib Ul Hassan</h2>
                         <div class="designation">
                             Digital Marketing
                         </div>
@@ -511,7 +511,7 @@ include('./partials/head.php');
                         </div> -->
                     </div>
                     <div class="person-detail">
-                        <div class="name">Syed Noaman Asar</div>
+                        <h2 class="name">Syed Noaman Asar</h2>
                         <div class="designation">
                             Market Research & Analysis
                         </div>
@@ -532,7 +532,7 @@ include('./partials/head.php');
                         </div> -->
                     </div>
                     <div class="person-detail">
-                        <div class="name">Dr. Muhammad Naiman Jalil</div>
+                        <h2 class="name">Dr. Muhammad Naiman Jalil</h2>
                         <div class="designation">
                             Supply Chain Management
                         </div>

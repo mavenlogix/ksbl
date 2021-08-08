@@ -135,7 +135,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Hussain Dawood</div>
+                        <h2 class="name">Hussain Dawood</h2>
                         <div class="designation">
                             Founding Chairman, Board of Governors,
                             <br>KSBL
@@ -158,7 +158,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Mubashar Hameed</div>
+                        <h2 class="name">Mubashar Hameed</h2>
                         <div class="designation">
                             Rector, KSBL<br />
                             CEO, Karachi Education Initiative
@@ -178,7 +178,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Munawar Alam Siddiqui</div>
+                        <h2 class="name">Munawar Alam Siddiqui</h2>
                         <div class="designation">
                             Director & Chair
                             <br>Infrastructure Committee
@@ -201,7 +201,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Muhammad Ali Tabba</div>
+                        <h2 class="name">Muhammad Ali Tabba</h2>
                         <div class="designation">
                             Director, KEI<br />
                             CEO, Lucky Cement Limited
@@ -220,7 +220,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Nauman Ansari</div>
+                        <h2 class="name">Nauman Ansari</h2>
                         <div class="designation">
                             Director, KEI<br />
                             Director & CEO, Bank Alfalah
@@ -237,7 +237,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Sabrina Dawood</div>
+                        <h2 class="name">Sabrina Dawood</h2>
                         <div class="designation">
                             Director, KEI
                             <br>Director, Dawood Hercules
@@ -260,7 +260,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Arif Habib</div>
+                        <h2 class="name">Arif Habib</h2>
                         <div class="designation">
                             Director, KEI<br>
                             Director & Chair <br>Finance & Fundraising Committee
@@ -277,7 +277,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Henna Inam</div>
+                        <h2 class="name">Henna Inam</h2>
                         <div class="designation">
                             Director, KEI<br />
                             Director, Engro Corporation
@@ -296,7 +296,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Hasan Irfan Khan</div>
+                        <h2 class="name">Hasan Irfan Khan</h2>
                         <div class="designation">
                             Director
                             <br>Member Board of Trustees
@@ -315,7 +315,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Ghias Khan</div>
+                        <h2 class="name">Ghias Khan</h2>
                         <div class="designation">
                             Director, KEI<br />
                             President & CEO, Engro Corporation
@@ -334,7 +334,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Muneer Kamal</div>
+                        <h2 class="name">Muneer Kamal</h2>
                         <div class="designation">
                             Director, KEI
                         </div>
@@ -351,7 +351,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Sima Kamil</div>
+                        <h2 class="name">Sima Kamil</h2>
                         <div class="designation">
                             Director, KEI<br>
                             President & CEO, UBL
@@ -368,7 +368,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Mohammad Naeem Mukhtar</div>
+                        <h2 class="name">Mohammad Naeem Mukhtar</h2>
                         <div class="designation">
                             Director, KEI<br />
                             Chairman, Allied Bank Limited<br />
@@ -388,7 +388,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Imran Sayeed</div>
+                        <h2 class="name">Imran Sayeed</h2>
                         <div class="designation">
                             Director, KEI<br />
                             Senior Lecturer, Technical Innovation, <br>Entrepreneurship & Strategic Movement at MIT
@@ -406,7 +406,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Tania Aidrus</div>
+                        <h2 class="name">Tania Aidrus</h2>
                         <div class="designation">
                             Director, KEI<br />
                             Google Executive Digital Pakistan
@@ -425,7 +425,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <div class="name">Inam-Ur-Rahman</div>
+                        <h2 class="name">Inam-Ur-Rahman</h2>
                         <div class="designation">
                             Director, KEI<br />
                             CEO DH Corp
