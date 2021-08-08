@@ -101,7 +101,7 @@
                             <h3>About</h3>
                             <ul>
                                 <li><a href="about/" class="<?= is_active('about') ?>" title="Vision & Mission">Vision & Mission</a></li>
-                                <li><a href="about/board-of-governors.php" class="<?= is_active('about/board-of-governors.php') ?>" title="Board of Governors">Board of Governors</a></li>
+                                <li><a href="about/board-of-governors.php" class="<?= is_active(['about/board-of-governors.php', 'about/board-of-governors']) ?>" title="Board of Governors">Board of Governors</a></li>
                                 <li><a href="faculty.php" class="<?= is_active(['faculty.php', 'faculty']) ?>" title="Faculty">Faculty</a></li>
                                 <li><a href="about/karachi-education-initiative/" class="<?= is_active('about/karachi-education-initiative') ?>" title="Karachi Education Initiative (KEI)">Karachi Education Initiative (KEI)</a></li>
                                 <li><a href="careers" class="<?= is_active('careers') ?>" title="Jobs at KSBL">Jobs</a></li>
