@@ -295,67 +295,21 @@ include('./partials/head.php');
                 <h2>Visiting Faculty</h2>
             </div>
             <div class="group">
-                <!-- Person 9 -->
-              
-                  <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/Dr_Ronald.jpg" alt="Dr. Ronald Jensen" />
-                       
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Dr. Ronald Jensen</h2>
-                        <div class="designation">
-                            Business Ethics
-                        </div>
-                    </div>
-                </div>
- 
-
-               <!-- Person Dr. Irfan Butt -->
-                 <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/Irfan-Butt.jpg" alt="Dr. Irfan Butt" />
-                        
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Dr. Irfan Butt</h2>
-                        <div class="designation">
-                            Marketing 
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person Dr. Irfan Butt -->
-
-               <!-- Person Sohaib Jamal -->
-               <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/Sohaib-Jamal.jpg" alt="Sohaib Jamal" />
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Sohaib Jamal</h2>
-                        <div class="designation">
-                             Accounting
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person Sohaib Jamal -->
-
-                <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/ABD 2 2021.06.24_new.jpg" alt="Abdur-Rahman Syed" />
-                       
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Abdur-Rahman Syed</h2>
-                        <div class="designation">
-                            Management Communications
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person Abdur-Rahman Syed -->
-                <!-- Person 12 -->
-              
-                <!-- END Person 12 -->
+                
+                       <!-- Person Dr. Irfan Butt -->
+                     <div class="person come-out no-hover">
+                         <div class="person-info no-hover">
+                             <img src="images/faculty/Irfan-Butt.jpg" alt="Dr. Irfan Butt" />
+                                       
+                       </div>
+                         <div class="person-detail">
+                           <h2 class="name">Dr. Irfan Butt</h2>
+                            <div class="designation">
+                                Marketing 
+                             </div>
+                          </div>
+                       </div>
+                         <!-- END Person Dr. Irfan Butt -->
 
                   <!-- Person Dr. Nicole Cunningham -->
                  <div class="person come-out no-hover">
@@ -372,155 +326,8 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person Dr. Nicole Cunningham -->
 
-                <!-- Person 18 -->
-                <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/Taha-Thanvi.jpg" alt="Mohammad Taha Thanvi" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Mohammad Taha Thanvi</span> - Trade Marketing<br><br><br>
-
-
-
-                        </div> -->
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Mohammad Taha Thanvi</h2>
-                        <div class="designation">
-                            Trade Marketing
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 18 -->
-
-          
-                <!-- Person 17 -->
-                <!-- END Person 17 -->
- 
-                <!-- Person 11 -->
-                <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/Taha-Ahmed.jpg" alt="Taha Ahmed" />
-                        
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Taha Ahmed</h2>
-                        <div class="designation">
-                            Media Planning & Buying
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 11 -->
-                <!-- Person 12 -->
-                <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/Raheel-Aslam_new.jpg" alt="Raheel Aslam" />
-                        
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Raheel Aslam</h2>
-                        <div class="designation">
-                            Digital Marketing
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 12 -->
-
-             <!-- Person Faraz Bandukda -->
-                  <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/faraz-2.jpg" alt="Faraz Banduka" />
-                    
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Faraz Bandukda</h2>
-                        <div class="designation">
-                           Finance
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person Faraz Bandukda -->
-
-           <!-- Person Dr. Bridget Kustin -->
-                 <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/Dr-Bridget-Kustin.jpg" alt="Dr. Bridget Kustin" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Muhammad Naiman Jalil</span> - Supply Chain Management<br><br><br>
-
-
-
-                        </div> -->
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Dr. Bridget Kustin</h2>
-                        <div class="designation">
-                            Economics
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person Dr. Bridget Kustin -->
-                             
-                  <!-- Person Talal Arif -->
-                <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/talal-arif.jpg" alt="Talal Arif" />
-                        
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Talal Arif</h2>
-                        <div class="designation">
-                             Business & Corporate Law 
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person Talal Arif -->
-
-             <!-- Person Syed Sohaib Ul Hassan -->
-                 <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/Sohaib Hasan.jpg" alt="Syed Sohaib Ul Hassan" />
-                        <!-- <div class="hover-detail">
-            
-                                        <span class="orange-yellow-text">Syed Sohaib Ul Hassan</span> - MBA Alumni<br><br><br>
-            
-            
-            
-                                    </div> -->
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Syed Sohaib Ul Hassan</h2>
-                        <div class="designation">
-                            Digital Marketing
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person Syed Sohaib Ul Hassan -->
-
-               <!-- Person Syed Noaman Asar -->
-               <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/syed-noaman-asar.jpg" alt="Syed Noaman Asar" />
-                        <!-- <div class="hover-detail">
-
-                            <span class="orange-yellow-text">Syed Noaman Asar</span> - Market Research & Analysis<br><br><br>
-
-
-
-                        </div> -->
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Syed Noaman Asar</h2>
-                        <div class="designation">
-                            Market Research & Analysis
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person Syed Noaman Asar -->
-                
                  <!-- Person Dr. Muhammad Naiman Jalil -->
-                 <div class="person come-out no-hover">
+              <div class="person come-out no-hover">
                     <div class="person-info no-hover">
                         <img src="images/faculty/dr-naiman-jalil.jpg" alt="Dr. Muhammad Naiman Jalil" />
                         <!-- <div class="hover-detail">
@@ -539,6 +346,184 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Dr. Muhammad Naiman Jalil -->
+                
+            <!-- Person Dr. Ronald Jensen -->
+                  <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Dr_Ronald.jpg" alt="Dr. Ronald Jensen" />
+                       
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Dr. Ronald Jensen</h2>
+                        <div class="designation">
+                            Business Ethics
+                        </div>
+                    </div>
+                </div>
+                <!-- End person Dr. Ronald Jensen -->
+
+                <!-- Person Dr. Bridget Kustin -->
+               <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Dr-Bridget-Kustin.jpg" alt="Dr. Bridget Kustin" />
+                        <!-- <div class="hover-detail">
+
+                            <span class="orange-yellow-text">Muhammad Naiman Jalil</span> - Supply Chain Management<br><br><br>
+
+
+
+                        </div> -->
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Dr. Bridget Kustin</h2>
+                        <div class="designation">
+                            Economics
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Bridget Kustin -->
+                               
+                <!-- Person Taha Ahmed -->
+                <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Taha-Ahmed.jpg" alt="Taha Ahmed" />
+                        
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Taha Ahmed</h2>
+                        <div class="designation">
+                            Media Planning & Buying
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Taha Ahmed -->
+
+                    <!-- Person Talal Arif -->                 
+                 <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/talal-arif.jpg" alt="Talal Arif" />
+                        
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Talal Arif</h2>
+                        <div class="designation">
+                             Business & Corporate Law 
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Talal Arif -->
+
+                  <!-- Person Raheel Aslam -->
+                <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Raheel-Aslam_new.jpg" alt="Raheel Aslam" />
+                        
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Raheel Aslam</h2>
+                        <div class="designation">
+                            Digital Marketing
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Raheel Aslam -->
+
+                 <!-- Person Faraz Bandukda -->
+                <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/faraz-2.jpg" alt="Faraz Banduka" />
+                    
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Faraz Bandukda</h2>
+                        <div class="designation">
+                           Finance
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Faraz Bandukda -->
+
+               <!-- Person Sohaib Jamal -->
+               <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Sohaib-Jamal.jpg" alt="Sohaib Jamal" />
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Sohaib Jamal</h2>
+                        <div class="designation">
+                             Accounting
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Sohaib Jamal -->
+
+                <!-- Person Abdur-Rahman Syed -->
+                <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/ABD 2 2021.06.24_new.jpg" alt="Abdur-Rahman Syed" />
+                       
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Abdur-Rahman Syed</h2>
+                        <div class="designation">
+                            Management Communications
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Abdur-Rahman Syed -->
+ 
+                <!-- Person Mohammad Taha Thanvi -->
+                <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Taha-Thanvi.jpg" alt="Mohammad Taha Thanvi" />
+                        <!-- <div class="hover-detail">
+                            <span class="orange-yellow-text">Mohammad Taha Thanvi</span> - Trade Marketing<br><br><br>
+                        </div> -->
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Mohammad Taha Thanvi</h2>
+                        <div class="designation">
+                            Trade Marketing
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Mohammad Taha Thanvi -->
+
+             <!-- Person Syed Sohaib Ul Hassan -->
+                 <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Sohaib Hasan.jpg" alt="Syed Sohaib Ul Hassan" />
+                        <!-- <div class="hover-detail">
+                                    <span class="orange-yellow-text">Syed Sohaib Ul Hassan</span> - MBA Alumni<br><br><br>
+                            </div> -->
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Syed Sohaib Ul Hassan</h2>
+                        <div class="designation">
+                            Digital Marketing
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Syed Sohaib Ul Hassan -->
+
+               <!-- Person Syed Noaman Asar -->
+               <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/syed-noaman-asar.jpg" alt="Syed Noaman Asar" />
+                        <!-- <div class="hover-detail">
+                            <span class="orange-yellow-text">Syed Noaman Asar</span> - Market Research & Analysis<br><br><br>
+                        </div> -->
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Syed Noaman Asar</h2>
+                        <div class="designation">
+                            Market Research & Analysis
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Syed Noaman Asar -->
+                
+
 
             </div>
         </div>
