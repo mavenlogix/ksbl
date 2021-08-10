@@ -52,7 +52,7 @@ include('../partials/navbar.php');
     <div class="faculty-section teacher-group">
         <div class="container">
             <div class="faculty_grid">
-                <div class="faculty_grid_left dr-shoaib">
+                <div class="faculty_grid_left sheraz-mustafa-rajput">
                     <div class="faculty_grid_head">
                         <h1>Sheraz Mustafa Rajput</h1>
                         <h4>Associate Professor<br> Economics</h4>
