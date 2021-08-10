@@ -324,6 +324,19 @@ include('../partials/navbar.php');
                                     OB & HR</span>
                             </a>
                         </div>
+
+
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Sheraz-Mustafa-Rajput.php">Sheraz Mustafa Rajput
+                                <span>Associate Professor<br> Economics</span>
+                            </a>
+                        </div>
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Faryal-Razzaq.php">Dr. Faryal Razzaq
+                                <span>Assistant Professor<br>Management Sciences</span>
+                            </a>
+                        </div>
+
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">Dr. Shoaib ul Haq
                                 <span>Associate Professor<br>General Management & Digital Economy</span>
@@ -336,11 +349,6 @@ include('../partials/navbar.php');
                             </a>
                         </div>
                         
-                        <div class="non_faculty_grid_right_sub_head">
-                            <a href="faculty-profile/Dr-Faryal-Razzaq.php">Dr. Faryal Razzaq
-                                <span>Assistant Professor<br>Management Sciences</span>
-                            </a>
-                        </div>
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Asim-Khwaja.php">Dr. Asim Khwaja
                                 <span>Assistant Professor<br>Decision Sciences</span>
