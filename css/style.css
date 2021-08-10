@@ -2680,6 +2680,12 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 }
 
 .faculty_grid_left.dr-shoaib {
+    background: url(../images/about/Sheraz-Mustafa-Rajput.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
+
+.faculty_grid_left.sheraz-mustafa-rajput {
     background: url(../images/about/Dr.Shoaib.jpg) no-repeat left center;
     background-size: cover;
     height: 560px;
@@ -3473,6 +3479,12 @@ header.search_page {
         height: 224px;
     }
 
+    .faculty_grid_left.sheraz-mustafa-rajput {
+        background: url(../images/about/Sheraz-Mustafa-Rajput_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
+
     .faculty_grid_left.dr-asim-khwaja {
         background: url(../images/about/faculty-asim_khwaja_1024.jpg) no-repeat top center;
         background-size: cover;
@@ -3588,6 +3600,13 @@ header.search_page {
 
     .faculty_grid_left.dr-shoaib {
         background: url(../images/about/Dr-shoiab_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px;
+    }
+
+    
+    .faculty_grid_left.sheraz-mustafa-rajput {
+        background: url(../images/about/Sheraz-Mustafa-Rajput_1024.jpg) no-repeat top center;
         background-size: cover;
         height: 153px;
     }
