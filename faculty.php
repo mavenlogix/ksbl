@@ -203,22 +203,21 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person Dr. Athar Siddiqui -->
 
-               <!-- Person Dr. Shoaib ul Haq -->
+               <!-- Person Sheraz Mustafa Rajput -->
                <div class="person come-out">
                     <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">
                         <div class="person-info">
-                            <img src="images/faculty/Dr Shoaib_new.jpg" alt="Dr. Shoaib ul Haq" />
+                            <img src="images/faculty/sheraz-mustafa-rajput.jpg" alt="Sheraz Mustafa Rajput" />
                         </div>
                     </a>
                     <div class="person-detail">
-                        <h2 class="name">Dr. Shoaib ul Haq</h2>
+                        <h2 class="name">Sheraz Mustafa Rajput</h2>
                         <div class="designation">
-                            Associate Professor<br>
-                            General Management & Digital Economy
+                            Associate Professor<br> Economics
                         </div>
                     </div>
                 </div>
-                <!-- END Person Dr. Shoaib ul Haq -->
+                <!-- END Person Sheraz Mustafa Rajput -->
 
                <!-- Person Dr. Faryal Razzaq -->
                <div class="person come-out">
@@ -236,6 +235,23 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Dr. Faryal Razzaq -->
+
+                 <!-- Person Dr. Shoaib ul Haq -->
+               <div class="person come-out">
+                    <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">
+                        <div class="person-info">
+                            <img src="images/faculty/Dr Shoaib_new.jpg" alt="Dr. Shoaib ul Haq" />
+                        </div>
+                    </a>
+                    <div class="person-detail">
+                        <h2 class="name">Dr. Shoaib ul Haq</h2>
+                        <div class="designation">
+                            Associate Professor<br>
+                            General Management & Digital Economy
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Shoaib ul Haq -->
 
                 <!-- Person 6 -->
                 <div class="person come-out">
