@@ -205,7 +205,7 @@ include('./partials/head.php');
 
                <!-- Person Sheraz Mustafa Rajput -->
                <div class="person come-out">
-                    <a href="faculty-profile/Sheraz-Mustafa-Rajput.php">
+                    <a href="faculty-profile/Dr-Sheraz-Mustafa-Rajput.php">
                         <div class="person-info">
                             <img src="images/faculty/sheraz-mustafa-rajput.jpg" alt="Sheraz Mustafa Rajput" />
                         </div>
