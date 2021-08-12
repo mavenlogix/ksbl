@@ -54,7 +54,7 @@ include('../partials/navbar.php');
             <div class="faculty_grid">
                 <div class="faculty_grid_left sheraz-mustafa-rajput">
                     <div class="faculty_grid_head">
-                        <h1>Sheraz Mustafa Rajput</h1>
+                        <h1>Dr. Sheraz Mustafa Rajput</h1>
                         <h4>Associate Professor<br> Economics</h4>
                         <a href="mail:to">Sheraz.mustafa@ksbl.edu.pk</a>
                     </div>

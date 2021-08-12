@@ -211,7 +211,7 @@ include('./partials/head.php');
                         </div>
                     </a>
                     <div class="person-detail">
-                        <h2 class="name">Sheraz Mustafa Rajput</h2>
+                        <h2 class="name">Dr. Sheraz Mustafa Rajput</h2>
                         <div class="designation">
                             Associate Professor<br> Economics
                         </div>
