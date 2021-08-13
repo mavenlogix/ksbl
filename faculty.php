@@ -538,6 +538,20 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Syed Noaman Asar -->
+
+             <!-- Person Nausheen Ahmed -->
+               <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/nausheen-ahmed.jpg" alt="Nausheen Ahmed" />
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Nausheen Ahmed</h2>
+                        <div class="designation">
+                              Business Law & Ethics
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Nausheen Ahmed -->
                 
 
 
