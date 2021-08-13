@@ -547,7 +547,7 @@ include('./partials/head.php');
                     <div class="person-detail">
                         <h2 class="name">Nausheen Ahmed</h2>
                         <div class="designation">
-                              Business Law & Ethics
+                            Business Law
                         </div>
                     </div>
                 </div>
