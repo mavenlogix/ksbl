@@ -209,8 +209,8 @@ include('./partials/head.php');
                     <div class="news-event-detail">
                         <div class="tag">PROGRAMS</div>
                         <div class="other-details">
-                            <h3>BS IT&S</h3>
-                            <div class="detail">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</div>
+                            <h3>MBA</h3>
+                            <div class="detail">Full time program with flexibility in class schedules and the following Specializations:Digital Marketing, Fintech, Talent Management</div>
                         </div>
                     </div>
                     <a class="default-btn apply-now last" href="executive-education-services/">More</a>
