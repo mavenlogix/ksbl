@@ -182,8 +182,8 @@ include('./partials/head.php');
                     <div class="news-event-detail">
                         <div class="tag">PROGRAMS</div>
                         <div class="other-details">
-                            <h3>BS MEBA</h3>
-                            <div class="detail">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+                            <h3>Executive MBA</h3>
+                            <div class="detail">A cutting-edge Executive MBA program designed for working professionals & leaders</div>
                         </div>
                     </div>
                     <a class="default-btn apply-now" href="emba/" target="_parent">More</a>
@@ -195,7 +195,7 @@ include('./partials/head.php');
                     <div class="news-event-detail">
                         <div class="tag">PROGRAMS</div>
                         <div class="other-details">
-                            <h3>BS IT&S</h3>
+                            <h3>BS MEBA</h3>
                             <div class="detail">
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
                         </div>
@@ -209,8 +209,8 @@ include('./partials/head.php');
                     <div class="news-event-detail">
                         <div class="tag">PROGRAMS</div>
                         <div class="other-details">
-                            <h3>MBA</h3>
-                            <div class="detail">Full time program with flexibility in class schedules and the following Specializations:Digital Marketing, Fintech, Talent Management</div>
+                            <h3>BS IT&S</h3>
+                            <div class="detail">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</div>
                         </div>
                     </div>
                     <a class="default-btn apply-now last" href="executive-education-services/">More</a>
