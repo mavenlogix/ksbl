@@ -29,6 +29,135 @@ include('../partials/navbar.php');
                 <div class="page-detail">
                 </div>
                 <div class="open-house-tabs">
+
+                    <!-- === Director Admissions === -->
+                         <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Director Admissions</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                        <!-- Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff. -->
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        <h3>Purpose of the Job:</h3>
+                                        To develop enrollment strategy in line with the KSBL’s vision and mission, including planning, budgeting, and forecasting. The position has a strong focus on Marketing & Recruitment activities for the programs offered. The individual will have to liaison with education partners, media, and representation of the Institute at various seminars and exhibitions,
+                                        <br>
+                                        <h3>General Job Description:</h3>
+                                        Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff. The candidate will be required to have great time-management and multitasking abilities. The goal is to contribute to the efficiency of the overall business by ensuring all assigned administrative duties are carried on timely and efficiently.
+                                        <br><br>
+                                        <h3>Key Responsibilities:</h3>
+                                        <ol>
+                                           <li>Plan, develop, and implement admissions procedures. Complete admissions procedures to include, but not limited to, application process, application requirements, applicant pipeline management, applicant communication, evaluation criteria, evaluation process and committee, application material assurance/verification and final selection process.</li>
+                                           <li>Plan, develop and implement complete recruitment processes, events, and materials to maximize number of program applications.</li>
+                                           <li>Oversee technology selection and/or implementation and testing to allow for online degree program application and applicant tracking.</li>
+                                           <li>Look after financial aid and ensure seamless distribution of scholarships, loans and other aids.</li>
+                                           <li>Liaise with internal departments as needed.  To include, but not limited to: Marketing department for Admissions Outreach Activities: Strategy, Budgeting, Planning, and Execution. 
+                                            <ol>
+                                               <li>Accounts department for financial aid, scholarships, admitted student communication, etc.</li>
+                                               <li>Student Services to convey admitted applicants as enrolled students</li>
+                                               <li>Others as required</li>
+
+                                            </ol>
+
+                                           </li>
+                                           <li>Represent KSBL as required to external stakeholders such as print, online and broadcast media, accreditation and reporting entities, professional associations, and other Degree Programs</li>
+
+                                        </ol>
+                                        <h3>Job specifications:</h3>
+                                        <ol>
+                                            <li>Minimum Bachelors/ Masters Degree (16 years of Education)</li>
+                                            <li>Minimum 10 years of related experience
+                                                Skills required:</li>
+                                            <li>Strategic Planning and Organization </li>
+                                            <li>Leadership </li>
+                                            <li>Analytical </li>
+                                            <li>Interpersonal Sensitivity </li>
+                                            <li>Internal and External Stakeholder Management</li>
+
+                                        </ol>
+                                        <p>
+                                        Deadline to apply: 20th August, 2021<br>
+                                        Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- === END Director Admissions === -->
+
+                    <!-- === Head of Marketing & Communications === -->
+                    <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Head of Marketing & Communications</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                        <!-- Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff. -->
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        <h3>Purpose of the Job:</h3>
+                                        To effectively implement, execute and manage the Branding Strategy for KSBL and Marketing Plans for its Executive Education and Academic Degree Programs and any other offerings.  The incumbent will also be responsible for organizing and managing the KSBL website, Social Media and E-Communications.
+                                        <br>
+                                        <h3>General Job Description:</h3>
+                                        Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff. The candidate will be required to have great time-management and multitasking abilities. The goal is to contribute to the efficiency of the overall business by ensuring all assigned administrative duties are carried on timely and efficiently.
+                                        <br><br>
+                                        <h3>Key Responsibilities:</h3>
+                                        <ol>
+                                           <li>Develop the Positioning, Marketing, Communications and PR Strategies for the Institutional Brand, and Business Development Strategies for the Product Brands and execute 360 degree marketing, communications and PR campaigns.</li>
+                                           <li>Manage the brand to ensure consistent communication of the organization’s mission and values across all channels and to ensure that the integrity of the brand is maintained and promoted at all times.</li>
+                                           <li>Ensure high level audience engagement through KSBL’s website and social media </li>
+                                           <li>Develop the institutional Business Plan, conduct researches when required.</li>
+                                           <li>Initiate, design and execute the Marketing Plan for Executive Education, Admissions and other departments.</li>
+                                           <li>Set specific objectives and report on ROI</li>
+                                           <li>Implement a content editorial calendar to manage content and plan specific, timely marketing campaigns</li>
+                                           <li>Monitor and measure the effectiveness of all marketing/communications activity (SEO and web traffic metrics)</li>
+                                           <li>Responsible for timely publishing of newsletters and collaterals</li>
+                                           <li>Develop short- and long-term plans and budgets for the marketing and communications program and its activities, monitor progress, assure adherence and evaluate performance.</li>
+
+                                        </ol>
+                                        <h3>Job specifications:</h3>
+                                        <ol>
+                                            <li>Preferably holds a Master’s degree in relevant field</li>
+                                            <li>Minimum 10 years of rich experience in Marketing Support / Brand Management / Product management with a successful track record .</li>
+                                            <li>Outstanding communication and presentation skills</li>
+                                            <li>Excellent leadership and inter-personal skills</li>
+                                            <li>Proficient in standard office technology tools (Microsoft Word, Excel, Outlook, and PowerPoint)</li>
+
+                                        </ol>
+                                        <p>
+                                        Deadline to apply: 19th August, 2021<br>
+                                        Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- === END Head of Marketing & Communications === -->
+
+
                     <!-- === Tab 1 === -->
                     <div class="tab-section" style="margin-top: 20px;">
                         <div class="student-achievement">
