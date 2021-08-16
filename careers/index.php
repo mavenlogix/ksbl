@@ -37,14 +37,14 @@ include('../partials/navbar.php');
                                 <h2>Director Admissions</h2>
                                 <div class="detail">
                                     <div class="short-detail">
-                                        Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff.
+                                    To develop enrollment strategy in line with the KSBL’s vision and mission, including planning, budgeting, and forecasting. 
                                     </div>
                                     <div class="complete-detail highlights-content">
                                         <br>
                                         <h3>Purpose of the Job:</h3>
                                         To develop enrollment strategy in line with the KSBL’s vision and mission, including planning, budgeting, and forecasting. The position has a strong focus on Marketing & Recruitment activities for the programs offered. The individual will have to liaison with education partners, media, and representation of the Institute at various seminars and exhibitions.
                                         <br>
-                                       
+                                       <br>
                                         <h3>Key Responsibilities:</h3>
                                         <ul>
                                            <li>Plan, develop, and implement admissions procedures. Complete admissions procedures to include, but not limited to, application process, application requirements, applicant pipeline management, applicant communication, evaluation criteria, evaluation process and committee, application material assurance/verification and final selection process.</li>
@@ -102,14 +102,14 @@ include('../partials/navbar.php');
                                 <h2>Head of Marketing & Communications</h2>
                                 <div class="detail">
                                     <div class="short-detail">
-                                        Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff.
+                                    To effectively implement, execute and manage the Branding Strategy for KSBL and Marketing Plans for its Executive Education and Academic Degree Programs and any other offerings.
                                     </div>
                                     <div class="complete-detail highlights-content">
                                         <br>
                                         <h3>Purpose of the Job:</h3>
                                         To effectively implement, execute and manage the Branding Strategy for KSBL and Marketing Plans for its Executive Education and Academic Degree Programs and any other offerings.  The incumbent will also be responsible for organizing and managing the KSBL website, Social Media and E-Communications.
                                         <br>
-                                      
+                                      <br>
                                         <h3>Key Responsibilities:</h3>
                                         <ul>
                                            <li>Develop the Positioning, Marketing, Communications and PR Strategies for the Institutional Brand, and Business Development Strategies for the Product Brands and execute 360 degree marketing, communications and PR campaigns.</li>
