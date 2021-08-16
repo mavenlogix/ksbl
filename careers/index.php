@@ -42,7 +42,7 @@ include('../partials/navbar.php');
                                     <div class="complete-detail highlights-content">
                                         <br>
                                         <h3>Purpose of the Job:</h3>
-                                        To develop enrollment strategy in line with the KSBL’s vision and mission, including planning, budgeting, and forecasting. The position has a strong focus on Marketing & Recruitment activities for the programs offered. The individual will have to liaison with education partners, media, and representation of the Institute at various seminars and exhibitions,
+                                        To develop enrollment strategy in line with the KSBL’s vision and mission, including planning, budgeting, and forecasting. The position has a strong focus on Marketing & Recruitment activities for the programs offered. The individual will have to liaison with education partners, media, and representation of the Institute at various seminars and exhibitions.
                                         <br>
                                         <h3>General Job Description:</h3>
                                         Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff. The candidate will be required to have great time-management and multitasking abilities. The goal is to contribute to the efficiency of the overall business by ensuring all assigned administrative duties are carried on timely and efficiently.
@@ -111,9 +111,7 @@ include('../partials/navbar.php');
                                         <h3>Purpose of the Job:</h3>
                                         To effectively implement, execute and manage the Branding Strategy for KSBL and Marketing Plans for its Executive Education and Academic Degree Programs and any other offerings.  The incumbent will also be responsible for organizing and managing the KSBL website, Social Media and E-Communications.
                                         <br>
-                                        <h3>General Job Description:</h3>
-                                        Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff. The candidate will be required to have great time-management and multitasking abilities. The goal is to contribute to the efficiency of the overall business by ensuring all assigned administrative duties are carried on timely and efficiently.
-                                        <br><br>
+                                      
                                         <h3>Key Responsibilities:</h3>
                                         <ul>
                                            <li>Develop the Positioning, Marketing, Communications and PR Strategies for the Institutional Brand, and Business Development Strategies for the Product Brands and execute 360 degree marketing, communications and PR campaigns.</li>
@@ -176,9 +174,7 @@ include('../partials/navbar.php');
                                         Shift: 9:00 am to 5:30 pm<br>
                                         Reporting to: Rector and Chief of Staff<br>
                                         <br>
-                                        <h3>General Job Description:</h3>
-                                        Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff. The candidate will be required to have great time-management and multitasking abilities. The goal is to contribute to the efficiency of the overall business by ensuring all assigned administrative duties are carried on timely and efficiently.
-                                        <br><br>
+                                        
                                         <h3>Major Responsibilities:</h3>
                                         <ol>
                                             <li>Maintain executive's agenda and assist in planning appointments, board meetings, conferences etc.</li>
