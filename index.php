@@ -161,7 +161,7 @@ include('./partials/head.php');
                         <div class="other-details">
                             <br>
                             <h3>Admissions Open!</h3>
-                            <div class="type" style="font-size: 30px;">MBA  |  Executive MBA  |  MS Business Analytics <br>
+                            <div class="type" style="font-size: 30px;">EMBA  |  BS MEBA  |  BS IT&S <br>
                             </div>
                             <div class="detail">
                                 <div class="event-detail">
