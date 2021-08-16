@@ -44,9 +44,7 @@ include('../partials/navbar.php');
                                         <h3>Purpose of the Job:</h3>
                                         To develop enrollment strategy in line with the KSBL’s vision and mission, including planning, budgeting, and forecasting. The position has a strong focus on Marketing & Recruitment activities for the programs offered. The individual will have to liaison with education partners, media, and representation of the Institute at various seminars and exhibitions.
                                         <br>
-                                        <h3>General Job Description:</h3>
-                                        Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff. The candidate will be required to have great time-management and multitasking abilities. The goal is to contribute to the efficiency of the overall business by ensuring all assigned administrative duties are carried on timely and efficiently.
-                                        <br><br>
+                                       
                                         <h3>Key Responsibilities:</h3>
                                         <ul>
                                            <li>Plan, develop, and implement admissions procedures. Complete admissions procedures to include, but not limited to, application process, application requirements, applicant pipeline management, applicant communication, evaluation criteria, evaluation process and committee, application material assurance/verification and final selection process.</li>
