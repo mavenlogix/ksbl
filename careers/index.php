@@ -37,7 +37,7 @@ include('../partials/navbar.php');
                                 <h2>Director Admissions</h2>
                                 <div class="detail">
                                     <div class="short-detail">
-                                        <!-- Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff. -->
+                                        Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff.
                                     </div>
                                     <div class="complete-detail highlights-content">
                                         <br>
@@ -104,7 +104,7 @@ include('../partials/navbar.php');
                                 <h2>Head of Marketing & Communications</h2>
                                 <div class="detail">
                                     <div class="short-detail">
-                                        <!-- Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff. -->
+                                        Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff.
                                     </div>
                                     <div class="complete-detail highlights-content">
                                         <br>
