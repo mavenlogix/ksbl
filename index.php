@@ -182,8 +182,8 @@ include('./partials/head.php');
                     <div class="news-event-detail">
                         <div class="tag">PROGRAMS</div>
                         <div class="other-details">
-                            <h3>Executive MBA</h3>
-                            <div class="detail">A cutting-edge Executive MBA program designed for working professionals & leaders</div>
+                            <h3>BS MEBA</h3>
+                            <div class="detail">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
                         </div>
                     </div>
                     <a class="default-btn apply-now" href="emba/" target="_parent">More</a>
@@ -195,9 +195,9 @@ include('./partials/head.php');
                     <div class="news-event-detail">
                         <div class="tag">PROGRAMS</div>
                         <div class="other-details">
-                            <h3>MS Business Analytics</h3>
+                            <h3>BS IT&S</h3>
                             <div class="detail">
-                                A holistic program that helps leaders harness the power of data</div>
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
                         </div>
                     </div>
                     <a class="default-btn apply-now" href="ms-business-analytics">More</a>
