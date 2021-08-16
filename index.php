@@ -210,7 +210,7 @@ include('./partials/head.php');
                         <div class="tag">PROGRAMS</div>
                         <div class="other-details">
                             <h3>BS IT&S</h3>
-                            <div class="detail">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</div>
+                            <div class="detail">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</div>
                         </div>
                     </div>
                     <a class="default-btn apply-now last" href="executive-education-services/">More</a>
