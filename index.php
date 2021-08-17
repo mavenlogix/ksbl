@@ -200,7 +200,7 @@ include('./partials/head.php');
                             A well-rounded approach in teaching Management, Entrepreneurship & Business Administration potential EMBA</div>
                         </div>
                     </div>
-                    <a class="default-btn apply-now" href="ms-business-analytics">More</a>
+                    <a class="default-btn apply-now" href="meba">More</a>
                 </div>
                 <div href="" target="new" class="latest-news-event half-wrap mobile-visible">
                     <div class="image-area">
@@ -213,7 +213,7 @@ include('./partials/head.php');
                             <div class="detail">A holistic program enabling young minds to understand Information Technology and Systems</div>
                         </div>
                     </div>
-                    <a class="default-btn apply-now last" href="executive-education-services/">More</a>
+                    <a class="default-btn apply-now last" href="bs-its">More</a>
                 </div>
             </div>
             <!-- === END News and Event ==== -->
@@ -270,7 +270,7 @@ include('./partials/head.php');
                             <div class="detail">A holistic program enabling young minds to understand Information Technology and Systems</div>
                         </div>
                     </div>
-                    <a class="default-btn apply-now last" href="executive-education-services/">More</a>
+                    <a class="default-btn apply-now last" href="bs-its">More</a>
                 </div>
                 <a class="latest-news-event half-wrap last-covid">
                     <div class="image-area">
