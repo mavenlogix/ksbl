@@ -190,7 +190,7 @@ include('./partials/head.php');
                 </div>
                 <div href="" class="latest-news-event half-wrap">
                     <div class="image-area">
-                        <img src="images/msba-card.jpg" alt="Students" />
+                        <img src="images/BS-MEBA-3.jpg" alt="Students" />
                     </div>
                     <div class="news-event-detail">
                         <div class="tag">PROGRAMS</div>
@@ -204,7 +204,7 @@ include('./partials/head.php');
                 </div>
                 <div href="" target="new" class="latest-news-event half-wrap mobile-visible">
                     <div class="image-area">
-                        <img src="images/home-emba.jpg" alt="KSBL Online" />
+                        <img src="images/BS-IT&S-1.jpg" alt="KSBL Online" />
                     </div>
                     <div class="news-event-detail">
                         <div class="tag">PROGRAMS</div>
@@ -261,7 +261,7 @@ include('./partials/head.php');
                 </a>
                 <div href="" target="new" class="latest-news-event half-wrap mobile-hide">
                     <div class="image-area">
-                        <img src="images/home-emba.jpg" alt="KSBL Online" />
+                        <img src="images/BS-IT&S-1.jpg" alt="KSBL Online" />
                     </div>
                     <div class="news-event-detail">
                         <div class="tag">PROGRAMS</div>
