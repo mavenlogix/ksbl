@@ -556,7 +556,7 @@ include('./partials/head.php');
                <!-- Person Dr. Junaid Siddiqui -->
                <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/Dr-Junaid-Siddiqui.jpg" alt="Nausheen Ahmed" />
+                        <img src="images/faculty/Dr-Junaid-Siddiqui.jpg" alt="Dr. Junaid Siddiqui" />
                     </div>
                     <div class="person-detail">
                         <h2 class="name">Dr. Junaid Siddiqui</h2>
@@ -566,6 +566,20 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Dr. Junaid Siddiqui -->
+
+                <!-- Person Dr. Muhammad Azmat -->
+               <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Dr-Muhammad-Azmat.jpg" alt="Dr. Muhammad Azmat" />
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Dr. Muhammad Azmat</h2>
+                        <div class="designation">
+                            Supply Chain
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Muhammad Azmat -->
                 
 
 
