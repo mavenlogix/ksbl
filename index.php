@@ -197,7 +197,7 @@ include('./partials/head.php');
                         <div class="other-details">
                             <h3>BS MEBA</h3>
                             <div class="detail">
-                            A well-rounded approach in teaching Management, Entrepreneurship & Business Administration potential EMBA</div>
+                            Develop an entrepreneurial mindset that is driven by the latest in management</div>
                         </div>
                     </div>
                     <a class="default-btn apply-now" href="meba">More</a>
