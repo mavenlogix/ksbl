@@ -552,6 +552,20 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Nausheen Ahmed -->
+
+               <!-- Person Dr. Junaid Siddiqui -->
+               <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Dr-Junaid-Siddiqui.jpg" alt="Nausheen Ahmed" />
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Dr. Junaid Siddiqui</h2>
+                        <div class="designation">
+                            Information Systems
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Dr. Junaid Siddiqui -->
                 
 
 
