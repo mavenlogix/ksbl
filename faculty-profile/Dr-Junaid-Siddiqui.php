@@ -71,16 +71,16 @@ include('../partials/navbar.php');
         <div class="container">
             <div class="non_faculty_grid">
                 <div class="non_faculty_grid_left">
-                    <div class=" non_faculty_grid_img">
+                    <div class=" non_faculty_grid_img  non_faculty_grid_img_Dr_Junaid_Siddiqui">
                         <div class="non_faculty_grid_head">
-                            <h1>Mubashar Hameed</h1>
-                            <h4>Rector, KSBL <br> CEO, Karachi Education Initiative</h4>
+                            <h1>Dr. Junaid Siddiqui</h1>
+                            <h4>Information Systems</h4>
                         </div>
                     </div>
                     <div class="non_faculty_grid_two">
                         <div class="non_faculty_grid_two_left">
                             <h4>Recent Activity</h4>
-                            <div class="recent_activity">
+                            <!-- <div class="recent_activity">
                                 <a href="">Mubashar Speaks on the orientation for the Inaugral batch of KSBL MS Business Analytics. </a>
                                 <span>Monday, March 22nd, 2021</span>
                             </div>
@@ -92,14 +92,11 @@ include('../partials/navbar.php');
                                 <a href="">The board of KSBL has appointed Mr. Mubashar Hameed as the Rector.
                                     In addition to his role as Rector KSBL, Mr. Hameed will also serve as CEO of Karachi Education Initiative (KEI). </a>
                                 <span>Tuesday, May 12th, 2020</span>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="non_faculty_grid_two_right">
                             <div class="non_faculty_grid_two_right_content">
-                                <p><b>Mubashar Hameed</b> was appointed by the board of Karachi School of Business and Leadership as the Rector on 23 April 2020. In addition to his role as Rector KSBL, Mr. Hameed serves as CEO of Karachi Education Initiative ("KEI").</p>
-                                <p>Mr. Hameed, a result-driven senior executive carries 32 years of experience, primarily in the USA, working for Fortune 1000 companies where he accomplished aligning global organizations with a strategic vision to realize growth and profitability objectives. He holds strong track record of driving fast-paced enterprise transformation initiatives, building digital capabilities, and bringing technology into the mainstream of a company's business model.</p>
-                                <p>Prior to joining KSBL, Mr. Hameed served as the Chief Digital Officer at Pennsylvania Higher Education Assistance Agency where he led a complete business transformation including restructuring of the agency into a digital business. He provided strategic and operational leadership for customer experience, product development, customer service and information technology organizations.</p>
-                                <p>As an entrepreneur, he is the Founder & CEO of Caliber Vantage, the firm that offers career development and solutions to students, universities and organizations, to upgrade the workforce of the</p>
+                                <p><b>Dr. Junaid Siddiqui</b> is Professor of Business and Management Information Systems in California. He has been in the field of public education for the last 20 years, and has advised and mentored students in the areas of business, higher education and smart career choices. Dr. Siddiqui has degrees in Business, Information Systems and Education from California and Europe. He was chosen as one of the Most Influential Professors for the fifth time in 2019. His interests include Reading and Traveling.</p>
                             </div>
                         </div>
                     </div>
