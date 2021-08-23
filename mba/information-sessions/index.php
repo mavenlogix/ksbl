@@ -95,22 +95,22 @@ include('../../partials/navbar.php');
 									    September   4th, 2021 (4 pm PST)
 										</a> </div>
 									<div class="program-at"></div>
-								</div>
-								<div class="program-connection">
+							</div>
+							<div class="program-connection">
 									<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
 									<a href="http://bit.ly/BS-OHS2" title="Register Now" class="btn-blue">Register Now</a>
 									<!--../information-sessions-register -->
-								</div>
 							</div>
-							<div class="highlights-content">
-								<h3>Highlights of the Session</h3>
-								- Key features of the Undergraduate Programs (MEBA and IT&S)
-								<br>- Insights and Opinions from the KSBL faculty
-								<br>- Admission Process
-								<br>- Financial Assistance
-							</div>
-							
 						</div>
+						<div class="highlights-content">
+							<h3>Highlights of the Session</h3>
+							- Key features of the Undergraduate Programs (MEBA and IT&S)
+							<br>- Insights and Opinions from the KSBL faculty
+							<br>- Admission Process
+							<br>- Financial Assistance
+						</div>
+							
+					</div>
                     <!-- === END Tab 3 === -->
 
 
@@ -170,7 +170,7 @@ include('../../partials/navbar.php');
 					    </div>
                 </div>
                 <!-- === END Tab 5 === -->
-
+             </div>
             </div>
         </div><!-- container -->
     </header>
