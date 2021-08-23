@@ -71,7 +71,7 @@ include('../partials/navbar.php');
         <div class="container">
             <div class="non_faculty_grid">
                 <div class="non_faculty_grid_left">
-                    <div class=" non_faculty_grid_img">
+                    <div class=" non_faculty_grid_img  non_faculty_grid_img_template_page">
                         <div class="non_faculty_grid_head">
                             <h1>Mubashar Hameed</h1>
                             <h4>Rector, KSBL <br> CEO, Karachi Education Initiative</h4>
