@@ -77,7 +77,7 @@ include('../../partials/navbar.php');
                         </div>
                         <div class="highlights-content">
                             <h3>Highlights of the Session</h3>
-                            - Key featured of the Undergraduate Program (MEBA and IT&S)
+                            - Key features of the Undergraduate Programs (MEBA and IT&S)
                             <br>- Insights and Opinions from the KSBL faculty
                             <br>- Admission Process
                             <br>- Financial Assistance
