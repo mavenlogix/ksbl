@@ -154,31 +154,48 @@ include('../../partials/navbar.php');
                         <!-- ==== deadlines === -->
                         <div class="tab-content" data-tab="deadlines">
                             <div class="sec-row">
+                                <strong>Admissions Open MEBA, IT&S, MBA, Executive MBA, MSBA </strong>
+                            </div>
+                            <div class="sec-row">
                                 <div class="sec-col heading"><strong>
-                                        MBA Admission Open
+                                      Admissions Early Bird Deadline
                                     </strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong>April 20th onwards</strong>
+                                        <strong>Sep 10, 2021</strong>
                                     </ul>
                                 </div>
                             </div>
                             <div class="sec-row">
-                                <div class="sec-col heading"><strong> KMAT</strong></div>
+                                <div class="sec-col heading"><strong>Admissions Final Deadline</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong>May 17th onwards</strong>
+                                        <strong>Sep 20, 2021</strong>
                                     </ul>
                                 </div>
                             </div>
                             <div class="sec-row">
-                                <div class="sec-col heading"><strong>Classes commence</strong></div>
+                                <div class="sec-col heading"><strong>KMAT, KUAT / SAT based Admission Test</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong>September 6th, 2021</strong>
+                                        <strong>Rolling Basis*</strong>
                                     </ul>
                                 </div>
                             </div>
+
+                            <div class="sec-row">
+                                <div class="sec-col heading"><strong>Fall Semester Start Date</strong></div>
+                                <div class="sec-col">
+                                    <ul>
+                                        <strong>Oct 04, 2021</strong>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="sec-row">
+                            *Please email KSBL Admissions for KUAT and KMAT Dates: admissions@ksbl.edu.pk
+                            </div>
+
                         </div>
                         <!-- ==== checklist === -->
                         <div class="tab-content" data-tab="checklist">
