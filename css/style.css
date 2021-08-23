@@ -2460,8 +2460,14 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     padding-bottom: 60px;
 }
 
-.non_faculty_grid_img {
+/* .non_faculty_grid_img {
     background: url(../images/about/non-faculty-mubashir.png) no-repeat top center;
+    background-size: cover;
+    height: 225px;
+} */
+
+.non_faculty_grid_img_Dr_Junaid_Siddiqui {
+    background: url(../images/about/non-faculty-Dr-Junaid-Siddiqui.png) no-repeat top center;
     background-size: cover;
     height: 225px;
 }
