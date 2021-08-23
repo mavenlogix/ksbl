@@ -75,7 +75,7 @@ include('./partials/head.php');
                             <a href="./meba" class="ksbl-program executive-edu-mba">
                                 <h4>BS MEBA</h4>
                                 <div class="program-detail">
-                                   A well-rounded approach in teaching Management, Entrepreneurship & Business Administration potential EMBA
+                                   A well-rounded approach in teaching Management, Entrepreneurship & Business Administration
                                 </div>
                             </a><!-- executive-edu-mba -->
                             <a href="./bs-its" class="ksbl-program executive-edu-mba">
