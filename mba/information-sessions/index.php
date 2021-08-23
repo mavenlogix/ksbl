@@ -58,7 +58,8 @@ include('../../partials/navbar.php');
 							
 						</div> -->
                     <!-- === END Tab 1 === -->
-                    <!-- === Tab 2 === -->
+			
+					<!-- === Tab 2 === -->
                     <div class="tab-section">
                         <div class="tag-area"><span class="tag orange">UPCOMING</div>
                         <div class="program-details">
@@ -114,7 +115,7 @@ include('../../partials/navbar.php');
                     <!-- === END Tab 3 === -->
 
 
-                    <!-- === Tab 4 === -->
+                <!-- === Tab 4 === -->
                     <div class="tab-section">
 						<div class="tag-area"><span class="tag orange">UPCOMING</div>
 								<div class="program-details">
@@ -140,9 +141,10 @@ include('../../partials/navbar.php');
 									<br>- Financial Assistance
 							    </div>
 					    </div>
-                </div>
+                    </div>
                 <!-- === END Tab 4 === -->
-                  <!-- === Tab 5 === -->
+                
+				<!-- === Tab 5 === -->
 					<div class="tab-section">
 						<div class="tag-area"><span class="tag orange">UPCOMING</div>
 								<div class="program-details">
@@ -168,11 +170,12 @@ include('../../partials/navbar.php');
 									<br>- Financial Assistance
 							    </div>
 					    </div>
-                </div>
+                    </div>
                 <!-- === END Tab 5 === -->
-             </div>
-            </div>
-        </div><!-- container -->
+			
+            </div>  <!--=== end of open hous tabs =====--->
+          </div> <!--======= End of open-house-content ========-->
+        </div><!-- End of container -->
     </header>
     <!-----------------------------------------------------------------#
 	#                       Header END                                 #
