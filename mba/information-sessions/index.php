@@ -65,7 +65,7 @@ include('../../partials/navbar.php');
                             <div class="about-program">
                                 <h2>KSBL Undergraduate Open House</h2>
                                 <div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="http://bit.ly/BS-OHS2">
-								      August  28, 2021 (4 pm PST)
+								      August  28th, 2021 (4 pm PST)
                                     </a> </div>
                                 <div class="program-at"></div>
                             </div>
@@ -84,56 +84,97 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <!-- === END Tab 2 === -->
+
                     <!-- === Tab 3 === -->
-                    <!-- <div class="tab-section">
-							<div class="tag-area"><span class="tag blue">Conducted</div>
+                    <div class="tab-section">
+						<div class="tag-area"><span class="tag orange">UPCOMING</div>
 							<div class="program-details">
 								<div class="about-program">
-									<h2>Meet the Team</h2>
-									<div class="program-date">Wednesday July 29, 2020 | 4:30PM - 5:30PM</div>
-									<div class="program-at">Conducted On Zoom</div>
+									<h2>KSBL Undergraduate Open House</h2>
+									<div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="http://bit.ly/BS-OHS2">
+									    September   4th, 2021 (4 pm PST)
+										</a> </div>
+									<div class="program-at"></div>
 								</div>
 								<div class="program-connection">
 									<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
-									<a title="View Recording" class="btn-blue">Recording (coming soon)</a>
+									<a href="http://bit.ly/BS-OHS2" title="Register Now" class="btn-blue">Register Now</a>
+									<!--../information-sessions-register -->
 								</div>
 							</div>
-							
 							<div class="highlights-content">
 								<h3>Highlights of the Session</h3>
-								Holistic Overview of MBA Program
-								<br>KMAT Details & Registration Process
-								<br>Guidance from Admission Panel regarding Admission Process
-								<br>Merit-based/Need-based Scholarship
+								- Key features of the Undergraduate Programs (MEBA and IT&S)
+								<br>- Insights and Opinions from the KSBL faculty
+								<br>- Admission Process
+								<br>- Financial Assistance
 							</div>
 							
-						</div> -->
+						</div>
                     <!-- === END Tab 3 === -->
+
+
                     <!-- === Tab 4 === -->
-                    <!-- <div class="tab-section">
-							<div class="tag-area"><span class="tag blue">Conducted</div>
-							<div class="program-details">
-								<div class="about-program">
-									<h2>MBA Open House</h2>
-									<div class="program-date">Wednesday July 29, 2020 | 4:30PM - 5:30PM</div>
-									<div class="program-at">Conducted On Zoom</div>
+                    <div class="tab-section">
+						<div class="tag-area"><span class="tag orange">UPCOMING</div>
+								<div class="program-details">
+									<div class="about-program">
+										<h2>KSBL Undergraduate Open House</h2>
+										<div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="http://bit.ly/BS-OHS2">
+											September   11th, 2021 (4 pm PST)
+											</a> 
+									     </div>
+								     	<div class="program-at"></div>
+								    </div>
+									<div class="program-connection">
+										<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
+										<a href="http://bit.ly/BS-OHS2" title="Register Now" class="btn-blue">Register Now</a>
+										<!--../information-sessions-register -->
+									</div>
 								</div>
-								<div class="program-connection">
-									<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
-									<a title="View Recording" class="btn-blue">Recording (coming soon)</a>
-								</div>
-							</div>
-							
-							<div class="highlights-content">
-								<h3>Highlights of the Session</h3>
-								Holistic Overview of MBA Program
-								<br>KMAT Details & Registration Process
-								<br>Guidance from Admission Panel regarding Admission Process
-								<br>Merit-based/Need-based Scholarship
-							</div>
-							</div> -->
+								<div class="highlights-content">
+									<h3>Highlights of the Session</h3>
+									- Key features of the Undergraduate Programs (MEBA and IT&S)
+									<br>- Insights and Opinions from the KSBL faculty
+									<br>- Admission Process
+									<br>- Financial Assistance
+							    </div>
+					    </div>
                 </div>
-                <!-- === END Tab 4 === -->
+                <!-- === END Tab 5 === -->
+
+				                    <!-- === Tab 4 === -->
+									<div class="tab-section">
+						<div class="tag-area"><span class="tag orange">UPCOMING</div>
+								<div class="program-details">
+									<div class="about-program">
+										<h2>KSBL Undergraduate Open House</h2>
+										<div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="http://bit.ly/BS-OHS2">
+											September   18th, 2021 (4 pm PST)
+											</a> 
+									     </div>
+								     	<div class="program-at"></div>
+								    </div>
+									<div class="program-connection">
+										<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
+										<a href="http://bit.ly/BS-OHS2" title="Register Now" class="btn-blue">Register Now</a>
+										<!--../information-sessions-register -->
+									</div>
+								</div>
+								<div class="highlights-content">
+									<h3>Highlights of the Session</h3>
+									- Key features of the Undergraduate Programs (MEBA and IT&S)
+									<br>- Insights and Opinions from the KSBL faculty
+									<br>- Admission Process
+									<br>- Financial Assistance
+							    </div>
+					    </div>
+                </div>
+                <!-- === END Tab 5 === -->
+
+
+
+
             </div>
         </div><!-- container -->
     </header>
