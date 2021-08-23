@@ -304,8 +304,9 @@ include('./partials/head.php');
                 <!-- END Person Dr. Athar Siddiqui -->
                
                 <!-- Person Dr. Junaid Siddiqui -->
-               <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
+               <div class="person come-out ">
+                   <a href="faculty-profile/Dr-Junaid-Siddiqui.php">
+                   <div class="person-info no-hover">
                         <img src="images/faculty/Dr-Junaid-Siddiqui.jpg" alt="Dr. Junaid Siddiqui" />
                     </div>
                     <div class="person-detail">
@@ -314,6 +315,7 @@ include('./partials/head.php');
                             Information Systems
                         </div>
                     </div>
+                   </a>
                 </div>
                 <!-- END Person Dr. Junaid Siddiqui -->
                 <div class="person come-out">
