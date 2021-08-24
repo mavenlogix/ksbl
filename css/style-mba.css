@@ -211,7 +211,10 @@
         top: 0px;
         opacity: 1;
     }
-    .left-margin{ left: 38% }
+
+    .left-margin {
+        left: 38%
+    }
 
     .mba.loaded .heder-info {
         top: 30px;
@@ -1581,7 +1584,8 @@ a.btn-primary:hover {
     display: block;
 }
 
-.admission .tabs-content .tab-content {
+.admission .tabs-content .tab-content,
+.financialAssitTable .tabs-content .tab-content {
     display: block;
     position: absolute;
     left: 110%;
@@ -1589,13 +1593,15 @@ a.btn-primary:hover {
     opacity: 0;
 }
 
-.admission .tabs-content .tab-content.active {
+.admission .tabs-content .tab-content.active,
+.financialAssitTable .tabs-content .tab-content.active {
     display: block;
     left: 0;
     position: relative;
     transition: left .1s linear;
     opacity: 1;
 }
+
 
 .admission .content-section .sidebar {
     max-width: 380px;
@@ -1666,7 +1672,7 @@ a.btn-primary:hover {
     padding: 0px 20px;
 }
 
-.admission .tabs-content {
+.admission .tabs-content, .financialAssitTable .tabs-content {
     overflow: hidden;
     position: relative;
 }

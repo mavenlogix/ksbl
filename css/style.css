@@ -3385,6 +3385,35 @@ header.search_page {
     background-color: #97a2a1;
 }
 
+.financialTable_content{
+    max-width: 45%;
+    margin-top: 20px;
+}
+
+.financialTable_content .heading{
+       font-size: 14px;
+    line-height: 21px;
+    font-family: MyriadPro-Regular;
+    color: #000;
+    margin: 0;
+}
+
+.admission-process .financialTable_content ul{
+ margin-top: 20px;
+}
+
+
+.admission-process .financialTable_content li::before{
+   content: initial;
+}
+
+.admission-process .financialTable_content li{
+      font-size: 14px;
+    line-height: 21px;
+    font-family: MyriadPro-Regular;
+    color: #000;
+}
+
 @media (min-width: 992px) and (max-width: 1199px) {
     .non_faculty_grid_img {
         height: 153px;
