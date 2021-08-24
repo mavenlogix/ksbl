@@ -72,7 +72,7 @@ include('../../partials/navbar.php');
                             </div>
                             <div class="program-connection">
                                 <a href="javascript:void(0)" class="btn-highlights">Highlights</a>
-                                <a href="http://bit.ly/BS-OHS2" title="Register Now" class="btn-blue">Register Now</a>
+                                <a href="https://bit.ly/bs-ohs3" title="Register Now" class="btn-blue">Register Now</a>
                                 <!--../information-sessions-register -->
                             </div>
                         </div>
