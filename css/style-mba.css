@@ -2111,9 +2111,9 @@ input::placeholder {
 
 .open-house .open-house-content {
     width: 100%;
-    max-width: 900;
     margin: 0px auto 150px;
     padding: 0 70px;
+    max-width: 900px;
     /* text-align: center; */
 }
 
