@@ -2120,7 +2120,7 @@ input::placeholder {
     margin: 0px auto 150px;
     padding: 0 70px;
     max-width: 900px;
-    /* text-align: center; */
+  
 }
 
 .open-house .open-house-tabs,
@@ -2426,6 +2426,7 @@ input::placeholder {
 }
 
 @media(max-width:992px) {
+    
     .open-house .open-house-content {
         padding: 0px;
     }
