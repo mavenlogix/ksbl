@@ -2472,6 +2472,12 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 225px;
 }
 
+.non_faculty_grid_img_Nausheen_Ahmed {
+    background: url(../images/about/non-faculty-nausheen-ahmed.png) no-repeat top center;
+    background-size: cover;
+    height: 225px;
+}
+
 .non_faculty_grid_head {
     text-align: center;
     display: flex;
