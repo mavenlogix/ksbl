@@ -353,10 +353,12 @@ include('./partials/head.php');
                
 
                  <!-- Person Nausheen Ahmed -->
-               <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/nausheen-ahmed.jpg" alt="Nausheen Ahmed" />
-                    </div>
+               <div class="person come-out ">
+                   <a href="faculty-profile/Nausheen-Ahmed.php">
+                       <div class="person-info ">
+                           <img src="images/faculty/nausheen-ahmed.jpg" alt="Nausheen Ahmed" />
+                       </div>
+                   </a>
                     <div class="person-detail">
                         <h2 class="name">Nausheen Ahmed</h2>
                         <div class="designation">
