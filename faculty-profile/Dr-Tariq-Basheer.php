@@ -346,11 +346,6 @@ include('../partials/navbar.php');
                             </a>
                         </div>
 
-                        <div class="non_faculty_grid_right_sub_head">
-                            <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">Dr. Shoaib ul Haq
-                                <span>Associate Professor<br>General Management & Digital Economy</span>
-                            </a>
-                        </div>
                      
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">Dr. Muhammad Talha Salam
@@ -363,6 +358,22 @@ include('../partials/navbar.php');
                                 <span>Assistant Professor<br>Decision Sciences</span>
                             </a>
                         </div>
+
+                        <!-- for visiting faculty members -->
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Junaid-Siddiqui.php">Dr. Junaid Siddiqui
+                                <span>Information Systems</span>
+                            </a>
+                        </div>
+
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Nausheen-Ahmed.php">Nausheen Ahmed
+                                <span>Business Law</span>
+                            </a>
+                        </div>
+
+
+
                     </div>
                 </div>
             </div>
