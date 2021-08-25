@@ -169,44 +169,43 @@ include('../../partials/navbar.php');
                         </div>
                         <!-- ==== Process === -->
                         <div class="tab-content" data-tab="Document_Checklist">
-                            <div class="sec-row">
-                                <div class="sec-col heading"><strong>Online Application</strong></div>
-                                <div class="sec-col">
-                                    <ul>
-                                        Online Application - <a href="http://admissions.colaraz.com/signup?institute=ksbledu" target="_blank">Click here</a> to proceed <br>For the online application process, you are expected to submit all the required documents</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="sec-row">
-                                <div class="sec-col heading"><strong>Processing Fee</strong></div>
-                                <div class="sec-col">
-                                    <ul>
-                                        A processing fee of PKR 5000 will be charged, which will also include the fee for KMAT
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="sec-row">
-                                <div class="sec-col heading"><strong>Online Fee Submission</strong></div>
-                                <div class="sec-col">
-                                    The applicants can submit the application processing fee online at the following KSBL account:<br>
-                                    <br><strong>Account Title:</strong> Karachi School of Business and Leadership
-                                    <br><strong>Account number:</strong> 0010030887260010
-                                    <br><strong>IBAN:</strong> PK81ABPA0010030887260010
-                                    <br><strong>SWIFT:</strong> ABPAP
-                                    <br><strong>BIC:</strong> N/A
-                                    <br><strong>Sort Code:</strong> N/A
-                                    <br><strong>Bank Address:</strong> Allied Bank Limited Stadium Road Branch (0971) Karachi
-                                </div>
-                            </div>
-                            <div class="sec-row">
-                                <div class="sec-col heading"><strong>Essentials</strong></div>
-                                <div class="sec-col">
-                                    <ul>
-                                        Applicants are required to submit proof of payment of processing fee on the online admissions portal for their application to be processed
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="sec-row">
+                           
+                            <div class="financialTable_content">
+                                <h4 class="heading font-weight-bold">Financial assistance need of the applicants are based on the socio-economic profile declared in the application form, mainly comprising the following factors: </h4>
+                                <h4 class="heading font-weight-bold mt-2">1. Household Income from all Sources (Per Month) </h4>
+                                <ul class="list-unstyled">
+                                    <li>a)  Salary Certificates/ Slips of all earning members of the family </li>
+                                    <li>b)  Bank statements (last 12 months)  </li>
+                                    
+                                </ul>  
+
+                                <h4 class="heading font-weight-bold">2. Dependents on Household Income (Including Self) </h4>
+                                  <ul class="list-unstyled">
+                                    <li>a) Dependents on Household Income (Including Self) </li>
+                                    <li>b) Cover letter</li>
+                                    <li>c) Copies of CNICs</li>
+                                    
+                                    
+                                </ul> 
+                                <h4 class="heading font-weight-bold">3. Expenses out of Household Income including rent/mortgage, education and health expenses on dependents, etc. </h4>
+                                 <ul class="list-unstyled">
+                                    <li>a) Copy of rent agreement </li>
+                                    <li>b) Mortgage/House loan approval documents</li>
+                                    <li>c) Proof of payment for last 06 months </li>
+                                    <li>d) Copies of fee vouchers of all family members studying (last 03 months)  </li>
+                                    <li>d) Copies of Medical bills incurring regularly (last 03 months)</li>
+                                    
+                                    
+                                </ul>
+
+                                <h4 class="heading font-weight-bold">4. Utility expenses per month</h4>
+                                   <ul class="list-unstyled">
+                                    <li>a)  Copies of all Utility Bills (last 06 months – if billing history is not visible in the latest bill)</li>
+                                    
+                                    
+                                    
+                                </ul>
+
                             </div>
                         </div>
                     </div>

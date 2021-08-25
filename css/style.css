@@ -3263,7 +3263,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     margin-bottom: 0;
 }
 
-.content-section-search i.fa-angle-right{
+.content-section-search i.fa-angle-right {
     font-size: 11px;
 }
 
@@ -3315,7 +3315,7 @@ header.search_page {
 
 .search_page .page-link {
     color: #FAA633;
-  
+
 }
 
 .btn_search_box {
@@ -3350,13 +3350,15 @@ header.search_page {
     color: #000;
 }
 
-.search_page .page-item.active .page-link:hover, .search_page .page-link:hover {
-       background-color: #000;
+.search_page .page-item.active .page-link:hover,
+.search_page .page-link:hover {
+    background-color: #000;
     border-color: #000;
     color: #fff;
 }
 
-.search:focus , .page-link:focus{
+.search:focus,
+.page-link:focus {
     box-shadow: none;
 }
 
@@ -3365,61 +3367,60 @@ header.search_page {
     overflow-y: auto;
 
 }
-.search_page .resultsdiv::-webkit-scrollbar-track
-{
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+
+.search_page .resultsdiv::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     background-color: #eee;
 }
 
-.search_page .resultsdiv::-webkit-scrollbar
-{
+.search_page .resultsdiv::-webkit-scrollbar {
     width: 6px;
     background-color: #eee;
 }
 
-.search_page .resultsdiv::-webkit-scrollbar-thumb
-{
+.search_page .resultsdiv::-webkit-scrollbar-thumb {
     border-radius: 10px;
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
     background-color: #97a2a1;
 }
 
-.financialTable_content{
+.financialTable_content {
     max-width: 48%;
     margin-top: 20px;
 }
 
-.financialTable_content .heading{
-       font-size: 14px;
+.financialTable_content .heading {
+    font-size: 14px;
     line-height: 21px;
     font-family: MyriadPro-Regular;
     color: #000;
     margin: 0;
 }
 
-.admission-process .financialTable_content ul{
- margin: 20px 0;
+.admission-process .financialTable_content ul {
+    margin: 15px 0 20px;
 }
 
 
-.admission-process .financialTable_content li::before{
-   content: initial;
+.admission-process .financialTable_content li::before {
+    content: initial;
 }
 
-.admission-process .financialTable_content li, .admission-process .financialTable_content p{
-      font-size: 14px;
+.admission-process .financialTable_content li,
+.admission-process .financialTable_content p {
+    font-size: 14px;
     line-height: 21px;
     font-family: MyriadPro-Regular;
     color: #000;
 }
 
-.admission-process .financialTable_content p{
-   
+.admission-process .financialTable_content p {
+
     margin: 10px 0 20px;
 }
 
-.admission-process .financialTable_content a{
+.admission-process .financialTable_content a {
     font-size: 14px;
     color: #FAA633;
 }
@@ -3655,7 +3656,7 @@ header.search_page {
         height: 153px;
     }
 
-    
+
     .faculty_grid_left.sheraz-mustafa-rajput {
         background: url(../images/about/Sheraz-Mustafa-Rajput_1024.jpg) no-repeat top center;
         background-size: cover;
@@ -3783,6 +3784,10 @@ header.search_page {
 
     .why-ksbl-page .whyksbl_accordion_child {
         padding-bottom: 50px;
+    }
+
+    .financialAssitTable .admission-process .tabs .tab {
+        font-size: 20px;
     }
 }
 
@@ -3980,6 +3985,24 @@ header.search_page {
         font-size: 45px;
     }
 
+    .financialAssitTable {
+        position: relative;
+        z-index: 222;
+    }
+
+    .financialAssitTable .admission-process .tabs .tab {
+
+        font-size: 15px;
+        line-height: 18px;
+        flex: 1 1 100%;
+
+    }
+
+    .financialTable_content {
+        max-width: 100%;
+
+
+    }
 
 }
 
@@ -4164,6 +4187,23 @@ header.search_page {
     .whyksbl_accordion #faq .card .card-header .btn-header-link span {
         font-size: 45px;
     }
+
+    .financialAssitTable {
+        position: relative;
+        z-index: 222;
+    }
+
+    .financialAssitTable .admission-process .tabs .tab {
+        font-size: 15px;
+        line-height: 18px;
+        flex: 1 1 100%;
+
+    }
+
+    .financialTable_content {
+        max-width: 100%;
+    }
+
 }
 
 @media (min-width: 320px) and (max-width: 360px) {
