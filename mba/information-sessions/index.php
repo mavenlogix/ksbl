@@ -99,7 +99,7 @@ include('../../partials/navbar.php');
 							</div>
 							<div class="program-connection">
 									<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
-									<a href="#" title="Register Now" class="btn-blue">Register Now</a>
+									<a href="https://us02web.zoom.us/meeting/register/tZIpcOirqD8iHNcJNUw6WsjWupCe3QNgCoqz" title="Register Now" class="btn-blue">Register Now</a>
 									<!--../information-sessions-register -->
 							</div>
 						</div>
@@ -129,7 +129,7 @@ include('../../partials/navbar.php');
 								    </div>
 									<div class="program-connection">
 										<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
-										<a href="#" title="Register Now" class="btn-blue">Register Now</a>
+										<a href="https://us02web.zoom.us/meeting/register/tZEsf-CqrjoqEtxkKtUS6lURutVTMB2XILDP" title="Register Now" class="btn-blue">Register Now</a>
 										<!--../information-sessions-register -->
 									</div>
 								</div>
@@ -158,7 +158,7 @@ include('../../partials/navbar.php');
 								    </div>
 									<div class="program-connection">
 										<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
-										<a href="#" title="Register Now" class="btn-blue">Register Now</a>
+										<a href="https://us02web.zoom.us/meeting/register/tZcld-qrpjovGN3eS8Rp1tyi_721GNcbjPSW" title="Register Now" class="btn-blue">Register Now</a>
 										<!--../information-sessions-register -->
 									</div>
 								</div>
