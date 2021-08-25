@@ -105,63 +105,85 @@ include('../partials/navbar.php');
                     </div>
                 </div>
                 <div class="non_faculty_grid_right">
-                    <h4>Founders & Trustees</h4>
+                <h4>Other Faculty Members</h4>
                     <div class="non_faculty_grid_right_scroll">
+                    
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="">Hussain Dawood
-                                <span>Founding Chairman, Board of Governors,<br>
-                                    KSBL</span>
+                            <a href="faculty-profile/Dr-Tariq-Basheer.php">Dr. Tariq Basheer
+                                <span>Professor<br> Accounting & Finance<br>
+                                    Head of Department, Business Administration</span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="">Munawar Alam Siddiqui
-                                <span>Director & Chair<br>
-                                    Infrastructure Committee Chairman<br>
-                                    J.S Investments Limited
+                            <a href="faculty-profile/Dr-Muhammad-Nadeem-Javaid.php">Dr. Nadeem Javaid
+                                <span>Professor<br>
+                                    Strategy & Economics<br>
+                                </span>
+                            </a>
+                        </div>
+                        
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Abdul-Rahim-Nasir.php">Dr. Abdul Rahim Nasir
+                                <span>Professor<br>
+                                Business and Supply Chain Analytics<br>
                                 </span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="">Muhammad Ali Tabba
-                                <span>Director, KEI<br>
-                                    CEO, Lucky Cement Limited
-                                    KSBL</span>
-                            </a>
-                        </div>
-                        <div class="non_faculty_grid_right_sub_head">
-                            <a href="">Nauman Ansari
-                                <span>Director, KEI<br>
-                                    Director & CEO, Bank Alfalah
+                            <a href="faculty-profile/Dr-Shazib-Ehsan-Shaikh.php">Dr. Shazib Ehsan Shaikh
+                                <span>Associate Professor,<br>
+                                    Business Analytics<br>
+                                    Head of Department, Decision Sciences
                                 </span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="">Sabrina Dawood
-                                <span>Director, KEI<br>
-                                    Director, Dawood Hercules Corporation Ltd
+                            <a href="faculty-profile/Dr-Ahmad-Junaid.php">Dr. Ahmad Junaid
+                                <span>Associate Professor<br>
+                                    Finance & Accounting
                                 </span>
                             </a>
                         </div>
+                   
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="">Arif Habib
-                                <span>Director, KEI<br>
-                                    Director & Chair<br>
-                                    Finance & Fundraising Committee
-                                </span>
+                            <a href="faculty-profile/Dr-Waheed-Ali-Umrani.php">Dr. Waheed Ali Umrani
+                                <span>Associate Professor <br>HR & OB</span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="">Henna Inam
-                                <span>Director, KEI<br>
-                                    Director, Engro Corporation<br>
-                                </span>
+                            <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">Dr. Athar Siddiqui
+                                <span>Associate Professor<br>
+                                    OB & HR</span>
                             </a>
                         </div>
+
                         <div class="non_faculty_grid_right_sub_head">
-                            <a href="">Hasan Irfan Khan
-                                <span>Director, KEI<br>
-                                    Director, Engro Corporation<br>
-                                </span>
+                            <a href="faculty-profile/Dr-Sheraz-Mustafa-Rajput.php">Dr. Sheraz Mustafa Rajput
+                                <span>Associate Professor<br> Economics</span>
+                            </a>
+                        </div>
+
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Faryal-Razzaq.php">Dr. Faryal Razzaq
+                                <span>Assistant Professor<br>Management Sciences</span>
+                            </a>
+                        </div>
+
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Shoaib-ul-Haq.php">Dr. Shoaib ul Haq
+                                <span>Associate Professor<br>General Management & Digital Economy</span>
+                            </a>
+                        </div>
+                     
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">Dr. Muhammad Talha Salam
+                                <span>Assistant Professor<br>Marketing & Analytics</span>
+                            </a>
+                        </div>
+                        
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Asim-Khwaja.php">Dr. Asim Khwaja
+                                <span>Assistant Professor<br>Decision Sciences</span>
                             </a>
                         </div>
                     </div>
