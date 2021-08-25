@@ -3410,9 +3410,11 @@ header.search_page {
 .admission-process .financialTable_content li,
 .admission-process .financialTable_content p {
     font-size: 14px;
-    line-height: 21px;
     font-family: MyriadPro-Regular;
     color: #000;
+}
+.admission-process .financialTable_content li+li{
+    margin-top: 8px;
 }
 
 .admission-process .financialTable_content p {
@@ -4198,6 +4200,10 @@ header.search_page {
         line-height: 18px;
         flex: 1 1 100%;
 
+    }
+
+    .financialAssitTable .tab-content li{
+        padding-left: 0;
     }
 
     .financialTable_content {
