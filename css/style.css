@@ -3386,7 +3386,7 @@ header.search_page {
 }
 
 .financialTable_content{
-    max-width: 45%;
+    max-width: 48%;
     margin-top: 20px;
 }
 
@@ -3399,7 +3399,7 @@ header.search_page {
 }
 
 .admission-process .financialTable_content ul{
- margin-top: 20px;
+ margin: 20px 0;
 }
 
 
@@ -3407,11 +3407,21 @@ header.search_page {
    content: initial;
 }
 
-.admission-process .financialTable_content li{
+.admission-process .financialTable_content li, .admission-process .financialTable_content p{
       font-size: 14px;
     line-height: 21px;
     font-family: MyriadPro-Regular;
     color: #000;
+}
+
+.admission-process .financialTable_content p{
+   
+    margin: 10px 0 20px;
+}
+
+.admission-process .financialTable_content a{
+    font-size: 14px;
+    color: #FAA633;
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {

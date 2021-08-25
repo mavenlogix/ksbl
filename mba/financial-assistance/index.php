@@ -83,65 +83,69 @@ include('../../partials/navbar.php');
                     <div class="tabs-content">
                         <!-- ==== eligibility === -->
                         <div class="tab-content active" data-tab="Types_Financial_Assistance">
-                            <div class="financialTable_content">
-                                <h4 class="heading">KSBL aspire to attract the top talent and believes that financial impediments should not be a barrier to be part of the premier educational programs offered at KSBL. We offer Financial Assistance in the form of</h4>
+                          <div class="financialTable_content">
+                                <h4 class="heading font-weight-bold">KSBL aspire to attract the top talent and believes that financial impediments should not be a barrier to be part of the premier educational programs offered at KSBL. We offer Financial Assistance in the form of</h4>
                                 <ul class="list-unstyled">
-    <li>i.  Merit Scholarships</li>
-    <li>ii. KSBL Need Based Grants</li>
-    <li>iii.    Third Party Loans</li>
-    <li>iv. Paid Teaching/Research Assistance-ship &amp; Student Jobs  </li>
-    <li>v.  Alumni Discounts</li>
-    <li>vi. Institutional Discounts</li>
-    <li>vii.    Special Quota for Females in Undergrad Scholarships, Grants and Student Loans.</li>
-</ul>
-                              
+                                    <li>i.  Merit Scholarships</li>
+                                    <li>ii. KSBL Need Based Grants</li>
+                                    <li>iii.    Third Party Loans</li>
+                                    <li>iv. Paid Teaching/Research Assistance-ship &amp; Student Jobs  </li>
+                                    <li>v.  Alumni Discounts</li>
+                                    <li>vi. Institutional Discounts</li>
+                                    <li>vii.    Special Quota for Females in Undergrad Scholarships, Grants and Student Loans.</li>
+                                </ul>  
+
+                                <h4 class="heading font-weight-bold">Merit Scholarships</h4>
+                                  <ul class="list-unstyled">
+                                    <li>a) KSBL offers up to 80%  scholarship for the ‘Position Holders’ of Board of Intermediate and Secondary Studies (BISE)</li>
+                                    <li>b)  Having 3 As in CIE</li>
+                                    <li>c)  Admission test merit lists toppers</li>
+                                    <li>d)  Merit scholarship for semester toppers </li>
+                                    <li>e)  Enrolled students qualifying for Rector’s list.</li>
+                                    
+                                </ul> 
+                                <h4 class="heading font-weight-bold">KSBL Need Based Grants</h4>
+                                <p>A combination of Up to 65% financial assistance is provided on a state-of-the-art automated admission portal to ensure an unbiased, and fair assessment of the needs of the student in the form of KSBL grants.</p>
+
+                                <h4 class="heading font-weight-bold">Third Party Loans</h4>
+                                <p>KSBL grants can be substantiated with third party interest free loans like Qarz- Hasna and ISA.</p>
+
+                                <h4 class="heading font-weight-bold">Paid Teaching/Research Assistance-ship & Student Jobs  </h4>
+                                <p>We offer opportunities for students to learn, and earn through our various paid offerings.  </p>
+
+                                <h4 class="heading font-weight-bold">Alumni Discounts </h4>
+                                <p>For subsequent enrollments the Alumni can avail 20% fee waiver</p>
+
+                                 <h4 class="heading font-weight-bold">Institutional Discounts</h4>
+                                <p>Special custom made offers for fee waivers, scholarships and grants are available for the institutions.</p>
+
+                                <h4 class="heading font-weight-bold">Special Quota for Females in Undergrad Scholarships, Grants and Student Loans.</h4>
+                                <p>Special Quota for Females in Undergrad Scholarships, Grants and Student Loans.</p>
+
+
                             </div>
-                           
+
                             
                         </div>
                         <!-- ==== deadlines === -->
                         <div class="tab-content" data-tab="Assessment_Process">
-                            <div class="sec-row">
-                                <strong>Admissions Open MEBA, IT&S, MBA, Executive MBA, MSBA </strong>
-                            </div>
-                            <div class="sec-row">
-                                <div class="sec-col heading"><strong>
-                                      Admissions Early Bird Deadline
-                                    </strong></div>
-                                <div class="sec-col">
-                                    <ul>
-                                        <strong>Sep 10, 2021</strong>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="sec-row">
-                                <div class="sec-col heading"><strong>Admissions Final Deadline</strong></div>
-                                <div class="sec-col">
-                                    <ul>
-                                        <strong>Sep 20, 2021</strong>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="sec-row">
-                                <div class="sec-col heading"><strong>KMAT, KUAT / SAT based Admission Test</strong></div>
-                                <div class="sec-col">
-                                    <ul>
-                                        <strong>Rolling Basis*</strong>
-                                    </ul>
-                                </div>
-                            </div>
+                           
+                           
 
-                            <div class="sec-row">
-                                <div class="sec-col heading"><strong>Fall Semester Start Date</strong></div>
-                                <div class="sec-col">
-                                    <ul>
-                                        <strong>Oct 04, 2021</strong>
-                                    </ul>
-                                </div>
-                            </div>
+                            <div class="financialTable_content">
+                                
+                                <ul class="list-unstyled">
+                                    <li>1.  Prospective Students apply through a <a href="">formal application process </a>  complete the application form in all aspects.</li>
+                                    <li>2.  Pay the fee for tests ( in case of fee waiver follow the instructions of the admissions’ team to fill this section)</li>
+                                    <li>3.  The Prospective students who have formally applied for any study program can apply for <a href="">Financial Assistance</a>  </li>
+                                    <li>4.  The financial assistance needs of the applicant students shall be determined by the Institute’s Financial Assistance Committee through a very transparent and stringent point-based evaluation./li>
+                                    <li>5.  The Committee shall verify the information provided and will assess each application on a score card generated in online portal for fair assessment, the level of financial assistance offered will be based on the predefined criteria for the scores.</li>
+                                   
+                                </ul>  
 
-                            <div class="sec-row">
-                            *Please email KSBL Admissions for KUAT and KMAT Dates: admissions@ksbl.edu.pk
+                                
+
+
                             </div>
 
                         </div>
@@ -219,6 +223,63 @@ include('../../partials/navbar.php');
                 </div>
             </div>
           
+        </div>
+    </div>
+
+    <div class="content-section">
+        <div class="container">
+            <div class="content-area">
+                <!-- <h2>Fee Structure </h2> -->
+                <div class="fee-table">
+                    <div class="table-row heading">
+                        <div class="table-col">Financial Assistance at KSBL</div>
+                        <div class="table-col">Amount in PKR</div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col">Total Number of Beneficiaries to date : 504</div>
+                        <div class="table-col"></div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col">Scholarships/Fee Waiver</div>
+                        <div class="table-col">77,249,077/- </div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col">KSBL Loan</div>
+                        <div class="table-col">50,856,607/- </div>
+                    </div>
+                    <!-- undergraduate program -->
+                  
+                    <div class="table-row">
+                        <div class="table-col">Third Party  Interest Free Loans</div>
+                        <div class="table-col">31,444,248/-  </div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col">Work Study</div>
+                        <div class="table-col">1,453,588/- </div>
+                    </div>
+
+                     <div class="table-row">
+                        <div class="table-col">Zakat</div>
+                        <div class="table-col">8,370,000/-  </div>
+                    </div>
+
+                    <div class="table-row">
+                        <div class="table-col"><br>* Financial Assistance distributed till 2020: PKR 200,201,123/-  
+                           </div>
+                        <div class="table-col"></div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col"></div>
+                        <div class="table-col"></div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col"></div>
+                        <div class="table-col"></div>
+                    </div>
+                </div>
+              
+            </div>
+            
         </div>
     </div>
     <div class="open-house-section  new-open-houese">
