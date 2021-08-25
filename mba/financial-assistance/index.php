@@ -138,7 +138,7 @@ include('../../partials/navbar.php');
                                     <li>1.  Prospective Students apply through a <a href="">formal application process </a>  complete the application form in all aspects.</li>
                                     <li>2.  Pay the fee for tests ( in case of fee waiver follow the instructions of the admissions’ team to fill this section)</li>
                                     <li>3.  The Prospective students who have formally applied for any study program can apply for <a href="">Financial Assistance</a>  </li>
-                                    <li>4.  The financial assistance needs of the applicant students shall be determined by the Institute’s Financial Assistance Committee through a very transparent and stringent point-based evaluation./li>
+                                    <li>4.  The financial assistance needs of the applicant students shall be determined by the Institute’s Financial Assistance Committee through a very transparent and stringent point-based evaluation.</li>
                                     <li>5.  The Committee shall verify the information provided and will assess each application on a score card generated in online portal for fair assessment, the level of financial assistance offered will be based on the predefined criteria for the scores.</li>
                                    
                                 </ul>  
@@ -151,30 +151,20 @@ include('../../partials/navbar.php');
                         </div>
                         <!-- ==== checklist === -->
                         <div class="tab-content" data-tab="Terms_and_Conditions">
-                            <div class="sec-row">
-                                <div class="sec-col heading"><strong>Checklist Criteria</strong></div>
-                                <div class="sec-col">
-                                    <ul>
-                                        <li>Online Admission Application Form</li>
-                                        <li>Copy of Official Transcripts/Mark Sheets - Degree/Certificates (Last three qualifications, Latest and two previous)</li>
-                                        <li>Copy of Test Score - KMAT (KSBL Management Admissions Test), GMAT/GRE. In case of yet to appear for a test, scheduled test dates for any of the above needs to be provided</li>
-                                        <li>Resume/CV</li>
-                                        <li>Copy of previous or current employment/Internship certificates</li>
-                                        <li>Copy of Computerized National Identity Card (CNIC) or copy of valid Passport</li>
-                                        <li>Two Personal Statement Essays</li>
-                                        <li>Two Letters of Recommendations</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="sec-row">
-                                <div class="sec-col heading"><strong>Special Announcement</strong></div>
-                                <div class="sec-col">
-                                    <ul>
-                                        <li>The admissions application is now online and all documents may be uploaded online for further assessment</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="sec-row">
+                             <div class="financialTable_content">
+                                
+                                <ul class="list-unstyled">
+                                    <li>1.  Merit and need based scholarships and Student loans are awarded to the successful candidates.</li>
+                                    <li>2.  The scholarship and grants  awarded are awarded for the first semester only and their continuation for the subsequent semesters shall be subject to maintenance of CGPA of 3.50 and the grade of at least B in each course by the awardee.</li>
+                                    <li>3.  Only one kind of merit scholarship or grant shall be admissible to one student at a time. </a>  </li>
+                                    <li>4.  The students shall have to follow the academic road map with a regular course load for all types of merit scholarships and adhere to code of conduct of the university.</li>
+                                   
+                                   
+                                </ul>  
+
+                                
+
+
                             </div>
                         </div>
                         <!-- ==== Process === -->
