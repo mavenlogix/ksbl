@@ -3427,6 +3427,7 @@ header.search_page {
     color: #FAA633;
 }
 
+
 @media (min-width: 992px) and (max-width: 1199px) {
     .non_faculty_grid_img {
         height: 153px;
@@ -3987,23 +3988,24 @@ header.search_page {
         font-size: 45px;
     }
 
-    .financialAssitTable {
+     .financialAssitTable {
         position: relative;
         z-index: 222;
     }
 
     .financialAssitTable .admission-process .tabs .tab {
-
         font-size: 15px;
         line-height: 18px;
         flex: 1 1 100%;
 
     }
 
+    .financialAssitTable .tab-content li{
+        padding-left: 0;
+    }
+
     .financialTable_content {
         max-width: 100%;
-
-
     }
 
 }
