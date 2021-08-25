@@ -429,7 +429,7 @@ include('../partials/head.php');
                         </div>
 
                         <!-- for visiting faculty members -->
-                       <div class="non_faculty_grid_right_sub_head">
+                       <!-- <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Junaid-Siddiqui.php">Dr. Junaid Siddiqui
                                 <span>Information Systems</span>
                             </a>
@@ -439,7 +439,7 @@ include('../partials/head.php');
                             <a href="faculty-profile/Nausheen-Ahmed.php">Nausheen Ahmed
                                 <span>Business Law</span>
                             </a>
-                        </div>
+                        </div> -->
 
 
 

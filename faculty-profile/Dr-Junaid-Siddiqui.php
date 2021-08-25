@@ -192,11 +192,11 @@ include('../partials/navbar.php');
                             </a>
                         </div> -->
 
-                        <div class="non_faculty_grid_right_sub_head">
+                        <!-- <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Nausheen-Ahmed.php">Nausheen Ahmed
                                 <span>Business Law</span>
                             </a>
-                        </div>
+                        </div> -->
 
 
 
