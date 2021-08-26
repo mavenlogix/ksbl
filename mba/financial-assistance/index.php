@@ -70,7 +70,65 @@ include('../../partials/navbar.php');
     <!-----------------------------------------------------------------#
     #              Financial Assistance Start                          #
     #----------------------------------------------------------------->
-     <div class="content-section financialAssitTable">
+    <div class="content-section">
+        <div class="container">
+            <div class="content-area">
+                <!-- <h2>Fee Structure </h2> -->
+                <div class="fee-table">
+                    <div class="table-row heading">
+                        <div class="table-col">Financial Assistance at KSBL</div>
+                        <div class="table-col">Amount in PKR</div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col">Total Number of Beneficiaries to date : 504</div>
+                        <div class="table-col"></div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col">Scholarships/Fee Waiver</div>
+                        <div class="table-col">77,249,077/- </div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col">KSBL Loan</div>
+                        <div class="table-col">50,856,607/- </div>
+                    </div>
+                    <!-- undergraduate program -->
+                  
+                    <div class="table-row">
+                        <div class="table-col">Third Party  Interest Free Loans</div>
+                        <div class="table-col">31,444,248/-  </div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col">Work Study</div>
+                        <div class="table-col">1,453,588/- </div>
+                    </div>
+
+                     <div class="table-row">
+                        <div class="table-col">Zakat</div>
+                        <div class="table-col">8,370,000/-  </div>
+                    </div>
+
+                    <div class="table-row">
+                        <div class="table-col"><br>* Financial Assistance distributed till 2020: PKR 200,201,123/-  
+                           </div>
+                        <div class="table-col"></div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col"></div>
+                        <div class="table-col"></div>
+                    </div>
+                    <div class="table-row">
+                        <div class="table-col"></div>
+                        <div class="table-col"></div>
+                    </div>
+                </div>
+              
+            </div>
+            
+        </div>
+    </div>
+   
+   
+    <div class="content-section financialAssitTable">
         <div class="container">
             <div class="content-area">
                 <div class="admission-process">
@@ -215,62 +273,10 @@ include('../../partials/navbar.php');
         </div>
     </div>
 
-    <div class="content-section">
-        <div class="container">
-            <div class="content-area">
-                <!-- <h2>Fee Structure </h2> -->
-                <div class="fee-table">
-                    <div class="table-row heading">
-                        <div class="table-col">Financial Assistance at KSBL</div>
-                        <div class="table-col">Amount in PKR</div>
-                    </div>
-                    <div class="table-row">
-                        <div class="table-col">Total Number of Beneficiaries to date : 504</div>
-                        <div class="table-col"></div>
-                    </div>
-                    <div class="table-row">
-                        <div class="table-col">Scholarships/Fee Waiver</div>
-                        <div class="table-col">77,249,077/- </div>
-                    </div>
-                    <div class="table-row">
-                        <div class="table-col">KSBL Loan</div>
-                        <div class="table-col">50,856,607/- </div>
-                    </div>
-                    <!-- undergraduate program -->
-                  
-                    <div class="table-row">
-                        <div class="table-col">Third Party  Interest Free Loans</div>
-                        <div class="table-col">31,444,248/-  </div>
-                    </div>
-                    <div class="table-row">
-                        <div class="table-col">Work Study</div>
-                        <div class="table-col">1,453,588/- </div>
-                    </div>
 
-                     <div class="table-row">
-                        <div class="table-col">Zakat</div>
-                        <div class="table-col">8,370,000/-  </div>
-                    </div>
 
-                    <div class="table-row">
-                        <div class="table-col"><br>* Financial Assistance distributed till 2020: PKR 200,201,123/-  
-                           </div>
-                        <div class="table-col"></div>
-                    </div>
-                    <div class="table-row">
-                        <div class="table-col"></div>
-                        <div class="table-col"></div>
-                    </div>
-                    <div class="table-row">
-                        <div class="table-col"></div>
-                        <div class="table-col"></div>
-                    </div>
-                </div>
-              
-            </div>
-            
-        </div>
-    </div>
+
+
     <div class="open-house-section  new-open-houese">
         <div class="container">
             <div class="event-program">
