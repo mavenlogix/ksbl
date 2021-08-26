@@ -115,11 +115,14 @@ include('../../partials/navbar.php');
                                     <ul>
                                         <li>16 years of Education at the time of Admission (Those awaiting result may also apply)</li>
                                         <li>Undergraduate CGPA 2.5 or more</li>
+                                        <li>KMAT/GMAT/GRE/GAT General</li>
+                                        <li>Must have 5 years of professional experience required (Only for EMBA)</li>
+
                                     </ul>
                                     <p style="margin-top: 5px;margin-bottom: 0px">Undergraduate Programs</p>
                                     <ul>
                                       <li>12 years of Education at the time of Admission (Those awaiting result may also apply)</li>
-                                      <li>This includes <b>HSC</b> (min. 60% marks), <b>A Levels or Equivalent</b> (min. 1B, 2Cs & no grade less than C) & <b>IB</b></li>
+                                      <li>This includes HSSC (min. 60% marks), <b>A Levels or Equivalent</b> (min. 1B, 2Cs & no grade less than C) & <b>IB</b></li>
                                     </ul>
                                 </div>
                             </div>
@@ -128,30 +131,32 @@ include('../../partials/navbar.php');
                                 <div class="sec-col">
                                 <p style="margin-bottom: 0px">Graduate Programs</p>
                                     <ul>
-                                        <li>KMAT (KSBL Management Admission Test). NTS GAT, GRE, GMAT are also accepted</li>
-                                        <li>Interview by KSBL Admission Committee</li>
+                                       <li>KMAT (KSBL Management Admission Test). NTS, GAT, GRE, GMAT are also accepted</li>
+                                       <li>Interview by KSBL Admission Committee</li>
+
                                     </ul>
                                     <p style="margin-top: 5px;margin-bottom: 0px">Undergraduate Programs</p>
                                     <ul>
-                                      <li>SAT based Admission Test</li>
+                                      <li>KUAT (KSBL Undergraduate admission test). SAT Score is also accepted </li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="sec-row">
                                 <div class="sec-col heading"><strong>Discover more about our Programs</strong></div>
                                 <div class="sec-col">
-                                    While choosing a university for a degree program the merits considered need to rely on the academic curriculum, faculty & adjuncts, teaching methodology, industrial linkages and placement support. At KSBL, our programs accelerate the individuals' leadership capabilities and character building, through a reinforced approach towards the digital economy
+                                While choosing a university for a degree program the merits considered need to rely on the academic curriculum, faculty & adjuncts, teaching methodology, industrial linkages and placement support. At KSBL, our programs accelerate the individuals' leadership capabilities and character building, through a reinforced approach towards the digital economy
                                 </div>
                             </div>
                             <div class="sec-row">
                                 <div class="sec-col heading"><strong>Open House Sessions</strong></div>
                                 <div class="sec-col">
-                                    To understand eligibility, you can also register for our Open House and ask any questions first-hand - register
+                                    To understand eligibility, you can also register for our Open House and ask any questions first-hand - register 
                                     <a href="information-sessions/">here</a>
                                 </div>
                             </div>
                         </div>
                         <!-- ==== deadlines === -->
+                        <!--====== key dates started =======-->
                         <div class="tab-content" data-tab="deadlines">
                             <div class="sec-row">
                                 <strong>Admissions Open MEBA, IT&S, MBA, Executive MBA, MSBA </strong>
@@ -162,7 +167,7 @@ include('../../partials/navbar.php');
                                     </strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong>Sep 10, 2021</strong>
+                                        <strong>Sep 10, 2021 (UG,PG)</strong>
                                     </ul>
                                 </div>
                             </div>
@@ -170,7 +175,7 @@ include('../../partials/navbar.php');
                                 <div class="sec-col heading"><strong>Admissions Final Deadline</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong>Sep 20, 2021</strong>
+                                        <strong>Sep 20, 2021 (UG,PG)</strong>
                                     </ul>
                                 </div>
                             </div>
@@ -196,50 +201,101 @@ include('../../partials/navbar.php');
                             *Please email KSBL Admissions for KUAT and KMAT Dates: admissions@ksbl.edu.pk
                             </div>
 
-                        </div>
-                        <!-- ==== checklist === -->
+                        </div>  <!--==== Ended key dates============-->
+                        <!-- ==== checklist started=== -->
                         <div class="tab-content" data-tab="checklist">
                             <div class="sec-row">
-                                <div class="sec-col heading"><strong>Checklist Criteria</strong></div>
+                                <div class="sec-col heading"><strong>MBA</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <li>Online Admission Application Form</li>
-                                        <li>Copy of Official Transcripts/Mark Sheets - Degree/Certificates (Last three qualifications, Latest and two previous)</li>
-                                        <li>Copy of Test Score - KMAT (KSBL Management Admissions Test), GMAT/GRE. In case of yet to appear for a test, scheduled test dates for any of the above needs to be provided</li>
-                                        <li>Resume/CV</li>
-                                        <li>Copy of previous or current employment/Internship certificates</li>
-                                        <li>Copy of Computerized National Identity Card (CNIC) or copy of valid Passport</li>
-                                        <li>Two Personal Statement Essays</li>
-                                        <li>Two Letters of Recommendations</li>
+                                        <li>Following is the list of required documents:</li>
+                                        <li>Updated CV/Resume (Mandatory) *</li>
+                                        <li>Recent Passport Size Picture (Mandatory) *</li>
+                                        <li>Bachelors (or highest completed qualification) Marks sheet/Transcript *</li>
+                                        <li>CNIC/Passport *</li>
+                                        <li>SSC/O-Level Mark Sheet/Certificate</li>
+                                        <li>HSC/A-Level Mark Sheet/Certificate</li>
+                                        <li>Equivalence Certificate (for foreign degrees only)</li>
+                                        <li>Scorecard (KMAT/GMAT/GRE/GAT General)</li>
+
                                     </ul>
+                                    <br>
+                                    Note: After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application
                                 </div>
                             </div>
                             <div class="sec-row">
-                                <div class="sec-col heading"><strong>Special Announcement</strong></div>
+                                <div class="sec-col heading"><strong>Executive MBA</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <li>The admissions application is now online and all documents may be uploaded online for further assessment</li>
+                                       <li>For KSBL MBA Executive program, the applicant MUST HAVE minimum five (5) years of professional experience. The program offers the flexibility of attending from anywhere.</li>
+                                       <li>Following is the list of required documents:</li>
+                                       <li>Updated CV/Resume (Mandatory) *</li>
+                                       <li>Recent Passport Size Picture (Mandatory) *</li>
+                                       <li>Bachelors (or highest completed qualification) Marks sheet/Transcript *</li>
+                                       <li>CNIC/Passport *</li>
+                                       <li>SSC/O-Level Mark Sheet/Certificate</li>
+                                       <li>HSC/A-Level Mark Sheet/Certificate</li>
+                                       <li>Equivalence Certificate (for foreign degrees only)</li>
+                                       <li>Scorecard (KMAT/GMAT/GRE/GAT General)</li>
+
                                     </ul>
+                                    <br>
+                                    Note: After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application
                                 </div>
                             </div>
                             <div class="sec-row">
+                              <div class="sec-col heading"><strong>MS Business Analytics</strong></div>
+                                <div class="sec-col">
+                                    <ul>
+                                         <li>Following is the list of required documents:</li>
+                                         <li>Updated CV/Resume (Mandatory) *</li>
+                                         <li>Recent Passport Size Picture (Mandatory) *</li>
+                                         <li>Bachelors (or highest completed qualification) Marks sheet/Transcript *</li>
+                                         <li>CNIC/Passport *  <br>
+                                          SSC/O-Level Mark Sheet/Certificate *</li>
+                                         <li>HSC/A-Level Mark Sheet/Certificate *</li>
+                                         <li>Equivalence Certificate (for foreign degrees only)</li>
+                                         <li>Scorecard (KMAT/GMAT/GRE/GAT General)</li>
+                                    </ul>
+                                    <br>
+                                    Note: After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application
+                                </div>
                             </div>
-                        </div>
-                        <!-- ==== Process === -->
+
+                            <div class="sec-row">
+                              <div class="sec-col heading"><strong>BS MEBA & BSIT&S</strong></div>
+                                <div class="sec-col">
+                                   Following is the list of required documents:  <br>
+                                    <ul>
+                                        <li>HSC/A-Level Mark Sheet/Certificate * <li>
+                                        <li>SSC/O-Level Mark Sheet/Certificate * <li>
+                                        <li>National Identity Card or B-Form or Birth Certificate * <li>
+                                        <li>Equivalence Certificate (for foreign degrees only) <li>
+                                        <li>SAT Score (if available) <li>
+                                    </ul>
+                                    <br>
+                                    Note: After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application.
+                                </div>
+                            </div>
+
+                        </div>   <!--=====checklist ended==============-->
+                        <!-- ==== Start Process === -->
                         <div class="tab-content" data-tab="process">
                             <div class="sec-row">
                                 <div class="sec-col heading"><strong>Online Application</strong></div>
                                 <div class="sec-col">
-                                    <ul>
-                                        Online Application - <a href="http://admissions.colaraz.com/signup?institute=ksbledu" target="_blank">Click here</a> to proceed <br>For the online application process, you are expected to submit all the required documents</li>
-                                    </ul>
+                                    
+                                        Online Application - <a href="http://admissions.colaraz.com/signup?institute=ksbledu" target="_blank">Click here</a> to proceed <br>For the online application process, you are expected to submit all the required documents
+                                    
                                 </div>
                             </div>
                             <div class="sec-row">
                                 <div class="sec-col heading"><strong>Processing Fee</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        A processing fee of PKR 5000 will be charged, which will also include the fee for KMAT
+                                        A processing fee for PG of PKR 5000 will be charged, which will also include the fee for KMAT  <br>
+                                        Processing fee for UG of PKR 3000 will be charged , which include the fee for KUAT
+
                                     </ul>
                                 </div>
                             </div>
