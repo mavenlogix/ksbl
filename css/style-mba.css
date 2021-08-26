@@ -1244,11 +1244,12 @@ a.btn-primary:hover {
 .content-section .container {
     display: flex;
     padding-top: 40px;
-    /* padding-bottom: 60px */
+    padding-bottom: 60px
 }
 .remove-padding{
     padding-top: 20px !important;
 }
+.remove-padding-bottom{ padding-bottom: 0px !important  }
 
 .content-section .content-area {
     width: 100%;

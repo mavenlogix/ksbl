@@ -71,7 +71,7 @@ include('../../partials/navbar.php');
     #              Financial Assistance Start                          #
     #----------------------------------------------------------------->
     <div class="content-section">
-        <div class="container">
+        <div class="container  remove-padding-bottom">
             <div class="content-area">
                 <h2>Financial Assistance at KSBL</h2>
                 <div class="fee-table">
