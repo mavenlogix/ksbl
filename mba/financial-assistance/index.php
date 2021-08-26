@@ -239,7 +239,7 @@ include('../../partials/navbar.php');
 
                                 <h4 class="heading font-weight-bold">2. Dependents on Household Income (Including Self) </h4>
                                   <ul class="list-unstyled">
-                                    <li>a) Dependents on Household Income (Including Self) </li>
+                                    <li>a) NADRA issued Family Registration Certificate FRC</li>
                                     <li>b) Cover letter</li>
                                     <li>c) Copies of CNICs</li>
                                     
