@@ -178,7 +178,7 @@ include('../../partials/navbar.php');
                                 <p>Special custom made offers for fee waivers, scholarships and grants are available for the institutions.</p>
 
                                 <h4 class="heading font-weight-bold">Special Quota for Females in Undergrad Scholarships, Grants and Student Loans.</h4>
-                                <p>Special Quota for Females in Undergrad Scholarships, Grants and Student Loans.</p>
+                                <p>For Gender inclusivity KSBL have allocated half of its Financial Assistance budgets for females for undergrad admissions</p>
 
 
                             </div>
