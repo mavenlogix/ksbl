@@ -151,7 +151,7 @@ include('../../partials/navbar.php');
                                 <div class="sec-col heading"><strong>Open House Sessions</strong></div>
                                 <div class="sec-col">
                                     To understand eligibility, you can also register for our Open House and ask any questions first-hand - register 
-                                    <a href="./information-sessions/">here</a>
+                                    <a href="././mba/information-sessions/">here</a>
                                 </div>
                             </div>
                         </div>
