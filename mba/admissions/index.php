@@ -151,7 +151,7 @@ include('../../partials/navbar.php');
                                 <div class="sec-col heading"><strong>Open House Sessions</strong></div>
                                 <div class="sec-col">
                                     To understand eligibility, you can also register for our Open House and ask any questions first-hand - register 
-                                    <a href="information-sessions/">here</a>
+                                    <a href="./information-sessions/">here</a>
                                 </div>
                             </div>
                         </div>
@@ -220,7 +220,7 @@ include('../../partials/navbar.php');
 
                                     </ul>
                                     <br>
-                                    Note: After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application
+                                    <strong>Note:</strong> After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application
                                 </div>
                             </div>
                             <div class="sec-row">
@@ -240,7 +240,7 @@ include('../../partials/navbar.php');
 
                                     </ul>
                                     <br>
-                                    Note: After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application
+                                    <strong>Note:</strong> After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application
                                 </div>
                             </div>
                             <div class="sec-row">
@@ -258,7 +258,7 @@ include('../../partials/navbar.php');
                                          <li>Scorecard (KMAT/GMAT/GRE/GAT General)</li>
                                     </ul>
                                     <br>
-                                    Note: After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application
+                                    <strong>Note:</strong> After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application
                                 </div>
                             </div>
 
@@ -274,7 +274,7 @@ include('../../partials/navbar.php');
                                         <li>SAT Score (if available) <li>
                                     </ul>
                                     <br>
-                                    Note: After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application.
+                                    <strong>Note:</strong> After uploading documents, please proceed to the next stage to upload the application fee receipt and submit the application.
                                 </div>
                             </div>
 
