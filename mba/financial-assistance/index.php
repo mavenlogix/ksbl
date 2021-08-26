@@ -73,10 +73,10 @@ include('../../partials/navbar.php');
     <div class="content-section">
         <div class="container">
             <div class="content-area">
-                <!-- <h2>Fee Structure </h2> -->
+                <h2>Financial Assistance at KSBL</h2>
                 <div class="fee-table">
                     <div class="table-row heading">
-                        <div class="table-col">Financial Assistance at KSBL</div>
+                        <div class="table-col">Our Stats</div>
                         <div class="table-col">Amount in PKR</div>
                     </div>
                     <div class="table-row">
@@ -129,7 +129,7 @@ include('../../partials/navbar.php');
    
    
     <div class="content-section financialAssitTable">
-        <div class="container">
+        <div class="container  remove-padding">
             <div class="content-area">
                 <div class="admission-process">
                     <div class="tabs">
