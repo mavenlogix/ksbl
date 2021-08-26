@@ -193,9 +193,9 @@ include('../../partials/navbar.php');
                             <div class="financialTable_content">
                                 
                                 <ul class="list-unstyled">
-                                    <li>1.  Prospective Students apply through a <a href="">formal application process </a>  complete the application form in all aspects.</li>
+                                    <li>1.  Prospective Students apply through a <a href="http://admissions.colaraz.com/signup?institute=ksbledu">formal application process </a>  complete the application form in all aspects.</li>
                                     <li>2.  Pay the fee for tests ( in case of fee waiver follow the instructions of the admissions’ team to fill this section)</li>
-                                    <li>3.  The Prospective students who have formally applied for any study program can apply for <a href="">Financial Assistance</a>  </li>
+                                    <li>3.  The Prospective students who have formally applied for any study program can apply for <a href="http://admissions.colaraz.com/signup?institute=ksbledu">Financial Assistance</a>  </li>
                                     <li>4.  The financial assistance needs of the applicant students shall be determined by the Institute’s Financial Assistance Committee through a very transparent and stringent point-based evaluation.</li>
                                     <li>5.  The Committee shall verify the information provided and will assess each application on a score card generated in online portal for fair assessment, the level of financial assistance offered will be based on the predefined criteria for the scores.</li>
                                    
