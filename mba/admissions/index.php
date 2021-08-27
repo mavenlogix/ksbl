@@ -380,13 +380,13 @@ include('../../partials/navbar.php');
                 </div>
 
 
-                <div class="grey-area">
-                    <div class="notes">
-                        <div class="tabs">
+                <div class="grey-area" id="grey-area2">
+                    <div class="notes" id="notes2">
+                        <div class="tabs" id="tabs2">
                             <div class="tab active" data-tab="kuat-registration"> About KUAT </div>
                             <div class="tab" data-tab="kuat-test">KUAT Registration </div>
                         </div>
-                        <div class="tabs-content">
+                        <div class="tabs-content" id="tabs-content2">
                             <div class="tab-content active" data-tab="kuat-registration">
                                 <h3> The KSBL Undergraduate Admission Test (KUAT) is designed to evaluate the quantitative, verbal, and writing skills of applicants to KSBL undergraduate programs. </h3>
                                 <div class="sec-row">
