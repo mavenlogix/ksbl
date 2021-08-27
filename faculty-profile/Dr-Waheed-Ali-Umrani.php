@@ -284,7 +284,7 @@ include('../partials/navbar.php');
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Tariq-Basheer.php">Dr. Tariq Basheer
                                 <span>Professor<br> Accounting & Finance<br>
-                                    Head of Department, Business Administration</span>
+                                 Dean - Faculty of Management Sciences</span>
                             </a>
                         </div>
                         <div class="non_faculty_grid_right_sub_head">
