@@ -141,6 +141,16 @@
 				$('.notes .tab-content[data-tab="' + active_content + '"]').addClass('active');
 			}
 		});
+
+			$('.notes2 .tab').click(function () {
+			if (!$(this).hasClass('active')) {
+				$('.notes2 .tab').removeClass('active');
+				$(this).addClass('active');
+				$(' .notes2 .tab-content').removeClass('active');
+				var active_content = $(this).attr('data-tab');
+				$('.notes2 .tab-content[data-tab="' + active_content + '"]').addClass('active');
+			}
+		});
 		$('.admission-process .tab').click(function () {
 			if (!$(this).hasClass('active')) {
 				$('.admission-process .tab').removeClass('active');

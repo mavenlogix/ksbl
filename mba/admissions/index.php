@@ -381,8 +381,8 @@ include('../../partials/navbar.php');
 
 
                 <div class="grey-area" id="grey-area2" style="margin-top: 20px;">
-                    <div class="notes" id="notes2">
-                        <div class="tabs" id="tabs2">
+                    <div class="notes2" >
+                        <div class="tabs" >
                             <div class="tab active" data-tab="kuat-registration"> About KUAT </div>
                             <div class="tab" data-tab="kuat-test">KUAT Registration </div>
                         </div>
