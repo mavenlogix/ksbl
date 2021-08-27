@@ -383,30 +383,24 @@ include('../../partials/navbar.php');
                 <div class="grey-area">
                     <div class="notes">
                         <div class="tabs">
-                            <div class="tab active" data-tab="kmat-registration"> About KMAT </div>
-                            <div class="tab" data-tab="kmat-test">KMAT Registration </div>
+                            <div class="tab active" data-tab="kmat-registration"> About KUAT </div>
+                            <div class="tab" data-tab="kmat-test">KUAT Registration </div>
                         </div>
                         <div class="tabs-content">
                             <div class="tab-content active" data-tab="kmat-registration">
-                                <h3> The KSBL Management Admission Test (KMAT) is designed
-                                    to assess the quantitative, verbal, analytical, and writing
-                                    skills of applicants to KSBL graduate programs. </h3>
+                                <h3> The KSBL Undergraduate Admission Test (KUAT) is designed to evaluate the quantitative, verbal, and writing skills of applicants to KSBL undergraduate programs. </h3>
                                 <div class="sec-row">
                                     <div class="sec-col heading"></div>
                                     <div class="sec-col"><strong>Scoring:</strong>
-                                        Test is scored on absolute and percentile scales.
-                                        For evaluations in graduate admissions, percentile scores
-                                        are considered.
+                                         Test is scored on absolute and percentile scales. For evaluations in undergraduate admissions, absolute scores are considered.
                                         <br><br>
                                         <strong>
                                             Validity:
                                         </strong>
-                                        Test scores are valid for two (2) years from date of
-                                        test.
+                                        Test scores are valid for two (2) years from date of test.
                                         <br>
                                         <br>
-                                        Candidates can opt for other tests in lieu of KMAT
-                                        including GMAT, GRE and NTS-GAT.
+                                        Candidates can claim exemption for KUAT based on valid SAT score.
                                         <br><br>
                                         For details, please <strong> <a target="_blank" href="mba/admissions/KSBL - KMAT - TestDetails.pdf">click here</a></strong> <br>
                                         For sample test, please <strong><a target="_blank" href="mba/admissions/KSBL-KMAT-SampleTest.pdf  ">click here</a> </strong>
@@ -414,17 +408,16 @@ include('../../partials/navbar.php');
                                 </div>
                             </div>
                             <div class="tab-content" data-tab="kmat-test">
-                                <h3><strong> Conduct of Test: </strong> KMAT is computer-based test. </h3>
+                                <h3><strong> Conduct of Test: </strong> KUAT is computer-based test. </h3>
                                 <div class="sec-row">
                                     <div class="sec-col heading"></div>
-                                    <div class="sec-col">* Starting February 2021, KMAT shall be conducted
-                                        on KSBL campus observing SOPs for COVID-19
-                                        prevention. <br><br>
-                                        * Accordingly test is scheduled with candidates after
-                                        application is received along with the fee.
+                                    <div class="sec-col">* KUAT shall be conducted on KSBL campus observing SOPs for COVID-19 prevention or online. The 
+                                        conduct of KUAT is dependent on the Sindh Government notification.
+                                        <br><br>
+                                        * Accordingly, test is scheduled with candidates after application is received along with the fee.
                                         <br>
                                         <br>
-                                        * KMAT test date may be rescheduled upon a prior notice of at least 24 hours.
+                                        * KUAT test date may be rescheduled upon a prior notice of at least 24 hours.…… 
                                     </div>
                                 </div>
                             </div>
