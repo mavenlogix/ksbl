@@ -417,7 +417,7 @@ include('../../partials/navbar.php');
                                         * Accordingly, test is scheduled with candidates after application is received along with the fee.
                                         <br>
                                         <br>
-                                        * KUAT test date may be rescheduled upon a prior notice of at least 24 hours.…… 
+                                        * KUAT test date may be rescheduled upon a prior notice of at least 24 hours. 
                                     </div>
                                 </div>
                             </div>
