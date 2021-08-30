@@ -93,7 +93,7 @@ include('../../partials/navbar.php');
 								<div class="about-program">
 									<h2>KSBL Undergraduate Open House</h2>
 									<div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="http://bit.ly/BS-OHS2">
-									    September   4th, 2021 (4 pm PST)
+									    September   5th, 2021 (4 pm PST)
 										</a> </div>
 									<div class="program-at"></div>
 							</div>
@@ -122,7 +122,7 @@ include('../../partials/navbar.php');
 									<div class="about-program">
 										<h2>KSBL Undergraduate Open House</h2>
 										<div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="http://bit.ly/BS-OHS2">
-											September   11th, 2021 (4 pm PST)
+											September   12th, 2021 (4 pm PST)
 											</a> 
 									     </div>
 								     	<div class="program-at"></div>
@@ -151,7 +151,7 @@ include('../../partials/navbar.php');
 									<div class="about-program">
 										<h2>KSBL Undergraduate Open House</h2>
 										<div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="http://bit.ly/BS-OHS2">
-											September   18th, 2021 (4 pm PST)
+											September   19th, 2021 (4 pm PST)
 											</a> 
 									     </div>
 								     	<div class="program-at"></div>
