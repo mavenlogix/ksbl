@@ -60,7 +60,7 @@ include('../../partials/navbar.php');
                     <!-- === END Tab 1 === -->
 			
 					<!-- === Tab 2 === -->
-                    <div class="tab-section">
+                    <!-- <div class="tab-section">
                         <div class="tag-area"><span class="tag orange">UPCOMING</div>
                         <div class="program-details">
                             <div class="about-program">
@@ -73,7 +73,6 @@ include('../../partials/navbar.php');
                             <div class="program-connection">
                                 <a href="javascript:void(0)" class="btn-highlights">Highlights</a>
                                 <a href="https://bit.ly/bs-ohs3" title="Register Now" class="btn-blue">Register Now</a>
-                                <!--../information-sessions-register -->
                             </div>
                         </div>
                         <div class="highlights-content">
@@ -83,7 +82,7 @@ include('../../partials/navbar.php');
                             <br>- Admission Process
                             <br>- Financial Assistance
                         </div>
-                    </div>
+                    </div> -->
                     <!-- === END Tab 2 === -->
 
                     <!-- === Tab 3 === -->
