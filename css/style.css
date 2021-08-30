@@ -3330,7 +3330,7 @@ header.search_page {
 }
 
 input.search {
-    height: 23px;
+    height: 50px;
     border-radius: 0;
     margin-right: 12px;
 }
