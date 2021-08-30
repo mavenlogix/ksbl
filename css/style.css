@@ -3329,7 +3329,7 @@ header.search_page {
     border-radius: 0;
 }
 
-.search {
+input.search {
     height: 23px;
     border-radius: 0;
     margin-right: 12px;
