@@ -193,18 +193,21 @@ include('../partials/head.php');
                     <h4>Other Faculty Members</h4>
                     <div class="non_faculty_grid_right_scroll">
                     
-                      <div class="non_faculty_grid_right_sub_head">
+                    <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Farooq-e-Azam-Cheema.php">Dr. Farooq-e-Azam Cheema
                                 <span>Provost & Acting Registrar</span>
 
                             </a>
                         </div>
+
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Tariq-Basheer.php">Dr. Tariq Basheer
-                                <span>Professor<br> Accounting & Finance<br>
-                                Dean - Faculty of Management Sciences</span>
+                                <span>Professor<br>Accounting & Finance<br>Dean - Faculty of Management Sciences</span>
+
                             </a>
                         </div>
+
+                   
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Muhammad-Nadeem-Javaid.php">Dr. Nadeem Javaid
                                 <span>Professor<br>
@@ -228,7 +231,6 @@ include('../partials/head.php');
                                 </span>
                             </a>
                         </div>
-               
                    
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Waheed-Ali-Umrani.php">Dr. Waheed Ali Umrani
@@ -242,34 +244,19 @@ include('../partials/head.php');
                             </a>
                         </div>
 
-
-                        <div class="non_faculty_grid_right_sub_head">
-                            <a href="faculty-profile/Dr-Sheraz-Mustafa-Rajput.php">Dr. Sheraz Mustafa Rajput
-                                <span>Associate Professor<br> Economics</span>
-                            </a>
-                        </div>
-                        
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Faryal-Razzaq.php">Dr. Faryal Razzaq
                                 <span>Assistant Professor<br>Management Sciences</span>
                             </a>
-                        </div>
-
-                     
-                        <div class="non_faculty_grid_right_sub_head">
-                            <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">Dr. Muhammad Talha Salam
-                                <span>Assistant Professor<br>Marketing & Analytics</span>
-                            </a>
-                        </div>
-                        
+                        </div>                     
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Asim-Khwaja.php">Dr. Asim Khwaja
                                 <span>Assistant Professor<br>Decision Sciences</span>
                             </a>
                         </div>
 
-                         <!-- for visiting faculty members -->
-                       <!-- <div class="non_faculty_grid_right_sub_head">
+                        <!-- for visiting faculty members -->
+                        <!-- <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Junaid-Siddiqui.php">Dr. Junaid Siddiqui
                                 <span>Information Systems</span>
                             </a>
