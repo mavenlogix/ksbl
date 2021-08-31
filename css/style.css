@@ -4212,11 +4212,6 @@ input.search {
         max-width: 100%;
     }
 
-    /* for search pagenation for mobile  */
-    .search_page .pagination {
-        justify-content: center;
-    }
-
 }
 
 @media (min-width: 320px) and (max-width: 360px) {
