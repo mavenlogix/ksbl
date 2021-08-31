@@ -62,6 +62,7 @@
     display: block !important;
     opacity: 1;
     transition: all .5s linear;
+    z-index: 2;
 }
 
 .mba nav#top-navigation li.expend ul li {
