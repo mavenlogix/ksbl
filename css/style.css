@@ -3302,6 +3302,7 @@ header.search_page {
 .search_page .pagination {
     justify-content: flex-end;
     margin-top: 20px;
+    flex-wrap: wrap;
 }
 
 
