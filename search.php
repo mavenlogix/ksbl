@@ -95,7 +95,7 @@ include('./partials/footer-scripts.php');
     function getresults() {
         $.ajax({
             type: "POST",
-            url:  url: (window.location.href.indexOf("ksbl") > -1) ? ("<?= $url ?>system/search") : ("<?= $url ?>system/search.php"),
+            url: "<?= $url ?>system/search.php",
             data: {
                 q: window.q,
                 page: window.page
