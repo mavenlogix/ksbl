@@ -9,7 +9,7 @@
                     <li><a href="emba/" title="Executive MBA">Executive MBA</a></li>
                     <li><a href="ms-business-analytics/" title="MS Business Analytics">MS Business Analytics</a></li>
                     <li><a href="meba/" title="MEBA">BS MEBA</a></li>
-                    <li><a href="/bs-its/" title="MEBA">BS IT&S</a></li>
+                    <li><a href="/bs-its/" title="BS-ITS">BS IT&S</a></li>
                     <li><a href="executive-education-services/" title="Executive Education">Executive Education</a></li>
                 </ul>
             </li>
