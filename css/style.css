@@ -225,7 +225,7 @@ header#header.run:before {
     top: -15px;
 }
 
-.menu-serch img {
+.menu-serch img, .menu-serch object {
     position: relative;
     z-index: 3;
     cursor: pointer;
