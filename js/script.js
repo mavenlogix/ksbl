@@ -86,7 +86,7 @@
 			
 			event.stopImmediatePropagation();
 		}).mouseleave(function () {
-			$(this).contents().find(".sn").css({ "fill": "#675e51" });
+			$(this).contents().find(".sn").css({ "fill": "#d7d7d7" });
 		})
 		$('.menu-serch .search object,.menu-serch .main-navigation object').click(function () {
 			if ($(window).width() < 577) {
