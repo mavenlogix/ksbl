@@ -215,7 +215,7 @@ header#header.run:before {
     border-radius: 100%;
     transform: scale(0);
     transform-origin: center center;
-    transition: all .2s linear;
+    transition: all 0.01s linear;
     z-index: 2;
 }
 
