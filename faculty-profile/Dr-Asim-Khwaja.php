@@ -334,7 +334,13 @@ include('../partials/head.php');
                             <a href="faculty-profile/Dr-Faryal-Razzaq.php">Dr. Faryal Razzaq
                                 <span>Assistant Professor<br>Management Sciences</span>
                             </a>
-                        </div>                     
+                        </div>     
+                        
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Sheraz-Mustafa-Rajput.php">Dr. Sheraz Mustafa Rajput
+                                <span>Associate Professor<br> Economics</span>
+                            </a>
+                        </div>
 
 
                         <!-- for visiting faculty members -->

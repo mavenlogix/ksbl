@@ -306,6 +306,12 @@ include('../partials/head.php');
                             </a>
                         </div>
 
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Sheraz-Mustafa-Rajput.php">Dr. Sheraz Mustafa Rajput
+                                <span>Associate Professor<br> Economics</span>
+                            </a>
+                        </div>
+
                         <!-- for visiting faculty members -->
                         <!-- <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Junaid-Siddiqui.php">Dr. Junaid Siddiqui

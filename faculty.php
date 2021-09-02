@@ -237,6 +237,22 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person Dr. Bridget Kustin -->
 
+                 <!-- Person Sheraz Mustafa Rajput -->
+               <div class="person come-out">
+                    <a href="faculty-profile/Dr-Sheraz-Mustafa-Rajput.php">
+                        <div class="person-info">
+                            <img src="images/faculty/sheraz-mustafa-rajput.jpg" alt="Sheraz Mustafa Rajput" />
+                        </div>
+                    </a>
+                    <div class="person-detail">
+                        <h2 class="name">Dr. Sheraz Mustafa Rajput</h2>
+                        <div class="designation">
+                            Associate Professor<br> Economics
+                        </div>
+                    </div>
+                </div> -->
+                <!-- END Person Sheraz Mustafa Rajput
+
                 <!-- Person Dr. Abdul Rahim Nasir -->
               <div class="person come-out">
                     <a href="faculty-profile/Dr-Abdul-Rahim-Nasir.php">
@@ -518,25 +534,6 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Mohammad Taha Thanvi -->
-
-               <!-- Person Sheraz Mustafa Rajput -->
-             <!--   <div class="person come-out">
-                    <a href="faculty-profile/Dr-Sheraz-Mustafa-Rajput.php">
-                        <div class="person-info">
-                            <img src="images/faculty/sheraz-mustafa-rajput.jpg" alt="Sheraz Mustafa Rajput" />
-                        </div>
-                    </a>
-                    <div class="person-detail">
-                        <h2 class="name">Dr. Sheraz Mustafa Rajput</h2>
-                        <div class="designation">
-                            Associate Professor<br> Economics
-                        </div>
-                    </div>
-                </div> -->
-                <!-- END Person Sheraz Mustafa Rajput -->
-
-              
-
 
                 <!-- Person 6 -->
                <!--  <div class="person come-out">
