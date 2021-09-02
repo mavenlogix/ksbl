@@ -250,7 +250,7 @@ include('./partials/head.php');
                             Associate Professor<br> Economics
                         </div>
                     </div>
-                </div> -->
+                </div>
                 <!-- END Person Sheraz Mustafa Rajput
 
                 <!-- Person Dr. Abdul Rahim Nasir -->
