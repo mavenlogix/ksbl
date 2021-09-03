@@ -30,6 +30,93 @@ include('../partials/navbar.php');
                 </div>
                 <div class="open-house-tabs">
 
+
+                    <!-- === Data Mining Visiting Faculty === -->
+                    <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Data Mining Visiting Faculty</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                    KSBL looking for candidates whose teaching, research and work interests are related to data mining, especially for retrieval, organization and mining of big data.  
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        <h3>Job Specifications:</h3>
+                                        KSBL looking for candidates whose teaching, research and work interests are related to data mining, especially for retrieval, organization and mining of big data. Ideal candidate’s skillset will be summarized by one or more of the following keywords: SQL, NoSQL, Apache Spark, Hadoop, Hive, Pig, ETL, Enterprise Data Lakes, etc.  The applicant needs to be expert in Python as the language of choice for teaching this course.
+                                        <br>
+                                       <br>
+                                        <h3>Specific Qualifications:</h3>
+                                        <ul>
+                                            <li>An MS or higher degree in Data Mining or CS with specialization in Data Mining demonstrating depth in the field and demonstrated industry/consulting experience.</li>
+                                            <li>Industry consulting experience is especially prized.</li>
+                                        </ul>
+                                      
+                                        <p>
+                                        Deadline to apply: 10-Sept-2021<br>
+                                        Expected Joining Date: 20th – 25th  September, 2021<br>
+                                        Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- === END Data Mining Visiting Faculty === -->
+
+                    <!-- === Lecturer /Adjunct Faculty/Assistant Professor/Associate Professor for Marketing Analytics === -->
+                    <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Lecturer /Adjunct Faculty/Assistant Professor/Associate Professor for Marketing Analytics</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                    KSBL is looking for candidates whose teaching, work experience and/or research interests are related to Marketing Analytics. 
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        <h3>Job Specifications:</h3>
+                                        KSBL is looking for candidates whose teaching, work experience and/or research interests are related to Marketing Analytics, especially if their skillset covers one or more of the following keywords: visual analytics, predictive modeling applications to marketing, statistical and machine learning algorithms (e.g. market basket analysis, cluster analysis, principle component analysis), R, Python, web analytics, social media analytics, social network analytics, social media/unstructured data mining, etc.
+                                        <br>
+                                       <br>
+                                        <h3>Specific Qualifications:</h3>
+                                        <ul>
+                                            <li>Must have a Master’s degree (18-years education) with a BS or field experience demonstrating breadth of skillset.  For example: MBA/MS Marketing Analytics with BS-level programming coverage; MS in Data Science/Analytics (CS-oriented) with BS having significant Marketing coverage.  Reputable world-class degrees will be prioritized. </li>
+                                            <li>Adjunct Faculty is a part-time position only for non-academic practitioners serving in Marketing Analytics designations.  Lecturer would be a full-time position.</li>
+                                            <li>Practical field experience in applications of such skills (such as consultancy or on-job assignments) will be highly valued</li>
+                                        </ul>
+                                     
+                                        <p>
+                                        Deadline to apply: 12th September, 2021<br>
+                                        Expected Joining date: 22nd - 25th-Sept, 2021<br>
+                                        Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- === END Lecturer /Adjunct Faculty/Assistant Professor/Associate Professor for Marketing Analytics === -->
+
+
                     <!-- === Director Admissions === -->
                          <div class="tab-section" style="margin-top: 20px;">
                         <div class="student-achievement">
