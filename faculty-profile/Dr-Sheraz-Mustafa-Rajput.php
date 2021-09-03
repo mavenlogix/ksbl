@@ -112,10 +112,10 @@ include('../partials/navbar.php');
                             <p>
                                 <strong>TRAININGS ATTENDED</strong>
                                 <ul>
-                                    <li>Workshop Training, “Case Study method of Teaching” at Business Department, Sukkur IBA University (April 22-24, 2016)<li>
-                                    <li>Assurance of Learning Seminar II, Kuala Lumpur, Malaysia (December 21-22, 2016) <li>	
-                                    <li>IVEY Business School, “Case Teaching and Case Writing Workshop” at Executive Development Center Sukkur IBA University, Sukkur ( September 18-20, 2018)<li>
-                                    <li>Certification, “Case Study method of Teaching” at Rausing Executive Development Centre – LUMS  (October 12-14, 2018)<li>
+                                    <li>Workshop Training, “Case Study method of Teaching” at Business Department, Sukkur IBA University (April 22-24, 2016)</li>
+                                    <li>Assurance of Learning Seminar II, Kuala Lumpur, Malaysia (December 21-22, 2016) </li>	
+                                    <li>IVEY Business School, “Case Teaching and Case Writing Workshop” at Executive Development Center Sukkur IBA University, Sukkur ( September 18-20, 2018)</li>
+                                    <li>Certification, “Case Study method of Teaching” at Rausing Executive Development Centre – LUMS  (October 12-14, 2018)</li>
 
                                 </ul>
                             </p>
@@ -149,23 +149,25 @@ include('../partials/navbar.php');
                         </div>
                         <div id="publications" class=" tab-pane fade"><br>
                             <p>
-                            1.	Pickering, A., & Sheraz, R. (2018). Inequality and the Composition of Taxes. International Tax and Public Finance, 25(4), 1001-1028.
-                          <br>  2.	Sheraz, R., & Tariq, A. (2019). Government Size and Economic Growth: A Panel Data Study Comparing OECD and Non-OECD Countries. Applied Economics Journal, 26(2), 22-37.
-                          <br>  3.	Sheraz, R., Fiza, Q., & Tariq, A. (2020). Demographic Changes and Direct Tax Dynamics in OECD and non-OECD Markets: A Revisit. Applied Economics Journal, 28(1), 1-17.
-                          <br>  4.	Sheraz, R. (2020). How does Primary, Secondary and Tertiary Education Affect Global Terrorism? Fresh Evidence with International Panel Data. Journal of Aggression, Conflict and Peace Research.
-                          <br>  5.	Sheraz, R., Hussain, A., Tariq, A., Sayema, S., & Noor, K. (2020). How Does Democratic Government with Limited Intervention Affect Environmental Quality? Fresh Evidence with International Panel Data. International Journal of Advanced and Applied Sciences, 8(4), 1-X.
-                          <br>  6.	Sheraz, R., & Tariq, A., Sarfraz, D., & Hassan, S (2020). Economic Freedom, Democracy and Income Inequality. Academic Journal of Social Sciences (Accepted for Publication).
-                          <br>  7.	Aziz, T., Marwat, J., Sheraz, R., & Kumar, V. (2020). Impact of Economic Policy Uncertainty and Macroeconomic Factors on Stock Market Volatility: Evidence from Islamic Indices. The Journal of Asian Finance, Economics, and Business, 7(12), 683-692.
-                          <br>  8.	Ahmed, U., Umrani, W. A., Zaman, U., Sheraz, R., & Aziz, T. (2020). Corporate Entrepreneurship and Business Performance: The Mediating Role of Employee Engagement. SAGE Open, 10(4), 2158244020962779.
-                          <br>  9.	Aziz, T., Marwat, J., Sheraz, R., Zeeshan, A., & Iqbal, Y. (2021). Linkage between US Financial Uncertainty and Stock Markets of SAARC Countries. The Journal of Asian Finance, Economics, and Business, 8(2), 747-757.
-                          <br>  10.	Umrani, W., Sanober, S., Zafar, A., Faiz, K., & Sheraz, R. (2020). Allied Power Solutions (APS): A Decision Dilemma. Case Studies on Contemporary Practices in Management & HR. International Association of Educators and Researchers, Chapter 13.
-                          <br>  11.	Hussain, S., Solangi, R., Umrani, W., & Sheraz, R. Recruiting the Right Research Associate for Case Research Center. Emerald Emerging Markets Case Studies.
-                          <br>  12.	Aziz, T., Marwat, J., Sheraz, R., Zeeshan, A., & Iqbal, Y. (2020) Linkage between US Financial Uncertainty and Stock Markets of SAARC Countries. Journal of Asian Finance, Economics and Business.
-                          <br>  13.	Aziz, T., Marwat, J., Sheraz, R., & Kumar, V. & Al-Haddad, L. (2021). Reassessment of Volatility Transmission among South Asian Equity Markets. Journal of Asian Finance, Economics and Business.
-                          <br>  14.	Sarfraz, D., Sheraz, R., & Tariq, A., Khalil, C., & Niaz, B. (2021). Implicit Change Leadership, affective Commitment to Change, and the Mediating Role of Organizational Trust. Journal of Business and Social Review in Emerging Economies.
-                          <br>  15.	Sheraz, R., Aziz, T., Noor, K., Sarfraz, D., Hassan, S. (2021). How do economic, social and political globalizations affect terrorism? Fresh Evidence with International Panel Data. Journal of Aggression, Conflict and Peace Research.
-                          <br>  16.	Noor, K., Sheraz, R., Aziz, T., Akseer, H., Jahanzeb, A. (2021). Trade Openness and Income Inequality: Fresh Evidence Based on Different Inequality Measures. Applied Economics Journal.
+                                <ul>
+                                1.	Pickering, A., & Sheraz, R. (2018). Inequality and the Composition of Taxes. International Tax and Public Finance, 25(4), 1001-1028.
+                                2.	Sheraz, R., & Tariq, A. (2019). Government Size and Economic Growth: A Panel Data Study Comparing OECD and Non-OECD Countries. Applied Economics Journal, 26(2), 22-37.
+                                3.	Sheraz, R., Fiza, Q., & Tariq, A. (2020). Demographic Changes and Direct Tax Dynamics in OECD and non-OECD Markets: A Revisit. Applied Economics Journal, 28(1), 1-17.
+                                4.	Sheraz, R. (2020). How does Primary, Secondary and Tertiary Education Affect Global Terrorism? Fresh Evidence with International Panel Data. Journal of Aggression, Conflict and Peace Research.
+                                5.	Sheraz, R., Hussain, A., Tariq, A., Sayema, S., & Noor, K. (2020). How Does Democratic Government with Limited Intervention Affect Environmental Quality? Fresh Evidence with International Panel Data. International Journal of Advanced and Applied Sciences, 8(4), 1-X.
+                                6.	Sheraz, R., & Tariq, A., Sarfraz, D., & Hassan, S (2020). Economic Freedom, Democracy and Income Inequality. Academic Journal of Social Sciences (Accepted for Publication).
+                                7.	Aziz, T., Marwat, J., Sheraz, R., & Kumar, V. (2020). Impact of Economic Policy Uncertainty and Macroeconomic Factors on Stock Market Volatility: Evidence from Islamic Indices. The Journal of Asian Finance, Economics, and Business, 7(12), 683-692.
+                                8.	Ahmed, U., Umrani, W. A., Zaman, U., Sheraz, R., & Aziz, T. (2020). Corporate Entrepreneurship and Business Performance: The Mediating Role of Employee Engagement. SAGE Open, 10(4), 2158244020962779.
+                                9.	Aziz, T., Marwat, J., Sheraz, R., Zeeshan, A., & Iqbal, Y. (2021). Linkage between US Financial Uncertainty and Stock Markets of SAARC Countries. The Journal of Asian Finance, Economics, and Business, 8(2), 747-757.
+                                10.	Umrani, W., Sanober, S., Zafar, A., Faiz, K., & Sheraz, R. (2020). Allied Power Solutions (APS): A Decision Dilemma. Case Studies on Contemporary Practices in Management & HR. International Association of Educators and Researchers, Chapter 13.
+                                11.	Hussain, S., Solangi, R., Umrani, W., & Sheraz, R. Recruiting the Right Research Associate for Case Research Center. Emerald Emerging Markets Case Studies.
+                                12.	Aziz, T., Marwat, J., Sheraz, R., Zeeshan, A., & Iqbal, Y. (2020) Linkage between US Financial Uncertainty and Stock Markets of SAARC Countries. Journal of Asian Finance, Economics and Business.
+                                13.	Aziz, T., Marwat, J., Sheraz, R., & Kumar, V. & Al-Haddad, L. (2021). Reassessment of Volatility Transmission among South Asian Equity Markets. Journal of Asian Finance, Economics and Business.
+                                14.	Sarfraz, D., Sheraz, R., & Tariq, A., Khalil, C., & Niaz, B. (2021). Implicit Change Leadership, affective Commitment to Change, and the Mediating Role of Organizational Trust. Journal of Business and Social Review in Emerging Economies.
+                                15.	Sheraz, R., Aziz, T., Noor, K., Sarfraz, D., Hassan, S. (2021). How do economic, social and political globalizations affect terrorism? Fresh Evidence with International Panel Data. Journal of Aggression, Conflict and Peace Research.
+                                16.	Noor, K., Sheraz, R., Aziz, T., Akseer, H., Jahanzeb, A. (2021). Trade Openness and Income Inequality: Fresh Evidence Based on Different Inequality Measures. Applied Economics Journal.
 
+                                </ul>
                             </p>
                         </div>
                     </div>
