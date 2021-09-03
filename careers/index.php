@@ -53,7 +53,7 @@ include('../partials/navbar.php');
                                         </ul>
                                       
                                         <p>
-                                        Deadline to apply: 10-Sept-2021<br>
+                                        Deadline to apply: 10th September, 2021<br>
                                         Expected Joining Date: 20th – 25th  September, 2021<br>
                                         Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
                                         </p>
