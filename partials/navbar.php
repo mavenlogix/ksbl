@@ -32,10 +32,10 @@
         <!--  START Search -->
         <div class="search icon-link">
           
-          
+            <div class="position-relative">
                <object class="menu-nav-obj" data="images/search-nav.svg" width="24" height="26"></object>
-               
-           
+               <span class="menuMob" ></span> 
+            </div>
             
             <div class="search-content header-model">
                 <div class="container">
@@ -50,8 +50,10 @@
         <!--  END Search -->
         <!--  START Navigation -->
         <div class="main-navigation icon-link">
-            
+             <div class="position-relative">
             <object class="menu-nav-obj" data="images/menu-nav.svg" width="28" height="24"></object>
+             <span  class="menuMob"></span> 
+                   </div>
             <div class="navigation-content header-model">
                 <div class="container">
                     <div class="naviagtions">

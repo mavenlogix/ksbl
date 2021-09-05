@@ -100,22 +100,22 @@
                 })
 
 
-                $(document).find('.menu-serch .search ').on("click", "span" , function() {
-                      console.log($(this).parentsUntil("#header").find('.icon-link').hasClass('active'))
+                $(document).find('.menu-serch .search, .menu-serch .main-navigation  ').on("click", "span" , function() {
+                      console.log($(this).parentsUntil(".search"))
                         if ($(window).width() < 577) {
                             
                             if ($(this).parentsUntil("#header").find('.icon-link').hasClass('active')) {
-                                $(this).parent('.icon-link').removeClass('active');
+                               $(this).parentsUntil(".search").closest('.icon-link').removeClass('active');
                                 $('.header-top').removeClass('open');
-                                $(this).parentsUntil("#header").find('.icon-link').find('.header-model').removeClass('open');
+                                $(this).parentsUntil(".search").closest('.icon-link').find('.header-model').removeClass('open');
                                 $('.header-top').removeAttr('style');
                             } else {
                                 $('.header-top').removeClass('open');
                                 $('.header-top').addClass('open');
                                 $('.menu-serch > div').removeClass('active');
-                                $(this).parent('.icon-link').addClass('active');
+                                $(this).parentsUntil(".search").closest('.icon-link').addClass('active');
                                 $('.header-model').removeClass('open');
-                                $(this).parentsUntil("#header").find('.icon-link').find('.header-model').addClass('open');
+                               $(this).parentsUntil(".search").closest('.icon-link').find('.header-model').addClass('open');
                                 $('.header-top').width($('.container').width());
                             }
                         }

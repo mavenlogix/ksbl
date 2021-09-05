@@ -225,7 +225,8 @@ header#header.run:before {
     top: -15px;
 }
 
-.menu-serch img, .menu-serch object {
+.menu-serch img,
+.menu-serch object {
     position: relative;
     z-index: 3;
     cursor: pointer;
@@ -336,14 +337,14 @@ nav#top-navigation li.expend ul li:before {
     width: 100%;
     background: #fff;
     visibility: hidden;
-  
+
     overflow: hidden;
     padding: 70px 0;
     transition: top .5s linear;
 }
 
 .header-model.open {
-   visibility: initial;
+    visibility: initial;
     top: 0px;
 }
 
@@ -3416,7 +3417,8 @@ input.search {
     font-family: MyriadPro-Regular;
     color: #000;
 }
-.admission-process .financialTable_content li+li{
+
+.admission-process .financialTable_content li+li {
     margin-top: 8px;
 }
 
@@ -3431,9 +3433,23 @@ input.search {
 }
 
 
+.menuMob {
+    position: absolute;
+    top: -13px;
+    width: 50px;
+    height: 50px;
+    right: 0;
+    bottom: 0;
+    left: -13px;
+    background: red;
+    border-radius: 50%;
+    z-index: 2223;
+    opacity: 0;
+}
+
 @media (min-width: 992px) and (max-width: 1199px) {
 
-    .non_faculty_grid_right_sub_head+.non_faculty_grid_right_sub_head{
+    .non_faculty_grid_right_sub_head+.non_faculty_grid_right_sub_head {
         padding-right: 20px;
     }
 
@@ -3609,7 +3625,7 @@ input.search {
 
 @media (min-width: 768px) and (max-width: 991px) {
 
-    .non_faculty_grid_right_sub_head+.non_faculty_grid_right_sub_head{
+    .non_faculty_grid_right_sub_head+.non_faculty_grid_right_sub_head {
         padding-right: 20px;
     }
 
@@ -4002,7 +4018,7 @@ input.search {
         font-size: 45px;
     }
 
-     .financialAssitTable {
+    .financialAssitTable {
         position: relative;
         z-index: 222;
     }
@@ -4014,7 +4030,7 @@ input.search {
 
     }
 
-    .financialAssitTable .tab-content li{
+    .financialAssitTable .tab-content li {
         padding-left: 0;
     }
 
@@ -4218,7 +4234,7 @@ input.search {
 
     }
 
-    .financialAssitTable .tab-content li{
+    .financialAssitTable .tab-content li {
         padding-left: 0;
     }
 
