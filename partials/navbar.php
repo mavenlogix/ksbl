@@ -32,10 +32,10 @@
         <!--  START Search -->
         <div class="search icon-link">
           
-            <div style="position: relative;">
+          
                <object class="menu-nav-obj" data="images/search-nav.svg" width="24" height="26"></object>
-               <span style="position: absolute;top:-13px;width: 50px; height: 50px; right: 0;bottom: 0;left: -13px;background: red; border-radius: 50%;z-index: 2223;opacity: 0;"></span> 
-            </div>
+               
+           
             
             <div class="search-content header-model">
                 <div class="container">
