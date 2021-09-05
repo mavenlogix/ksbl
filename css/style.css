@@ -335,13 +335,15 @@ nav#top-navigation li.expend ul li:before {
     left: 0;
     width: 100%;
     background: #fff;
-    display: block !important;
+    visibility: hidden;
+  
+    overflow: hidden;
     padding: 70px 0;
     transition: top .5s linear;
 }
 
 .header-model.open {
-    display: block;
+   visibility: initial;
     top: 0px;
 }
 
