@@ -151,7 +151,7 @@ include('../../partials/navbar.php');
                                 <div class="sec-col heading"><strong>Open House Sessions</strong></div>
                                 <div class="sec-col">
                                     To understand eligibility, you can also register for our Open House and ask any questions first-hand - register 
-                                    <a href="https://us02web.zoom.us/meeting/register/tZIpcOirqD8iHNcJNUw6WsjWupCe3QNgCoqz">here</a>
+                                    <a href="https://us02web.zoom.us/meeting/register/tZEsf-CqrjoqEtxkKtUS6lURutVTMB2XILDP">here</a>
                                 </div>
                             </div>
                         </div>
