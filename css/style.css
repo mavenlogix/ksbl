@@ -211,7 +211,7 @@ header#header.run:before {
     background: #FAA633;
     display: block;
     left: -13px;
-    top: -12px;
+    top: -13px;
     border-radius: 100%;
     transform: scale(0);
     transform-origin: center center;
@@ -222,7 +222,7 @@ header#header.run:before {
 .main-navigation:before,
 .main-navigation.scrolling:before {
     left: -11px;
-    top: -13.5px;
+    top: -13px;
 }
 
 .menu-serch img,
