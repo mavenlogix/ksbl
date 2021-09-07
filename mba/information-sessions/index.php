@@ -32,90 +32,40 @@ include('../../partials/navbar.php');
                     Contact us at +92 (21) 38771999<br>to schedule a one-on-one meeting with our admissions and career counselor now.
                 </div>
                 <div class="open-house-tabs">
-                    <!-- === Tab 1 === -->
-                    <!-- <div class="tab-section active">
-							<div class="tag-area"><span class="tag orange">UPCOMING</div>
-							<div class="program-details">
-								<div class="about-program">
-									<h2>Meet the Team</h2>
-									<div class="program-date">Wednesday Aug 05, 2020 | 4:30PM - 5:30PM</div>
-									<div class="program-at">Conducting On Zoom</div>
-								</div>
-								<div class="program-connection">
-									<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
-									<a href="../information-sessions-register/" title="Register Now" class="btn-blue">Register Now</a>
-								</div>
-							</div>
-							
-							<div class="highlights-content">
-								<h3>Highlights of the Session</h3>
-								Holistic Overview of MBA Program
-								<br>KMAT Details & Registration Process
-								<br>Guidance from Admission Panel regarding Admission Process
-								<br>Merit-based/Need-based Scholarship
+                   
+                <!-- 	<div class="tab-section">
+                		<div class="tag-area"><span class="tag orange">UPCOMING</div>
+                			<div class="program-details">
+                				<div class="about-program">
+                					<h2>KSBL Undergraduate Open House</h2>
+                					<div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="http://bit.ly/BS-OHS2">
+                						September   19th, 2021 (4 pm PST)
+                					</a> 
+                				</div>
+                				<div class="program-at"></div>
+                			</div>
+                			<div class="program-connection">
+                				<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
+                				<a href="https://us02web.zoom.us/meeting/register/tZcld-qrpjovGN3eS8Rp1tyi_721GNcbjPSW" title="Register Now" class="btn-blue">Register Now</a>
 
-							</div>
-							
-						</div> -->
-                    <!-- === END Tab 1 === -->
-
-                <!-- === Tab 4 === -->
-                    <div class="tab-section">
-						<div class="tag-area"><span class="tag orange">UPCOMING</div>
-								<div class="program-details">
-									<div class="about-program">
-										<h2>KSBL Undergraduate Open House</h2>
-										<div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="http://bit.ly/BS-OHS2">
-											September   12th, 2021 (4 pm PST)
-											</a> 
-									     </div>
-								     	<div class="program-at"></div>
-								    </div>
-									<div class="program-connection">
-										<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
-										<a href="https://us02web.zoom.us/meeting/register/tZEsf-CqrjoqEtxkKtUS6lURutVTMB2XILDP" title="Register Now" class="btn-blue">Register Now</a>
-										<!--../information-sessions-register -->
-									</div>
-								</div>
-								<div class="highlights-content">
-									<h3>Highlights of the Session</h3>
-									- Key features of the Undergraduate Programs (MEBA and IT&S)
-									<br>- Insights and Opinions from the KSBL faculty
-									<br>- Admission Process
-									<br>- Financial Assistance
-							    </div>
-					    </div>
-                    </div>
-                <!-- === END Tab 4 === -->
+                			</div>
+                		</div>
+                		<div class="highlights-content">
+                			<h3>Highlights of the Session</h3>
+                			- Key features of the Undergraduate Programs (MEBA and IT&S)
+                			<br>- Insights and Opinions from the KSBL faculty
+                			<br>- Admission Process
+                			<br>- Financial Assistance
+                		</div>
+                	</div> -->
+                   
+                   </div>
+              
                 
-				<!-- === Tab 5 === -->
-				<div class="tab-section">
-						<div class="tag-area"><span class="tag orange">UPCOMING</div>
-								<div class="program-details">
-									<div class="about-program">
-										<h2>KSBL Undergraduate Open House</h2>
-										<div class="program-date"> <a style=" text-decoration: none; color:#FFFFFFB3; " href="http://bit.ly/BS-OHS2">
-											September   19th, 2021 (4 pm PST)
-											</a> 
-									     </div>
-								     	<div class="program-at"></div>
-								    </div>
-									<div class="program-connection">
-										<a href="javascript:void(0)" class="btn-highlights">Highlights</a>
-										<a href="https://us02web.zoom.us/meeting/register/tZcld-qrpjovGN3eS8Rp1tyi_721GNcbjPSW" title="Register Now" class="btn-blue">Register Now</a>
-										<!--../information-sessions-register -->
-									</div>
-								</div>
-								<div class="highlights-content">
-									<h3>Highlights of the Session</h3>
-									- Key features of the Undergraduate Programs (MEBA and IT&S)
-									<br>- Insights and Opinions from the KSBL faculty
-									<br>- Admission Process
-									<br>- Financial Assistance
-							    </div>
-					    </div>
+			
+				
                     </div>
-                <!-- === END Tab 5 === -->
+               
 			
             </div>  <!--=== end of open hous tabs =====--->
           </div> <!--======= End of open-house-content ========-->
