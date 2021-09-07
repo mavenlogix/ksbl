@@ -33,7 +33,7 @@
         <div class="search icon-link">
           
             <div class="position-relative">
-               <object class="menu-nav-obj" data="images/search-nav.svg" width="24" height="26"></object>
+               <object class="menu-nav-obj " style="margin-top: -1px" data="images/search-nav.svg" width="24" height="26"></object>
                <span class="menuMob" ></span> 
             </div>
             
