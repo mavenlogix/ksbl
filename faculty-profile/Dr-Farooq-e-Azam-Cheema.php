@@ -360,12 +360,7 @@ include('../partials/head.php');
                                 </span>
                             </a>
                         </div>
-                   
-                        <div class="non_faculty_grid_right_sub_head">
-                            <a href="faculty-profile/Dr-Waheed-Ali-Umrani.php">Dr. Waheed Ali Umrani
-                                <span>Associate Professor <br>HR & OB</span>
-                            </a>
-                        </div>
+
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Muhammad-Athar-Siddiqui.php">Dr. Athar Siddiqui
                                 <span>Associate Professor<br>

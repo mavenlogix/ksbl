@@ -350,24 +350,6 @@ include('./partials/head.php');
                 </div> -->
                 <!-- END Person Dr. Junaid Siddiqui -->
 
-
-                
-                <div class="person come-out">
-                    <a href="faculty-profile/Dr-Waheed-Ali-Umrani.php">
-                        <div class="person-info">
-                            <img src="images/faculty/waheed-umarani_new.jpg" alt="Dr. Waheed Umrani" />
-                        </div>
-                    </a>
-                    <div class="person-detail">
-                        <h2 class="name">Dr. Waheed Umrani</h2>
-                        <div class="designation">
-                            Associate Professor
-                            <br>HR & OB
-                        </div>
-                    </div>
-                </div>
-               
-
                  <!-- Person Nausheen Ahmed -->
                <div class="person come-out ">
                    <a href="faculty-profile/Nausheen-Ahmed.php">
