@@ -114,6 +114,24 @@ include('./partials/head.php');
                           </div>
                        </div>
                          <!-- END Person Dr. Irfan Butt -->
+                 
+                    <!-- Person Tauqeer Chaudhary -->
+                 <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Tauqeer.jpg" alt="Tauqeer Chaudhary" />
+                    
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Tauqeer Chaudhary</h2>
+                        <div class="designation">
+                           Islamic Studies
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Tauqeer Chaudhary -->
+
+
+                <!-- person Dr. Farooq-e-Azam Cheema -->
                <div class="person come-out">
                     <a href="faculty-profile/Dr-Farooq-e-Azam-Cheema.php">
                         <div class="person-info">
@@ -127,6 +145,7 @@ include('./partials/head.php');
                         </div>
                     </div>
                 </div>
+                <!-- End Person Dr. Farooq-e-Azam Cheema -->
               
                   <!-- Person Dr. Nicole Cunningham -->
                  <div class="person come-out no-hover">
