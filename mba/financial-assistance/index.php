@@ -88,7 +88,7 @@ include('../../partials/navbar.php');
                         <div class="table-col">77,249,077/- </div>
                     </div>
                     <div class="table-row">
-                        <div class="table-col">KSBL Interest Free Loan</div>
+                        <div class="table-col">KSBL Interest Free Loans</div>
                         <div class="table-col">50,856,607/- </div>
                     </div>
                     <!-- undergraduate program -->
