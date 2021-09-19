@@ -3447,6 +3447,67 @@ input.search {
     opacity: 0;
 }
 
+.videoSecondHome {
+    position: relative;
+    margin-bottom: -5px;
+    min-height: 100%;
+    height: 100%;
+}
+
+
+.videoSecondHome video {
+    pointer-events: initial;
+    position: initial;
+
+    height: 100%;
+    width: 100%;
+
+    z-index: 0;
+
+
+}
+
+
+
+
+button.playBtnVid {
+    background-color: #f37021;
+    border: 0;
+    border-radius: 50%;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+    left: 0;
+    margin: 0 auto;
+    padding: 8px 16px;
+    position: absolute;
+
+    top: 50%;
+    z-index: 11;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+button.playBtnVid:focus {}
+
+.videoSecondHome .about-campus {
+    height: 260px;
+    position: absolute;
+    background: #f37021;
+    width: 260px;
+    padding: 25px;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    top: 75%;
+    left: 85%;
+    transform: translate(-85%, -75%);
+}
+
 @media (min-width: 992px) and (max-width: 1199px) {
 
     .non_faculty_grid_right_sub_head+.non_faculty_grid_right_sub_head {
@@ -3822,6 +3883,8 @@ input.search {
     .financialAssitTable .admission-process .tabs .tab {
         font-size: 20px;
     }
+
+
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
@@ -4038,6 +4101,12 @@ input.search {
         max-width: 100%;
     }
 
+    .videoSecondHome .about-campus {
+        position: initial;
+        width: 100%;
+        display: block;
+        transform: initial;
+    }
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -4242,6 +4311,12 @@ input.search {
         max-width: 100%;
     }
 
+    .videoSecondHome .about-campus {
+        position: initial;
+        width: 100%;
+        display: block;
+        transform: initial;
+    }
 }
 
 @media (min-width: 320px) and (max-width: 360px) {

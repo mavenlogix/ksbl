@@ -6,6 +6,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src="js/owl.carousel.js"></script>
     <script src="js/script.js"></script>
+
    <!--  <script src="js/script-faculty.js"></script> -->
    <script>
         $('#searchfield').autocomplete({
@@ -15,4 +16,23 @@
                 location.href = '<?= $url ?>search.php?q=' + ui.item.value
             }
         });
-   </script>
+
+        var video = document.querySelector(".videoSecondHome video");
+        var btn = document.querySelector(".playBtnVid");
+
+        function vidPlay() {
+         
+          if (video.paused) {
+            video.play();
+            btn.style.display = "none";
+             document.querySelector(".videoSecondHome .about-campus").style.display = "none";
+        } else {
+            video.pause();
+            btn.style.display = "block";
+            document.querySelector(".videoSecondHome .about-campus").style.display = "block"; 
+        }
+    }
+
+
+ 
+</script>

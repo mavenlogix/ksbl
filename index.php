@@ -348,15 +348,27 @@ include('./partials/head.php');
     <!-----------------------------------------------------------------#
 	#                      EXPLORE OUR Campus  START                   #
 	#----------------------------------------------------------------->
-    <div class="explore-campus">
-        <div class="container">
-            <img src="images/explore-campus-high.png" alt="Explore Campus" class="explore-campus-image" />
+    <div class="videoSecondHome">
+        <div style="position: relative;">
+            <button class="active playBtnVid" onclick="vidPlay()"><img src="images/play_vid.svg"></button>
+               
+            <video id="myvideo"    muted onclick="vidPlay()">
+                <source class="" src="images/KSBL_video_home.mp4" data-mobile="images/KSBL_video_home.mp4" data-desktop="images/KSBL_video_home.mp4" type="video/mp4">
+               
+                Your browser does not support the video tag.
+            </video> 
+        </div>
+         
+          <div class="">
+         
             <a href="campus.php" class="about-campus" title="Explore our campus virtually">
                 <img src="images/camera-high.png" width="62" alt="camera" />
                 <div class="campus-info">While our campus remains closed during COVID'19 lockdown, here is your chance to explore our campus <strong>virtually</strong>!</div>
                 <div class="virtual-visit">Explore our campus!</div>
             </a>
         </div>
+
+      
     </div>
     <!-----------------------------------------------------------------#
 	#                      EXPLORE OUR Campus  END                     #
