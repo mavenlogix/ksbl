@@ -3492,7 +3492,9 @@ button.playBtnVid {
     transform: translate(-50%, -50%);
 }
 
-button.playBtnVid:focus {}
+button.playBtnVid:focus {
+    border: 0;
+}
 
 .videoSecondHome .about-campus {
     height: 260px;
