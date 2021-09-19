@@ -3493,7 +3493,7 @@ button.playBtnVid {
 }
 
 button.playBtnVid:focus {
-    border: 0;
+    outline: 0;
 }
 
 .videoSecondHome .about-campus {
