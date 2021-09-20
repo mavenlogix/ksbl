@@ -348,28 +348,45 @@ include('./partials/head.php');
     <!-----------------------------------------------------------------#
 	#                      EXPLORE OUR Campus  START                   #
 	#----------------------------------------------------------------->
-    <div class="videoSecondHome">
-        <div style="position: relative;">
+    <div class="videoSecondHome explore-campus">
+ <div class="container">
+        <div class="modal fade " id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
+          <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content ">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="vidPlay()">
+                  <span aria-hidden="true">&times;</span>
+              </button>
+          </div>
+          <div class="modal-body">
+           <div style="position: relative;">
             <button class="active playBtnVid" onclick="vidPlay()"><img src="images/play_vid.svg"></button>
-               
-            <video id="myvideo"    muted onclick="vidPlay()">
+
+            <video id="myvideo" muted onclick="vidPlay()">
                 <source class="" src="images/KSBL_video_home.mp4" data-mobile="images/KSBL_video_home.mp4" data-desktop="images/KSBL_video_home.mp4" type="video/mp4">
-               
-                Your browser does not support the video tag.
-            </video> 
-        </div>
-         
-          <div class="">
-         
-            <a href="campus.php" class="about-campus" title="Explore our campus virtually">
-                <img src="images/camera-high.png" width="62" alt="camera" />
-                <div class="campus-info">While our campus remains closed during COVID'19 lockdown, here is your chance to explore our campus <strong>virtually</strong>!</div>
-                <div class="virtual-visit">Explore our campus!</div>
-            </a>
+
+                    Your browser does not support the video tag.
+                </video> 
+            </div>
         </div>
 
-      
     </div>
+</div>
+</div>   
+
+   <img src="images/explore-campus-high.png" alt="Explore Campus" class="explore-campus-image" />
+    
+
+    <div class="about-campus" >
+        <img src="images/camera-high.png" width="62" alt="camera" data-toggle="modal" data-target="#videoModal" onclick="vidPlay()"/>
+        <div class="campus-info">While our campus remains closed during COVID'19 lockdown, here is your chance to explore our campus <strong>virtually</strong>!</div>
+        <div class="virtual-visit "> <a href="campus.php" class="text-white" title="Explore our campus virtually">Explore our campus!  </a></div>
+
+    </div>
+</div>
+
+
+</div>
     <!-----------------------------------------------------------------#
 	#                      EXPLORE OUR Campus  END                     #
 	#----------------------------------------------------------------->

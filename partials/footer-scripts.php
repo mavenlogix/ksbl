@@ -21,15 +21,16 @@
         var btn = document.querySelector(".playBtnVid");
 
         function vidPlay() {
-         
+
           if (video.paused) {
             video.play();
             btn.style.display = "none";
-             document.querySelector(".videoSecondHome .about-campus").style.display = "none";
+            
+             
         } else {
             video.pause();
             btn.style.display = "block";
-            document.querySelector(".videoSecondHome .about-campus").style.display = "block"; 
+            
         }
     }
 

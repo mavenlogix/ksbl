@@ -3496,7 +3496,7 @@ button.playBtnVid:focus {
     outline: 0;
 }
 
-.videoSecondHome .about-campus {
+/*.videoSecondHome .about-campus {
     height: 260px;
     position: absolute;
     background: #f37021;
@@ -3508,7 +3508,7 @@ button.playBtnVid:focus {
     top: 75%;
     left: 85%;
     transform: translate(-85%, -75%);
-}
+}*/
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
@@ -4103,12 +4103,12 @@ button.playBtnVid:focus {
         max-width: 100%;
     }
 
-    .videoSecondHome .about-campus {
+ /*   .videoSecondHome .about-campus {
         position: initial;
         width: 100%;
         display: block;
         transform: initial;
-    }
+    }*/
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -4313,12 +4313,12 @@ button.playBtnVid:focus {
         max-width: 100%;
     }
 
-    .videoSecondHome .about-campus {
+  /*  .videoSecondHome .about-campus {
         position: initial;
         width: 100%;
         display: block;
         transform: initial;
-    }
+    }*/
 }
 
 @media (min-width: 320px) and (max-width: 360px) {
