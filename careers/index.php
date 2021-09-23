@@ -31,6 +31,67 @@ include('../partials/navbar.php');
                 <div class="open-house-tabs">
 
 
+                    <!-- === Client Partner ELA (Engro Leadership Academy === -->
+                    <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Client Partner ELA (Engro Leadership Academy)</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                    To effectively initiate and develop relationships with potential corporate clients to accomplish related goals and strategies of KSBL ELA. 
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        <h3>Purpose of the Job:</h3>
+                                        To effectively initiate and develop relationships with potential corporate clients to accomplish related goals and strategies of KSBL ELA. Ensure smooth flow of events throughout the execution of programs.
+                                        <br>
+                                       <br>
+                                        <h3>Key Responsibilities:</h3>
+                                        <ul>
+                                            <li>Propose, develop and implement business development and client relations strategy to generate revenues</li>
+                                            <li>Populate and maintain pipeline of client leads based upon the ELA offerings </li>
+                                            <li>Research and identify new business opportunities – including new markets, growth areas, trends etc.</li>
+                                            <li>Recognize opportunities and create plans to address client’s needs</li>
+                                            <li>Ensure all client needs are met and exceeded through smooth execution of programs</li>
+                                            <li>Negotiate the contracts, pricing and terms with the clients with utmost sensitivity </li>
+                                        </ul>
+                                        <br>
+                                        <h3>Qualifications and Experience:</h3>
+                                        <ul>
+                                            <li>Minimum Bachelor’s degree (16 years of education)</li>
+                                            <li>Minimum 7 years of Account Management, Business Development and/or Sales experience</li>
+                                        </ul>
+
+                                        <br>
+                                        <h3>Desired Competencies:</h3>
+                                        <ul>
+                                            <li>Strategic Planning and Organization </li>
+                                            <li>Customer Focus </li>
+                                            <li>Interpersonal Sensitivity </li>
+                                            <li>Internal and External Stakeholder Management</li>
+
+                                        </ul>
+
+                                     
+                                        <p>
+                                        Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- === END Client Partner ELA (Engro Leadership Academy === -->
+
 
                     <!-- === Lecturer /Adjunct Faculty/Assistant Professor/Associate Professor for Marketing Analytics === -->
                     <div class="tab-section" style="margin-top: 20px;">
