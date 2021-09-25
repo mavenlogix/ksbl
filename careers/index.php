@@ -74,6 +74,7 @@ include('../partials/navbar.php');
 
                                      
                                         <p>
+                                        Deadline to apply: 6th October, 2021<br>
                                         Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
                                         </p>
                                     </div>
@@ -306,140 +307,6 @@ include('../partials/navbar.php');
                     <!-- === END Head of Marketing & Communications === -->
 
 
-                    <!-- === Tab 1 === -->
-                    <div class="tab-section" style="margin-top: 20px;">
-                        <div class="student-achievement">
-                            <div class="content-section">
-                                <h2>Executive Secretary</h2>
-                                <div class="detail">
-                                    <div class="short-detail">
-                                        Executive Secretary shall provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff.
-                                    </div>
-                                    <div class="complete-detail highlights-content">
-                                        <br>
-                                        <h3>Position Details:</h3>
-                                        Job Title: Executive Secretary<br>
-                                        Job Type: Full time<br>
-                                        Location: Karachi<br>
-                                        Shift: 9:00 am to 5:30 pm<br>
-                                        Reporting to: Rector and Chief of Staff<br>
-                                        <br>
-                                        
-                                        <h3>Major Responsibilities:</h3>
-                                        <ol>
-                                            <li>Maintain executive's agenda and assist in planning appointments, board meetings, conferences etc.</li>
-                                            <li>Attend meetings and keep minutes</li>
-                                            <li>Responds to or routes priority and confidential from external and internal sources with correspondences on behalf of the Executive </li>
-                                            <li>Receive and screen phone calls and redirect them when appropriate</li>
-                                            <li>Handle and prioritize all outgoing or incoming correspondence (e-mail, letters, packages etc.)</li>
-                                            <li>Make travel arrangements for executives</li>
-                                            <li>Handle confidential documents ensuring they remain secure</li>
-                                            <li>Prepare invoices or financial statements and provide assistance in bookkeeping</li>
-                                            <li>Monitor office supplies and negotiate terms with suppliers to ensure the most cost-effective orders</li>
-                                            <li>Maintain electronic and paper records ensuring information is organized and easily accessible</li>
-                                            <li>Conduct research and prepare presentations or reports as assigned</li>
-                                        </ol>
-                                        <h3>Requirement:</h3>
-                                        <ol>
-                                            <li>Excellent communication skills and must be fluent in English</li>
-                                            <li>Obtaining a minimum bachelor's degree</li>
-                                            <li>Have 7-9 years of relevant experience</li>
-                                        </ol>
-                                    </div>
-                                </div>
-                                <div class="button-links">
-                                    <div class="other-details">
-                                        Application Deadline - Closed
-                                    </div>
-                                    <div class="tab-links">
-                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
-                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- === END Tab 1 === -->
-                    <!-- === Tab 2 === -->
-                    <div class="tab-section" style="margin-top: 20px;">
-                        <div class="student-achievement">
-                            <div class="content-section">
-                                <h2>Adjunct Faculty</h2>
-                                <div class="detail">
-                                    <div class="short-detail">
-                                        KSBL is looking to hire Adjunct Faculty in the area of Marketing Analytics.
-                                    </div>
-                                    <div class="complete-detail highlights-content">
-                                        <br>
-                                        <h3>Job Description:</h3>
-                                        KSBL is looking to hire Adjunct Faculty in the area of Marketing Analytics. We are looking for candidates whose teaching and/or work experience and research interests are related to marketing analytics summarized by one or multiple of the following keywords, amongst statistical and machine learning algorithms, (rule-based/hybrid) ensembles, predictive modeling, R, Python, web analytics, web scraping, social media analytics, social network analytics, data mining, recommendation tools, social network analytics, text mining, visual analytics, and/or big data analysis tools. In-depth knowledge in the field of marketing analytics is a must and practical experience, through consultancy assignments or job assignments, is critical.<br><br>
-                                        <br>
-                                        <h3>Requirements - Representative combinations: </h3>
-                                        <ul>
-                                            <li>MS Marketing Analytics/MBA with BS having significant programming coverage from a reputable world-class institute.</li>
-                                            <li>MS in Data Science/Analytics (CS-oriented) with BS having significant Marketing coverage from a reputable world-class institution.</li>
-                                            <li>Adjunct is only for non-academic practitioners serving in Marketing Analytics designations.</li>
-                                        </ul>
-                                        <p>
-                                            Job location: Karachi<br>
-                                            Interested candidates may send resumes at hr@ksbl.edu.pk<br>
-                                            Last date to apply: June 30, 2021.<br>
-                                            Expected Joining Date: 01 August, 2021-15 September 2021
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="button-links">
-                                    <div class="other-details">
-                                        Application Deadline - Closed
-                                    </div>
-                                    <div class="tab-links">
-                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
-                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- === END Tab 2 === -->
-                    <!-- === Tab 3 === -->
-                    <div class="tab-section" style="margin-top: 20px;">
-                        <div class="student-achievement">
-                            <div class="content-section">
-                                <h2>Assistant Professor OR Associate Professor</h2>
-                                <div class="detail">
-                                    <div class="short-detail">
-                                        KSBL is looking to hire Assistant Professor OR Associate Professor.
-                                    </div>
-                                    <div class="complete-detail highlights-content">
-                                        <br>
-                                        <h3>Job Description:</h3>
-                                        KSBL is looking to hire Assistant Professor OR Associate Professor. We are looking for candidates whose teaching and/or work experience and research interests are related to marketing analytics summarized by one or multiple of the following keywords, amongst statistical and machine learning algorithms, (rule-based/hybrid) ensembles, predictive modeling, R, Python, web analytics, web scraping, social media analytics, social network analytics, data mining, recommendation tools, social network analytics, text mining, visual analytics, and/or big data analysis tools. In-depth knowledge in the field of marketing analytics is a must and practical experience, through consultancy assignments or job assignments, is critical.
-                                        <h3>Requirements:</h3>
-                                        <ul>
-                                            <li>A PhD in Marketing Analytics that demonstrates depth in applications of machine learning techniques (such as social media text-mining, social network analysis, market basket/clustering). </li>
-                                            <li>Academics with demonstrated consulting assignments in the field and/or executive education experience will be preferred.</li>
-                                        </ul>
-                                        <p>
-                                            Job location: Karachi<br>
-                                            Interested candidates may send resumes at hr@ksbl.edu.pk<br>
-                                            Last date to apply: June 30, 2021.<br>
-                                            Expected Joining Date: 01 August, 2021-15 September 2021
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="button-links">
-                                    <div class="other-details">
-                                        Application Deadline - Closed
-                                    </div>
-                                    <div class="tab-links">
-                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
-                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- === END Tab 3 === -->
                     <!-- === Tab 4 === -->
                     <!-- <div class="tab-section">
 						
