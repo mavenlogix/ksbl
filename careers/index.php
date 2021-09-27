@@ -31,6 +31,68 @@ include('../partials/navbar.php');
                 <div class="open-house-tabs">
 
 
+                <!-- === Director Content and Design ELA === -->
+                     <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Director Content and Design ELA</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                    To effectively design, curate and develop content for ELA programs so to meet the goals and strategies of KSBL ELA.  
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        <h3>Purpose of the Job:</h3>
+                                        To effectively design, curate and develop content for ELA programs so to meet the goals and strategies of KSBL ELA. 
+                                        <br>
+                                       <br>
+                                        <h3>Key Responsibilities:</h3>
+                                        <ul>
+                                            <li>Curate and design customized content/solutions as per clients’ needs</li>
+                                            <li>Responsible for creation of content, e-learning workshops, collateral and other training materials required for the programs</li>
+                                            <li>Measures program delivery quality, which ensures continuous improvement, maintenance, and adjustment in program delivery approaches accordingly</li>
+                                            <li>Ensure seamless program delivery and exceptional customer experience</li>
+                                            <li>Keep abreast of global best practices and develop partnerships with leading international institutions to provide content and facilitation </li>
+                                            <li>Undertake market survey to understand local business challenges</li>
+                                            <li>Work collaboratively and as well as independently, while handling multiple projects</li>
+
+                                        </ul>
+                                        <br>
+                                        <h3>Qualifications and Experience:</h3>
+                                        <ul>
+                                            <li>Minimum Bachelor’s degree (16 years of education) or Masters’ in Human Resources, Education, Psychology, Business, or any other related field.</li>
+                                            <li>Minimum 7 years of learning, training and development experience in a senior capacity with a reputable organization </li>
+                                        </ul>
+
+                                        <br>
+                                        <h3>Desired Competencies:</h3>
+                                        <ul>
+                                            <li>Strategic Planning and Organization </li>
+                                            <li>Customer Focus </li>
+                                            <li>Interpersonal Sensitivity </li>
+                                            <li>Analytical Skills</li>
+                                        </ul>
+                                        <p>
+                                        <!-- Deadline to apply: 6th October, 2021<br> -->
+                                        Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- === END Director Content and Design ELA === -->
+
+
                     <!-- === Client Partner ELA (Engro Leadership Academy === -->
                     <div class="tab-section" style="margin-top: 20px;">
                         <div class="student-achievement">
