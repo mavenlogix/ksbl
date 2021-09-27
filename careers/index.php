@@ -73,7 +73,7 @@ include('../partials/navbar.php');
                                             <li>Analytical Skills</li>
                                         </ul>
                                         <p>
-                                        <!-- Deadline to apply: 6th October, 2021<br> -->
+                                        Deadline to apply: 6th October, 2021<br>
                                         Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
                                         </p>
                                     </div>
