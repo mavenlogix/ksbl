@@ -437,6 +437,25 @@ include('./partials/head.php');
                 <!-- END Person Syed Noaman Asar -->
 
 
+                 <!-- Person Nausheen Ahmed -->
+                 <div class="person come-out ">
+                   <a href="faculty-profile/Naima-Fatima-Shariff.php">
+                       <div class="person-info ">
+                           <img src="images/faculty/Naima_Fatima_Shariff.jpg" alt="Naima Fatima Shariff" />
+                       </div>
+                   </a>
+                    <div class="person-detail">
+                        <h2 class="name">Naima Fatima Shariff</h2>
+                        <div class="designation">
+                             General Psychology
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Nausheen Ahmed -->
+
+
+
+
                   <!-- Person Raheel Aslam -->
                 <div class="person come-out no-hover">
                     <div class="person-info no-hover">
