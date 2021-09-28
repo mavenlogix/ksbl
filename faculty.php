@@ -213,11 +213,11 @@ include('./partials/head.php');
                     <!-- Person Tauqeer Chaudhary -->
                     <div class="person come-out no-hover">
                     <div class="person-info no-hover">
-                        <img src="images/faculty/Tauqeer.jpg" alt="Tauqeer Chaudhary" />
+                        <img src="images/faculty/Tauqeer.jpg" alt="Sheikh Mufti Tauqeer" />
                     
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Tauqeer Chaudhary</h2>
+                        <h2 class="name">Sheikh Mufti Tauqeer</h2>
                         <div class="designation">
                            Islamic Studies
                         </div>
