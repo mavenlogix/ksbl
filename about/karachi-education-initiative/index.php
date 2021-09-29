@@ -344,14 +344,16 @@ include('../../partials/navbar.php');
                 <!-- Person 11 -->
                 <div class="person come-out">
                     <div class="person-info">
-                        <img src="images/faculty/sima-kamil.jpg" alt="Sima Kamil" />
+                        <img src="images/faculty/Shahzad-dada-ubl.jpg" alt="Shazad Dada" />
                         <div class="hover-detail">
-                            <span class="orange-yellow-text">Sima Kamil</span> started off her career at American Express Bank and went on to work at ANZ Grindlays and Standard Chartered. She served at Habib Bank for the last 16 years, first as Head of Corporate & Investment Banking and then as Head of Branch Banking. Her 30 years of overall experience in Banking involves assignments in Risk Management, Retail, Corporate & Investment Banking. She is also the Chair of the Board of Governors of Karachi Grammar School and on the Board of the NotreDame Institute of Education. Moreover, she also has a degree in business from Kingston University, UK, and an MBA from City University, London. She is the first woman to head a major commercial Bank in Pakistan's 70-year history.<br /><br />
-                            Ms. Sima Kamil joined UBL as Deputy CEO on 28 March 2017. During the transitional period of her banking career, she became well acquainted with all business aspects, support system and control functions of the Banking sector.
+                            <!-- <span class="orange-yellow-text">Shazad Dada</span>  -->
+                            Experienced Chief Executive Officer with a demonstrated history of working in the banking industry. Skilled in Negotiation, Budgeting, Banking, Capital Markets, and Mergers & Acquisitions (M&A). Strong business development professional with a Master of Business Administration (MBA) focused in Finance, General from University of Pennsylvania - The Wharton School.<br><br>
+Served Deutsche Bank for 20 years- from June 1990 to Sept 2010 and became the Managing Director. Then joined as Managing Director/ CEO of Barclays Bank Plc, Pakistan during October 2010 to October 2014. Thereafter he went on to serve as CEO of Standard Chartered Bank from Oct 2014 to July 2020. Currently he is now the President and Chief Executive Officer of United Bank Limited.
+                            
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Sima Kamil</h2>
+                        <h2 class="name">Shazad Dada</h2>
                         <div class="designation">
                             Director, KEI<br>
                             President & CEO, UBL
