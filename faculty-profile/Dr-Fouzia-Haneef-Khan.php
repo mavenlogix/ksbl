@@ -193,12 +193,18 @@ include('../partials/head.php');
                                 <strong>RESEARCH</strong>
                             </p>
                             <p>
-                                PGDip Research &nbsp;&nbsp;&nbsp; How Authentic are Timed Remote Assessments?
-                                PhD Research &nbsp;&nbsp;&nbsp; “Influence of membrane cholesterol on Neurosteroid modulation of 
+                            PGDip Research  <br>How Authentic are Timed Remote Assessments?
+                            </p>
+                            <p>
+                            PhD Research <br>“Influence of membrane cholesterol on Neurosteroid modulation of 
                                 benzodiazepine/ GABAA
                                 receptor”, UCL.
-                                BSc Research &nbsp;&nbsp;&nbsp; Enzymatic degradation of particulate formulation of PK1 copolymer
                             </p>
+                            <p>
+                            BSc Research <br>Enzymatic degradation of particulate formulation of PK1 copolymer
+                            </p>
+
+
 
                             <p>
                                 <strong>PUBLICATIONS</strong>
