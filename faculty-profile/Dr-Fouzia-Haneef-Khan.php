@@ -141,16 +141,30 @@ include('../partials/head.php');
                         <div id="credentials" class=" tab-pane fade">
                             <!-- <h4 class="text-primary">Education</h4> -->
                             <p>
-                            2021-2022 <br>MEd (Masters in University Learning and Teaching), Imperial College London.
-                            <br>2020-2021 <br>PGDip ULT (Postgraduate Diploma in University Learning and Teaching), Imperial 
+                                2021-2022 <br>MEd (Masters in University Learning and Teaching), Imperial College London.
+                            </p>
+                            <P>
+                            2020-2021 <br>PGDip ULT (Postgraduate Diploma in University Learning and Teaching), Imperial 
                             College London.
-                            <br>2019-2020 <br>FHEA (Fellow of the Higher Education Academy, UK)
-                            <br>2019-2020 <br>PGCert ULT (Postgraduate Certificate in University Learning and Teaching), 
+                            </P>
+                            <P>
+                            2019-2020 <br>FHEA (Fellow of the Higher Education Academy, UK)
+                            </P>
+                            
+                            <p>
+                            2019-2020 <br>PGCert ULT (Postgraduate Certificate in University Learning and Teaching), 
                             Imperial College London.
-                            <br>1996-2000 <br>PhD in Neuropharmacology, UCL, UK.
-                            <br>1992-1996 <br>BSc in Pharmacology and Toxicology – 1
+                            </p>
+
+                            <p>
+                            1996-2000 <br>PhD in Neuropharmacology, UCL, UK.
+                            </p>
+
+                            <p>
+                            1992-1996 <br>BSc in Pharmacology and Toxicology – 1
                             st Class Honours Degree, UCL, UK.
                             </p>
+
 
                             <p>
                                 <strong>Awards & Achievements</strong>
