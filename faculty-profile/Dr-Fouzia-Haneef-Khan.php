@@ -102,7 +102,7 @@ include('../partials/head.php');
                                 honours. During her undergraduate degree, she spent a year working in the Development 
                                 Pharmacology department as a Research Associate within Glaxo Smithkline (GSK). After her 
                                 graduation, she was invited to join the PhD programme at UCL under the supervision of Professor 
-                                Mike Simmonds. Her PhD research investigated the "Influence of membrane cholesterol on Neurosteroid modulation of Benzodiazepine/ GABAA receptor".
+                                Mike Simmonds. Her PhD research investigated the "Influence of membrane cholesterol on Neurosteroid modulation of Benzodiazepine/ GABA<sup>A</sup> receptor".
                             </p>
                             <p>
                                 Prior to joining Imperial College in 2019, Fouzia taught on the MSc Drug Discovery and the MPharm 
@@ -197,7 +197,7 @@ include('../partials/head.php');
                             </p>
                             <p>
                             PhD Research <br>“Influence of membrane cholesterol on Neurosteroid modulation of 
-                                benzodiazepine/ GABAA
+                                benzodiazepine/ GABA<sup>A</sup>
                                 receptor”, UCL.
                             </p>
                             <p>
