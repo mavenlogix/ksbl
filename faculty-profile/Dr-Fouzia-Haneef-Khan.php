@@ -216,7 +216,7 @@ include('../partials/head.php');
                             </p>
                             <p>
                                 Simmonds M.A, T.Sookswate and Haneef F. (1999). <br>
-                                Membrane cholesterol and neurosteroid action at the GABAA
+                                Membrane cholesterol and neurosteroid action at the GABA<sup>A</sup>
                                 receptor. J. Physiol., 518: 9P
 
                             </p>
