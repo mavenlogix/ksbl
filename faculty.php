@@ -146,6 +146,24 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person Dr. Nicole Cunningham -->
 
+                <!-- person Dr Fouzia Haneef Khan -->
+                <div class="person come-out">
+                    <a href="faculty-profile/Dr-Fouzia-Haneef-Khan.php">
+                        <div class="person-info">
+                            <img src="images/faculty/dr-fouzia.jpg" alt="Dr Fouzia Haneef Khan" />
+                        </div>
+                    </a>
+                    <div class="person-detail">
+                        <h2 class="name">Dr Fouzia Haneef Khan</h2>
+                        <div class="designation">
+                            <!-- Provost & Acting Registrar -->
+                        </div>
+                    </div>
+                </div>
+                <!-- End Person Dr Fouzia Haneef Khan-->
+
+
+
 
 
                  <!-- Person Dr. Muhammad Naiman Jalil -->
