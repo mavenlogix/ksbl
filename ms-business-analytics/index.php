@@ -223,7 +223,7 @@ include('../partials/navbar.php');
                     <span class="box-num">3</span>
                     <h3>Semester III</h3>
                     <ul>
-                        <li>Thesis / capstone <br>project(6 credit hours)</li>
+                        <li>Thesis / capstone <br>project (6 credit hours)</li>
                     </ul>
                 </div>
                 <div class="foundation-box">
