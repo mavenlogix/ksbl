@@ -156,7 +156,7 @@ include('./partials/head.php');
                     <div class="person-detail">
                         <h2 class="name">Dr Fouzia Haneef Khan</h2>
                         <div class="designation">
-                            <!-- Provost & Acting Registrar -->
+                            The Scientific Mind: Physical Sciences
                         </div>
                     </div>
                 </div>

@@ -1,14 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php 
 
-
-   <?php 
-$page_meta_key = 'faculty';
 include('../partials/head.php');
 
 ?>
+<style type="text/css">
+body,
+html {
 
-<body class="mba aboutt bog main-faculty">
+    overflow-x: hidden;
+
+}
+</style>
+
+<body class="mba about bog">
     <!-----------------------------------------------------------------#
 
     #                       Header START                               #
@@ -16,13 +22,13 @@ include('../partials/head.php');
     #----------------------------------------------------------------->
     <header id="header" class="run">
         <div class="container">
-             <?php
-                include('../partials/navbar.php'); 
-            ?>
+            <?php
+include('../partials/navbar.php'); 
+?>
 
             <div class="header-content">
-                <a href="index.php" title="KSBL" class="logo">
-                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="../index.php" title="KSBL" class="logo">
+                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>FACULTY</h1>
@@ -39,47 +45,58 @@ include('../partials/head.php');
     #----------------------------------------------------------------->
     <div class="departments">
         <div class="container">
-            <a href="about/" class="department" title="Vision & Mission">Vision & Mission</a>
+            <a href="../about/" class="department" title="Vision & Mission">Vision & Mission</a>
             <!-- About -->
-            <a href="about/board-of-governors.php" class="department " title="Board of Governors">Board of Governors</a>
+            <a href="../about/board-of-governors.php" class="department " title="Board of Governors">Board of Governors</a>
             <!-- Board of Governors -->
-            <a href="faculty.php" class="department" title="Faculty">Faculty</a>
+            <a href="../faculty.php" class="department" title="Faculty">Faculty</a>
             <!-- Accreditation -->
-            <a href="about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
+            <a href="../about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
             <!-- KEi -->
-            <a href="contact-us.php" class="department" title="Contact Us">Contact Us</a>
+            <a href="../contact-us.php" class="department" title="Contact Us">Contact Us</a>
             <!-- Contact -->
         </div><!-- container -->
     </div>
+    <!-----------------------------------------------------------------#
+
+    #                   MBA Department END                             #
+
+    #----------------------------------------------------------------->
+    <!-----------------------------------------------------------------#
+
+    #                     Faculty Group Start                          #
+
+    #----------------------------------------------------------------->
     <div class="faculty-section teacher-group">
         <div class="container">
-            <div class="faculty_grid">
-                <div class="faculty_grid_left dr-fouzia-haneef">
-                    <div class="faculty_grid_head">
-                        <h1>Dr Fouzia Haneef Khan</h1>
-                        <!-- <h4>Provost & Acting Registrar</h4> -->
-                        <!-- <a href="mail:to">farooq.cheema@ksbl.edu.pk</a> -->
+            <div class="non_faculty_grid">
+                <div class="non_faculty_grid_left">
+                    <div class=" non_faculty_grid_img  non_faculty_grid_img_dr-fouzia-haneef-khan">
+                        <div class="non_faculty_grid_head">
+                            <h1>Dr Fouzia Haneef Khan</h1>
+                            <h4>The Scientific Mind: Physical Sciences</h4>
+                        </div>
                     </div>
-                </div>
-                <div class="faculty_grid_center">
-                    <ul class="nav nav-tabs border-0" role="tablist">
-                        <li class="nav-item">
-                            <a class="nav-link active" data-toggle="tab" href="#vita">Profile Summary</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#credentials">Credentials</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#interests">Consulting & Teaching</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#publications">Publications & Research</a>
-                        </li>
-                    </ul>
-                    <!-- Tab panes -->
-                    <div class="tab-content mt-2">
-                        <div id="vita" class=" tab-pane active">
-                            <p><span style="color: #ff9f19;">Dr Fouzia Haneef Khan </span> 
+                    <div class="non_faculty_grid_two">
+                        <div class="non_faculty_grid_two_left">
+                            <h4>Recent Activity</h4>
+                            <!-- <div class="recent_activity">
+                                <a href="">Mubashar Speaks on the orientation for the Inaugral batch of KSBL MS Business Analytics. </a>
+                                <span>Monday, March 22nd, 2021</span>
+                            </div>
+                            <div class="recent_activity">
+                                <a href=""><b>Mubashar welcomes Mr. Shoaib Khalil,</b> Head of Channel & Business Development, Microsoft Pakistan, for a session at KSBL on Future Job Trends... </a>
+                                <span>Monday, March 22nd, 2021</span>
+                            </div>
+                            <div class="recent_activity">
+                                <a href="">The board of KSBL has appointed Mr. Mubashar Hameed as the Rector.
+                                    In addition to his role as Rector KSBL, Mr. Hameed will also serve as CEO of Karachi Education Initiative (KEI). </a>
+                                <span>Tuesday, May 12th, 2020</span>
+                            </div> -->
+                        </div>
+                        <div class="non_faculty_grid_two_right">
+                            <div class="non_faculty_grid_two_right_content">
+                            <p><b>Dr Fouzia Haneef Khan </b> 
                             is a Lecturer (Teaching) within the Faculty of Medicine at Imperial College 
                             London. She has vast teaching and research experience spanning over 10 years. Fouzia contributes to 
                             teaching and learning activity by taking an active role in promoting up-to-date and innovative 
@@ -136,10 +153,6 @@ include('../partials/head.php');
                                 across universities within UK and other countries.
                             </p>
 
-
-                        </div>
-                        <div id="credentials" class=" tab-pane fade">
-                            <!-- <h4 class="text-primary">Education</h4> -->
                             <p>
                                 2021-2022 <br>MEd (Masters in University Learning and Teaching), Imperial College London.
                             </p>
@@ -176,8 +189,7 @@ include('../partials/head.php');
                                      <li>GlaxoSmithKline Award</li>
                                 </ul>
                             </p>
-                        </div>
-                        <div id="interests" class=" tab-pane fade">
+
                             <p>
                                 <strong>PROFESSIONAL PRESENTATIONS</strong>
                                 <br>
@@ -187,8 +199,7 @@ include('../partials/head.php');
 
                                 </ul>
                             </p>
-                        </div>
-                        <div id="publications" class=" tab-pane fade"><br>
+
                             <p> 
                                 <strong>RESEARCH</strong>
                             </p>
@@ -231,13 +242,12 @@ include('../partials/head.php');
                                 flunitrazepam binding. Br. J. Pharmacol., 129:112P
                             </p>
 
-
-
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="non_faculty_grid_right">
-                    <h4>Other Faculty Members</h4>
+                <h4>Other Faculty Members</h4>
                     <div class="non_faculty_grid_right_scroll">
 
                     <div class="non_faculty_grid_right_sub_head">
@@ -292,12 +302,12 @@ include('../partials/head.php');
                                     OB & HR</span>
                             </a>
                         </div>
+
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Faryal-Razzaq.php">Dr. Faryal Razzaq
                                 <span>Assistant Professor<br>Management Sciences</span>
                             </a>
-                        </div> 
-                    
+                        </div>                     
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Asim-Khwaja.php">Dr. Asim Khwaja
                                 <span>Assistant Professor<br>Decision Sciences</span>
@@ -324,18 +334,22 @@ include('../partials/head.php');
                         </div> -->
 
 
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <?php
-        include('../partials/footer.php');
-    ?>
-    <!-- footer end -->
-   <?php
-        include('../partials/footer-scripts.php');
-    ?>
+  <?php
+include('../partials/footer.php');
+?>
+
+<!-- footer end -->
+<?php
+include('../partials/footer-scripts.php');
+?>
+
+
 </body>
 
 </html>
