@@ -124,7 +124,7 @@ include('../partials/navbar.php');
                             <p>
                                 Prior to joining Imperial College in 2019, Fouzia taught on the MSc Drug Discovery and the MPharm 
                                 programmes. She is currently a Pharmacy OSCE (objective structured clinical examination) Assessor 
-                                for the Research Department of Practice and Policy within UC
+                                for the Research Department of Practice and Policy within UCL.
                             </p>
 
                             <p>
