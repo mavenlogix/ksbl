@@ -154,6 +154,9 @@ include('../partials/navbar.php');
                             </p>
 
                             <p>
+                            <strong>CREDIENTIALS</strong>
+                            </p>
+                            <p>
                                 2021-2022 <br>MEd (Masters in University Learning and Teaching), Imperial College London.
                             </p>
                             <P>
@@ -180,7 +183,7 @@ include('../partials/navbar.php');
 
 
                             <p>
-                                <strong>Awards & Achievements</strong>
+                                <strong>AWARDS AND ACHIEVEMENTS</strong>
                                 <br>
                                 <ul>
                                      <li>FHEA (Fellow of the Higher Education Academy), UK</li>
