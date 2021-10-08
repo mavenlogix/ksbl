@@ -31,6 +31,72 @@ include('../partials/navbar.php');
                 <div class="open-house-tabs">
 
 
+                    <!-- === Examination Controller === -->
+                     <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Examination Controller</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                    To carry out examination planning, scheduling, maintenance of examination and students’ physical records, and student record verifications.  
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        <h3>Purpose of Job:</h3>
+                                        To carry out examination planning, scheduling, maintenance of examination and students’ physical records, and student record verifications. Ensure strict compliance of institutional policies and procedures during examinations and will ensure and monitor the examination invigilation process. 
+                                        <br>
+                                       <br>
+                                        <h3>Major Job Duties:</h3>
+                                        <ol>
+                                            <li>Prepare schedules of all semester examinations in co-ordination with the HODs </li>
+                                            <li>Issue memoranda on schedule of examinations and invigilation duties.</li>
+                                            <li>Prepare examination halls/rooms.</li>
+                                            <li>Be responsible for custody and security of the question papers and answer sheets.</li>
+                                            <li>Coordinate with the HODs for submission of results.</li>
+                                            <li>Receive the cases of Equivalence, Migration, Exemptions and Credit transfers approved by the equivalence committee and incorporate in the transcript.</li>
+                                            <li>Compile and declare University results.</li>
+                                            <li>Manage and maintains physical/ online record of results and examination.</li> 
+                                            <li>Keep proper record of all examinations materials.</li>
+
+                                        </ol>
+                                        <br>
+                                        <h3>Qualifications and Experience:</h3>
+                                        <ul>
+                                              <li>5-6 Years of Experience in a similar role</li>
+                                              <li>Minimum 16 years of Education</li>
+
+                                        </ul>
+
+                                        <br>
+                                        <h3>Desired Competencies:</h3>
+                                        <ul>
+                                           <li>Strong Verbal and Written Communication</li>
+                                           <li>Integrity</li>
+                                           <li>Planning and organizing</li>
+                                           <li>Time Management</li>
+
+                                        </ul>
+                                        <p>
+                                        <!-- Deadline to apply: 6th October, 2021<br> -->
+                                        Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- === END Examination Controller === -->
+
+
                 <!-- === Director Content and Design ELA === -->
                      <div class="tab-section" style="margin-top: 20px;">
                         <div class="student-achievement">
@@ -80,7 +146,7 @@ include('../partials/navbar.php');
                                 </div>
                                 <div class="button-links">
                                     <div class="other-details">
-                                        Application Deadline - Open
+                                        Application Deadline - Closed
                                     </div>
                                     <div class="tab-links">
                                         <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
@@ -136,7 +202,7 @@ include('../partials/navbar.php');
 
                                      
                                         <p>
-                                        Deadline to apply: 6th October, 2021<br>
+                                        <!-- Deadline to apply: 6th October, 2021<br> -->
                                         Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
                                         </p>
                                     </div>
