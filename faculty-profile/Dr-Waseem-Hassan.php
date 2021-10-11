@@ -82,7 +82,7 @@ include('../partials/navbar.php');
                             has a distinguished career as a teacher, researcher, mentor and consultant. He has done his PhD from China University of Geosciences, Wuhan, P.R. China and has been actively involved in research and exchange activities with different Chinese universities and organizations.
                             </p>
                             <p>
-                            Before joining KSBL, Dr. Hassan was associated with NUST Business School, NUST, Islamabad. He performed the duties of Assistant Professor, Program Head MBA, Head of Department of International Business & Marketing, Head Alumini Linkages, and Head Industrial Linkages. He has also arranged visits of Chinese delegations to NUST and other institutes. He has played an important role in bringing NUST Business School among top 300 Business Schools in QS World Ranking, securing five years NBEAC accreditation and securing AACSB membership 
+                            Before joining KSBL, Dr. Hassan was associated with NUST Business School, NUST, Islamabad. He performed the duties of Assistant Professor, Program Head MBA, Head of Department of International Business & Marketing, Head Alumini Linkages, and Head Industrial Linkages. He has also arranged visits of Chinese delegations to NUST and other institutes. He has played an important role in bringing NUST Business School among top 300 Business Schools in QS World Ranking, securing five years NBEAC accreditation and securing AACSB membership. 
                             </p>
 
                             <p>
