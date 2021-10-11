@@ -2694,6 +2694,13 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     background-size: cover;
     height: 560px;
 }
+
+.faculty_grid_left.dr-waseem-hassan {
+    background: url(../images/about/faculty-Dr-Waseem-Hassan-mobile.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
+
 .faculty_grid_left.dr-fouzia-haneef {
     background: url(../images/about/Dr-Fouzia-Haneef-Khan-mobile.jpg) no-repeat left center;
     background-size: cover;
@@ -3623,6 +3630,12 @@ button.playBtnVid:focus {
     }
     
 
+    .faculty_grid_left.dr-waseem-hassan {
+        background: url(../images/about/faculty-Dr-Waseem-Hassan_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
+
     .faculty_grid_left.dr-fouzia-haneef {
         background: url(../images/about/faculty-Dr-Fouzia-Haneef-Khan_1024.png) no-repeat top center;
         background-size: cover;
@@ -3755,6 +3768,12 @@ button.playBtnVid:focus {
 
     .faculty_grid_left.dr-shazid {
         background: url(../images/about/Dr-Shazib_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px
+    }
+
+    .faculty_grid_left.dr-waseem-hassan {
+        background: url(../images/about/faculty-Dr-Waseem-Hassan_1024.jpg) no-repeat top center;
         background-size: cover;
         height: 153px
     }

@@ -374,20 +374,24 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Dr. Athar Siddiqui -->
-               
-                <!-- Person Dr. Junaid Siddiqui -->
-               <!-- <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/Dr-Junaid-Siddiqui.jpg" alt="Dr. Junaid Siddiqui" />
-                    </div>
+
+               <!-- Person Dr. Waseem Hassan -->
+               <div class="person come-out">
+                    <a href="faculty-profile/Dr-Waseem-Hassan.php">
+                        <div class="person-info">
+                        <img src="images/faculty/Dr-Waseem Hassan.jpg" alt="Dr. Waseem Hassan" />
+                        </div>
+                    </a>
                     <div class="person-detail">
-                        <h2 class="name">Dr. Junaid Siddiqui</h2>
+                        <h2 class="name">Dr. Waseem Hassan</h2>
                         <div class="designation">
-                            Information Systems
+                            Associate Professor<br>
+                            Business Administration
                         </div>
                     </div>
-                </div> -->
-                <!-- END Person Dr. Junaid Siddiqui -->
+                </div>
+                <!-- END Person Dr. Waseem Hassan -->
+
 
                  <!-- Person Nausheen Ahmed -->
                <div class="person come-out ">
