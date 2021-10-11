@@ -323,6 +323,12 @@ include('../partials/navbar.php');
                             </a>
                         </div>
 
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Waseem-Hassan.php">Dr. Waseem Hassan
+                                <span>Associate Professor<br>Business Administration</span>
+                            </a>
+                        </div>
+
                         <!-- for visiting faculty members -->
                         <!-- <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Junaid-Siddiqui.php">Dr. Junaid Siddiqui
