@@ -31,6 +31,59 @@ include('../partials/navbar.php');
                 <div class="open-house-tabs">
 
 
+                <!-- === Director QEC === -->
+                     <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Director QEC</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                    To make sure that the quality assurance process of the QAA-HEC is carried out properly and get the Self-assessment Reports of the programs processed through the program teams.  
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        <h3>Purpose of Job:</h3>
+                                        To make sure that the quality assurance process of the QAA-HEC is carried out properly and get the Self-assessment Reports of the programs processed through the program teams, invite the Assessment Team for review of the SARs, and complete the process of preparing the implementation plan.
+                                        <br>
+                                       <br>
+                                        <h3>Major Job Duties:</h3>
+                                        <ol>
+                                           <li>Prepare the self-assessment report for the institutional performance evaluation by the HEC and host the visits. </li>
+                                           <li>Prepare the self-assessment report for the Charter Inspection and Evaluation Committee (CIEC) and host the visit. </li>
+                                           <li>Work along with the academic departments in preparing for the HEC review of the postgraduate programs, submits the self-assessment reports, and host the review visits. </li>
+                                           <li>Work along with the academic departments for national and international accreditation and host the accreditation bodies’ visits. </li>
+                                           <li>Undertake the academic audit of and compliance-based gap analysis of the academic programs. </li>
+                                           <li>Collect and analyze student feedback, faculty feedback, and employers’ feedback on the HEC prescribed proforma as a part of the quality assurance process.</li>
+                                           <li>Prepare quarterly progress reports on the activities of the QECs and submit them to the HEC. </li>
+                                           <li>Attend the QAA meetings as convened.</li>
+                                        </ol>
+                                        <br>
+                                        <h3>Qualifications and Experience:</h3>
+                                        <ul>
+                                           <li>6-7 Years of Experience in a similar role</li>
+                                           <li>Minimum 16 years of Education</li>
+                                        </ul>
+
+                                        <p>
+                                        <!-- Deadline to apply: 6th October, 2021<br> -->
+                                        Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- === END Director QEC === -->
+
                     <!-- === Examination Controller === -->
                      <div class="tab-section" style="margin-top: 20px;">
                         <div class="student-achievement">
