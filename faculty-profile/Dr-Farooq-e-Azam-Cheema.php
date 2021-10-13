@@ -387,7 +387,7 @@ include('../partials/head.php');
 
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Waseem-Hassan.php">Dr. Waseem Hassan
-                                <span>Associate Professor<br>Business Administration</span>
+                                <span>Associate Professor<br>Marketing Strategy</span>
                             </a>
                         </div>
 

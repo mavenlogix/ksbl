@@ -386,7 +386,7 @@ include('./partials/head.php');
                         <h2 class="name">Dr. Waseem Hassan</h2>
                         <div class="designation">
                             Associate Professor<br>
-                            Business Administration
+                            Marketing Strategy
                         </div>
                     </div>
                 </div>

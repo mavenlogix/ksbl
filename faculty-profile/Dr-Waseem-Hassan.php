@@ -56,7 +56,7 @@ include('../partials/navbar.php');
                 <div class="faculty_grid_left dr-waseem-hassan">
                     <div class="faculty_grid_head">
                         <h1>Dr. Waseem Hassan</h1>
-                        <h4>Associate Professor<br>Business Administration</h4>
+                        <h4>Associate Professor<br>Marketing Strategy</h4>
                         <!-- <a href="mail:to">shazib@ksbl.edu.pk</a> -->
                     </div>
                 </div>
