@@ -2481,6 +2481,12 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 225px;
 }
 
+.non_faculty_grid_img_Dr_Nida_Khan {
+    background: url(../images/about/non-faculty-Dr-nida-khan.png) no-repeat top center;
+    background-size: cover;
+    height: 225px;
+}
+
 .non_faculty_grid_img_dr-fouzia-haneef-khan {
     background: url(../images/about/non-faculty-dr-fouzia-haneef-khan.png) no-repeat top center;
     background-size: cover;

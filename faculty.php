@@ -504,6 +504,25 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Faraz Bandukda -->
+
+                <!-- Person Nausheen Ahmed -->
+               <div class="person come-out ">
+                   <a href="faculty-profile/Dr-Nida-Khan.php">
+                       <div class="person-info ">
+                           <img src="images/faculty/Dr-Nida-Khan.jpg" alt="Dr. Nida Khan" />
+                       </div>
+                   </a>
+                    <div class="person-detail">
+                        <h2 class="name">Dr. Nida Khan</h2>
+                        <div class="designation">
+                            <!-- Business Law -->
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Nausheen Ahmed -->
+
+
+
        <!-- Person Syed Sohaib Ul Hassan -->
                  <div class="person come-out no-hover">
                     <div class="person-info no-hover">
