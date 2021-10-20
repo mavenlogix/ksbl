@@ -74,7 +74,7 @@ include('../partials/navbar.php');
                     <div class=" non_faculty_grid_img  non_faculty_grid_img_Dr_Nida_Khan">
                         <div class="non_faculty_grid_head">
                             <h1>Dr. Nida Khan</h1>
-                            <!-- <h4>Business Law</h4> -->
+                            <h4>Fintech</h4>
                         </div>
                     </div>
                     <div class="non_faculty_grid_two">

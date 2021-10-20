@@ -515,7 +515,7 @@ include('./partials/head.php');
                     <div class="person-detail">
                         <h2 class="name">Dr. Nida Khan</h2>
                         <div class="designation">
-                            <!-- Business Law -->
+                            Fintech
                         </div>
                     </div>
                 </div>
