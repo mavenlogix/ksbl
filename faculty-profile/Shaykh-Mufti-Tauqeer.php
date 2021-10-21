@@ -144,7 +144,7 @@ include('../partials/navbar.php');
                                 <strong>Pakistan</strong>
                                 <p>
                                
-                                <span style="color: blue;">ISLAMABAD/ RAWALPINDI</span>
+                                <span style="color:#9898e4;">ISLAMABAD/ RAWALPINDI</span>
                                 <ol>
                                      <li>Air University</li>
                                      <li>Bahria University</li>
@@ -158,63 +158,75 @@ include('../partials/navbar.php');
                                      <li>Shifa College of Medicine</li>
                                      <li>TMUC</li>
                                 </ol>
+
+                                <span style="color:#9898e4;">LAHORE</span>
+                                <ol>
+                                    <li>Bahria University</li>
+                                    <li>COMSATS University</li>
+                                    <li>University of Lahore</li>
+                                </ol>
+
+                                <span style="color:#9898e4;">PESHAWAR</span>
+                                <ol>
+                                    <li>Abasyn Universiity</li>
+                                    <li>Aisha Institute of Modern Sciences</li>
+                                    <li>CECOS University of IT and Emerging Sciences, Hayatabad</li>
+                                    <li>Comprehensive GGHS</li>
+                                    <li>FAST- National University</li>
+                                    <li>GGHSS Lady Griffith Peshawar</li>
+                                    <li>Govt. Degree College for Girls, Hayatabad</li>
+                                    <li>Govt. Post Graduate College, Nowshehra</li>
+                                    <li>Home Economics College</li>
+                                    <li>Institute of Health Sciences</li>
+                                    <li>Institute of Management Sciences </li>
+                                    <li>Institute of Paramedical Sciences, Doranpur - KMU</li>
+                                    <li>Institute of Physical Medicine and Rehabilitation Clinic  - KMU</li>
+                                    <li>Iqra National University, Hayatabad</li>
+                                    <li>Islamia College – Islamiat Department</li>
+                                    <li>Islamia College – Physics Department</li>
+                                    <li>Jinnah College for Women</li>
+                                    <li>KMU (Khyber Medical University)</li>
+                                    <li>NUML </li>
+                                    <li>Quaid-e-azam College of Commerce</li>
+                                    <li>Quaid-e-azam Group of Colleges</li>
+                                    <li>Qurtuba University</li>
+                                    <li>Sarhad University</li>
+                                    <li>SBBWU ( Shaheed Benazir Bhutto Women University), Larama</li>
+                                    <li>Shaykh Zayed Islamic Centre</li>
+                                    <li>The University of Agriculture – Department of Plant Protection</li>
+                                    <li>UET Hayatabad Campus</li>
+                                    <li>UET Main Campus</li>
+                                    <li>University of Peshawar</li>
+                                    <li>Department of Geography – University of Peshawar</li>
+                                </ol>
+
+                                <span style="color:#9898e4;">AJ&K</span>
+                                <ol>
+                                    <li>Cadet College Plandri </li>
+                                    <li>University of AJ& K  </li>
+                                </ol>
+
                                 </p>
                             </p>
-
-
+                            <p>
+                                <strong>TV Appearances</strong>
+                                <br>
+                                <ol>
+                                    <li>Blessings of Ramadan – 28 episodes series – PTV World</li>
+                                    <li>Riasat e Madina aur Daur e Haazir – ongoing Series – PTV News</li>
+                                    <li>Regular appearance on PTV World – World this morning – topics including, Accusation, Backbiting, Importance of Tolerance in Society, Patience, etc</li>
+                                    <li>Aaj News – Aaj Pakistan – Discussion on Covid Anxiety</li>
+                                    <li>Hum News – Subah Say Aagay – Discussion on Transgender in Islam</li>
+                                    <li>Lahore Rung</li>
+                                    <li>Nai Baat Digital – Importance of gaining knowledge</li>
+                                    <li>Sindh TV News </li>
+                                </ol>
+                            </p>
 
                         </div>
                         <div id="publications" class=" tab-pane fade"><br>
-                            <p class="text-primary">Refereed Journal Articles</p>
                             <p>
-                                <ol>
-                                    <li class="mt-3">
-                                        Shaikh, S.E. _(2020)_ Interactive and revisable decision-support: doing more harm than good? <a href="https://www.tandfonline.com/eprint/YG78NQI3VFBC6YT5MPPY/full?target=10.1080/0144929X.2020.1837242">Behaviour & Information Technology</a> <br><b>[Ranking: A (ABDC) 1.429 Impact Factor]</b><br>
-                                    </li>
-                                    <li class="mt-3">
-                                        Shaikh, S. E. & Mehandjiev, N. (2010). General Strategy Support In Soft E-Business Process Negotiation. International Journal of Co-operative Information Systems. (A-ranking in ABDC journals)
-                                        Teaching and Learning Scholarship Note: AJMC is an “X” Category HEC-recognized journal
-                                    </li>
-                                    <li class="mt-3">
-                                        Shaikh, S. E. (2020 - forthcoming). <b>Prince Kola Beverages Limited.</b> Asian Journal of Management Cases.
-                                    </li>
-                                    <li class="mt-3">
-                                        Chatha, K. A, et al. & Shaikh, S. E. <b>(2018). Awais Model Farms.</b> Asian Journal of Management Cases.
-                                    </li>
-                                    <li class="mt-3">
-                                        Shaikh, S. E. & Hassan, S. <b>(2014). Telenor</b> (A): From Cellular Networks to Financial Services. Case Research Journal, 34 (1), North American Case Research Association <br><u>(NACRA) <b>(also online on HBS catalog).</b></u>
-                                    </li>
-                                    <li class="mt-3">
-                                        Asjad, K. S. & Shaikh, S. (2012). <b>MCB:</b> …the Symbols Project. Asian Journal of Management Cases.
-                                    </li>
-                                    <li class="mt-3">
-                                        Shaikh, S. E. (2010). <b>UDL Distribution</b> (A): IT-enabling a sales force. Asian Journal of Management Cases.
-                                    </li>
-                                    <li class="mt-3">
-                                        Shaikh, S. E. (2009). ROZEE.PK Asian Journal of Management Cases. <b>[Emerald Award]</b>
-                                    </li>
-                                </ol>
-                            </p>
-                            <p class="text-primary">Refereed Conference Proceedings</p>
-                            <p>
-                                <ol>
-                                    <li class="mt-3">Shaikh, S. E. and Zaka, F. (<b>2019</b>) Blockchained Sukuk-Financing, Lecture Notes on Business Information Processing (Springer – indexed online) Proceedings of FinanceCom, Manchester, UK, 2018.</li>
-                                    <li class="mt-3">Shaikh, S. E. (<b>2014</b>). Reflection Conducive Media for De-biasing Managers: <br>Foundation for a Theory of Persuasion. Australia & New Zealand Academy of <br>Management Conference (ANZAM 2014), Sydney, Australia.</li>
-                                    <li class="mt-3">Shaikh, S. E. & Mehandjiev, N. (2007). E-Business Process Negotiation: Formal Requirements for Strategy Support. Group Decision & Negotiation (GDN 2007), <br>Montreal, Canada.</li>
-                                    <li class="mt-3">Shaikh, S. E. & Mehandjiev, N. (2004). Multi-Attribute Negotiation in <br>E-Business Process Composition. IEEE WETICE 2004, Modena, Italy.</li>
-                                    <li class="mt-3">Shaikh, S. E. (2013). <b>Mobilink</b> (A): the Eid pre-payments decision. <br>AJMC 2013, 2nd International Case Conference, Lahore, Pakistan.</li>
-                                    <li class="mt-3">Shaikh, S. E. (2013). <b>Mobilink</b> (B): the Eid pre-payments decision. <br>South Asian Management Research Conference 2013., Bangalore, India</li>
-                                    <li class="mt-3">Shaikh, S. E. & Hassan, S. Z. (2012). <b>Business Intelligence at Telenor</b>. <br>33rd International Conference on Information Systems, Orlando, FL. <br>(466+ AIS member downloads in 7 years,<b> H-5 Index = 29)</b></li>
-                                    <li class="mt-3">Shaikh, S. E. (2011). Retail IT Decisions at Jay-Kays: Leveraging the <b>Stylo Shoes</b> Experience. SDSB-AJMC 2011, 1st International Case <br>Conference.</li>
-                                    <li class="mt-3">Shaikh, S. E. & Hassan, S. Z. (2011). <b>Easypaisa</b>. NACRA October 2011 <br>Conference. <b>(Award-winning case)</b></li>
-                                </ol>
-                            </p>
-                            <p class="text-primary">Refereed Book Chapter</p>
-                            <p>
-                                Zaka, F. and Shaikh, S.E. (<b>2019</b>) "Blockchain for Islamic Financing Institutions: The Case of Sukuk Financing", FinTech as a Disruptive Technology for Financial Institutions, IGI Global: Penn, USA (2019)
-                            </p>
-                            <p><span class="text-primary">Official LUMS Cases (Peer-reviewed)</span><br>
-                                Shaikh, S. E., Seyyed, F. J., Rana, A. I., & Rauf, A. (<b>2014</b>). Sapphire Dairies (Pvt) Ltd (A) CRC# 18-441-2014-1. Case Research Centre, LUMS.
+                                Radiance of Purification – 6 Volumes published – Collections of advices to students on the path of   self-rectification 
                             </p>
                         </div>
                     </div>
