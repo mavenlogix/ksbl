@@ -49,10 +49,10 @@ include('../partials/navbar.php');
                                            <li>Research on changing employability trends in companies to suggest and implement the action plan against it. </li>
                                            <li>Hold regular meetings with the Talent Acquisition teams of the companies to build stronger relationship with the potential employers. </li>
                                            <li>Take feedbacks from the employers and suggest an action plan according to the feedbacks.</li>
-                                           <li>Coordinates activities of job placement service for students and graduates</li>
+                                           <li>Coordinates activities of job placement service for students and graduates.</li>
                                            <li>Keep an updated record of Alumni Directory.</li>
                                            <li>Manages the development of alumni relations.</li>
-                                           <li>Develop and successfully implements strategies to improve alumni relations with the university</li>
+                                           <li>Develop and successfully implements strategies to improve alumni relations with the university.</li>
                                         </ol>
                                         <br>
                                        
@@ -64,10 +64,10 @@ include('../partials/navbar.php');
                                         <br>
                                         <h3>Competencies Required:</h3>
                                         <ol>
-                                            <li>Strong Communication Skills</li>
-                                            <li>Customer Focused</li>
-                                            <li>Presentation Skills</li>
-                                            <li>Drive for Results </li>
+                                            <li>Strong Communication Skills.</li>
+                                            <li>Customer Focused.</li>
+                                            <li>Presentation Skills.</li>
+                                            <li>Drive for Results. </li>
                                         </ol>
 
                                         <p>
