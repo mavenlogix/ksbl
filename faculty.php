@@ -227,17 +227,18 @@ include('./partials/head.php');
                 <!-- End Person Dr Fouzia Haneef Khan-->
                  
                     <!-- Person Tauqeer Chaudhary -->
-                    <div class="person come-out no-hover">
-                    <div class="person-info no-hover">
-                        <img src="images/faculty/Tauqeer.jpg" alt="Sheikh Mufti Tauqeer" />
-                    
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Sheikh Mufti Tauqeer</h2>
-                        <div class="designation">
-                           Islamic Studies
+                    <div class="person come-out ">
+                        <a href="faculty-profile/Shaykh-Mufti-Tauqeer.php">
+                            <div class="person-info ">
+                                <img src="images/faculty/Tauqeer.jpg" alt="Shaykh Mufti Tauqeer" />
+                            </div>
+                        </a>
+                        <div class="person-detail">
+                            <h2 class="name">Shaykh Mufti Tauqeer</h2>
+                            <div class="designation">
+                                Islamic Studies
+                            </div>
                         </div>
-                    </div>
                 </div>
                 <!-- END Person Tauqeer Chaudhary -->
 
