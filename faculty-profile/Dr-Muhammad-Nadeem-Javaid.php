@@ -451,6 +451,12 @@ include('../partials/head.php');
                             </a>
                         </div>
 
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Shaykh-Mufti-Tauqeer.php">Shaykh Mufti Tauqeer
+                                <span>Islamic Studies</span>
+                            </a>
+                        </div>
+
                         <!-- for visiting faculty members -->
                         <!-- <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Junaid-Siddiqui.php">Dr. Junaid Siddiqui
