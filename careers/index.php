@@ -31,6 +31,67 @@ include('../partials/navbar.php');
                 <div class="open-house-tabs">
 
 
+                     <!-- === AM Career Services and Alumni Relations === -->
+                    <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>AM Career Services and Alumni Relations</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                    To conduct efficient and effective internal and external communication and bridge the gap between academia and corporate sector. 
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        <h3>Key responsibilities:</h3>
+                                        <ol>
+                                           <li>Able to conduct efficient and effective internal and external communication and bridge the gap between academia and corporate sector.</li>
+                                           <li>Find potential employment and internships for the students and arrange interview through strong follow-ups from the companies. </li>
+                                           <li>Research on changing employability trends in companies to suggest and implement the action plan against it. </li>
+                                           <li>Hold regular meetings with the Talent Acquisition teams of the companies to build stronger relationship with the potential employers. </li>
+                                           <li>Take feedbacks from the employers and suggest an action plan according to the feedbacks.</li>
+                                           <li>Coordinates activities of job placement service for students and graduates</li>
+                                           <li>Keep an updated record of Alumni Directory.</li>
+                                           <li>Manages the development of alumni relations.</li>
+                                           <li>Develop and successfully implements strategies to improve alumni relations with the university</li>
+                                        </ol>
+                                        <br>
+                                       <br>
+                                        <h3>Eligibility Criteria:</h3>
+                                        <ol>
+                                            <li>Minimum 4-5 years of experience in the similar department /recruitment or headhunting.</li>
+                                            <li>Minimum Bachelor’s degree from a well reputable university.</li>
+                                        </ol>
+                                        <br>
+                                        <h3>Competencies Required:</h3>
+                                        <ol>
+                                            <li>Strong Communication Skills</li>
+                                            <li>Customer Focused</li>
+                                            <li>Presentation Skills</li>
+                                            <li>Drive for Results </li>
+                                        </ol>
+
+                                        <p>
+                                        <!-- Deadline to apply: 6th October, 2021<br> -->
+                                        Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- === END AM Career Services and Alumni Relations=== -->
+
+
+
                 <!-- === Director QEC === -->
                      <div class="tab-section" style="margin-top: 20px;">
                         <div class="student-achievement">
