@@ -123,8 +123,8 @@ include('../partials/navbar.php');
                             <p>
                                 <strong>Workshops, Trainings and Guest Lectures:</strong>
                                 <br>
-
-                                <ol><strong>UK</strong>
+                                <strong>UK</strong>
+                                <ol>
                                      <li>University of Birmingham, Birmingham</li>
                                      <li>University of Strathclyde, Glasgow</li>
                                      <li>DeMontfort University, Leicester</li>
