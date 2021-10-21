@@ -126,11 +126,11 @@ include('../partials/navbar.php');
                                 <p>
                                     <strong>Education</strong> <br>
                                     <b>M.S. Electrical Engineering:</b> The Ohio State University, Columbus, Ohio, USA
-                                    <br>
+                                    <br><br>
                                     
                                     <b>Post-Graduate (equivalent) degree in Arabic and Islamic Sciences with specialization in Jurisprudence:</b> Mahad al Faqeer, Pakistan
                                 
-                                    <br>
+                                    <br><br>
 
                                     <b>B.Sc Electrical (Electronics/Communications) Engineering:</b> University of Engineering and Technology, Lahore, Pakistan
                                 
