@@ -122,18 +122,20 @@ include('../partials/navbar.php');
                                        Credentials
                                     </strong>
                                 </p>
-                                <h4 class="text-primary">Education</h4>
+                                
                                 <p>
+                                    <strong>Education</strong> <br>
                                     <b>M.S. Electrical Engineering:</b> The Ohio State University, Columbus, Ohio, USA
-                                </p>
-
-                                <p>
+                                    <br>
+                                    
                                     <b>Post-Graduate (equivalent) degree in Arabic and Islamic Sciences with specialization in Jurisprudence:</b> Mahad al Faqeer, Pakistan
+                                
+                                    <br>
+
+                                    <b>B.Sc Electrical (Electronics/Communications) Engineering:</b> University of Engineering and Technology, Lahore, Pakistan
+                                
                                 </p>
 
-                                <p>
-                                    <b>B.Sc Electrical (Electronics/Communications) Engineering:</b> University of Engineering and Technology, Lahore, Pakistan
-                                </p>
 
                                 <p>
                                     <strong>Consulting and Teaching</strong>
