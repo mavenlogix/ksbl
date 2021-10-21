@@ -1,14 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php 
 
- 
-    <?php 
-$page_meta_key = 'faculty';
 include('../partials/head.php');
 
 ?>
+<style type="text/css">
+body,
+html {
 
-<body class="mba aboutt bog main-faculty">
+    overflow-x: hidden;
+
+}
+</style>
+
+<body class="mba about bog">
     <!-----------------------------------------------------------------#
 
     #                       Header START                               #
@@ -19,9 +25,10 @@ include('../partials/head.php');
             <?php
 include('../partials/navbar.php'); 
 ?>
+
             <div class="header-content">
-                <a href="index.php" title="KSBL" class="logo">
-                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
+                <a href="../index.php" title="KSBL" class="logo">
+                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 </a>
                 <div class="heder-info">
                     <h1>FACULTY</h1>
@@ -38,83 +45,101 @@ include('../partials/navbar.php');
     #----------------------------------------------------------------->
     <div class="departments">
         <div class="container">
-            <a href="about/" class="department" title="Vision & Mission">Vision & Mission</a>
+            <a href="../about/" class="department" title="Vision & Mission">Vision & Mission</a>
             <!-- About -->
-            <a href="about/board-of-governors.php" class="department " title="Board of Governors">Board of Governors</a>
+            <a href="../about/board-of-governors.php" class="department " title="Board of Governors">Board of Governors</a>
             <!-- Board of Governors -->
-            <a href="faculty.php" class="department" title="Faculty">Faculty</a>
+            <a href="../faculty.php" class="department" title="Faculty">Faculty</a>
             <!-- Accreditation -->
-            <a href="about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
+            <a href="../about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
             <!-- KEi -->
-            <a href="contact-us.php" class="department" title="Contact Us">Contact Us</a>
+            <a href="../contact-us.php" class="department" title="Contact Us">Contact Us</a>
             <!-- Contact -->
         </div><!-- container -->
     </div>
+    <!-----------------------------------------------------------------#
+
+    #                   MBA Department END                             #
+
+    #----------------------------------------------------------------->
+    <!-----------------------------------------------------------------#
+
+    #                     Faculty Group Start                          #
+
+    #----------------------------------------------------------------->
     <div class="faculty-section teacher-group">
         <div class="container">
-            <div class="faculty_grid">
-                <div class="faculty_grid_left shaykh-mufti-tauqeer">
-                    <div class="faculty_grid_head">
-                        <h1>Shaykh Mufti Tauqeer</h1>
-                        <h4>Islamic Studies</h4>
-                        
+            <div class="non_faculty_grid">
+                <div class="non_faculty_grid_left">
+                    <div class=" non_faculty_grid_img  non_faculty_grid_img_shaykh-mufti-tauqeer">
+                        <div class="non_faculty_grid_head">
+                            <h1>Shaykh Mufti Tauqeer</h1>
+                            <h4>Islamic Studies</h4>
+                        </div>
                     </div>
-                </div>
-                <div class="faculty_grid_center">
-                    <ul class="nav nav-tabs border-0" role="tablist">
-                        <li class="nav-item">
-                            <a class="nav-link active" data-toggle="tab" href="#vita">Profile Summary</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#credentials">Credentials</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#interests">Consulting & Teaching</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#publications">Publications & Research</a>
-                        </li>
-                    </ul>
-                    <!-- Tab panes -->
-                    <div class="tab-content mt-2">
-                        <div id="vita" class=" tab-pane active">
-                            <p>
-                                A well versed religious scholar, Shaykh Mufti Tauqeer is a Computer Engineer by profession. Having graduated from Ohio State University, USA, he has more than twenty years of global experience at multinational giants in the telecommunication industry across USA and the Middle East. He has been associated with many reputable organisations in the capacity of Global Director, Management Consultant and more, like  Earthlink Innovations, Dubai, NewNet Communications, USA / Dubai,   Nokia Siemens Networks, Dubai and Motorola, USA / Dubai.
-                            </p>
-                            <p>
-                                Spreading the word of peace of Islam, he travels across the world, including but not limited to Middle East, UK, Africa, Malaysia, Australia, Europe, Turkey and Pakistan in the capacity of a motivational speaker and a spiritual mentor to inspire people spiritually and morally. His focus has always been self-development and character building. He regularly delivers lectures, conducts seminars and workshops at universities, colleges, professional organisations, TV programs and Islamic Institutions around the world. 
-                            </p>
-
-                            <p>
-                                He graduated with the A'alim degree and has his post-graduation with specialization in Islamic Jurisprudence (commonly known as iftaa). He has authorization to teach all the major books of hadith by many renowned scholars of this time, like Shaykh ul Hadith Maulana Taqiuddin Nadwi(UAE), Shaykh ul Islam Mufti Muhammad Taqi Usmani(Pakistan) and Shaykh ul Tafseer Maulana Sajjad Nomani (India).
-                            </p>
-
-                            <p>
-                                In 2008, Shaykh Mufti Tauqeer established the Nur ul Ilm Academy, now based in London, UK and Sydney, Australia with its sister institute in Dubai, UAE, where he teaches all levels of the Arabic and Shariah Programs. With a forward thinking approach, this academy based on traditional teaching of Islam favours innovation and development under the guidance of Shaykh Mufti Tauqeer to develop the beautiful character of Prophet (peace be upon him) and to become mindful Muslims.
-                            </p>
-
-                            <p>
-                                He has a strong passion to have the youth of today benefit from the introspective way of Islam on developing the self to become better people and beneficial, proactive citizens of our society and so has worked with the youth around the world at multi-faceted levels.
-                            </p>
-
+                    <div class="non_faculty_grid_two">
+                        <div class="non_faculty_grid_two_left">
+                            <h4>Recent Activity</h4>
+                            <!-- <div class="recent_activity">
+                                <a href="">Mubashar Speaks on the orientation for the Inaugral batch of KSBL MS Business Analytics. </a>
+                                <span>Monday, March 22nd, 2021</span>
+                            </div>
+                            <div class="recent_activity">
+                                <a href=""><b>Mubashar welcomes Mr. Shoaib Khalil,</b> Head of Channel & Business Development, Microsoft Pakistan, for a session at KSBL on Future Job Trends... </a>
+                                <span>Monday, March 22nd, 2021</span>
+                            </div>
+                            <div class="recent_activity">
+                                <a href="">The board of KSBL has appointed Mr. Mubashar Hameed as the Rector.
+                                    In addition to his role as Rector KSBL, Mr. Hameed will also serve as CEO of Karachi Education Initiative (KEI). </a>
+                                <span>Tuesday, May 12th, 2020</span>
+                            </div> -->
                         </div>
-                        <div id="credentials" class=" tab-pane fade"><br>
-                            <h4 class="text-primary">Education</h4>
-                            <p>
-                                <b>M.S. Electrical Engineering:</b> The Ohio State University, Columbus, Ohio, USA
-                            </p>
+                        <div class="non_faculty_grid_two_right">
+                            <div class="non_faculty_grid_two_right_content">
 
-                            <p>
-                                <b>Post-Graduate (equivalent) degree in Arabic and Islamic Sciences with specialization in Jurisprudence:</b> Mahad al Faqeer, Pakistan
-                            </p>
+                                <p>
+                                    A well versed religious scholar, Shaykh Mufti Tauqeer is a Computer Engineer by profession. Having graduated from Ohio State University, USA, he has more than twenty years of global experience at multinational giants in the telecommunication industry across USA and the Middle East. He has been associated with many reputable organisations in the capacity of Global Director, Management Consultant and more, like  Earthlink Innovations, Dubai, NewNet Communications, USA / Dubai,   Nokia Siemens Networks, Dubai and Motorola, USA / Dubai.
+                                </p>
+                                <p>
+                                    Spreading the word of peace of Islam, he travels across the world, including but not limited to Middle East, UK, Africa, Malaysia, Australia, Europe, Turkey and Pakistan in the capacity of a motivational speaker and a spiritual mentor to inspire people spiritually and morally. His focus has always been self-development and character building. He regularly delivers lectures, conducts seminars and workshops at universities, colleges, professional organisations, TV programs and Islamic Institutions around the world. 
+                                </p>
 
-                            <p>
-                                <b>B.Sc Electrical (Electronics/Communications) Engineering:</b> University of Engineering and Technology, Lahore, Pakistan
-                            </p>
-                            
-                        </div>
-                        <div id="interests" class=" tab-pane fade"><br>
-                            <p>
+                                <p>
+                                    He graduated with the A'alim degree and has his post-graduation with specialization in Islamic Jurisprudence (commonly known as iftaa). He has authorization to teach all the major books of hadith by many renowned scholars of this time, like Shaykh ul Hadith Maulana Taqiuddin Nadwi(UAE), Shaykh ul Islam Mufti Muhammad Taqi Usmani(Pakistan) and Shaykh ul Tafseer Maulana Sajjad Nomani (India).
+                                </p>
+
+                                <p>
+                                    In 2008, Shaykh Mufti Tauqeer established the Nur ul Ilm Academy, now based in London, UK and Sydney, Australia with its sister institute in Dubai, UAE, where he teaches all levels of the Arabic and Shariah Programs. With a forward thinking approach, this academy based on traditional teaching of Islam favours innovation and development under the guidance of Shaykh Mufti Tauqeer to develop the beautiful character of Prophet (peace be upon him) and to become mindful Muslims.
+                                </p>
+
+                                <p>
+                                    He has a strong passion to have the youth of today benefit from the introspective way of Islam on developing the self to become better people and beneficial, proactive citizens of our society and so has worked with the youth around the world at multi-faceted levels.
+                                </p>
+
+
+                                <p>
+                                    <strong>
+                                       Credentials
+                                    </strong>
+                                </p>
+                                <h4 class="text-primary">Education</h4>
+                                <p>
+                                    <b>M.S. Electrical Engineering:</b> The Ohio State University, Columbus, Ohio, USA
+                                </p>
+
+                                <p>
+                                    <b>Post-Graduate (equivalent) degree in Arabic and Islamic Sciences with specialization in Jurisprudence:</b> Mahad al Faqeer, Pakistan
+                                </p>
+
+                                <p>
+                                    <b>B.Sc Electrical (Electronics/Communications) Engineering:</b> University of Engineering and Technology, Lahore, Pakistan
+                                </p>
+
+                                <p>
+                                    <strong>Consulting and Teaching</strong>
+                                </p>
+
+                                <p>
                                <b> Nur ul Ilm Academy (based in London, Sydney) and Institute (Dubai)</b>
                                <br>
                                 Co-Founder and Principal – Teaching all levels of Shariah Programs
@@ -223,18 +248,22 @@ include('../partials/navbar.php');
                                 </ol>
                             </p>
 
-                        </div>
-                        <div id="publications" class=" tab-pane fade"><br>
+
+
+                            <p>
+                                <strong>Publications and Research</strong>
+                            </p>
                             <p>
                                 Radiance of Purification – 6 Volumes published – Collections of advices to students on the path of   self-rectification 
                             </p>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="non_faculty_grid_right">
-                    <h4>Other Faculty Members</h4>
+                <h4>Other Faculty Members</h4>
                     <div class="non_faculty_grid_right_scroll">
-                    
+
                     <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Farooq-e-Azam-Cheema.php">Dr. Farooq-e-Azam Cheema
                                 <span>Provost & Acting Registrar</span>
@@ -265,7 +294,6 @@ include('../partials/navbar.php');
                                 </span>
                             </a>
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Shazib-Ehsan-Shaikh.php">Dr. Shazib Ehsan Shaikh
                                 <span>Associate Professor,<br>
@@ -274,7 +302,6 @@ include('../partials/navbar.php');
                                 </span>
                             </a>
                         </div>
-
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Ahmad-Junaid.php">Dr. Ahmad Junaid
                                 <span>Associate Professor<br>
@@ -313,6 +340,8 @@ include('../partials/navbar.php');
                             </a>
                         </div>
 
+                        
+
                         <!-- for visiting faculty members -->
                         <!-- <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Junaid-Siddiqui.php">Dr. Junaid Siddiqui
@@ -327,12 +356,13 @@ include('../partials/navbar.php');
                         </div> -->
 
 
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
-   <?php
+  <?php
 include('../partials/footer.php');
 ?>
 
@@ -340,6 +370,8 @@ include('../partials/footer.php');
 <?php
 include('../partials/footer-scripts.php');
 ?>
+
+
 </body>
 
 </html>

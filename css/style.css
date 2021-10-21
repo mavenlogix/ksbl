@@ -2481,6 +2481,12 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 225px;
 }
 
+.non_faculty_grid_img_shaykh-mufti-tauqeer {
+    background: url(../images/about/non-faculty-shaykh-mufti-tauqeer.png) no-repeat top center;
+    background-size: cover;
+    height: 225px;
+}
+
 .non_faculty_grid_img_Dr_Nida_Khan {
     background: url(../images/about/non-faculty-Dr-nida-khan.png) no-repeat top center;
     background-size: cover;
@@ -2701,11 +2707,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 560px;
 }
 
-.faculty_grid_left.shaykh-mufti-tauqeer {
-    background: url(../images/about/faculty-shaykh-mufti-tauqeer.jpg) no-repeat left center;
-    background-size: cover;
-    height: 560px;
-}
+
 
 .faculty_grid_left.dr-waseem-hassan {
     background: url(../images/about/faculty-Dr-Waseem-Hassan-mobile.jpg) no-repeat left center;
@@ -3641,11 +3643,7 @@ button.playBtnVid:focus {
         height: 224px;
     }
     
-    .faculty_grid_left.shaykh-mufti-tauqeer {
-        background: url(../images/about/faculty-shaykh-mufti-tauqeer_1024.jpg) no-repeat top center;
-        background-size: cover;
-        height: 224px;
-    }
+ 
 
 
     .faculty_grid_left.dr-waseem-hassan {
@@ -3790,13 +3788,6 @@ button.playBtnVid:focus {
         height: 153px
     }
     
-
-    .faculty_grid_left.shaykh-mufti-tauqeer {
-        background: url(../images/about/faculty-shaykh-mufti-tauqeer_1024.jpg) no-repeat top center;
-        background-size: cover;
-        height: 153px
-    }
-
 
     .faculty_grid_left.dr-waseem-hassan {
         background: url(../images/about/faculty-Dr-Waseem-Hassan_1024.jpg) no-repeat top center;
