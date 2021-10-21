@@ -53,7 +53,7 @@ include('../partials/navbar.php');
     <div class="faculty-section teacher-group">
         <div class="container">
             <div class="faculty_grid">
-                <div class="faculty_grid_left dr-shazid">
+                <div class="faculty_grid_left shaykh-mufti-tauqeer">
                     <div class="faculty_grid_head">
                         <h1>Shaykh Mufti Tauqeer</h1>
                         <h4>Islamic Studies</h4>
