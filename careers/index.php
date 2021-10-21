@@ -55,7 +55,7 @@ include('../partials/navbar.php');
                                            <li>Develop and successfully implements strategies to improve alumni relations with the university</li>
                                         </ol>
                                         <br>
-                                       <br>
+                                       
                                         <h3>Eligibility Criteria:</h3>
                                         <ol>
                                             <li>Minimum 4-5 years of experience in the similar department /recruitment or headhunting.</li>
