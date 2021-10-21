@@ -131,7 +131,34 @@ include('../partials/navbar.php');
                                      <li>St. Mary University, London</li>
                                 </ol>
 
-
+                                <strong>Malaysia</strong>
+                                <ol>
+                                    <li>University of Malaya, Kuala Lumpur </li>
+                                    <li>University of Technology Malaysia, Johor Baru</li>
+                                    <li>University Putra Malaysia, Serdang</li>
+                                    <li>University Technology Petronas, Ipoh Perak</li>
+                                    <li>International Islamic Universtiy, Selangor</li>
+                                </ol>
+                            </p>
+                            <p>
+                                <strong>Pakistan</strong>
+                                <p>
+                               
+                                <span style="color: blue;">ISLAMABAD/ RAWALPINDI</span>
+                                <ol>
+                                     <li>Air University</li>
+                                     <li>Bahria University</li>
+                                     <li>COMSATS University</li>
+                                     <li>Foundation University</li>
+                                     <li>Iqra University</li>
+                                     <li>Islamic International University</li>
+                                     <li>NUML </li>
+                                     <li>PMAS- ARID Agriculture University</li>
+                                     <li>Riphah University</li>
+                                     <li>Shifa College of Medicine</li>
+                                     <li>TMUC</li>
+                                </ol>
+                                </p>
                             </p>
 
 
