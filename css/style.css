@@ -455,11 +455,12 @@ ul.mobile-menu {
     display: none;
 }
 .city_tauqeer{
-    font-size: smaller;
+    font-size: 15px;
     font-weight: bold;
     color:#9898e4;
 }
 .country_of_tauqeer{ font-size: 18px; }
+.top_sub_heading{ font-size: 15px; }
 
 @media (max-width:1309px) {
     .header-top.open {

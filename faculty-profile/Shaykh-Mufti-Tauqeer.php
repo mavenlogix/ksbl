@@ -119,7 +119,7 @@ include('../partials/navbar.php');
                                 <h4 class="text-primary">Credentials</h4>
                                 
                                 <p>
-                                    <strong>Education</strong> <br>
+                                    <span class="top_sub_heading"><strong>Education</strong></span> <br>
                                     <b>M.S. Electrical Engineering:</b> The Ohio State University, Columbus, Ohio, USA
                                     <br><br>
                                     
@@ -139,7 +139,7 @@ include('../partials/navbar.php');
                             </p>
 
                             <p>
-                                <strong>Workshops, Trainings and Guest Lectures:</strong>
+                                <span class="top_sub_heading"><strong>Workshops, Trainings and Guest Lectures:</strong></span> <br>
                                 <br>
                                 <span class="country_of_tauqeer"><strong>UK</strong></span>
                                 <ol>
