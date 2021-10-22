@@ -119,7 +119,8 @@ include('../partials/navbar.php');
                                 <h4 class="text-primary">Credentials</h4>
                                 
                                 <p>
-                                    <span class="top_sub_heading"><strong>Education</strong></span> <br>
+                                    <span class="top_sub_heading"><strong>Education</strong></span> 
+                                    <br>
                                     <b>M.S. Electrical Engineering:</b> The Ohio State University, Columbus, Ohio, USA
                                     <br><br>
                                     
