@@ -141,7 +141,7 @@ include('../partials/navbar.php');
                             <p>
                                 <strong>Workshops, Trainings and Guest Lectures:</strong>
                                 <br>
-                                <span style="color:#9898e4;"><strong>UK</strong></span>
+                                <span class="country_of_tauqeer"><strong>UK</strong></span>
                                 <ol>
                                      <li>University of Birmingham, Birmingham</li>
                                      <li>University of Strathclyde, Glasgow</li>
@@ -149,7 +149,7 @@ include('../partials/navbar.php');
                                      <li>St. Mary University, London</li>
                                 </ol>
 
-                                <span style="color:#9898e4;"><strong>Malaysia</strong></span>
+                                <span class="country_of_tauqeer"><strong>Malaysia</strong></span>
                                 <ol>
                                     <li>University of Malaya, Kuala Lumpur </li>
                                     <li>University of Technology Malaysia, Johor Baru</li>
@@ -160,10 +160,10 @@ include('../partials/navbar.php');
                             </p>
                             <p>
                                 
-                                <span style="color:#9898e4;"><strong>Pakistan</strong></span>
+                                <span class="country_of_tauqeer"><strong>Pakistan</strong></span>
                                 <p>
 
-                                <span class="country_tauqeer">ISLAMABAD/ RAWALPINDI</span>
+                                <span class="city_tauqeer">ISLAMABAD/ RAWALPINDI</span>
                                 <ol>
                                      <li>Air University</li>
                                      <li>Bahria University</li>
@@ -178,14 +178,14 @@ include('../partials/navbar.php');
                                      <li>TMUC</li>
                                 </ol>
 
-                                <span class="country_tauqeer">LAHORE</span>
+                                <span class="city_tauqeer">LAHORE</span>
                                 <ol>
                                     <li>Bahria University</li>
                                     <li>COMSATS University</li>
                                     <li>University of Lahore</li>
                                 </ol>
 
-                                <span class="country_tauqeer">PESHAWAR</span>
+                                <span class="city_tauqeer">PESHAWAR</span>
                                 <ol>
                                     <li>Abasyn Universiity</li>
                                     <li>Aisha Institute of Modern Sciences</li>
@@ -219,7 +219,7 @@ include('../partials/navbar.php');
                                     <li>Department of Geography – University of Peshawar</li>
                                 </ol>
 
-                                <span class="country_tauqeer">AJ&K</span>
+                                <span class="city_tauqeer">AJ&K</span>
                                 <ol>
                                     <li>Cadet College Plandri </li>
                                     <li>University of AJ& K  </li>

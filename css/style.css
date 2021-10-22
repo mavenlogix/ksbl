@@ -454,10 +454,12 @@ nav#top-navigation li.expend ul li:before {
 ul.mobile-menu {
     display: none;
 }
-.country_tauqeer{
+.city_tauqeer{
     font-size: smaller;
     font-weight: bold;
+    color:#9898e4;
 }
+.country_of_tauqeer{ font-size: 18px; }
 
 @media (max-width:1309px) {
     .header-top.open {
