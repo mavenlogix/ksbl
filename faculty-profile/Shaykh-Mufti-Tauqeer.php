@@ -115,13 +115,8 @@ include('../partials/navbar.php');
                                 <p>
                                     He has a strong passion to have the youth of today benefit from the introspective way of Islam on developing the self to become better people and beneficial, proactive citizens of our society and so has worked with the youth around the world at multi-faceted levels.
                                 </p>
-
-
-                                <p>
-                                    <strong>
-                                       Credentials
-                                    </strong>
-                                </p>
+                               
+                                <h4 class="text-primary">Credentials</h4>
                                 
                                 <p>
                                     <strong>Education</strong> <br>
@@ -136,11 +131,7 @@ include('../partials/navbar.php');
                                 
                                 </p>
 
-
-                                <p>
-                                    <strong>Consulting and Teaching</strong>
-                                </p>
-
+                                <h4 class="text-primary">Consulting and Teaching</h4>
                                 <p>
                                <b> Nur ul Ilm Academy (based in London, Sydney) and Institute (Dubai)</b>
                                <br>
@@ -169,9 +160,11 @@ include('../partials/navbar.php');
                             </p>
                             <p>
                                 <strong>Pakistan</strong>
+                                <span style="color:#9898e4;">Pakistan</span>
                                 <p>
                                
                                 <span style="color:#9898e4;">ISLAMABAD/ RAWALPINDI</span>
+                                <strong>ISLAMABAD/ RAWALPINDI</strong>
                                 <ol>
                                      <li>Air University</li>
                                      <li>Bahria University</li>
@@ -250,11 +243,7 @@ include('../partials/navbar.php');
                                 </ol>
                             </p>
 
-
-
-                            <p>
-                                <strong>Publications and Research</strong>
-                            </p>
+                            <h4 class="text-primary">Publications and Research</h4>
                             <p>
                                 Radiance of Purification – 6 Volumes published – Collections of advices to students on the path of   self-rectification 
                             </p>
