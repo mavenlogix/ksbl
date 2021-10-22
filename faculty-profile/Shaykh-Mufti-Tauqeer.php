@@ -228,7 +228,8 @@ include('../partials/navbar.php');
                                 </p>
                             </p>
                             <p>
-                                <strong>TV Appearances</strong>
+                        
+                                <span class="top_sub_heading"><strong>TV Appearances</strong></span>
                                 <br>
                                 <ol>
                                     <li>Blessings of Ramadan – 28 episodes series – PTV World</li>
