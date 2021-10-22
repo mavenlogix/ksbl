@@ -454,6 +454,10 @@ nav#top-navigation li.expend ul li:before {
 ul.mobile-menu {
     display: none;
 }
+.country_tauqeer{
+    font-size: smaller;
+    font-weight: bold;
+}
 
 @media (max-width:1309px) {
     .header-top.open {
