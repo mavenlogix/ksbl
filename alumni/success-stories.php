@@ -47,8 +47,8 @@ include('../partials/head.php');
 						<!-- === Tab 1 === -->
 						<div class="tab-section active">
 							<div class="user-info">
-									<h3>Mr Zohaib Sikander</h3>
-									<div class="user-detail">Brand Manager of Gum Candy & Beverages,<br>Mondelez International
+									<h3>Zohaib Sikander</h3>
+									<div class="user-detail">Senior Manager Modern Trade & Ecommerce<br>P&G Pakistan
 								<br><br>
 								</div>
 							</div>
