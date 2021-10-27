@@ -98,7 +98,7 @@ include('../partials/navbar.php');
                             <div class="non_faculty_grid_two_right_content">
                                 <p><b>Nida Khan</b> is an Associate Professor of Financial Technology at KSBL. She is also the CEO of Nash fintechX, a Luxembourgish startup, providing software solutions, specializing in blockchain and AI. 
                                 She was ranked as the 12th most influential woman in Islamic business and finance in 2019 and 
-                                2020. Prior to working as the CEO of Nash fintechX, she worked as the CTO of OneAgrix, , a Singapore-based e-commerce platform, where she developed their tech stack, gave a concrete architecture to  
+                                2020. Prior to working as the CEO of Nash fintechX, she worked as the CTO of OneAgrix, a Singapore-based e-commerce platform, where she developed their tech stack, gave a concrete architecture to  
                                 their business model and proposed a novel mechanism using blockchain-based tokens to record the 
                                 impact of their initiative. She has worked as a member of SEDAN (Services and Data Management in 
                                 Distributed Systems group) at SnT <i>(Interdisciplinary Center for Security, Reliability and Trust)</i>, 
