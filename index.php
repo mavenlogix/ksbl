@@ -306,7 +306,7 @@ include('./partials/head.php');
                             <div class="about-user">
                                 <div class="name">Zohaib Sikander</div>
                                 <div class="other-info">
-                                    Brand Manager, <br>Gum Candy & Beverages, <br>Mondelez Islamabad
+                                Senior Manager Modern Trade & Ecommerce<br>P&G Pakistan
                                 </div>
                             </div>
                         </div>
