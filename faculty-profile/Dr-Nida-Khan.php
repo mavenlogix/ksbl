@@ -98,11 +98,11 @@ include('../partials/navbar.php');
                             <div class="non_faculty_grid_two_right_content">
                                 <p><b>Nida Khan</b> is an Associate Professor of Financial Technology at KSBL. She is also the CEO of Nash fintechX, a Luxembourgish startup, providing software solutions, specializing in blockchain and AI. 
                                 She was ranked as the 12th most influential woman in Islamic business and finance in 2019 and 
-                                2020. Prior to working as the CEO of Nash fintechX, she worked as the CTO of OneAgrix, a Singaporebased e-commerce platform, where she developed their tech stack, gave a concrete architecture to 
+                                2020. Prior to working as the CEO of Nash fintechX, she worked as the CTO of OneAgrix, a Singapore<sub></sub> e-commerce platform, where she developed their tech stack, gave a concrete architecture to 
                                 their business model and proposed a novel mechanism using blockchain-based tokens to record the 
                                 impact of their initiative. She has worked as a member of SEDAN (Services and Data Management in 
                                 Distributed Systems group) at SnT <i>(Interdisciplinary Center for Security, Reliability and Trust)</i>, 
-                                University of Luxembourg, where she led the research projects of ConexCap, a FrenchLuxembourgish fintech startup. She has held numerous positions as a faculty member in Islamic 
+                                University of Luxembourg, where she led the research projects of ConexCap, a French<sub></sub>Luxembourgish fintech startup. She has held numerous positions as a faculty member in Islamic 
                                 financial educational institutions in India and has worked as a research assistant on a project 
                                 focusing on performance evaluation of cryptographic protocols in FSTM <i>(Faculty of Science, 
                                 Technology and Medicine),</i> University of Luxembourg.
@@ -132,7 +132,7 @@ include('../partials/navbar.php');
                                 speaks regularly on emerging technologies
                                 </p>
 
-                                <h4 class="text-primary">Credentials</h4>
+                                <p><h4 class="text-primary">Credentials</h4></p>
                                 
                                 <p>
                                     <strong>Education</strong>
@@ -210,14 +210,14 @@ include('../partials/navbar.php');
                                 <strong>Volunteer Work</strong>
                                     <br>
                                     <ol>
-                                        <li><b>Team Associate in FinTechLab</b> <i>(since 2017 to present).</i> FintechLab is a Canadian observatory focusing on the impact of new financial technology in the financial services industry. The Lab sees itself is a think tank for experts and professionals. <a href="http://fintechlab.ca/team/?lang=en">http://fintechlab.ca/team/?lang=en</a></li>
+                                        <li><b>Team Associate in FinTechLab</b> <i>(since 2017 to present).</i> FintechLab is a Canadian observatory focusing on the impact of new financial technology in the financial services industry. The Lab sees itself is a think tank for experts and professionals. <a href="http://fintechlab.ca/team/?lang=en" target="_Blank">http://fintechlab.ca/team/?lang=en</a></li>
 
                                         <li><b>Team Member of Masdin</b> <i>(February 2017 to July 2020).</i> Masdin is an associate team 
                                         between the University of Luxembourg and Inria, the French National Institute for computer 
-                                        science and applied mathematics. <a href="https://project.inria.fr/masdin/en/">https://project.inria.fr/masdin/en/</a></li>
+                                        science and applied mathematics. <a href="https://project.inria.fr/masdin/en/" target="_Blank">https://project.inria.fr/masdin/en/</a></li>
 
                                         <li><b>Member of Wall Street Blockchain Alliance</b> <i>(April 2019 to April 2020).</i> WSBA is a non-profit trade organization created to guide and promote the adoption of blockchain technology and 
-                                        crypto assets across global financial markets. <a href="https://www.wsba.co/">https://www.wsba.co/</a></li>
+                                        crypto assets across global financial markets. <a href="https://www.wsba.co/" target="_Blank">https://www.wsba.co/</a></li>
                                     </ol>
                                 </p>
                                 <p>
@@ -228,11 +228,11 @@ include('../partials/navbar.php');
                                         Industry for IBF Net, Singapore.</li>
 
                                         <li>Gave an online talk for the International Conference on blockchain, cryptocurrency and 
-                                        digital assets in Hyderabad, India. <a href="https://youtu.be/EusWnuzsB2o">https://youtu.be/EusWnuzsB2o</a></li>
+                                        digital assets in Hyderabad, India. <a href="https://youtu.be/EusWnuzsB2o" target="_Blank">https://youtu.be/EusWnuzsB2o</a></li>
 
                                         <li>Delivered a webinar on blockchain and its applications in the Finance Industry on behalf of 
                                         the startup, ConexCap organized by Madinah Institute for Leadership and Entrepreneurship. 
-                                        <a href="https://www.youtube.com/watch?v=a1-2mfLVkAw">https://www.youtube.com/watch?v=a1-2mfLVkAw</a></li>
+                                        <a href="https://www.youtube.com/watch?v=a1-2mfLVkAw" target="_Blank">https://www.youtube.com/watch?v=a1-2mfLVkAw</a></li>
 
                                         <li>Delivered a digital strategy session to senior management of Bank of Khartoum, Sudan.</li>
 
@@ -245,8 +245,8 @@ include('../partials/navbar.php');
                                     <h4 class="text-primary">Consulting and Teaching</h4>
                                     <ol>
                                         <li>The complete list of academic publications can be accessed from: 
-                                         <a href="https://www.researchgate.net/profile/Nida-Khan-7/research">https://www.researchgate.net/profile/Nida-Khan-7/research</a></li>
-                                        <li>Link to the GitHub repositories: <a href="https://github.com/nidakhanlu?tab=repositories">https://github.com/nidakhanlu?tab=repositories</a></li>
+                                         <a href="https://www.researchgate.net/profile/Nida-Khan-7/research" target="_Blank">https://www.researchgate.net/profile/Nida-Khan-7/research</a></li>
+                                        <li>Link to the GitHub repositories: <a href="https://github.com/nidakhanlu?tab=repositories" target="_Blank">https://github.com/nidakhanlu?tab=repositories</a></li>
                                     </ol>
                                 </p>
 
