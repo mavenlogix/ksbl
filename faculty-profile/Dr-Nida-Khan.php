@@ -135,7 +135,7 @@ include('../partials/navbar.php');
                                 <p><h4 class="text-primary">Credentials</h4></p>
                                 
                                 <p>
-                                    <strong>Education</strong>
+                                    <h5><b>Education </b></h5>
                                     <br>
                                     <b>PhD Computer Science, University of Luxembourg, Luxembourg</b>
                                     Topic: Blockchain-enabled Traceability and Immutability for Financial Applications
@@ -150,7 +150,7 @@ include('../partials/navbar.php');
                                     <b>Bachelor of Technology, Computer Science & Engineering, UPTU, India</b>
                                 </p>
                                 <p>
-                                <strong>Education</strong>
+                                <h5><b>Certifications</b></h5>
                                 <br>
                                 <ol>
                                    <li>VC Scholar Summer Programme: MiddleGame Ventures and Luxembourg House of Financial 
@@ -163,7 +163,7 @@ include('../partials/navbar.php');
                                 </ol>
                                 </p>
                                 <p>
-                                <strong>Awards and Achievements</strong>
+                                <h5><b>Awards and Achievements</b></h5>
 
                                 <ol>
                                 <li>Winner of the VC Scholar Programme organized by MiddleGame Ventures and Luxembourg 
@@ -207,7 +207,7 @@ include('../partials/navbar.php');
                                 </p>
 
                                 <p>
-                                <strong>Volunteer Work</strong>
+                                <h5><b>Volunteer Work</b></h5>
                                     <br>
                                     <ol>
                                         <li><b>Team Associate in FinTechLab</b> <i>(since 2017 to present).</i> FintechLab is a Canadian observatory focusing on the impact of new financial technology in the financial services industry. The Lab sees itself is a think tank for experts and professionals. <a href="http://fintechlab.ca/team/?lang=en" target="_Blank">http://fintechlab.ca/team/?lang=en</a></li>
@@ -221,7 +221,7 @@ include('../partials/navbar.php');
                                     </ol>
                                 </p>
                                 <p>
-                                    <strong>Executive Workshops & Sessions</strong>
+                                    <h5><b>Executive Workshops & Sessions</b></h5>
                                     <br>
                                     <ol>
                                         <li>Conducted executive trainings on the use of blockchain in Islamic Social Finance and Halal 
