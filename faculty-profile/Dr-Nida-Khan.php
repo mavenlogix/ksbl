@@ -242,7 +242,7 @@ include('../partials/navbar.php');
 
                                 </p>
                                 <p>
-                                    <h4 class="text-primary">Consulting and Teaching</h4>
+                                    <h4 class="text-primary">Publications and Research</h4>
                                     <ol>
                                         <li>The complete list of academic publications can be accessed from: 
                                          <a href="https://www.researchgate.net/profile/Nida-Khan-7/research" target="_Blank">https://www.researchgate.net/profile/Nida-Khan-7/research</a></li>
