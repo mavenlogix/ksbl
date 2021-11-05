@@ -72,7 +72,7 @@ include('../partials/head.php');
                             <br>Finance
                             <br>Human Resources</b>
                     </p>
-                    <a target="_blank" href="meba/admissions/BS-MEBA-brochure.pdf" class="rmv  btn-primary">Download Brochure</a>
+                    <a target="_blank" href="meba/admissions/BSMEBA KSBL Spring 2022 admission.pdf" class="rmv  btn-primary">Download Brochure</a>
                     <a target="_blank" href="http://admissions.colaraz.com/signup?institute=ksbledu" class="rmv btn-primary">Apply Now</a>
                 </div>
             </div>
