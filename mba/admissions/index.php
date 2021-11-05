@@ -188,14 +188,7 @@ include('../../partials/navbar.php');
                                 </div>
                             </div>
 
-                            <div class="sec-row">
-                                <div class="sec-col heading"><strong>Fall Semester Start Date</strong></div>
-                                <div class="sec-col">
-                                    <ul>
-                                        <strong>Oct 04, 2021</strong>
-                                    </ul>
-                                </div>
-                            </div>
+                       
 
                             <div class="sec-row">
                             *Please email KSBL Admissions for KUAT and KMAT Dates: admissions@ksbl.edu.pk
