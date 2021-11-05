@@ -122,7 +122,7 @@ include('../../partials/navbar.php');
                                     <p style="margin-top: 5px;margin-bottom: 0px">Undergraduate Programs</p>
                                     <ul>
                                       <li>12 years of Education at the time of Admission (Those awaiting result may also apply)</li>
-                                      <li>This includes HSSC (min. 60% marks), <b>A Levels or Equivalent</b> (min. 1B, 2Cs & no grade less than C) & <b>IB</b></li>
+                                      <li>This includes HSSC (min. 60% marks), <b>A Levels or Equivalent</b> & <b>IB</b></li>
                                     </ul>
                                 </div>
                             </div>
@@ -163,27 +163,27 @@ include('../../partials/navbar.php');
                             </div>
                             <div class="sec-row">
                                 <div class="sec-col heading"><strong>
-                                      Admissions Early Bird Deadline
+                                    Admissions announcement:
                                     </strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong>Sep 10, 2021 (UG,PG)</strong>
+                                        <strong>November 5, 2021</strong>
                                     </ul>
                                 </div>
                             </div>
                             <div class="sec-row">
-                                <div class="sec-col heading"><strong>Admissions Final Deadline</strong></div>
+                                <div class="sec-col heading"><strong>Test start date:</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong>Sep 20, 2021 (UG,PG)</strong>
+                                        <strong>November 8, 2021 (ongoing basis)</strong>
                                     </ul>
                                 </div>
                             </div>
                             <div class="sec-row">
-                                <div class="sec-col heading"><strong>KMAT, KUAT / SAT based Admission Test</strong></div>
+                                <div class="sec-col heading"><strong>Spring 2022 semester Start Date:</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong>Rolling Basis*</strong>
+                                        <strong>February 21, 2022</strong>
                                     </ul>
                                 </div>
                             </div>
