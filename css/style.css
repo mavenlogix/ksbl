@@ -37,6 +37,18 @@ img {
     max-width: 100%;
 }
 
+.d-contents {
+    display: contents;
+}
+
+@media(min-width: 768px) {
+
+    .d-md-contents {
+        display: contents;
+    }
+
+}
+
 .container {
     width: 1310px;
     margin: 0 auto;
@@ -108,7 +120,7 @@ video {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    pointer-events: none;
+    /* pointer-events: none;*/
     opacity: 0;
 }
 
@@ -454,13 +466,20 @@ nav#top-navigation li.expend ul li:before {
 ul.mobile-menu {
     display: none;
 }
-.city_tauqeer{
+
+.city_tauqeer {
     font-size: 15.5px;
     font-weight: bold;
-    color:#9898e4;
+    color: #9898e4;
 }
-.country_of_tauqeer{ font-size: 18px; }
-.top_sub_heading{ font-size: 15px; }
+
+.country_of_tauqeer {
+    font-size: 18px;
+}
+
+.top_sub_heading {
+    font-size: 15px;
+}
 
 @media (max-width:1309px) {
     .header-top.open {
@@ -1115,9 +1134,11 @@ div#content-area {
     font-size: 23px;
     line-height: 30px;
 }
+
 .container-boxes.addmission .other-details .homeAdmissionOpen {
     font-size: 30px;
 }
+
 .container-boxes.addmission .other-details .type {
     font-size: 25px;
     color: #FAA633;
@@ -3497,7 +3518,7 @@ input.search {
 
 .videoSecondHome {
     position: relative;
- /*   margin-bottom: -5px;*/
+    /*   margin-bottom: -5px;*/
     min-height: 100%;
     height: 100%;
 }
@@ -3557,6 +3578,16 @@ button.playBtnVid:focus {
     left: 85%;
     transform: translate(-85%, -75%);
 }*/
+
+.anchorLinkAdm{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    left: 0;
+    width: 100%;
+    z-index: 34;
+    opacity: 0;
+}
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
@@ -3651,8 +3682,8 @@ button.playBtnVid:focus {
         background-size: cover;
         height: 224px;
     }
-    
- 
+
+
 
 
     .faculty_grid_left.dr-waseem-hassan {
@@ -3796,14 +3827,14 @@ button.playBtnVid:focus {
         background-size: cover;
         height: 153px
     }
-    
+
 
     .faculty_grid_left.dr-waseem-hassan {
         background: url(../images/about/faculty-Dr-Waseem-Hassan_1024.jpg) no-repeat top center;
         background-size: cover;
         height: 153px
     }
-    
+
     .faculty_grid_left.dr-fouzia-haneef {
         background: url(../images/about/faculty-Dr-Fouzia-Haneef-Khan_1024.png) no-repeat top center;
         background-size: cover;
@@ -4179,7 +4210,7 @@ button.playBtnVid:focus {
         max-width: 100%;
     }
 
- /*   .videoSecondHome .about-campus {
+    /*   .videoSecondHome .about-campus {
         position: initial;
         width: 100%;
         display: block;
@@ -4389,7 +4420,7 @@ button.playBtnVid:focus {
         max-width: 100%;
     }
 
-  /*  .videoSecondHome .about-campus {
+    /*  .videoSecondHome .about-campus {
         position: initial;
         width: 100%;
         display: block;

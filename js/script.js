@@ -14,7 +14,7 @@
         };
 
         function video_width() {
-            if ($(window).width() > 1024) {
+            if ($(window).width() > 767) {
                 $('#myvideo source').attr('src', $('#myvideo source').attr('data-desktop'));
             } else {
                 $('#myvideo source').attr('src', $('#myvideo source').attr('data-mobile'));

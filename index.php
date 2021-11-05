@@ -18,13 +18,17 @@ include('./partials/head.php');
 	#                       Header START                               #
 	#----------------------------------------------------------------->
     <header id="header" class="run ">
+       
         <div class="header-video">
+           
             <video id="myvideo" width="1000" height="400" autoplay loop muted playsinline>
-                <source class="active" src="images/ksbl-video-desktop.mp4" data-mobile="images/ksbl-video-mobile.mp4" data-desktop="images/ksbl-video-desktop.mp4" type="video/mp4">
-                <source src="images/ksbl-video-desktop.mov" data-mobile="images/ksbl-video-mobile.mov" data-desktop="images/ksbl-video-desktop.mov" type="video/mp4">
+                <source class="active" src="images/ksbl-video-desktop-new.mp4" data-mobile="images/ksbl-video-mobile-new.mp4" data-desktop="images/ksbl-video-desktop-new.mp4" type="video/mp4">
+                <source src="images/ksbl-video-desktop-new.mov" data-mobile="images/ksbl-video-mobile-new.mov" data-desktop="images/ksbl-video-desktop-new.mov" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
+         
         </div>
+        
         <div class="container">
 
             <!-- navbar start -->
@@ -33,16 +37,16 @@ include('./partials/head.php');
             ?>
             <!-- navbar-end -->
 
-            <a href="index.php" title="KSBL" class="logo">
+            <a href="index.php" title="KSBL" class="logo d-md-contents" >
                 <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
-                <h1 class="d-block d-md-none mt-n1">Where leaders take flight...</h1>
+                <!-- <h1 class="d-block d-md-none mt-n1">Where leaders take flight...</h1> -->
                
             </a>
         </div><!-- container -->
         <div class="header-bottom">
                 <div class="container">
-                    <h1  class="d-none d-md-block">Where leaders take flight...</h1>
-                     <h2 class=" homeHeading d-sm-none d-block mt-5">Admissions Open!</h2>
+                   <!--  <h1  class="d-none d-md-block">Where leaders take flight...</h1>
+                     <h2 class=" homeHeading d-sm-none d-block mt-5">Admissions Open!</h2> -->
                 </div><!-- container -->
                 
 
@@ -113,6 +117,7 @@ include('./partials/head.php');
             </div><!-- Header-bottom -->
                 
         </div><!-- Header-bottom -->
+          <a href="mba/admissions/" class="anchorLinkAdm"></a>
     </header>
     <!-----------------------------------------------------------------#
 	#                       Header END                                 #
@@ -160,9 +165,9 @@ include('./partials/head.php');
                         <div class="tag">ADMISSIONS</div>
                         <div class="other-details">
                             <br>
-                            <h3 class="homeAdmissionOpen">Admissions Open!</h3>
-                            <!-- <div class="type" style="font-size: 30px;">EMBA  |  BS MEBA  |  BS IT&S <br> -->
-                            </div>
+                            <h3 class="homeAdmissionOpen">Spring 2022 Admissions Open!</h3>
+                            <!-- <div class="type" style="font-size: 30px;">EMBA  |  BS MEBA  |  BS IT&S <br>
+                            </div> -->
                             <div class="detail">
                                 <div class="event-detail">
                                     <!-- <div class="event-date">Specializations: <br> Digital Marketing, Fintech and Talent <span id="content11">Management </span></div> <br> -->
