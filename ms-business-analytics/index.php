@@ -202,40 +202,34 @@ include('../partials/navbar.php');
                     <span class="box-num">1</span>
                     <h3>Semester I</h3>
                     <ul>
-                        <li>Mathematical Methods
-                        <li>Intro to Data Science with Python & Tableau
-                        <li>Business Policy & Strategy
-                        <li>Operations Management
-                            <br>
+                        <li>Data Analysis & Modeling</li>
+                        <li>Programming for Data Science</li>
+                        <li>Digital Business Strategy</li>
                     </ul>
                 </div>
                 <div class="foundation-box">
                     <span class="box-num">2</span>
                     <h3>Semester II</h3>
                     <ul>
-                        <li>Marketing Analytics
-                        <li>Machine Learning Algorithm
-                        <li>Elective-I
-                        <li>Elective-II
+                        <li>Machine Learning Algorithms</li>
+                        <li>Information Management</li>
+                        <li>Marketing Analytics</li>
                     </ul>
                 </div>
                 <div class="foundation-box">
                     <span class="box-num">3</span>
                     <h3>Semester III</h3>
                     <ul>
-                        <li>Thesis / capstone <br>project (6 credit hours)</li>
+                        <li>Thesis (6 credit hrs)</li>
+                        <li>Electives</li>
                     </ul>
                 </div>
                 <div class="foundation-box">
                     <span class="box-num">4</span>
                     <h3>Elective Courses</h3>
                     <ul>
-                        <li>Big Data Fundamental
-                        <li>Decision Models
-                        <li>Revenue Management & Pricing
-                        <li>Operation Analytics
-                        <li>Data Mining in R</li>
-                        <li>Social Media & Network Analytics</li>
+                        <li>Big Data Technologies</li>
+                        <li>Mining the Web and Social Media</li>
                 </div>
             </div>
             <div class="about-course-list">*This is a tentative list of courses. Course offerings are subject to change on the recommendation of the Academic Committee.</div>
