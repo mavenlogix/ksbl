@@ -113,7 +113,7 @@ include('../partials/navbar.php');
                     <p>Our coursework includes business fundamentals and critical leadership development courses leading to specializations. We have launched the most market relevant specialization options, so our students are able to seamlessly adapt and contribute to the rapidly changing world of business. These specializations include:
                         <b><br><br>Fintech
                             <br>Digital Marketing
-                            <br>Talent Management</b>
+                            <br>Talent Management
                             <br>Supply Chain</b>
                     </p>
                     <a target="_blank" href="mba/admissions/MBA KSBL Spring 2022 admissions.pdf"  class=" rmv btn-primary">Download Brochure</a>
