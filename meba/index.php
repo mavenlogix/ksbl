@@ -51,7 +51,7 @@ include('../partials/head.php');
                 <img src="images/meba/about-meba.png" alt="About our meba" />
             </div>
             <div class="right-side">
-                <h2>KSBL BS MEBA Program</h2>
+                <h2>Our BS MEBA Program</h2>
                 <div class="detail">
                     <p>BS in Management, Entrepreneurship, and Business Administration (MEBA) is designed with two most important factors in view - your career and professional grooming.  The 4-year program trains you holistically on the concepts of management and prepares you to launch your career in a global environment. And because of focus on ethics, sustainability and technology, you are able to explore opportunities and trends in a more effective manner. The deep understanding of core business competencies and the creative pedagogy that instills critical thinking and a wider world view enables you to seamlessly blend into the workforce. </p>
                     <p>BS-MEBA gives you the comprehensive undergraduate training, so you develop an entrepreneurial mindset that is driven by the latest in management and business studies. After completing this program, you will see yourself involved with new ventures, seeking new opportunities - be it large organizations or start-ups in a rapidly evolving gig economy. </p>

@@ -91,7 +91,7 @@ include('../partials/navbar.php');
                 <img src="images/ms-business-analytics/ba-1.jpg" alt="About our MBA" />
             </div>
             <div class="right-side">
-                <h2>MS Business Analytics</h2>
+                <h2>Our MS Business Analytics Program</h2>
                 <div class="detail">
                     <p>MS in Business Analytics at KSBL takes a skills-based approach to business analytics with technology and innovation at its core. With the evolution of new data sources stemming from digitization, the markets requires a skill set with in-depth understanding and dynamism that is not as prevalent. Our program thus aims to coach managers, and leaders turn data into in-depth insights for optimal decision making for their businesses to operate in this new environment. This program is designed also keeping in view the early movers in the field seeking to pursue, switch to, or advance their career with the data revolution of these times and the tremendous potential it offers. Our cutting edge program thus aims to fulfill industry demand by offering a combination of technical tools, softwares, business education and hands-on real-world problem solving so the learning on analytics comes full circle.</p>
                 </div>

@@ -87,7 +87,7 @@ include('../partials/head.php');
                 <img src="images/emba/emba-1.jpg" alt="About our MBA" />
             </div>
             <div class="right-side">
-                <h2>KSBL Executive MBA Program</h2>
+                <h2>Our Executive MBA Program</h2>
                 <div class="detail">
                     <p>Executive MBA (EMBA) at KSBL is an opportunity for experienced professionals and entrepreneurs to prepare for future leadership roles. KSBL EMBA is designed to enhance functional expertise, sound management capabilities, and decision-making skills. Our program allows professionals to acquire advanced business education while pursuing their careers. Having innovation and futurism at its core, the program enables you to perform optimally and lead cross-cultural and interdepartmental teams.</p>
                     <p>KSBL EMBA program is designed for professionals and entrepreneurs having more than five (5) years of experience. The program offers a stimulating learning environment where experienced professionals with diverse backgrounds exchange ideas and solve complex problems of a fast-changing world. Among others, KSBL EMBA program is distinct because of its simulation-based pedagogy, unique networking opportunities and interactions with C-suite executives.</p>
