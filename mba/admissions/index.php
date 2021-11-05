@@ -395,7 +395,7 @@ include('../../partials/navbar.php');
                                         <br>
                                         Candidates can claim exemption for KUAT based on valid SAT score.
                                         <br><br>
-                                        For details, please <strong> <a target="_blank" href="#">click here</a></strong> <br>
+                                        <!-- For details, please <strong> <a target="_blank" href="#">click here</a></strong> <br> -->
                                         For sample test, please <strong><a target="_blank" href="mba/admissions/KSBL - KUAT - SampleTest.pdf">click here</a> </strong>
                                     </div>
                                 </div>
