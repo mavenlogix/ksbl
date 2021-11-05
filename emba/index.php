@@ -89,7 +89,7 @@ include('../partials/head.php');
             <div class="right-side">
                 <h2>KSBL Executive MBA Program</h2>
                 <div class="detail">
-                    <p>The KSBL Executive MBA (EMBA) program is an opportunity for experienced professionals and entrepreneurs to prepare for future leadership roles. KSBL EMBA is designed to enhance functional expertise, sound management capabilities, and decision-making skills. Our program allows professionals to acquire advanced business education while pursuing their careers. Having innovation and futurism at its core, the program enables you to perform optimally and lead cross-cultural and interdepartmental teams.</p>
+                    <p>Executive MBA (EMBA) at KSBL is an opportunity for experienced professionals and entrepreneurs to prepare for future leadership roles. KSBL EMBA is designed to enhance functional expertise, sound management capabilities, and decision-making skills. Our program allows professionals to acquire advanced business education while pursuing their careers. Having innovation and futurism at its core, the program enables you to perform optimally and lead cross-cultural and interdepartmental teams.</p>
                     <p>KSBL EMBA program is designed for professionals and entrepreneurs having more than five (5) years of experience. The program offers a stimulating learning environment where experienced professionals with diverse backgrounds exchange ideas and solve complex problems of a fast-changing world. Among others, KSBL EMBA program is distinct because of its simulation-based pedagogy, unique networking opportunities and interactions with C-suite executives.</p>
                 </div>
             </div>
@@ -112,7 +112,9 @@ include('../partials/head.php');
                     <p>KSBL EMBA includes business fundamentals and critical leadership development courses leading to specializations. The offered specializations are market-relevant and offer career enhancing trajectories to experienced professionals navigating in technology-driven business environment. These specializations include:
                         <br><b>Digital Marketing</b>
                         <br><b>Fintech</b>
-                        <br><b>Talent Management</b> </p>
+                        <br><b>Talent Management</b> 
+                        <br><b>Supply Chain</b> 
+                    </p>
                     <a target="_blank" href="emba/admissions/EMBA KSBL Spring 2022 admissions.pdf" title="Download Brochure" class="rmv btn-primary">Download Brochure</a>
                     <a target="_blank" href="http://admissions.colaraz.com/signup?institute=ksbledu" class="rmv btn-primary">Apply Now</a>
                 </div>
@@ -184,7 +186,11 @@ include('../partials/head.php');
             <div class="left-side">
                 <h2>EMBA Curriculum</h2>
                 KSBL's Executive MBA program is designed connecting the latest management studies with real-world scenarios, and entails 60 credit hour of teaching.
-                <br>
+
+                <br><br>- Those with 16 years of relevant education will follow 30-Credit Hours curriculum.
+                <br> - Those with 16 years of education in any other discipline will follow 60-Credit Hours curriculum.
+
+               
             </div>
             <div class="right-side">
                 Case Studies<br>
@@ -206,11 +212,54 @@ include('../partials/head.php');
         <div class="container">
             <div class="foundation-boxes">
                 <div class="foundation-box main-box">
-                    <h3>Curriculum - 60 Credit Hours</h3>
+                    <h3>CURRICULUM<br>30 Credit Hours</h3>
                 </div>
                 <div class="foundation-box">
                     <span class="box-num">1</span>
-                    <h3>Semester 1</h3>
+                    <h3>Semester I</h3>
+                    <ul>
+                        <li>Information Governance & Security</li>
+                        <li>Marketing Strategy</li>
+                        <li>Organizational Behaviour & HRM Practices</li>
+                        <li>Macroeconomics and Global Economy</li>
+                    </ul>
+                </div>
+                <div class="foundation-box">
+                    <span class="box-num">2</span>
+                    <h3>Semester II</h3>
+                    <ul>
+                        <li>Islamic Finance</li>
+                        <li>Elective I</li>
+                        <li>Elective II</li>
+                        <li>Elective III</li>
+                    </ul>
+                </div>
+                <div class="foundation-box">
+                    <span class="box-num">3</span>
+                    <h3>Semester III</h3>
+                    <ul>
+                        <li>Capstone Project</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="about-course-list">Course offerings are subject to change on the recommendation of Academic Committee.</div>
+        </div>
+    </div>
+    <!-----------------------------------------------------------------#
+	#                      foundation END                              #
+	#----------------------------------------------------------------->
+    <!-----------------------------------------------------------------#
+	#                      foundation Start                            #
+	#----------------------------------------------------------------->
+    <div class="foundation-section">
+        <div class="container">
+            <div class="foundation-boxes">
+                <div class="foundation-box main-box">
+                    <h3>CURRICULUM<br>60 Credit Hours</h3>
+                </div>
+                <div class="foundation-box">
+                    <span class="box-num">1</span>
+                    <h3>Semester I</h3>
                     <ul>
                         <li>Data Analysis & Modeling</li>
                         <li>Financial Reporting & Analysis</li>
@@ -221,7 +270,7 @@ include('../partials/head.php');
                 </div>
                 <div class="foundation-box">
                     <span class="box-num">2</span>
-                    <h3>Semester 2</h3>
+                    <h3>Semester II</h3>
                     <ul>
                         <li>Accounting for Decision-making</li>
                         <li>Corporate Finance</li>
@@ -232,7 +281,7 @@ include('../partials/head.php');
                 </div>
                 <div class="foundation-box">
                     <span class="box-num">3</span>
-                    <h3>Semester 3</h3>
+                    <h3>Semester III</h3>
                     <ul>
                         <li>Information Governance & Security</li>
                         <li>Marketing Strategy</li>
@@ -243,7 +292,7 @@ include('../partials/head.php');
                 </div>
                 <div class="foundation-box">
                     <span class="box-num">4</span>
-                    <h3>Semester 4</h3>
+                    <h3>Semester IV</h3>
                     <ul>
                         <li>Islamic Finance</li>
                         <li>Elective II</li>

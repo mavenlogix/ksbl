@@ -90,7 +90,7 @@ include('../partials/navbar.php');
             <div class="right-side">
                 <h2>Our MBA Program</h2>
                 <div class="detail">
-                    <p>KSBL MBA, our flagship program, prepares students and professionals to adapt, challenge themselves and shape their future. The program enhances management and leadership skills for a dynamic global environment driven by innovation. KSBL MBA connects students to C-suite executives and accomplished practitioners while they learn from leading faculty. This industry-focused, case-based pedagogy gives lifelong perspectives on how organizations can convert challenges into opportunities. </p>
+                    <p>MBA, our flagship program, prepares students and professionals to adapt, challenge themselves and shape their future. The program enhances management and leadership skills for a dynamic global environment driven by innovation. KSBL MBA connects students to C-suite executives and accomplished practitioners while they learn from leading faculty. This industry-focused, case-based pedagogy gives lifelong perspectives on how organizations can convert challenges into opportunities. </p>
                     <p>With flexibility of class schedules, our MBA program provides a stimulating and transformational educational experience to students and professionals with diverse backgrounds. The Program is based on cutting-edge teaching methodologies and a hands-on approach to learning. All this has led to our MBA graduates going places with a multitude of career possibilities, be it in big corporations, local businesses or the gig economy.</p>
                 </div>
             </div>
@@ -114,6 +114,7 @@ include('../partials/navbar.php');
                         <b><br><br>Fintech
                             <br>Digital Marketing
                             <br>Talent Management</b>
+                            <br>Supply Chain</b>
                     </p>
                     <a target="_blank" href="mba/admissions/MBA KSBL Spring 2022 admissions.pdf"  class=" rmv btn-primary">Download Brochure</a>
                     <a target="_blank" href="http://admissions.colaraz.com/signup?institute=ksbledu" class=" rmv  btn-primary">Apply Now</a>
