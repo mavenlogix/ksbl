@@ -160,8 +160,8 @@ include('./partials/head.php');
                         <div class="tag">ADMISSIONS</div>
                         <div class="other-details">
                             <br>
-                            <h3>Admissions Open!</h3>
-                            <div class="type" style="font-size: 30px;">EMBA  |  BS MEBA  |  BS IT&S <br>
+                            <h3 class="homeAdmissionOpen">Admissions Open!</h3>
+                            <!-- <div class="type" style="font-size: 30px;">EMBA  |  BS MEBA  |  BS IT&S <br> -->
                             </div>
                             <div class="detail">
                                 <div class="event-detail">

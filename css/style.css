@@ -1115,7 +1115,9 @@ div#content-area {
     font-size: 23px;
     line-height: 30px;
 }
-
+.container-boxes.addmission .other-details .homeAdmissionOpen {
+    font-size: 26px;
+}
 .container-boxes.addmission .other-details .type {
     font-size: 25px;
     color: #FAA633;
