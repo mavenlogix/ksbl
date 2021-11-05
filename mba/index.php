@@ -189,6 +189,7 @@ include('../partials/navbar.php');
                 <br>- Fintech
                 <br>- Digital Marketing
                 <br>- Talent Management
+                <br>- Supply Chain
             </div>
         </div>
     </div>

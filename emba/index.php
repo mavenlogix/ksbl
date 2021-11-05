@@ -185,7 +185,7 @@ include('../partials/head.php');
         <div class="container">
             <div class="left-side">
                 <h2>EMBA Curriculum</h2>
-                KSBL's Executive MBA program is designed connecting the latest management studies with real-world scenarios, and entails both 30 and 60 credit hour's of teaching.
+                KSBL's Executive MBA program is designed connecting the latest management studies with real-world scenarios, and entails both 30 and 60 credit hours of teaching.
 
                 <br><br>- Those with 16 years of relevant education will follow 30-Credit Hours curriculum.
                 <br> - Those with 16 years of education in any other discipline will follow 60-Credit Hours curriculum.
