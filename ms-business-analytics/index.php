@@ -115,7 +115,7 @@ include('../partials/navbar.php');
                     <p>KSBL provides a unique ecosystem that enables hands-on learning during both in-classroom / lab teaching and thesis project selection and research. The transformationary nature of this field makes this program relevant for professionals from all sectors, industries and regions who realize the immense potential that it offers as digital innovation becomes rampant.
                         <br><br>Organizations that leverage data and build insights are proven to outperform competitors. Data literate candidates are increasingly becoming most sought-after in the fourth industrial revolution.
                     </p>
-                    <a target="_blank" href="mba/admissions/MS Business Analytics - Fall Admissions 2021.pdf" title="Download Brochure" class="rmv btn-primary">Download Brochure</a>
+                    <a target="_blank" href="mba/admissions/MSBA KSBL Spring 2022 admissions.pdf" title="Download Brochure" class="rmv btn-primary">Download Brochure</a>
                     <a target="_blank" href="http://admissions.colaraz.com/signup?institute=ksbledu" target="_blank" title="Apply Now" class="rmv btn-primary">Apply Now</a>
                 </div>
             </div>
