@@ -56,7 +56,7 @@ include('../partials/head.php');
                 <div class="right-side">
                     <h2>KSBL BS IT&S Program</h2>
                     <div class="detail">
-                        <p>KSBL BS-IT&S offers 4-years rigorous training to develop technical expertise and mindset of delivering IT as a service so the organization and its employees can respond to changing business environments. Our BS degree in IT and Systems not only prepares students to understand the business problems behind software design, it also equips them with the aptitude to develop innovative ways to manage data. The program will enable young minds to understand information systems holistically and how it incorporates the technology, people and processes involved with information. </p>
+                        <p>BS-IT&S offers 4-years rigorous training to develop technical expertise and mindset of delivering IT as a service so the organization and its employees can respond to changing business environments. Our BS degree in IT and Systems not only prepares students to understand the business problems behind software design, it also equips them with the aptitude to develop innovative ways to manage data. The program will enable young minds to understand information systems holistically and how it incorporates the technology, people and processes involved with information. </p>
                     </div>
                 </div>
             </div>
