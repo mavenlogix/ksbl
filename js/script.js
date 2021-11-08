@@ -14,8 +14,10 @@
         };
 
         function video_width() {
-            if ($(window).width() > 767) {
+            if ($(window).width() > 1024) {
                 $('#myvideo source').attr('src', $('#myvideo source').attr('data-desktop'));
+            }  else if($(window).width() > 580) {
+                $('#myvideo source').attr('src', $('#myvideo source').attr('data-ipad'));
             } else {
                 $('#myvideo source').attr('src', $('#myvideo source').attr('data-mobile'));
             }
