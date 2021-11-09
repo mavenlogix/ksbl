@@ -28,7 +28,7 @@ include('../partials/navbar.php');
                 <a href="blog/category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
                 <div class="center-page-content news-and-events container-boxes">
                     <div class="blog-header">
-                        <img src="images/blog/far_2885.jpeg" alt="Blog other">
+                        <img src="images/blog/far_2916.jpeg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">EVENTS</div>
                             <h2>Alumni Homecoming 2021</h2>
