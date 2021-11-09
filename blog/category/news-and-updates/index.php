@@ -41,7 +41,7 @@ include('../../../partials/navbar.php');
 
                 <a href="blog/Alumni_Homecoming_2021.php" class="latest-news-event half-wrap  ">
                         <div class="image-area">
-                            <img src="images/blog/far_2916.jpeg" alt="Data Science">
+                            <img src="images/blog/far_2916.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
                             <div class="tag">Events</div>

@@ -28,7 +28,7 @@ include('../partials/navbar.php');
                 <a href="blog/category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
                 <div class="center-page-content news-and-events container-boxes">
                     <div class="blog-header">
-                        <img src="images/blog/far_2916.jpeg" alt="Blog other">
+                        <img src="images/blog/far_2916.jpg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">EVENTS</div>
                             <h2>Alumni Homecoming 2021</h2>
@@ -44,62 +44,62 @@ include('../partials/navbar.php');
                     <div class="other-pictures">
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_2885.jpeg" alt="Data Science">
+                                <img src="images/blog/far_2885.jpg" alt="Data Science">
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_2916.jpeg" alt="Blog other">
+                                <img src="images/blog/far_2916.jpg" alt="Blog other">
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_2905.jpeg" alt="Blog other">
+                                <img src="images/blog/far_2905.jpg" alt="Blog other">
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_2980.jpeg" alt="Blog other">
+                                <img src="images/blog/far_2980.jpg" alt="Blog other">
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_2991.jpeg" alt="Blog other">
+                                <img src="images/blog/far_2991.jpg" alt="Blog other">
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_2988.jpeg" alt="Blog other">
+                                <img src="images/blog/far_2988.jpg" alt="Blog other">
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_3050.jpeg" alt="Blog other">
+                                <img src="images/blog/far_3050.jpg" alt="Blog other">
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_3056.jpeg" alt="Blog other">
+                                <img src="images/blog/far_3056.jpg" alt="Blog other">
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_3068.jpeg" alt="Blog other">
+                                <img src="images/blog/far_3068.jpg" alt="Blog other">
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_3076.jpeg" alt="Blog other">
+                                <img src="images/blog/far_3076.jpg" alt="Blog other">
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_3084.jpeg" alt="Blog other">
+                                <img src="images/blog/far_3084.jpg" alt="Blog other">
                             </div>
                         </div>
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/far_3206.jpeg" alt="Blog other">
+                                <img src="images/blog/far_3206.jpg" alt="Blog other">
                             </div>
                         </div>
                      
