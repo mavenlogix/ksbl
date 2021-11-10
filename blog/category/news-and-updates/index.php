@@ -44,7 +44,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/circular_plastic_institute.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events</div>
+                            <div class="tag">NEWS</div>
                             <div class="other-details">
                                 <div class="detail">Engro Polymer & Chemicals signed a Memorandum of Understanding (MoU) to establish a Circular Plastics Institute</div>
                                 <div class="date">Monday, November , 1st, 2021</div>

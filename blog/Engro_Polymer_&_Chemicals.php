@@ -30,7 +30,7 @@ include('../partials/navbar.php');
                     <div class="blog-header">
                         <img src="images/blog/circular_plastic_institute.jpg" alt="Blog other">
                         <div class="blog-name">
-                            <div class="tag">EVENTS</div>
+                            <div class="tag">NEWS</div>
                             <h2>Engro Polymer & Chemicals signed a Memorandum of Understanding (MoU) to establish a Circular Plastics Institute</h2>
                             <div class="post-date">Monday, November , 1st, 2021</div>
                         </div>
