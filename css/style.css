@@ -73,6 +73,16 @@ img {
     visibility: hidden;
 }
 
+.anchorLinkAdm {
+    position: absolute;
+    top: 0;
+    height: calc(100% - 190px);
+    left: 0;
+    width: 100%;
+    z-index: 34;
+    opacity: 0;
+}
+
 @media (max-width:1257px) {
     .container {
         width: 1140px;
@@ -105,6 +115,10 @@ img {
     .container {
         width: 540px;
         max-width: 100%;
+    }
+
+    .anchorLinkAdm {
+        height: 100%;
     }
 }
 
@@ -786,8 +800,11 @@ h1 {
     background: rgba(0, 0, 0, .5);
 }
 
-.ksbl-programs-wrap h2.homeHeading/*,
-.home h2.homeHeading*/ {
+.ksbl-programs-wrap h2.homeHeading
+
+/*,
+.home h2.homeHeading*/
+    {
     font-weight: normal;
     text-align: center;
     text-transform: uppercase;
@@ -800,10 +817,10 @@ h1 {
 }
 
 .home h2.homeHeading {
-    
+
     color: #fff;
     text-shadow: none;
-    
+
 }
 
 .ksbl-program {
@@ -3586,15 +3603,7 @@ button.playBtnVid:focus {
     transform: translate(-85%, -75%);
 }*/
 
-.anchorLinkAdm{
-    position: absolute;
-    top: 0;
-    height: 100%;
-    left: 0;
-    width: 100%;
-    z-index: 34;
-    opacity: 0;
-}
+
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
