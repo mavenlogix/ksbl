@@ -42,22 +42,7 @@ include('../partials/navbar.php');
                         <p>
                         The Circular Plastic Institute at KSBL will serve as a research arm working at the crossroads of plastics R&D, practical experimentation, and public policy advocacy, bringing together stakeholders from the plastics and related sectors.
                         </p>
-                        <p>
-                            #KSBL <br>
-                            #KSBLAtExpo <a href="https://www.linkedin.com/feed/hashtag/?keywords=engro&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860965798983421954" target="_blank">#Engro</a>
-                            <a href="https://www.linkedin.com/feed/hashtag/?keywords=engroatexpo&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860965798983421954" target="_blank">#EngroAtExpo</a>
-                            <a href="https://www.linkedin.com/feed/hashtag/?keywords=expo2020dubai&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860965798983421954" target="_blank">#Expo2020Dubai</a>
-                            <a href="https://www.linkedin.com/feed/hashtag/?keywords=pakistanexpo2020&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860965798983421954" target="_blank">#PakistanExpo2020</a>
-                            <a href="https://www.linkedin.com/feed/hashtag/?keywords=pakistanpavilion&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860965798983421954" target="_blank">#PakistanPavilion</a>
-                            <a href="https://www.linkedin.com/feed/hashtag/?keywords=expo2020&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860965798983421954" target="_blank">#Expo2020</a>
-                            <a href="https://www.linkedin.com/feed/hashtag/?keywords=dubai&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860965798983421954" target="_blank">#Dubai</a>
-                            <a href="https://www.linkedin.com/feed/hashtag/?keywords=sponsorship&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860965798983421954" target="_blank">#Sponsorship</a>
-                            <a href="https://www.linkedin.com/feed/hashtag/?keywords=empoweringpakistan&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860965798983421954" target="_blank">#EmpoweringPakistan</a>
-                                                      
-                        </p>
-                        <p>
-                        (Standing from left) Mr. Aijaz Haq, Chief of Staff KSBL, Mr. Mohsin Iqbal, Manager EPCL, Mr. Mubashar Hameed, Rector & CEO KSBL, Mr. Hussain Dawood, Founder & Chairman KSBL, Chairman Engro Corporation & Chairman Dawood Hercules Corporation, Mr. Jahangir Piracha, CEO EPCL, Mr. Fahd Khawaja, Chief Commercial Officer EPCL, Mr. Syed Saad Shah EPCL.
-                        </p>
+
                     </div>
                     <!-----------------------------------------------------------------#
 							#                       Other Pictures                             #
