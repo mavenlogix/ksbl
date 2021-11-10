@@ -38,10 +38,10 @@ include('./partials/head.php');
             ?>
             <!-- navbar-end -->
 
-            <a href="index.php" title="KSBL" class="logo " style="height: 0;">
+            <a href="index.php" title="KSBL" class="logo height-0" >
                 <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
                 <!-- <h1 class="d-block d-md-none mt-n1">Where leaders take flight...</h1> -->
-               ssssssss
+               
             </a>
         </div><!-- container -->
         <div class="header-bottom">

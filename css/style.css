@@ -83,6 +83,10 @@ img {
     opacity: 0;
 }
 
+
+.height-0{
+    height: 0;
+}
 @media (max-width:1257px) {
     .container {
         width: 1140px;
