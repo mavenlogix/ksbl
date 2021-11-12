@@ -114,9 +114,9 @@ include('../partials/navbar.php');
 	#----------------------------------------------------------------->
     <div class="open-house-section  new-open-houese ees-container">
         <br><br><br>
-        <h3 class="title">Upcoming Programs</h3>
+        <h3 class="title">Programs are being planned and will be announced soon.</h3>
         <div class="container">
-            <div class="upcoming-programs">
+            <!-- <div class="upcoming-programs">
                 <div class="event-detail">
                     <div class="event-date">
                         <div class="current-month">
@@ -132,8 +132,8 @@ include('../partials/navbar.php');
                         <span>Dr. Tariq Basheer</span>
                     </div>
                 </div>
-            </div>
-            <div class="upcoming-programs">
+            </div> -->
+            <!-- <div class="upcoming-programs">
                 <div class="event-detail">
                     <div class="event-date">
                         <div class="current-month">
@@ -149,10 +149,10 @@ include('../partials/navbar.php');
                         <span>Dr. Nadeem Javaid</span>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="contact-committee">
-                <span>Since pre-program reading is required, it is advised to send registration(s) at least 10 working days prior to the program.</span>
-                <h2>Contact our Executive Education Team</h2>
+                <!-- <span>Since pre-program reading is required, it is advised to send registration(s) at least 10 working days prior to the program.</span> -->
+                <h2>For more information, please contact our Executive Education Team</h2>
                 <a href="mailto:execed@ksbl.edu.pk">execed@ksbl.edu.pk</a>
                 <a href="tel:00922134855382">PABX: +923028222016, +92(21) 38771999, Ext 716</a>
                 <a href="contact-us.php" title="Contact Us">Contact</a>
