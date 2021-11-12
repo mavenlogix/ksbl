@@ -283,11 +283,11 @@ include('./partials/head.php');
                         <img style="height: 375px !important; " src="images/info-staff-student-high.jpg" alt="Covid-19" />
                     </div>
                     <div class="news-event-detail">
-                        <div class="tag red">COVID-19</div>
+                        <!-- <div class="tag red">COVID-19</div> -->
                         <div class="other-details">
                             <br>
-                            <h3>In the interest of safety & caution</h3>
-                            <div class="detail">KSBL will remain closed for visitors amid COVID'19 outbreak, until further notice. Pending further notice, the scheduled classes will be conducted as planned via online mediums.</div>
+                            <h3>In the interest of safety and caution,</h3>
+                            <div class="detail">Covid 19 prevention protocols are in place at our campus. If you wish to visit our campus, please make sure you are vaccinated and wearing a mask.</div>
                         </div>
                         <div class="powered-by">Sindh Government's directives</div>
                     </div>
@@ -385,8 +385,8 @@ include('./partials/head.php');
 
     <div class="about-campus" >
         <img src="images/camera-high.png" width="62" alt="camera" data-toggle="modal" data-target="#videoModal" onclick="vidPlay()"/>
-        <div class="campus-info">While our campus remains closed during COVID'19 lockdown, here is your chance to explore our campus <strong>virtually</strong>!</div>
-        <div class="virtual-visit "> <a href="campus.php" class="text-white" title="Explore our campus virtually">Explore our campus!  </a></div>
+        <div class="campus-info">Here is a chance to explore our campus virtually!</div>
+        <div class="virtual-visit "> <a href="campus.php" class="text-white" title="Explore our campus virtually">Explore our campus  </a></div>
 
     </div>
 </div>
