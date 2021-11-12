@@ -241,7 +241,7 @@
                 if ($(window).width() > 576) {
                     setTimeout(function() {
                         //alert(1);
-                        $('.container-boxes .latest-news-event.big-wrap > div').height($('.container-boxes .latest-news-event.big-wrap').height());
+                        //$('.container-boxes .latest-news-event.big-wrap > div').height($('.container-boxes .latest-news-event.big-wrap').height());
                         $('.upcoming-covid-19 .half-wrap .image-area img').css('min-height', $('.upcoming-covid-19 .half-wrap').height());
                         var section_height = $('.upcoming.owl-carousel').height();
                         $('.upcoming.owl-carousel .owl-item').each(function() {

@@ -242,9 +242,9 @@ include('./partials/head.php');
 									</div> -->
                 <a href="javascript:void(0)" class="latest-news-event big-wrap">
                     <!--blog/ksbl_appoints_mubashar.html-->
-                    <div class="image-area"> <img src="images/mubasher-hameed-high.jpg" alt="Mubasher Hameed" />
+                    <div class="image-area  h-100"> <img src="images/mubasher-hameed-high.jpg" alt="Mubasher Hameed" />
                     </div>
-                    <div class="news-event-detail">
+                    <div class="news-event-detail h-100">
                         <div class="tag">Rector's MESSAGE</div>
                         <div class="other-details">
                             <!--<h3>Rector, Mubashar Hameed's Message for Students</h3>-->
@@ -279,14 +279,14 @@ include('./partials/head.php');
                     <a class="default-btn apply-now last" href="bs-its">More</a>
                 </div>
                 <a class="latest-news-event half-wrap last-covid">
-                    <div class="image-area">
-                        <img style="height: 375px !important; " src="images/info-staff-student-high.jpg" alt="Covid-19" />
+                    <div class="image-area ">
+                        <img src="images/info-staff-student-high.jpg" alt="Covid-19" />
                     </div>
                     <div class="news-event-detail">
-                        <!-- <div class="tag red">COVID-19</div> -->
+                        <div class="tag red mb-3">COVID-19</div>
                         <div class="other-details">
-                            <br>
-                            <h3>In the interest of safety and caution,</h3>
+                           
+                            <h3>In the interest of safety & caution</h3>
                             <div class="detail">Covid 19 prevention protocols are in place at our campus. If you wish to visit our campus, please make sure you are vaccinated and wearing a mask.</div>
                         </div>
                         <div class="powered-by">Sindh Government's directives</div>
