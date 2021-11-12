@@ -76,7 +76,7 @@ include('../../partials/navbar.php');
                 <h2>Custom Programs</h2>
                 <div class="detail">
                     <p>Our Custom Programs focus on a broader range of skills that enable professionals at all levels to transit to the next stage in their career or business. All business problems might appear the same yet call for individualistic diagnosis and processes to learn and master. The custom programs are offered separately for individuals, organizations and groups and unique to the needs of an individual or organization.</p>
-                    <p>Our Custom Programs focus on a broader range of skills that enable professionals at all levels to transit to the next stage in their career or business. All business problems might appear the same yet call for individualistic diagnosis and processes to learn and master. The custom programs are offered separately for individuals, organizations and groups and unique to the needs of an individual or organization.</p>
+                    <p>With extensive research on change in leadership behavior, specializing in the ability to break silos and foster relationships, our bespoke programs are centered around customer needs and sensitivity to an organization's culture. The truly transformational nature of our programs, stemming from both a pre-program learning assessment and post-program follow-ups, makes them a high-impact offering in the market.</p>
                 </div>
             </div>
             <div class="left-side">
