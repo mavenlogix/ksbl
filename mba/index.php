@@ -209,8 +209,8 @@ include('../partials/navbar.php');
                     <span class="box-num">1</span>
                     <h3>Semester I</h3>
                     <ul>
-                        <li>Information Governance & Security</li>
-                        <li>Marketing Strategy</li>
+                        <li>Information System Strategy and Governance</li>
+                        <li>Programming for Data Science</li>
                         <li>Organizational Behaviour & HRM Practices</li>
                         <li>Macroeconomics and Global Economy</li>
                     </ul>
@@ -219,7 +219,7 @@ include('../partials/navbar.php');
                     <span class="box-num">2</span>
                     <h3>Semester II</h3>
                     <ul>
-                        <li>Islamic Finance</li>
+                        <li>Business Strategy</li>
                         <li>Elective I</li>
                         <li>Elective II</li>
                         <li>Elective III</li>
@@ -229,7 +229,8 @@ include('../partials/navbar.php');
                     <span class="box-num">3</span>
                     <h3>Semester III</h3>
                     <ul>
-                        <li>Capstone Project</li>
+                        <li>Islamic Finance</li>
+                        <li>Capstone Project I</li>
                     </ul>
                 </div>
             </div>
@@ -275,17 +276,18 @@ include('../partials/navbar.php');
                     <h3>Semester III</h3>
                     <ul>
                         <li>Information Governance & Security</li>
-                        <li>Marketing Strategy</li>
-                        <li>Organizational Behaviour & HRM Practices</li>
+                        <li>Programming for Data Science</li>
+                        <li>Organizational Behaviour & HRM</li>
                         <li>Macroeconomics and Global Economy</li>
-                        <li>Elective I</li>
+                        <li>Islamic Finance</li>
                     </ul>
                 </div>
                 <div class="foundation-box">
                     <span class="box-num">4</span>
                     <h3>Semester IV</h3>
                     <ul>
-                        <li>Islamic Finance</li>
+                        <li>Business Strategy</li>
+                        <li>Elective I</li>
                         <li>Elective II</li>
                         <li>Elective III</li>
                         <li>Capstone Project</li>
