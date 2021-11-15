@@ -106,13 +106,13 @@ include('../partials/head.php');
                 <div class="mebaSecOneBoxThree boxMeba">
                     <h4>COURSES</h4>
                     <ul>
+
+                        <li>Consumer Behaviour</li>
                         <li>Intro to Digital Marketing</li>
-                        <li>Consumer Behavior</li>
                         <li>Integrated Marketing Communications</li>
-                        <li>Sales Management</li>
                         <li>Foundations of Marketing Analytics</li>
-                        <li>Product & Pricing Strategies</li>
-                        <li>Industrial Marketing</li>
+                        <li>Sales Management</li>
+
                     </ul>
                 </div>
                 <div class="mebaSecOneBoxFour boxMeba">
@@ -138,12 +138,10 @@ include('../partials/head.php');
                 <div class="mebaSecOneBoxThree boxMeba">
                     <h4>COURSES</h4>
                     <ul>
-                        <li>International Finance</li>
-                        <li>Banking and Financial Services</li>
-                        <li>Financial Data Analysis and modelling using Excel</li>
-                        <li>Capital Markets</li>
-                        <li>Portfolio Management </li>
+                        <li>Portfolio Management</li>
                         <li>Derivatives and Hedging</li>
+                        <li>International Finance</li>
+                        <li>Financial Data Analysis and modelling using Excel</li>
                         <li>Security Valuation</li>
                     </ul>
                 </div>
@@ -169,13 +167,11 @@ include('../partials/head.php');
                 <div class="mebaSecOneBoxThree boxMeba">
                     <h4>COURSES</h4>
                     <ul>
-                        <li>Learning & Organizational Development</li>
-                        <li>Building High Performance Teams</li>
-                        <li>Performance & Reward Management</li>
-                        <li>Bidding Negotiations for Success </li>
-                        <li>People Resourcing</li>
                         <li>Multiple Perspectives in Leadership</li>
+                        <li>Bidding Negotiations for Success</li>
+                        <li>People Resourcing</li>
                         <li>Power, Politics & Networks</li>
+                        <li>Performance & Reward Management</li>
                     </ul>
                 </div>
                 <div class="mebaSecOneBoxFour boxMeba">
