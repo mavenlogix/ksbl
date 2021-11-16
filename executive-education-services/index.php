@@ -75,7 +75,8 @@ include('../partials/navbar.php');
                 <h2>Changing the Way Executives are Trained</h2>
                 <div class="detail">
                     <p>Mastery for executives and decision-makers rests in the knowledge they hold, the power to communicate and a detailed yet overarching understanding of the business at hand. Our executive education programs prepare and train for all-embracing components at play.
-                        <p>Executive Education at KSBL encourages and supports intellectual leadership and ongoing innovation across all major disciplines of business education. With the ambition of being the most cutting-edge executive education center in the region, we prepare professionals for the next stage in their career. It is through our deep learning that we understand the expectations of the industry, helping us to tailor our learning interventions, keeping the professionals knowledge and skill sets absolutely market-relevant.</p>
+                        <p>Executive Education at KSBL encourages and supports intellectual leadership and ongoing innovation across all major disciplines of business education. With the ambition of being the most cutting-edge executive education center in the region, we prepare professionals for the next stage in their career. It is through our deep learning that we understand the expectations of the industry, helping us to tailor our learning interventions, keeping the professionals' knowledge and skillsets absolutely market relevant.
+                            </p>
                     </p>
                 </div>
             </div>
@@ -95,7 +96,7 @@ include('../partials/navbar.php');
             <div class="right-side">
                 <h2>KSBL Executive Education Program Areas</h2>
                 <div class="detail">
-                    <p>KSBL Open enrollment and customized programs are offered in the following 6 broad areas. You may get in touch with us at execed@ksbl.edu.pk to find out more and discuss your particular personal or organizational need and know about the myriad of learning options as per your needs.
+                    <p>KSBL Open enrollment and customized programs are offered in the following 6 broad areas. You may get in touch with us at execed@ksbl.edu.pk to find out more and discuss your personal or organizational needs and know about the myriad of learning options as per your needs.
                         <br><strong>Strategy
                             <br>Leadership
                             <br>Personal Development
