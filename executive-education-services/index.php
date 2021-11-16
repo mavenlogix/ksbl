@@ -96,7 +96,7 @@ include('../partials/navbar.php');
             <div class="right-side">
                 <h2>KSBL Executive Education Program Areas</h2>
                 <div class="detail">
-                    <p>KSBL Open enrollment and customized programs are offered in the following 6 broad areas. You may get in touch with us at execed@ksbl.edu.pk to find out more and discuss your personal or organizational needs and know about the myriad of learning options as per your needs.
+                    <p>KSBL Open enrollment and customized programs are offered in the following 6 broad areas. You may get in touch with us at <a href="mailto:execed@ksbl.edu.pk">execed@ksbl.edu.pk</a> to find out more and discuss your personal or organizational needs and know about the myriad of learning options as per your needs.
                         <br><strong>Strategy
                             <br>Leadership
                             <br>Personal Development
