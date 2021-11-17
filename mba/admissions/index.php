@@ -175,7 +175,7 @@ include('../../partials/navbar.php');
                                 <div class="sec-col heading"><strong>Test start date:</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong>November 8, 2021 (ongoing basis)</strong>
+                                        <strong> Monday, November 22, 2021</strong>
                                     </ul>
                                 </div>
                             </div>
@@ -187,8 +187,16 @@ include('../../partials/navbar.php');
                                     </ul>
                                 </div>
                             </div>
-
-                       
+                              <div class="sec-row">
+                                <div class="sec-col heading"><strong>Early Bird Offer:</strong></div>
+                                <div class="sec-col">
+                                    <ul class="list-unstyled">
+                                        <li><strong>20% fee waiver -  Until December 15, 2021</strong></li>
+                                          <li><strong>10% fee waiver -  December 16 – 31, 2021</strong></li>
+                                    </ul>
+                                </div>
+                            </div>
+                         
 
                             <div class="sec-row">
                             *Please email KSBL Admissions for KUAT and KMAT Dates: admissions@ksbl.edu.pk
