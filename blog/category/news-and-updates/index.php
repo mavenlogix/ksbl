@@ -43,7 +43,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/fall_2021_batch_image6.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">NEWS</div>
+                            <div class="tag">Events</div>
                             <div class="other-details">
                                 <div class="detail">Fall 2021 Batch gets together on campus for a fun evening</div>
                                 <div class="date">Saturday, November, 13th, 2021</div>
