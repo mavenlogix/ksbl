@@ -40,7 +40,7 @@ include('../../../partials/navbar.php');
                
                 <a href="blog/fall_2021_batch_gets_together.php" class="latest-news-event half-wrap  ">
                         <div class="image-area">
-                            <img src="images/blog/fall_2021_batch_image1.jpg" alt="Data Science">
+                            <img src="images/blog/fall_2021_batch_image6.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
                             <div class="tag">NEWS</div>
