@@ -37,7 +37,7 @@ include('../partials/navbar.php');
                     </div>
                     <div class="blog-detail">
                         <p>
-                        KSBL and iQualify UK signed a Memorandum of Understanding (MOU) on November 17th, 2021, for a training program on “Performance Based Coaching” by Dr.Paul Dudley (Ph.D. in Strategic Decision Making at Cranfield University) for working professionals who seek to take their organizations & teams to the next level by optimizing individual and collective performance. 
+                        KSBL and iQualify UK signed a Memorandum of Understanding (MOU) on November 17th, 2021, for a training program on “Performance Based Coaching” by Dr.Paul Dudley <i>(Ph.D. in Strategic Decision Making at Cranfield University)</i> for working professionals who seek to take their organizations & teams to the next level by optimizing individual and collective performance. 
                         </p>
                    
 
