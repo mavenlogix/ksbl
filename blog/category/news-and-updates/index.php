@@ -38,6 +38,21 @@ include('../../../partials/navbar.php');
 					--->
                 <div class="center-page-content news-and-events container-boxes">
                
+
+                <a href="blog/ksbl_and_iQualify_uk_signed_MOU.php" class="latest-news-event half-wrap  ">
+                        <div class="image-area">
+                            <img src="images/blog/KSBL_&_iQualify.jpg" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">NEWS</div>
+                            <div class="other-details">
+                                <div class="detail">KSBL and iQualify UK signed a Memorandum of Understanding (MOU)</div>
+                                <div class="date">Wednesday, November , 17th, 2021</div>
+                            </div>
+                        </div>
+                    </a>
+
+
                 <a href="blog/fall_2021_batch_gets_together.php" class="latest-news-event half-wrap  ">
                         <div class="image-area">
                             <img src="images/blog/fall_2021_batch_image6.jpg" alt="Data Science">
