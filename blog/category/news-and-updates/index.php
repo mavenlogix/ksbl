@@ -52,6 +52,19 @@ include('../../../partials/navbar.php');
                         </div>
                     </a>
 
+                    <a href="blog/mubashar_hameed_talks.php" class="latest-news-event half-wrap  ">
+                        <div class="image-area">
+                            <img src="images/blog/Mubashar_Hameed_talks4.jpg" alt="Mubashar Hameed talks">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events</div>
+                            <div class="other-details">
+                                <div class="detail">Mr. Mubashar Hameed talks to incoming batch of Undergraduate students on Leadership</div>
+                                <div class="date">Monday, October, 25th, 2021</div>
+                            </div>
+                        </div>
+                    </a>
+
                 <a href="blog/Alumni_Homecoming_2021.php" class="latest-news-event half-wrap  ">
                         <div class="image-area">
                             <img src="images/blog/far_2916.jpg" alt="Data Science">
