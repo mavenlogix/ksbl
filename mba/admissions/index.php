@@ -185,7 +185,7 @@ include('../../partials/navbar.php');
                                 <div class="sec-col heading"><strong>Test start date:</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong> Monday, November 22, 2021</strong>
+                                        <strong> Monday, November 22, 2021 (Ongoing)</strong>
                                     </ul>
                                 </div>
                             </div>
