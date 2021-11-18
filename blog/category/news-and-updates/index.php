@@ -37,7 +37,19 @@ include('../../../partials/navbar.php');
 
 					--->
                 <div class="center-page-content news-and-events container-boxes">
-                
+               
+                <a href="blog/fall_2021_batch_gets_together.php" class="latest-news-event half-wrap  ">
+                        <div class="image-area">
+                            <img src="images/blog/fall_2021_batch_image1.jpg" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">NEWS</div>
+                            <div class="other-details">
+                                <div class="detail">Fall 2021 Batch gets together on campus for a fun evening</div>
+                                <div class="date">Saturday, November, 13th, 2021</div>
+                            </div>
+                        </div>
+                    </a>
 
                 <a href="blog/Engro_Polymer_&_Chemicals.php" class="latest-news-event half-wrap  ">
                         <div class="image-area">
