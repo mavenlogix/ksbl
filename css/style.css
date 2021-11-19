@@ -64,7 +64,8 @@ img {
 .container-boxes .big-wrap:hover {
     box-shadow: 2px 0px 15px rgba(0, 0, 0, .3);
 }
-
+.admission-process .tab-content .admissionProcess_ul li::before{ content: normal; }
+.admission-process .tab-content .admissionProcess_ul li{ padding-left: unset; }
 .container-boxes .half-wrap.last-covid:hover {
     box-shadow: none;
 }

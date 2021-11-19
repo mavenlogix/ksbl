@@ -174,9 +174,9 @@ include('../../partials/navbar.php');
                              <div class="sec-row">
                                 <div class="sec-col heading"><strong>Early Bird Offer:</strong></div>
                                 <div class="sec-col">
-                                    <ul>
-                                        <strong>20% fee waiver -  Until December 15, 2021</strong>  <br>
-                                        <strong>10% fee waiver -  December 16 – 31, 2021</strong>
+                                    <ul class="admissionProcess_ul">
+                                        <li>20% fee waiver -  Until December 15, 2021</li> 
+                                        <li>10% fee waiver -  December 16 – 31, 2021</li>
                                     </ul>
                                 </div>
                             </div>
