@@ -75,8 +75,8 @@ include('../partials/navbar.php');
                                             <p>
                                             Preference will be given to candidates laid off due to COVID pandemic.
                                             </p>
-                                            Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
-                                            Deadline to apply: 25th November, 2021<br>
+                                            Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a> <br>
+                                            Deadline to apply: 25th November, 2021
                                         </p>
                                     </div>
                                 </div>
