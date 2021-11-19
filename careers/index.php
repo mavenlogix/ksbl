@@ -31,6 +31,69 @@ include('../partials/navbar.php');
                 <div class="open-house-tabs">
 
 
+                <!-- === Assistant Manager Finance === -->
+                    <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Assistant Manager Finance</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                    To assist with administrative and financial tasks, including Audits, Payrolls, Financial Statements, and other major tasks. 
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        <h3>Major Responsibilities:</h3>
+                                       <ul>
+                                          <li>Assist in closing the financial books on a monthly basis </li>
+                                           <li>Draft financial statements therefrom </li>                                    
+                                           <li>Assist in managing audits and internal audits</li>
+                                           <li>Initiate and supervise correct processing of payroll and posting of all entries on a monthly basis</li>
+                                           <li>Assist in resolving some legacy issues</li>
+                                           <li>Assist Finance Manager in controls and for SOPs</li>
+                                           <li>Assist in disposing queries and workings with supporting documents for FBR, SRB</li>
+                                           <li>Assist in submitting returns for FBR and SRB</li>
+                                           <li>Lead and supervise the two finance resources for payments and revenues streams, financial aid, journal entries and banking protocols</li>
+                                           <li>Ensure proper accounting records be kept physically for easy retrieval on requirement</li>
+
+                                       </ul>
+                                        <br>
+                                       
+                                        <h3>Requirements:</h3>
+                                        <ul>
+                                            <li>ACCA qualified/ Part ACCA qualified or Part Qualified CA.</li>
+                                            <li>At least 4 years relevant industry experience</li>
+                                            <li>Working level exposure to an ERP to be an added advantage</li>
+                                        </ul>
+                                        <br>
+                                        <h3>Competencies Required:</h3>
+                                        <ul>
+                                           <li>Good interpersonal skills</li>
+                                           <li>Team player</li>
+                                           <li>Demonstrated ability to work under pressure</li>
+                                        </ul>
+                                        <p>
+                                            <p>
+                                            Preference will be given to candidates laid off due to COVID pandemic.
+                                            </p>
+                                            Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                            Deadline to apply: 25th November, 2021<br>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- === END Assistant Manager Finance=== -->
+
                      <!-- === AM Career Services and Alumni Relations === -->
                     <div class="tab-section" style="margin-top: 20px;">
                         <div class="student-achievement">
