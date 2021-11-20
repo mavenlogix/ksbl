@@ -4,6 +4,10 @@
 
 require_once(__DIR__ . '/page_meta.php');
 require_once(__DIR__ . '/functions.php');
+require_once(__DIR__ . '/../system/file_catalog.php');
+
+$catalog = new File_Catalog();
+$catalog->scan();
 
 $metas = [];
 
