@@ -38,10 +38,11 @@ class File_Catalog
         if ($files) {
             $this->reset();
             foreach ($files as $file) {
-                $folder = trim($file->getPath(), '.' . DIRECTORY_SEPARATOR);
-                if ($file->getExtension() == 'php' && $folder == 'blog') {
+                $folder = str_replace(__DIR__, '', $file->getPath());
+                $folder = trim(substr($folder, strrpos($folder, DIRECTORY_SEPARATOR) + 1), '\. \\\/');
+                if ($folder == 'blog') {
+                    $this->add($file->getFilename());
                 }
-                $this->add($file->getFilename());
             }
             $this->save();
         }
@@ -87,7 +88,7 @@ class File_Catalog
     public function reset()
     {
         $this->json = array_filter($this->json, function ($file) {
-            return file_exists($this->dirpath . $file);
+            return file_exists($this->dirpath . '/' . $file);
         }, ARRAY_FILTER_USE_KEY);
     }
     public function save()
