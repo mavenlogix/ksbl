@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <?php 
 $page_meta_key = 'News-and-Events';
 include('../../../partials/head.php');
