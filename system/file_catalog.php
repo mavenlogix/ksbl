@@ -86,8 +86,10 @@ class File_Catalog
 
          $cookieName = $this->cookie_name;
          $cookieValue = base64_encode(array_key_last($this->json));
-         $path = "https://mavenology.site/";
+         // $path = stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/');
+         $path = "/";
 
+        // setcookie($cookieName, $cookieValue, strtotime('+6 months'), '', stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'));
      
          
  echo "<script>document.cookie = '".$cookieName.'='.$cookieValue.'; expires=Sat, 18 Dec 2021 12:00:00 UTC; path='.$path."'</script>";
