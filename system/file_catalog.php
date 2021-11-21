@@ -83,7 +83,7 @@ class File_Catalog
     }
     public function setcookie()
     {
-        setcookie($this->cookie_name, base64_encode(array_key_last($this->json)), strtotime('+6 months'), '', stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'));
+        setcookie($this->cookie_name, base64_encode(array_key_last($this->json)), time()+60*24*3600, "/", trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'), true, true);
     }
     public function reset()
     {
