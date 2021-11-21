@@ -1,6 +1,4 @@
-<?php
-setcookie("MyCookie", 'asdasd', time()+60*24*3600, "/", ".mavenology.site", true, true);
-?>
+
 <!DOCTYPE html>
 <html>
 
