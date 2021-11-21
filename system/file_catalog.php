@@ -59,8 +59,11 @@ class File_Catalog
             return false;
         }
 
-        $blog = $_SESSION[$this->cookie_name] ?? null;
+        $blog = $_COOKIE[$this->cookie_name] ?? null;
 
+        if ($blog) {
+            $blog = base64_decode($blog);
+        }
         if (!isset($this->json[$blog])) {
             $blog = null;
         }
@@ -80,7 +83,7 @@ class File_Catalog
     }
     public function setcookie()
     {
-        $_SESSION[$this->cookie_name] = array_key_last($this->json);
+        setcookie($this->cookie_name, base64_encode(array_key_last($this->json)), strtotime('+6 months'), '/');
     }
     public function reset()
     {
@@ -96,5 +99,4 @@ class File_Catalog
         }
         file_put_contents($this->filepath, json_encode($this->json));
     }
-    
 }
