@@ -9,6 +9,7 @@ class File_Catalog
     private $cookie_name = 'xcks_ksbledupkblog';
     public function __construct()
     {
+        session_start();
         if (file_exists($this->filepath)) {
             $json = file_get_contents($this->filepath);
             if ($json && !empty(trim($json))) {
@@ -59,11 +60,8 @@ class File_Catalog
             return false;
         }
 
-        $blog = $_COOKIE[$this->cookie_name] ?? null;
+        $blog = $_SESSION[$this->cookie_name] ?? null;
 
-        if ($blog) {
-            $blog = base64_decode($blog);
-        }
         if (!isset($this->json[$blog])) {
             $blog = null;
         }
@@ -83,7 +81,7 @@ class File_Catalog
     }
     public function setcookie()
     {
-        setcookie($this->cookie_name, base64_encode(array_key_last($this->json)), strtotime('+6 months'), '/');
+        $_SESSION[$this->cookie_name] = array_key_last($this->json);
     }
     public function reset()
     {
