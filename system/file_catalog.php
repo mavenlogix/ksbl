@@ -82,9 +82,11 @@ class File_Catalog
         return count($res) > 0;
     }
     public function setcookie()
-    {
+    { 
+          echo "<br>";
+
         setcookie($this->cookie_name, base64_encode(array_key_last($this->json)), strtotime('+6 months'), '', stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'));
-        
+
     }
     public function reset()
     {
