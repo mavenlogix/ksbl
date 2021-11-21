@@ -9,7 +9,6 @@ class File_Catalog
     private $cookie_name = 'xcks_ksbledupkblog';
     public function __construct()
     {
-        session_start();
         if (file_exists($this->filepath)) {
             $json = file_get_contents($this->filepath);
             if ($json && !empty(trim($json))) {
