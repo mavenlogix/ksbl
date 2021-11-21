@@ -91,7 +91,7 @@ class File_Catalog
         // setcookie($cookieName, $cookieValue, strtotime('+6 months'), '', stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'));
      
          
- echo "<script>document.cookie = '".$cookieName.'='.$cookieValue.'; expires=Sat, 18 Dec 2021 12:00:00 UTC; path='.$path."'</script>";
+ echo "<script>alert("Sss")</script>";
 
 
     }
