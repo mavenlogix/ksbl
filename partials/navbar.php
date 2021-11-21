@@ -63,7 +63,7 @@
                         <div class="main-menu heder-menu">
                             <ul>
                                 <li><a href="index.php" class="<?= is_active(['index.php', 'index']) ?>" title="Home">Home</a></li>
-                                <li><a href="blog/category/news-and-updates/" class="<?= is_active('blog/category/news-and-updates') ?>" title="News">News</a></li>
+                                <li class="position-relative"><a href="blog/category/news-and-updates/" class="<?= is_active('blog/category/news-and-updates') ?> " title="News">News<span class="badge">new</span></a></li>
                                 <li><a href="alumni/success-stories.php" class="<?= is_active('alumni/success-stories.php') ?>" title="Alumni">Alumni</a></li>
                                 <li><a href="future-of-work.php" class="<?= is_active('future-of-work.php') ?>" title="Future of Work">Future of Work</a></li>
                             </ul>

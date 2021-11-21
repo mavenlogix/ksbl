@@ -64,8 +64,15 @@ img {
 .container-boxes .big-wrap:hover {
     box-shadow: 2px 0px 15px rgba(0, 0, 0, .3);
 }
-.admission-process .tab-content .admissionProcess_ul li::before{ content: normal; }
-.admission-process .tab-content .admissionProcess_ul li{ padding-left: unset; }
+
+.admission-process .tab-content .admissionProcess_ul li::before {
+    content: normal;
+}
+
+.admission-process .tab-content .admissionProcess_ul li {
+    padding-left: unset;
+}
+
 .container-boxes .half-wrap.last-covid:hover {
     box-shadow: none;
 }
@@ -85,9 +92,10 @@ img {
 }
 
 
-.height-0{
+.height-0 {
     height: 0;
 }
+
 @media (max-width:1257px) {
     .container {
         width: 1140px;
@@ -3608,23 +3616,54 @@ button.playBtnVid:focus {
     transform: translate(-85%, -75%);
 }*/
 
-.badge {
-  position: absolute;
-  top: -7px;
-  right: -2px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 5px;
-  background-color: red;
-  color: white;
-  font-weight: 100;
+#top-navigation .badge {
+    position: absolute;
+    top: -4.5px;
+    right: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+    padding: 0px 2px 0 1.7px;
+    line-height: 1.2;
+    background-color: red;
+    font-size: 10px;
+    color: white;
+    font-weight: 100;
     animation: blink 1.5s linear infinite;
 }
-@keyframes blink{
-0%{opacity: 0;}
-50%{opacity: .5;}
-100%{opacity: 1;}
+
+
+.main-navigation .badge {
+    position: absolute;
+    top: -4.8px;
+    font-size: 10px;
+    left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+  padding: 0px 2px 0 2px;
+    line-height: 1.2;
+    background-color: red;
+    font-family: MyriadPro-Regular;
+    color: white;
+    font-weight: 100;
+    animation: blink 1.5s linear infinite;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: .5;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 
