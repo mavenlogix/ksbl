@@ -1,5 +1,3 @@
-<head>
-
 <?php
 
 require_once(__DIR__ . '/page_meta.php');
@@ -31,6 +29,9 @@ if(isset($page_meta_key)){
  }
 define('SCRIPT_BASE', str_replace(['http://','https://'], '', $url)); 
 ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <base href="<?php echo $url ?>" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> <?= $metas['title'] ?> </title>
