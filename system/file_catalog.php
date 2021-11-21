@@ -97,4 +97,5 @@ class File_Catalog
         }
         file_put_contents($this->filepath, json_encode($this->json));
     }
+    
 }
