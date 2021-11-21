@@ -2,6 +2,7 @@
 
 <?php
 
+session_start();
 require_once(__DIR__ . '/page_meta.php');
 require_once(__DIR__ . '/functions.php');
 require_once(__DIR__ . '/../system/file_catalog.php');
@@ -30,7 +31,6 @@ if(isset($page_meta_key)){
     $url = $protocol.'mavenology.site/';
  }
 define('SCRIPT_BASE', str_replace(['http://','https://'], '', $url)); 
-header_remove()
 ?>
     <base href="<?php echo $url ?>" >
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
