@@ -83,9 +83,8 @@ class File_Catalog
     }
     public function setcookie()
     { 
-
-        echo '<script> document.cookie = "username= '.$this->cookie_name.'; expires=Sat, 18 Dec 2021 12:00:00 UTC";
-        </script>'
+ echo "<script>document.cookie = ". $this->cookie_name, base64_encode(array_key_last($this->json)."; expires=Sat, 18 Dec 2021 12:00:00 UTC; path=/;
+        </script>"
         
 
     }
