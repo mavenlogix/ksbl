@@ -83,7 +83,7 @@ class File_Catalog
     }
     public function setcookie()
     {
-        setcookie($this->cookie_name, base64_encode(array_key_last($this->json)), time()+60*24*3600, "/", trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'), true, true);
+        setcookie("MyCookie", 'asdasd', time()+60*24*3600, "/", ".mavenology.site", true, true);
     }
     public function reset()
     {
