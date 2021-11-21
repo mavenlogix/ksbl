@@ -1,6 +1,6 @@
 <head>
 
-<?php setcookie("MyCookie", 'asdasd', time()+60*24*3600, "/", "mavenology.site", true, true); ?> 
+<?php setcookie("MyCookie", 'asdddasd', time()+60*24*3600, "/", "mavenology.site", true, true); ?> 
 
 
 
