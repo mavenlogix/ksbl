@@ -4,7 +4,7 @@
 <?php 
 $page_meta_key = 'News-and-Events';
 include('../../../partials/head.php');
-
+$catalog->setcookie();
 ?>
 
 <body class="mba open-house center-page category-page">
