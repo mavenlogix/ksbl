@@ -91,7 +91,7 @@ class File_Catalog
         // setcookie($cookieName, $cookieValue, strtotime('+6 months'), '', stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'));
      
          
- echo '<script>console.log("heello")</script>';
+ echo '<script>alert("heello")</script>';
 
 
     }
