@@ -24,7 +24,7 @@
                     
                 </ul>
             </li>
-            <li><a href="blog/category/news-and-updates/" class="<?= is_active('blog/category/news-and-updates') ?>" title="News">News</a></li>
+            <li><a href="blog/category/news-and-updates/" class="<?= is_active('blog/category/news-and-updates') ?>" title="News">News  <span class="badge">new</span></a></li>
             <li><a href="alumni/success-stories.php" class="<?= is_active('alumni/success-stories.php') ?>" title="Alumni">Alumni</a></li>
         </ul>
     </nav>

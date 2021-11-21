@@ -3608,6 +3608,24 @@ button.playBtnVid:focus {
     transform: translate(-85%, -75%);
 }*/
 
+.badge {
+  position: absolute;
+  top: -7px;
+  right: -2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+  font-weight: 100;
+    animation: blink 1.5s linear infinite;
+}
+@keyframes blink{
+0%{opacity: 0;}
+50%{opacity: .5;}
+100%{opacity: 1;}
+}
 
 
 @media (min-width: 992px) and (max-width: 1199px) {
