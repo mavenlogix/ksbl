@@ -83,9 +83,11 @@ class File_Catalog
     }
     public function setcookie()
     { 
-          echo "<br>";
+         
+          echo "<script>document.cookie = ". $this->cookie_name."=" . base64_encode(array_key_last($this->json)."; expires=Sat, 18 Sat 2021 12:00:00 UTC; path=/;
+            </script>";
 
-        setcookie($this->cookie_name, base64_encode(array_key_last($this->json)), strtotime('+6 months'), '', stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'));
+       
 
     }
     public function reset()

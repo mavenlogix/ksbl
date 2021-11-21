@@ -34,6 +34,6 @@
         }
     }
 
-document.cookie = "username=John Doe; expires=Thu, 18 Sat 2021 12:00:00 UTC";
+
  
 </script>
