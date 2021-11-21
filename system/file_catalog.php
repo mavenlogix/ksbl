@@ -86,7 +86,7 @@ class File_Catalog
 
          $cookieName = $this->cookie_name;
          $cookieValue = base64_encode(array_key_last($this->json));
-         $path = "https://mavenology.site";
+         $path = "https://mavenology.site/";
 
      
          
