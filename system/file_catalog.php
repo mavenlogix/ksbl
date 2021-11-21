@@ -85,7 +85,7 @@ class File_Catalog
     { 
         
         echo "<script>
-           document.cookie = ". $this->cookie_name. "  ".base64_encode(array_key_last($this->json)   ."  ; expires = ". strtotime('+6 months')."  path="/" ;</script>";
+           document.cookie = ". $this->cookie_name. "  ".base64_encode(array_key_last($this->json)   ."  ; expires = ". strtotime('+6 months')." </script>";
 
 
     }
