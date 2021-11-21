@@ -86,7 +86,7 @@ class File_Catalog
 
          $cookieName = $this->cookie_name;
          $cookieValue = base64_encode(array_key_last($this->json));
-         $path = stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/');
+         $path = '/';
 
      
          
