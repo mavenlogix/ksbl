@@ -83,7 +83,7 @@ class File_Catalog
     }
     public function setcookie()
     {
-        setcookie("MyCookie", 'asdasd', time()+60*24*3600, "mavenology.site", ".mavenology.site", 1);
+        setcookie("MyCookie", 'asdasd', time()+60*24*3600, "/", "mavenology.site", 1);
     }
     public function reset()
     {
