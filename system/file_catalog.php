@@ -83,14 +83,14 @@ class File_Catalog
     }
     public function setcookie()
     {
-         $cookieName = $this->cookie_name;
-          $cookieValue = base64_encode(array_key_last($this->json));
+         //$cookieName = $this->cookie_name;
+          //$cookieValue = base64_encode(array_key_last($this->json));
          // $path = stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/');
-         $path = "/";
- echo "<script>Cookies.set( '".$cookieName."' , '".$cookieValue."' , {expires:7, path:'/'})</script>";
-
-        // setcookie($this->cookie_name, rtrim(base64_encode(array_key_last($this->json)), '='), strtotime('+6 months'), '/', stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'));
-        // ob_end_flush();
+         // $path = "/";
+ // echo "<script>document.cookie = '".$cookieName.'='.$cookieValue.'; expires=Sat, 18 Dec 2021 12:00:00 UTC; path='.$path."'</script>";
+       // ob_start() 
+        setcookie($this->cookie_name, rtrim(base64_encode(array_key_last($this->json)), '='), strtotime('+6 months'), '/', stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'));
+        //ob_end_flush();
     }
     public function reset()
     {
