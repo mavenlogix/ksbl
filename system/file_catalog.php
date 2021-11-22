@@ -87,7 +87,7 @@ class File_Catalog
           $cookieValue = base64_encode(array_key_last($this->json));
          // $path = stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/');
          $path = "/";
- echo "<script>Cookies.set( '".$cookieName."' , '".$cookieValue."' , {expires:7, path:'".$path."'})</script>";
+ echo "<script>Cookies.set( '".$cookieName."' , '".$cookieValue."' , {expires:7, path:''})</script>";
 
         // setcookie($this->cookie_name, rtrim(base64_encode(array_key_last($this->json)), '='), strtotime('+6 months'), '/', stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'));
         // ob_end_flush();
