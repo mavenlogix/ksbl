@@ -91,6 +91,7 @@ class File_Catalog
         $this->json = array_filter($this->json, function ($file) {
             return file_exists($this->dirpath . '/' . $file);
         }, ARRAY_FILTER_USE_KEY);
+        
     }
     public function save()
     {
