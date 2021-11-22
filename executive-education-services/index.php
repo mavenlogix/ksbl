@@ -115,7 +115,7 @@ include('../partials/navbar.php');
 	#----------------------------------------------------------------->
     <div class="open-house-section  new-open-houese ees-container">
         <br><br><br>
-        <h3 class="title">For upcoming programs watch out for this space.</h3>
+        <h3 class="title">Stay tuned for our Program calendar</h3>
         <div class="container">
             <!-- <div class="upcoming-programs">
                 <div class="event-detail">
