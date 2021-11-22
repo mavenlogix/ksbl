@@ -88,7 +88,7 @@ class File_Catalog
          // $path = stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/');
          // $path = "/";
  // echo "<script>document.cookie = '".$cookieName.'='.$cookieValue.'; expires=Sat, 18 Dec 2021 12:00:00 UTC; path='.$path."'</script>";
-      
+      ob_start();
         setcookie($this->cookie_name, rtrim(base64_encode(array_key_last($this->json)), '='), strtotime('+6 months'), '/', stripos(SCRIPT_BASE, 'localhost') !== false ? 'localhost' : trim('.' . str_ireplace('www.', '', SCRIPT_BASE), '\\\/'));
         ob_end_flush();
     }
