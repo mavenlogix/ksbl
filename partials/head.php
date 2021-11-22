@@ -1,8 +1,5 @@
 <head>
 
-
-
-
 <?php
 
 require_once(__DIR__ . '/page_meta.php');
