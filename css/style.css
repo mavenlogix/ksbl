@@ -3626,7 +3626,7 @@ button.playBtnVid:focus {
   border-radius: 0;
     padding: 0px 2px 0 1.7px;
     line-height: 1.2;
-    background-color: red;
+    background-color: #db4157;
     font-size: 10px;
     color: white;
     font-weight: 100;
@@ -3645,7 +3645,7 @@ button.playBtnVid:focus {
     border-radius: 0;
   padding: 0px 2px 0 2px;
     line-height: 1.2;
-    background-color: red;
+    background-color:#db4157;
     font-family: MyriadPro-Regular;
     color: white;
     font-weight: 100;
