@@ -37,17 +37,17 @@ include('../../../partials/navbar.php');
 						</div>
 
 					--->
-                <div class="center-page-content news-and-events container-boxes">
-              <!--  #f4cccc -->
+                <div class="center-page-content news-and-events container-boxes" >
+              
 
-                <a href="blog/ksbl_and_iQualify_uk_signed_MOU.php" class="latest-news-event half-wrap  ">
+                <a href="blog/ksbl_and_iQualify_uk_signed_MOU.php" class="latest-news-event half-wrap  " style="background: #f4cccc ;">
                         <div class="image-area">
                             <img src="images/blog/KSBL_&_iQualify.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
                             <div class="tag">NEWS</div>
                             <div class="other-details">
-                                <div class="detail">KSBL and iQualify UK signed a Memorandum of Understanding (MOU)</div>
+                                <div class="detail" >KSBL and iQualify UK signed a Memorandum of Understanding (MOU)</div>
                                 <div class="date">Wednesday, November , 17th, 2021</div>
                             </div>
                         </div>
@@ -59,7 +59,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/fall_2021_batch_image6.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events</div>
+                            <div class="tag" style="background: #db4157 ;">Events</div>
                             <div class="other-details">
                                 <div class="detail">Fall 2021 Batch gets together on campus for a fun evening</div>
                                 <div class="date">Saturday, November, 13th, 2021</div>
@@ -72,7 +72,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/circular_plastic_institute.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">NEWS</div>
+                            <div class="tag position-relative" >NEWS<?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                             <div class="other-details">
                                 <div class="detail">Engro Polymer & Chemicals signed a Memorandum of Understanding (MoU) to establish a Circular Plastics Institute</div>
                                 <div class="date">Monday, November , 1st, 2021</div>

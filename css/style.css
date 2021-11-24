@@ -3652,6 +3652,24 @@ button.playBtnVid:focus {
   
 }
 
+.news-event-detail  .badge{
+    position: absolute;
+    top: 0px;
+    font-size: 10px;
+    right: 0;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0;
+  padding: 0px 2px 0 2px;
+    line-height: 1.2;
+    background-color:#db4157;
+    font-family: MyriadPro-Regular;
+    color: white;
+    font-weight: 100;
+  
+}
 @keyframes blink {
     0% {
         opacity: 0;
