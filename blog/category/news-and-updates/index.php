@@ -40,7 +40,7 @@ include('../../../partials/navbar.php');
                 <div class="center-page-content news-and-events container-boxes" >
               
 
-                <a href="blog/ksbl_and_iQualify_uk_signed_MOU.php" class="latest-news-event half-wrap  " style="background: #fff1f1 ;">
+                <a href="blog/ksbl_and_iQualify_uk_signed_MOU.php" class="latest-news-event half-wrap  " style="background: #f4dbdb ;">
                         <div class="image-area">
                             <img src="images/blog/KSBL_&_iQualify.jpg" alt="Data Science">
                         </div>
