@@ -68,22 +68,13 @@ include('../../../partials/navbar.php');
                     </a>
 
 
-                <style>
-                    .parent{
-                        position: relative;
-                    }
-                    .parent .date_target{ position: absolute;bottom: 0px; }
-                   
-
-                </style>
-
 
 
                 <a href="blog/Engro_Polymer_&_Chemicals.php" class="latest-news-event half-wrap  ">
                         <div class="image-area">
                             <img src="images/blog/circular_plastic_institute.jpg" alt="Data Science">
                         </div>
-                        <div class="news-event-detail parent">
+                        <div class="news-event-detail ">
                             <div class="tag position-relative" >NEWS</div>
                             <?=  $catalog->check() ? '<span class="badge badge_target">New</span>' : null ?>
                             
