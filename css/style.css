@@ -3662,7 +3662,7 @@ button.playBtnVid:focus {
     align-items: center;
     justify-content: center;
     border-radius: 0;
-  padding: 0px 2px 0 2px;
+    padding: 0px 2px 0 2px;
     line-height: 1.2;
     background-color:#db4157;
     font-family: MyriadPro-Regular;
@@ -3670,6 +3670,11 @@ button.playBtnVid:focus {
     font-weight: 100;
   
 }
+
+.news-event-detail {
+    position: relative;
+}
+
 @keyframes blink {
     0% {
         opacity: 0;

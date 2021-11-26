@@ -40,7 +40,7 @@ include('../../../partials/navbar.php');
                 <div class="center-page-content news-and-events container-boxes" >
               
 
-                <a href="blog/ksbl_and_iQualify_uk_signed_MOU.php" class="latest-news-event half-wrap  " style="background: #f4dbdb ;">
+                <a href="blog/ksbl_and_iQualify_uk_signed_MOU.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/KSBL_&_iQualify.jpg" alt="Data Science">
                         </div>
@@ -49,6 +49,7 @@ include('../../../partials/navbar.php');
                             <div class="other-details">
                                 <div class="detail" >KSBL and iQualify UK signed a Memorandum of Understanding (MOU)</div>
                                 <div class="date">Wednesday, November , 17th, 2021</div>
+                                  <?=  $catalog->check() ? '<span class="badge badge_target">New</span>' : null ?>
                             </div>
                         </div>
                     </a>
@@ -59,7 +60,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/fall_2021_batch_image6.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag" style="background: #db4157 ;">Events</div>
+                            <div class="tag" >Events</div>
                             <div class="other-details">
                                 <div class="detail">Fall 2021 Batch gets together on campus for a fun evening</div>
                                 <div class="date">Saturday, November, 13th, 2021</div>
@@ -76,7 +77,7 @@ include('../../../partials/navbar.php');
                         </div>
                         <div class="news-event-detail ">
                             <div class="tag position-relative" >NEWS</div>
-                            <?=  $catalog->check() ? '<span class="badge badge_target">New</span>' : null ?>
+                          
                             
                             <div class="other-details">
                                 <div class="detail">Engro Polymer & Chemicals signed a Memorandum of Understanding (MoU) to establish a Circular Plastics Institute</div>
