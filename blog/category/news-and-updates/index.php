@@ -73,14 +73,7 @@ include('../../../partials/navbar.php');
                         position: relative;
                     }
                     .parent .date_target{ position: absolute;bottom: 0px; }
-                  .parent .variation2{
-                        top: 10px;
-                        right: 10px;
-                    }
-                    .parent .variation3{
-                        top: 5px;
-                        right: 5px;
-                    }
+                   
 
                 </style>
 
@@ -105,13 +98,11 @@ include('../../../partials/navbar.php');
                         <div class="image-area">
                             <img src="images/blog/Mubashar_Hameed_talks4.jpg" alt="Mubashar Hameed talks">
                         </div>
-                        <div class="news-event-detail parent">
+                        <div class="news-event-detail">
                             <div class="tag">Events</div>
-                            <span class="badge badge_target variation2">New</span>
-
                             <div class="other-details">
                                 <div class="detail">Mr. Mubashar Hameed talks to incoming batch of Undergraduate students on Leadership</div>
-                                <div class="date date_target">Monday, October, 25th, 2021</div>
+                                <div class="date">Monday, October, 25th, 2021</div>
                             </div>
                         </div>
                     </a>
@@ -120,13 +111,11 @@ include('../../../partials/navbar.php');
                         <div class="image-area">
                             <img src="images/blog/far_2916.jpg" alt="Data Science">
                         </div>
-                        <div class="news-event-detail parent">
+                        <div class="news-event-detail">
                             <div class="tag">Events</div>
-                            <span class="badge badge_target variation3">New</span>
-
                             <div class="other-details">
                                 <div class="detail">Alumni Homecoming 2021</div>
-                                <div class="date date_target">Monday, October, 25th, 2021</div>
+                                <div class="date">Monday, October, 25th, 2021</div>
                             </div>
                         </div>
                     </a>
@@ -135,12 +124,11 @@ include('../../../partials/navbar.php');
                         <div class="image-area">
                             <img src="images/blog/transfermative-initiative.jpg" alt="Data Science">
                         </div>
-                        <div class="news-event-detail parent">
+                        <div class="news-event-detail">
                             <div class="tag">Events</div>
-                            <span class="badge badge_target">New</span>
                             <div class="other-details">
                                 <div class="detail">Rector KSBL Mr. Mubashar Hameed conducts a townhall with employees about the latest transformation initiatives</div>
-                                <div class="date date_target">Thursday, July 1st, 2021</div>
+                                <div class="date">Thursday, July 1st, 2021</div>
                             </div>
                         </div>
                     </a>
