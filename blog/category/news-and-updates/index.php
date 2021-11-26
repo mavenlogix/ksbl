@@ -40,7 +40,20 @@ include('../../../partials/navbar.php');
                 <div class="center-page-content news-and-events container-boxes" >
               
 
-                <a href="blog/ksbl_and_iQualify_uk_signed_MOU.php" class="latest-news-event half-wrap  " >
+                <a href="blog/dummy_news.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="https://dummyimage.com/600x400/000/fff" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">NEWS</div>
+                            <div class="other-details">
+                                <div class="detail" >Dummy</div>
+                                <div class="date">Wednesday, November , 26th, 2021</div>
+                                  <?=  $catalog->check() ? '<span class="badge ">New</span>' : null ?>
+                            </div>
+                        </div>
+                    </a>   
+                     <a href="blog/ksbl_and_iQualify_uk_signed_MOU.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/KSBL_&_iQualify.jpg" alt="Data Science">
                         </div>
@@ -49,7 +62,7 @@ include('../../../partials/navbar.php');
                             <div class="other-details">
                                 <div class="detail" >KSBL and iQualify UK signed a Memorandum of Understanding (MOU)</div>
                                 <div class="date">Wednesday, November , 17th, 2021</div>
-                                  <?=  $catalog->check() ? '<span class="badge badge_target">New</span>' : null ?>
+                                  <?=  $catalog->check() ? '<span class="badge ">New</span>' : null ?>
                             </div>
                         </div>
                     </a>

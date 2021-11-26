@@ -1,4 +1,5 @@
 (function($) {
+
         $.fn.visible = function(partial, hidden, container) {
             var $t = $(this).eq(0),
                 t = $t.get(0),
@@ -42,6 +43,7 @@
         if ($('body').hasClass('home') || $('#myvideo').length > 0) {
             video_width();
         }
+        $(".latest-news-event:not(:first-child)").find(".badge").css("display", "none");
         $(window).scroll(function() {
             var scroll = $(window).scrollTop();
             if (scroll > 1) {
@@ -317,5 +319,5 @@
             });
 
 
-
+        
         })(jQuery);
