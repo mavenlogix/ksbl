@@ -18,7 +18,7 @@ include('../../../partials/head.php');
 include('../../../partials/navbar.php'); 
 ?>
 
-<!-- <?=  $catalog->check() ? '<span class="badge ">New</span>' : null ?> -->
+<!--  FOR NEW BADGE <?=  $catalog->check() ? '<span class="badge ">New</span>' : null ?>  -->
 
             <div class="header-content">
                 <a href="index.php" title="KSBL" class="logo">
