@@ -411,7 +411,8 @@ include('./partials/head.php');
         
         <!-- Modal footer -->
         <div class="modal-footer border-0">
-          <button type="button" class="btn btnprogramModal" >Register Now</button>
+
+          <a href="executive-education-services" class="btn btnprogramModal" >Register Now</a>
         </div>
         
       </div>
