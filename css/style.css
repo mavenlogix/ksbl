@@ -3675,6 +3675,41 @@ button.playBtnVid:focus {
     position: relative;
 }
 
+#programModal .modal-content{
+    background-color: #031428;
+  
+    border: 1px solid rgb(3 20 40);
+    color: #FAA633;
+    border-radius: 0;
+}
+
+#programModal .btnprogramModal{
+  background-color: #FAA633;
+     color: #fff;
+         border-radius: 0;
+    margin: 15px auto 10px;
+
+}
+
+#programModal .modal-header .close{
+     
+    color: #031428;
+    background: #ffffff;
+    border-radius: 50%;
+    padding: 0;
+    width: 18px;
+    line-height: 0;
+    height: 18px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: -8px -8px -16px auto;
+    opacity: 1;
+    text-shadow: none;
+
+}
+
 @keyframes blink {
     0% {
         opacity: 0;
