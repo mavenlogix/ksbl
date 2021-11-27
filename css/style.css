@@ -3710,6 +3710,10 @@ button.playBtnVid:focus {
 
 }
 
+#programModal .modal-header .close span{
+margin-top: -1px;
+}
+
 @keyframes blink {
     0% {
         opacity: 0;
