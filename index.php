@@ -396,7 +396,7 @@ include('./partials/head.php');
 
 <div class="modal fade" id="programModal">
     <div class="modal-dialog modal-md text-center modal-dialog-centered">
-        <a href="executive-education-services" target="_blank">
+        <a href="executive-education-services/pdf/performance_based_coaching.pdf" target="_blank">
         <div class="modal-content">
           
             <!-- Modal Header -->

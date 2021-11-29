@@ -159,7 +159,7 @@ include('../partials/navbar.php');
                 <h2>For more information, please contact our Executive Education Team</h2>
                 <a href="mailto:execed@ksbl.edu.pk">execed@ksbl.edu.pk</a>
                 <a href="tel:03332161255">PABX: 03332161255, +92(21) 38771999, Ext 716</a>
-                <a href="contact-us.php" title="Contact Us">Contact</a>
+                <a href="executive-education-services/pdf/performance_based_coaching.pdf" title="Contact Us">Apply</a>
             </div>
         </div>
     </div>
