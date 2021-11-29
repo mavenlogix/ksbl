@@ -3681,14 +3681,15 @@ button.playBtnVid:focus {
 
 #programModal .modal-content{
    
-    border: 1px solid rgb(3 20 40);
+    border: 0;
     color: #FAA633;
     border-radius: 0;
     background-image: url(../images/modal_image.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 500px;
+    
+    aspect-ratio: 1/1;
 }
 #programModal .modal-content .mbody h3{ color: #FAA633;  }
 
@@ -3718,20 +3719,16 @@ button.playBtnVid:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: -8px -8px -16px auto;
+    margin: -9px -8px -16px auto;
     opacity: 1;
     text-shadow: none;
 
 }
 
-#programModal .modal-header .close span{
+/*#programModal .modal-header .close span{
 margin-top: -1px;
-}
-@media (max-width: 575px){
-    #programModal .modal-content{
-        height: 300px;
-    }
-}
+}*/
+
 
 @keyframes blink {
     0% {
