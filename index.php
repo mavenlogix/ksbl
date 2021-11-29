@@ -407,7 +407,7 @@ include('./partials/head.php');
             
             <!-- Modal body -->
             <div class="modal-body border-0 mbody">
-             <h3>Performance Based Coaching</h3>
+             
             </div>
             
             <!-- Modal footer -->
