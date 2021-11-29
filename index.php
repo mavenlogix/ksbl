@@ -395,28 +395,29 @@ include('./partials/head.php');
 </div>
 
 <div class="modal fade" id="programModal">
-    <div class="modal-dialog modal-sm text-center modal-dialog-centered">
-      <div class="modal-content">
-      
-        <!-- Modal Header -->
-        <div class="modal-header border-0">
-         
-          <button type="button" class="close" data-dismiss="modal"><span>&times;</span></button>
+    <div class="modal-dialog modal-md text-center modal-dialog-centered">
+        <a href="executive-education-services" target="_blank">
+        <div class="modal-content">
+          
+            <!-- Modal Header -->
+            <div class="modal-header border-0">
+             
+              <button type="button" class="close" data-dismiss="modal"><span>&times;</span></button>
+            </div>
+            
+            <!-- Modal body -->
+            <div class="modal-body border-0 mbody">
+             <h3>Performance Based Coaching</h3>
+            </div>
+            
+            <!-- Modal footer -->
+            <!-- <div class="modal-footer border-0">
+              <a href="executive-education-services" target="_blank" class="btn btnprogramModal" >Register Now</a>
+            </div> -->
+            
         </div>
-        
-        <!-- Modal body -->
-        <div class="modal-body border-0 ">
-         <h3>Performance Based Coaching</h3>
+    </a>
         </div>
-        
-        <!-- Modal footer -->
-        <div class="modal-footer border-0">
-
-          <a href="executive-education-services" target="_blank" class="btn btnprogramModal" >Register Now</a>
-        </div>
-        
-      </div>
-    </div>
   </div>
     <!-----------------------------------------------------------------#
 	#                      EXPLORE OUR Campus  END                     #
