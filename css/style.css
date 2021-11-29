@@ -1315,7 +1315,7 @@ a.btn-primary:hover {
 .half-wrap .date {
     margin-top: auto;
     position: absolute;
-    bottom: 20px;
+    bottom: 7px;
 }
 
 .half-wrap .other-details {
@@ -3680,7 +3680,7 @@ button.playBtnVid:focus {
 .open-house-section .edu_page_Catalog_link a:hover{ color: #FAA633; }
 
 #programModal .modal-content{
-    /* background-color: #031428; */
+   
     border: 1px solid rgb(3 20 40);
     color: #FAA633;
     border-radius: 0;
@@ -3688,7 +3688,7 @@ button.playBtnVid:focus {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    min-height: 500px;
+    height: 500px;
 }
 #programModal .modal-content .mbody h3{ color: #FAA633;  }
 
@@ -3729,7 +3729,7 @@ margin-top: -1px;
 }
 @media (max-width: 575px){
     #programModal .modal-content{
-        min-height: 300px;
+        height: 300px;
     }
 }
 
