@@ -115,7 +115,7 @@ include('../partials/navbar.php');
 	#----------------------------------------------------------------->
     <div class="open-house-section  new-open-houese ees-container">
         <br><br><br>
-        <h3 class="title">Stay tuned for our Program calendar</h3>
+        <h3 class="title">Performace Based Coaching</h3>
             <!-- <h3 class="title">  <a href="./pdf/performance-based-coaching.pdf" target="_blank" class="text-white text-decoration-none" >Performance Based Coaching</a></h3> -->
         <div class="container">
             <!-- <div class="upcoming-programs">
@@ -156,7 +156,7 @@ include('../partials/navbar.php');
                 <!-- <span>Since pre-program reading is required, it is advised to send registration(s) at least 10 working days prior to the program.</span> -->
                 <h2>For more information, please contact our Executive Education Team</h2>
                 <a href="mailto:execed@ksbl.edu.pk">execed@ksbl.edu.pk</a>
-                <a href="tel:00922134855382">PABX: +923028222016, +92(21) 38771999, Ext 716</a>
+                <a href="tel:03332161255">PABX: 03332161255, +92(21) 38771999, Ext 716</a>
                 <a href="contact-us.php" title="Contact Us">Contact</a>
             </div>
         </div>
