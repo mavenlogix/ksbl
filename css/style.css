@@ -133,6 +133,7 @@ img {
     .anchorLinkAdm {
         height: 100%;
     }
+
 }
 
 @media (max-width:640px) {
@@ -2514,6 +2515,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     button.gsc-search-button.gsc-search-button-v2 {
         min-height: 51px;
     }
+
 }
 
 .container-boxes.addmission .event-detail {
@@ -3674,15 +3676,27 @@ button.playBtnVid:focus {
 .news-event-detail {
     position: relative;
 }
+.open-house-section .edu_page_Catalog_link a{ text-decoration: none; color: #fff; }
+.open-house-section .edu_page_Catalog_link a:hover{ color: #FAA633; }
 
 #programModal .modal-content{
-    background-color: #031428;
-  
+    /* background-color: #031428; */
     border: 1px solid rgb(3 20 40);
     color: #FAA633;
     border-radius: 0;
+    background-image: url(../images/modal_image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 500px;
 }
+#programModal .modal-content .mbody h3{ color: #FAA633;  }
 
+#programModal a{
+    text-decoration: none;
+    cursor: pointer;
+    width: 100%;
+}
 #programModal .btnprogramModal{
   background-color: #FAA633;
      color: #031428;
@@ -3694,7 +3708,7 @@ button.playBtnVid:focus {
 #programModal .modal-header .close{
      
     color: #031428;
-    background: #ffffff;
+    background: #FAA633;
     border-radius: 50%;
     padding: 0;
     width: 18px;
@@ -3712,6 +3726,11 @@ button.playBtnVid:focus {
 
 #programModal .modal-header .close span{
 margin-top: -1px;
+}
+@media (max-width: 575px){
+    #programModal .modal-content{
+        min-height: 300px;
+    }
 }
 
 @keyframes blink {
