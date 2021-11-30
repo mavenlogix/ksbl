@@ -3672,6 +3672,12 @@ button.playBtnVid:focus {
     font-weight: 100;
   
 }
+/* temprally increase size */
+.news-event-detail .badge_size_increase{
+    font-size: 12px;
+    padding: 2px 4px 2px 4px;
+}
+/* ended */
 
 .news-event-detail {
     position: relative;
