@@ -3677,6 +3677,11 @@ button.playBtnVid:focus {
     font-size: 12px;
     padding: 2px 4px 2px 4px;
 }
+
+#top-navigation .navbar_badge_increase {
+    top: -10.8px;
+    padding: 2px 4px 0px 2px;
+}
 /* ended */
 
 .news-event-detail {
