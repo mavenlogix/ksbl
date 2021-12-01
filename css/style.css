@@ -3620,7 +3620,7 @@ button.playBtnVid:focus {
 
 #top-navigation .badge {
     position: absolute;
-    top: -4.8px;
+    top: -8px;
     right: 0px;
     display: flex;
     align-items: center;
@@ -3629,18 +3629,13 @@ button.playBtnVid:focus {
     padding: 0px 2px 0 1.7px;
     line-height: 1.2;
     background-color: #db4157;
-    font-size: 10px;
+    font-size: 12px;
     color: white;
     font-weight: 100;
    
 }
 
-#top-navigation .navbar_badge_increase {
-    top: -10.8px;
-    padding: 2px 4px 0px 2px;
-    font-size: 12px;
 
-}
 
 .main-navigation .badge {
     position: absolute;
@@ -3663,7 +3658,7 @@ button.playBtnVid:focus {
 .news-event-detail  .badge{
     position: absolute;
     top: 0px;
-    font-size: 10px;
+    font-size: 12px;
     right: 0;
     text-transform: capitalize;
     display: flex;
@@ -3678,14 +3673,7 @@ button.playBtnVid:focus {
     font-weight: 100;
   
 }
-/* temprally increase size */
-.news-event-detail .badge_size_increase{
-    font-size: 12px;
-    padding: 2px 4px 2px 4px;
-}
 
-
-/* ended */
 
 .news-event-detail {
     position: relative;
