@@ -50,7 +50,7 @@ include('../../../partials/navbar.php');
                         </div>
                         <div class="news-event-detail">
                             <div class="tag">NEWS</div>
-                            <span class="badge badge_size_increase">New</span>
+                          
                             <div class="other-details">
                                 <div class="detail" >KSBL and iQualify UK signed a Memorandum of Understanding (MOU)</div>
                                 <div class="date">Wednesday, November , 17th, 2021</div>
