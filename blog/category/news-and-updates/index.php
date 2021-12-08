@@ -42,6 +42,22 @@ include('../../../partials/navbar.php');
 
                 <div class="center-page-content news-and-events container-boxes" >
 
+
+                <a href="blog/Karim_Jivani_Data_Science_and_Analytics.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/Karim_Jivani_Data_Science.webp" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >Karim Jivani, Data Science and Analytics practitioner, conducted a session with our MS Business Analytics.</div>
+                                <div class="date">Wednesday, December, 8th, 2021</div>
+                               
+                            </div>
+                        </div>
+                    </a>
+
                 <a href="blog/Mr_Imran_Azam_Founder_Productivity_Accelerator_System.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/Mr_Imran_Azam_Founder_Productivity_Accelerator_System.webp" alt="Data Science">
