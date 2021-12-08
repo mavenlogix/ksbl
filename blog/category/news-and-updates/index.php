@@ -47,7 +47,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Imran_Sayeed_Senior_Lecturer_MIT.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events</div>
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
                                 <div class="detail" >Mr. Imran Sayeed, Senior Lecturer, MIT Sloan School of Management conducted an engaging session on Career Counselling with MBA students</div>
