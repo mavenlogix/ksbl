@@ -28,16 +28,20 @@ include('../partials/navbar.php');
                 <a href="blog/category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
                 <div class="center-page-content news-and-events container-boxes">
                     <div class="blog-header">
-                        <img src="images/blog/Imran_Sayeed_Senior_Lecturer_MIT.jpg" alt="Blog other">
+                        <img src="images/blog/Mr_Imran_Azam_Founder_Productivity_Accelerator_System.webp" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>Mr. Imran Sayeed, Senior Lecturer, MIT Sloan School of Management conducted an engaging session on Career Counselling with MBA students</h2>
-                            <div class="post-date">Saturday, November, 25th, 2021</div>
+                            <h2>Mr. Imran Azam, Founder-Productivity Accelerator System, conducted an interactive session with KSBL BS and MBA students on G.O.A.L Framework.</h2>
+                            <div class="post-date">Thursday, November, 30th, 2021</div>
+                            
                         </div>
                     </div>
                     <div class="blog-detail">
                         <p>
-                        Mr. Imran Sayeed, Senior Lecturer, MIT Sloan School of Management conducted an engaging session on Career Counselling with MBA students. Imran is a visionary, high-impact executive having years of experience in entrepreneurship, digital technologies, and innovation. He shared important points about approaching the global job market and the requirement of certain skills in different professions. Mr. Sayeed discussed how understanding yourself and the world of work is important in order to make career, education, and life decisions. 
+                        Mr. Imran Azam, Founder-Productivity Accelerator System, conducted an interactive session with KSBL BS and MBA students on G.O.A.L Framework. He discussed at length the significance of the growth mindset, orientation to a new role and aligning your actions with strategy. He also talked about how students can learn to become effective people leaders.
+                        </p>
+                        <p>
+                        Imran Azam is the Leadership Growth Strategist helping strong technical experts like Engineers, IT, Finance & Accounts Specialists to become effective People Leaders so that they build the capacity to translate business strategies into actions.
                         </p>
                    
 

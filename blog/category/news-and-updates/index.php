@@ -41,6 +41,21 @@ include('../../../partials/navbar.php');
 					--->
 
                 <div class="center-page-content news-and-events container-boxes" >
+
+                <a href="blog/Mr_Imran_Azam_Founder_Productivity_Accelerator_System.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/Mr_Imran_Azam_Founder_Productivity_Accelerator_System.webp" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >Mr. Imran Azam, Founder-Productivity Accelerator System, conducted an interactive session with KSBL BS and MBA students on G.O.A.L Framework.</div>
+                                <div class="date">Thursday, November, 30th, 2021</div>
+                               
+                            </div>
+                        </div>
+                    </a>
               
                 <a href="blog/Mr_Imran_Sayeed_Senior_Lecturer_MIT.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
@@ -51,12 +66,11 @@ include('../../../partials/navbar.php');
                           
                             <div class="other-details">
                                 <div class="detail" >Mr. Imran Sayeed, Senior Lecturer, MIT Sloan School of Management conducted an engaging session on Career Counselling with MBA students</div>
-                                <div class="date">Saturday, November , 25th, 2021</div>
+                                <div class="date">Saturday, November, 25th, 2021</div>
                                
                             </div>
                         </div>
                     </a>
-
               
                      <a href="blog/ksbl_and_iQualify_uk_signed_MOU.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
@@ -67,7 +81,7 @@ include('../../../partials/navbar.php');
                           
                             <div class="other-details">
                                 <div class="detail" >KSBL and iQualify UK signed a Memorandum of Understanding (MOU)</div>
-                                <div class="date">Wednesday, November , 17th, 2021</div>
+                                <div class="date">Wednesday, November, 17th, 2021</div>
                                  
                             </div>
                         </div>
