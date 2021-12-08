@@ -50,7 +50,23 @@ include('../partials/navbar.php');
 							#                       Other Pictures                             #
 							#----------------------------------------------------------------->
                     <div class="other-pictures">
-                        
+                        <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/Accelerator_system_pic1.webp" alt="Data Science">
+                            </div>
+                        </div>
+
+                        <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/Accelerator_system_pic2.webp" alt="Data Science">
+                            </div>
+                        </div>
+
+                        <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/Accelerator_system_pic3.webp" alt="Data Science">
+                            </div>
+                        </div>
                      
                     </div>
                     <!-----------------------------------------------------------------#
