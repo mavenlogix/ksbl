@@ -44,7 +44,7 @@ include('../../../partials/navbar.php');
               
                 <a href="blog/Mr_Imran_Sayeed_Senior_Lecturer_MIT.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
-                            <img src="images/blog/KSBL_&_iQualify.jpg" alt="Data Science">
+                            <img src="images/blog/Imran_Sayeed_Senior_Lecturer_MIT.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
                             <div class="tag">Events</div>
