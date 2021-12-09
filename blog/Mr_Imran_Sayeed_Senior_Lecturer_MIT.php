@@ -31,7 +31,7 @@ include('../partials/navbar.php');
                         <img src="images/blog/Imran_Sayeed_Senior_Lecturer_MIT.jpg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>Imran Sayeed talks to Ksbl MBA Students on Career Counselling</h2>
+                            <h2>Imran Sayeed Talks to KSBL MBA Students on Career Counselling</h2>
                             <div class="post-date">Thursday, November, 11th, 2021</div>
                         </div>
                     </div>

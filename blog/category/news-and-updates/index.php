@@ -66,7 +66,7 @@ include('../../../partials/navbar.php');
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
-                                <div class="detail" >Imran Azam Session on Goal Frame Work</div>
+                                <div class="detail" >Imran Azam's Session on Goal Frame Work</div>
                                 <div class="date">Thursday, November, 18th, 2021</div>
                                
                             </div>
@@ -81,7 +81,7 @@ include('../../../partials/navbar.php');
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
-                                <div class="detail" >Imran Sayeed talks to Ksbl MBA Students on Career Counselling</div>
+                                <div class="detail" >Imran Sayeed Talks to KSBL MBA Students on Career Counselling</div>
                                 <div class="date">Thursday, November, 11th, 2021</div>
                                
                             </div>
