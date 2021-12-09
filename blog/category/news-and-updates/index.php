@@ -52,9 +52,8 @@ include('../../../partials/navbar.php');
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
-                                <div class="detail" >Karim Jivani, Data Science and Analytics practitioner, conducted a session with our MS Business Analytics.</div>
-                                <div class="date">Wednesday, December, 8th, 2021</div>
-                               
+                                <div class="detail" >Karim Jivani Conducts Session on Data Deployments in Pakistan</div>
+                                <div class="date">Wednesday, November, 24th, 2021</div>
                             </div>
                         </div>
                     </a>
@@ -67,8 +66,8 @@ include('../../../partials/navbar.php');
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
-                                <div class="detail" >Mr. Imran Azam, Founder-Productivity Accelerator System, conducted an interactive session with KSBL BS and MBA students on G.O.A.L Framework.</div>
-                                <div class="date">Thursday, November, 30th, 2021</div>
+                                <div class="detail" >Imran Azam Session on Goal Frame Work</div>
+                                <div class="date">Thursday, November, 18th, 2021</div>
                                
                             </div>
                         </div>
@@ -82,8 +81,8 @@ include('../../../partials/navbar.php');
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
-                                <div class="detail" >Mr. Imran Sayeed, Senior Lecturer, MIT Sloan School of Management conducted an engaging session on Career Counselling with MBA students</div>
-                                <div class="date">Saturday, November, 25th, 2021</div>
+                                <div class="detail" >Imran Sayeed talks to Ksbl MBA Students on Career Counselling</div>
+                                <div class="date">Thursday, November, 11th, 2021</div>
                                
                             </div>
                         </div>

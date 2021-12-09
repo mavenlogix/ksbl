@@ -31,9 +31,8 @@ include('../partials/navbar.php');
                         <img src="images/blog/Mr_Imran_Azam_Founder_Productivity_Accelerator_System.webp" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>Mr. Imran Azam, Founder-Productivity Accelerator System, conducted an interactive session with KSBL BS and MBA students on G.O.A.L Framework.</h2>
-                            <div class="post-date">Thursday, November, 30th, 2021</div>
-                            
+                            <h2>Imran Azam Session on Goal Frame Work</h2>
+                            <div class="post-date">Thursday, November, 18th, 2021</div>                            
                         </div>
                     </div>
                     <div class="blog-detail">

@@ -31,8 +31,8 @@ include('../partials/navbar.php');
                         <img src="images/blog/Karim_Jivani_Data_Science.webp" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>Karim Jivani, Data Science and Analytics practitioner, conducted a session with our MS Business Analytics.</h2>
-                            <div class="post-date">Wednesday, December, 8th, 2021</div>
+                            <h2>Karim Jivani Conducts Session on Data Deployments in Pakistan</h2>
+                            <div class="post-date">Wednesday, November, 24th, 2021</div>
                             
                         </div>
                     </div>

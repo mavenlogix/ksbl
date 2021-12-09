@@ -31,8 +31,8 @@ include('../partials/navbar.php');
                         <img src="images/blog/Imran_Sayeed_Senior_Lecturer_MIT.jpg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>Mr. Imran Sayeed, Senior Lecturer, MIT Sloan School of Management conducted an engaging session on Career Counselling with MBA students</h2>
-                            <div class="post-date">Saturday, November, 25th, 2021</div>
+                            <h2>Imran Sayeed talks to Ksbl MBA Students on Career Counselling</h2>
+                            <div class="post-date">Thursday, November, 11th, 2021</div>
                         </div>
                     </div>
                     <div class="blog-detail">
