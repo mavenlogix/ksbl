@@ -37,7 +37,7 @@ include('../partials/navbar.php');
                     </div>
                     <div class="blog-detail">
                         <p>
-                        KSBL, being part of Dawood Group, under its CSR wing has long work history on human development & community building. Based on this concept of Inclusion & Diversity, KSBL hosted an event organized by "Nai Subah" for the empowerment of visually impaired youth at KSBL campus on December 4th, 2021, in honour of International Disability Day. People from all walks of life attended the event.
+                        KSBL under its CSR wing hosted an event organized by "Nai Subah" for the empowerment of visually impaired youth at KSBL campus on December 4th, 2021, in honour of International Disability Day. People from all walks of life attended the event.
                         </p>
                    
 
