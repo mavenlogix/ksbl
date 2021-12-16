@@ -366,5 +366,5 @@
     });
 
 
-  $("#programModal").modal("show")
+
 })(jQuery);
