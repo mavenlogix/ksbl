@@ -50,7 +50,7 @@ include('../../../partials/navbar.php');
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
-                                <div class="detail" >KSBL Agreement with Abbott Laboratories Pakistan</div>
+                                <div class="detail" >KSBL signed an agreement with Abbott Laboratories</div>
                                 <div class="date">Monday, December, 6th, 2021</div>
                             </div>
                         </div>

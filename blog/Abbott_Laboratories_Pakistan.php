@@ -31,13 +31,13 @@ include('../partials/navbar.php');
                         <img src="images/blog/Abbott_Laboratories_Pakistan_thumbnail.jpg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>KSBL Agreement with Abbott Laboratories Pakistan</h2>
+                            <h2>KSBL signed an agreement with Abbott Laboratories</h2>
                             <div class="post-date">Monday, December, 6th, 2021</div>
                         </div>
                     </div>
                     <div class="blog-detail">
                         <p>
-                        KSBL Executive Education signed an agreement with Abbott Laboratories Pakistan on the 6th if December 2021 to offer Abbott’s first line Sales Team / Managers a strong foundation program on the lines of MBA education. The program is designed for a group of high potential sales personnel with the aim to upgrade their knowledge and skill base. The program also covers the following learning objectives::
+                        KSBL Executive Education signed an agreement with Abbott Laboratories Pakistan on the 6th if December 2021 to offer Abbott’s first line Sales Team / Managers a strong foundation program on the lines of MBA education. The program is designed for a group of high potential sales personnel with the aim to upgrade their knowledge and skill base. The program also covers the following learning objectives:
                         </p>
                         <ul>
                             <li>To build the domain knowledge across business functions</li>
@@ -87,6 +87,21 @@ include('../partials/navbar.php');
                         <div class="blog-image-section image">
                             <div class="campus-image">
                                 <img src="images/blog/Abbott_Laboratories_Pakistan_img7.jpg" alt="Data Science">
+                            </div>
+                        </div>
+                          <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/Abbott_Laboratories_Pakistan_img8.jpg" alt="Data Science">
+                            </div>
+                        </div>
+                          <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/Abbott_Laboratories_Pakistan_img9.jpg" alt="Data Science">
+                            </div>
+                        </div>
+                          <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/Abbott_Laboratories_Pakistan_img10.jpg" alt="Data Science">
                             </div>
                         </div>
                      
