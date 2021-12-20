@@ -103,6 +103,12 @@ include('../partials/navbar.php');
                             <div class="campus-image">
                                 <img src="images/blog/Abbott_Laboratories_Pakistan_img10.jpg" alt="Data Science">
                             </div>
+                        </div>  
+
+                        <div class="blog-image-section image">
+                            <div class="campus-image">
+                                 <img src="images/blog/Abbott_Laboratories_Pakistan_thumbnail.jpg" alt="Blog other">
+                            </div>
                         </div>
                      
                     </div>
