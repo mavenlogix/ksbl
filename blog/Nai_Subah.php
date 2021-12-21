@@ -81,6 +81,11 @@ include('../partials/navbar.php');
                                 <img src="images/blog/Nai_Subah_img7.jpg" alt="Data Science">
                             </div>
                         </div>
+                        <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/Nai_Subah_img8.jpg" alt="Data Science">
+                            </div>
+                        </div>
                      
                     </div>
                     <!-----------------------------------------------------------------#
