@@ -75,7 +75,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Karim_Jivani_Data_Science.webp" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events</div>
                           
                             <div class="other-details">
                                 <div class="detail" >Karim Jivani Conducts Session on Data Deployments in Pakistan</div>
@@ -89,7 +89,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Mr_Imran_Azam_Founder_Productivity_Accelerator_System.webp" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events</div>
                           
                             <div class="other-details">
                                 <div class="detail" >Imran Azam's Session on Goal Frame Work</div>
@@ -104,7 +104,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Imran_Sayeed_Senior_Lecturer_MIT.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events</div>
                           
                             <div class="other-details">
                                 <div class="detail" >Imran Sayeed Talks to KSBL MBA Students on Career Counselling</div>
