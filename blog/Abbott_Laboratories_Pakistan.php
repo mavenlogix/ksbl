@@ -37,12 +37,12 @@ include('../partials/navbar.php');
                     </div>
                     <div class="blog-detail">
                         <p>
-                        KSBL Executive Education signed an agreement with Abbott Laboratories Pakistan on the 6th if December 2021 to offer Abbott’s first line Sales Team / Managers a strong foundation program on the lines of MBA education. The program is designed for a group of high potential sales personnel with the aim to upgrade their knowledge and skill base. The program also covers the following learning objectives:
+                        KSBL Executive Education signed an agreement with Abbott Laboratories Pakistan on the 6th of December 2021 to offer Abbott’s first line Sales Team / Managers a strong foundation program on the lines of MBA education. The program is designed for a group of high potential sales personnel with the aim to upgrade their knowledge and skill base. The program also covers the following learning objectives:
                         </p>
                         <ul>
                             <li>To build the domain knowledge across business functions</li>
                             <li>To impart problem solving and decision-making skills via case studies for different business situation</li>
-                            <li>To develop business acumen, market orientation and holistic thinking in analysing complex managerial decisions</li>
+                            <li>To develop business acumen, market orientation and holistic thinking in analyzing complex managerial decisions</li>
                         </ul>
                         <p>
                         The program was attended by the top leadership from Abbott Pakistan along with the first group of 30 participants.
