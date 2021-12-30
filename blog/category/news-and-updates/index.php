@@ -42,7 +42,7 @@ include('../../../partials/navbar.php');
 
                 <div class="center-page-content news-and-events container-boxes" >
 
-                <a href="blog/Abbott_Laboratories_Pakistan.php" class="latest-news-event half-wrap  " >
+                <a href="blog/Aisha_Aijaz_Session.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/Aisha_Aijaz_session.jpg" alt="Data Science">
                         </div>
