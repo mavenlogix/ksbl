@@ -115,7 +115,7 @@ include('../partials/navbar.php');
 	#----------------------------------------------------------------->
     <div class="open-house-section  new-open-houese ees-container">
         <br><br><br>
-        <h3 class="title edu_page_Catalog_link">
+        <h3 class="title edu_page_Catalog_link colorChange">
             <a href="executive-education-services/pdf/performance_based_coaching.pdf" target="_blank" rel="noopener noreferrer">Stay Tuned for More Programs</a> 
         </h3>
             <!-- <h3 class="title">  <a href="./pdf/performance-based-coaching.pdf" target="_blank" class="text-white text-decoration-none" >Performance Based Coaching</a></h3> -->

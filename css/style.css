@@ -3681,6 +3681,9 @@ button.playBtnVid:focus {
 .open-house-section .edu_page_Catalog_link a{ text-decoration: none; color: #fff; }
 .open-house-section .edu_page_Catalog_link a:hover{ color: #FAA633; }
 
+.open-house-section .colorChange a{ text-decoration: none; color: #FAA633; }
+
+
 
 @keyframes blink {
     0% {
