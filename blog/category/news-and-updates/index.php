@@ -44,10 +44,24 @@ include('../../../partials/navbar.php');
 
                 <a href="blog/Abbott_Laboratories_Pakistan.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
-                            <img src="images/blog/Abbott_Laboratories_Pakistan_thumbnail.jpg" alt="Data Science">
+                            <img src="images/blog/Aisha_Aijaz_session.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >Aisha Aijaz conducted a session on how to approach assessment centers</div>
+                                <div class="date">Monday, December, 20th, 2021</div>
+                            </div>
+                        </div>
+                    </a>
+
+                <a href="blog/Abbott_Laboratories_Pakistan.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/Abbott_Laboratories_Pakistan_thumbnail.jpg" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events </div>
                           
                             <div class="other-details">
                                 <div class="detail" >KSBL signed an agreement with Abbott Laboratories</div>
@@ -61,7 +75,9 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Nai_Subah_thumbnail.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events 
+                               
+                            </div>
                           
                             <div class="other-details">
                                 <div class="detail" >KSBL Hosted an Event Organized by "Nai Subah"</div>
