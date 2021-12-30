@@ -50,7 +50,7 @@ include('../../../partials/navbar.php');
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
-                                <div class="detail" >Aisha Aijaz conducted a session on how to approach assessment centers</div>
+                                <div class="detail" >Aisha Aijaz Conducted a Session on How to Approach Assessment Centers</div>
                                 <div class="date">Monday, December, 20th, 2021</div>
                             </div>
                         </div>

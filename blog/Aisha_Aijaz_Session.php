@@ -31,7 +31,7 @@ include('../partials/navbar.php');
                         <img src="images/blog/Aisha_Aijaz_session.jpg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>Aisha Aijaz conducted a session on how to approach assessment centers</h2>
+                            <h2>Aisha Aijaz Conducted a Session on How to Approach Assessment Centers</h2>
                             <div class="post-date">Monday, December, 20th, 2021</div>
                         </div>
                     </div>
