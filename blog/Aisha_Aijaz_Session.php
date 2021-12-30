@@ -46,8 +46,23 @@ include('../partials/navbar.php');
 							#                       Other Pictures                             #
 							#----------------------------------------------------------------->
                     <div class="other-pictures">
-                       
-                     
+                        <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/aisha_aijiz_pic1.jpg" alt="Data Science">
+                            </div>
+                        </div>
+
+                        <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/aisa_ajaiz_pic2.jpg" alt="Data Science">
+                            </div>
+                        </div>
+                        
+                        <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/aisha_azijiz_pic3.jpg" alt="Data Science">
+                            </div>
+                        </div>
                     </div>
                     <!-----------------------------------------------------------------#
 							#                      END  Other Pictures                         #
