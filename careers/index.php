@@ -30,6 +30,74 @@ include('../partials/navbar.php');
                 </div>
                 <div class="open-house-tabs">
 
+                   <!-- === Head of Center for Circular Economy === -->
+                     <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Head of Center for Circular Economy</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                    KSBL is looking for candidates whose teaching, research and work interests are related to the Circular Plastics, Thriving, livable, resilient, Biodiversity, Circular Economy for Food and Circular Fashion. 
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        <h3>Purpose of the Job:</h3>
+                                      <p>
+                                        KSBL is establishing Center for Circular Economy (KSBL- CCE) for instituting and supporting circular economy-driven innovation. This position entails establishment of Centre for Circular Economy with focus towards Circular Plastics – a research institute working at the crossroads of plastics R&D, practical experimentation, and public policy advocacy that brings together stakeholders from the plastics and related sectors. Other focus areas will include Circular Cities: Thriving, livable, resilient, Biodiversity, Circular Economy for Food, Circular Fashion.
+                                      </p>
+                                        <br>
+                                       
+                                        <h3>Key Responsibilities:</h3>
+                                        <ul>
+                                            <li>Provide strategic direction and operational oversight of the institute incorporating feedback from KSBL, and other direct stakeholders</li>
+                                            <li>Steer based on KPIs (monthly, quarterly and annually), milestones and Fixed cost budgets</li>
+                                           <li>Spearhead daily operations of the CCE, support all entities involved in it, and manage its interactions with the other constituents of the Institute, sponsor organizations, and external vendors.</li>
+                                           <li>Initiate initial research budgets and research Sponsorships while actively applying for national and global funding opportunities</li>
+                                           <li>Convene round tables and seminars for corporate and government stakeholders as primary target, while academic and other institutional stakeholders as secondary</li>
+                                           <li>Develop research and collaboration agenda, legislative and advocacy agenda, relationships and pursue partnerships with local and international stakeholders</li>
+                                           <li>Develop Curriculums, short courses, etc. around circular economy with focus towards circular plastics independently and as integrations to mainstream KSBL programs - Academics and Executive Education</li>
+                                           <li>Pursue partnerships with local and international stakeholders</li>
+                                           <li>Steward in sustainability forums</li>
+
+                                        </ul>
+                                        <br>
+                                        <h3>Qualifications & Experience:</h3>
+                                        <ul>
+                                         <li>Minimum Masters' degree with relevant specializations and some research credentials </li>
+                                         <li>Overall 12-15 years of experience with minimum 5-7 years spent in related field/function</li>
+
+                                        </ul>
+
+                                        <br>
+                                        <h3>Desired Competencies:</h3>
+                                        <ul>
+                                            <li>Leadership skills</li>
+                                            <li>Strategic Planning and Organization</li>
+                                            <li>Customer Focus</li>
+                                            <li>Analytical skills</li>
+                                            <li>Internal and External Stakeholder Management</li>
+                                        </ul>
+
+
+                                        <p>
+                                            Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- === END Head of Center for Circular Economy=== -->
+
 
                 <!-- === Assistant Manager Finance === -->
                     <div class="tab-section" style="margin-top: 20px;">
