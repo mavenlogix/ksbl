@@ -57,7 +57,7 @@ include('../../../partials/navbar.php');
                     </a>
 
 
-                    <a href="blog/Aisha_Aijaz_Session.php" class="latest-news-event half-wrap  " >
+                    <a href="blog/Adnan_Masood_Session.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/Adnan_Masood_Session_thumbnail.jpg" alt="Data Science">
                         </div>
