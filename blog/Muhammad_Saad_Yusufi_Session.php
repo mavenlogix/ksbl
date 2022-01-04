@@ -51,25 +51,25 @@ include('../partials/navbar.php');
                     <div class="other-pictures">
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/Muhammad_Saad_Yusufi_Session_pic1.jpg" alt="Data Science">
+                                <img src="images/blog/Muhammad_Saad_Yusufi_Session_pic1.jpg" alt="Data Science">
                             </div>
                         </div>
 
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/Muhammad_Saad_Yusufi_Session_pic2.jpg" alt="Data Science">
+                                <img src="images/blog/Muhammad_Saad_Yusufi_Session_pic2.jpg" alt="Data Science">
                             </div>
                         </div>
                         
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/Muhammad_Saad_Yusufi_Session_pic3.jpg" alt="Data Science">
+                                <img src="images/blog/Muhammad_Saad_Yusufi_Session_pic3.jpg" alt="Data Science">
                             </div>
                         </div>
 
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/Muhammad_Saad_Yusufi_Session_pic4.jpg" alt="Data Science">
+                                <img src="images/blog/Muhammad_Saad_Yusufi_Session_pic4.jpg" alt="Data Science">
                             </div>
                         </div>
                     </div>
