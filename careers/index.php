@@ -88,7 +88,7 @@ include('../partials/navbar.php');
                                 </div>
                                 <div class="button-links">
                                     <div class="other-details">
-                                        Application Deadline - Open
+                                        Application Deadline: 16th January, 2022
                                     </div>
                                     <div class="tab-links">
                                         <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
