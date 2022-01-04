@@ -72,6 +72,21 @@ include('../../../partials/navbar.php');
                     </a>
 
 
+                    <a href="blog/Muhammad_Saad_Yusufi_Session.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/Muhammad_Saad_Yusufi_Session_thumbnail.jpg" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >Muhammad Saad Yusufi Conducted a Session on Managing Profitability in the FMCG Landscape</div>
+                                <div class="date">Friday, December, 10th, 2021</div>
+                            </div>
+                        </div>
+                    </a>
+
+
                 <a href="blog/Abbott_Laboratories_Pakistan.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/Abbott_Laboratories_Pakistan_thumbnail.jpg" alt="Data Science">
