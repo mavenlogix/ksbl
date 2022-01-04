@@ -41,7 +41,7 @@ include('../partials/navbar.php');
                         </p>
 
                         <p>
-                        He discussed pertinent aspects of the topic such as the importance of revenue management in the FMCG  business,  top trends in revenue growth management for FMCG and Challenges faced by FMCG companies in Pakistan in terms of business landscape and covid’19
+                        He discussed pertinent aspects of the topic such as the importance of revenue management in the FMCG  business,  top trends in revenue growth management for FMCG and Challenges faced by FMCG companies in Pakistan in terms of business landscape and covid’19.
                         </p>
             
                     </div>
