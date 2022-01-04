@@ -46,5 +46,11 @@ define('SCRIPT_BASE', str_replace(['http://','https://'], '', $url));
     <link rel="preload" as="font" href="./fonts/MyriadPro-Cond.woff" type="font/woff" crossorigin="anonymous">
     <link rel="preload" as="font" href="./fonts/MyriadPro-Regular.woff" type="font/woff" crossorigin="anonymous">
     <link rel="preload" as="font" href="./fonts/MyriadPro-Light.woff" type="font/woff" crossorigin="anonymous">
-
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55371745-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-55371745-1');
+</script>
 </head>
