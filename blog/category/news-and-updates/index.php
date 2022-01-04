@@ -47,7 +47,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Aisha_Aijaz_session.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events </div>
                           
                             <div class="other-details">
                                 <div class="detail" >Aisha Aijaz Conducted a Session on How to Approach Assessment Centers</div>
@@ -62,7 +62,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Adnan_Masood_Session_thumbnail.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events </div>
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
                                 <div class="detail" >Adnan Masood Conducted a Session on MBTI - Myers-Briggs Type Indicator</div>
