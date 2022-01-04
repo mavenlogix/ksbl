@@ -56,6 +56,22 @@ include('../../../partials/navbar.php');
                         </div>
                     </a>
 
+
+                    <a href="blog/Aisha_Aijaz_Session.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/Adnan_Masood_Session_thumbnail.jpg" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events </div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >Adnan Masood Conducted a Session on MBTI - Myers-Briggs Type Indicator</div>
+                                <div class="date">Wednesday, December, 15th, 2021</div>
+                            </div>
+                        </div>
+                    </a>
+
+
                 <a href="blog/Abbott_Laboratories_Pakistan.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/Abbott_Laboratories_Pakistan_thumbnail.jpg" alt="Data Science">
