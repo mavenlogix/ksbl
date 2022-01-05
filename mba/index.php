@@ -114,7 +114,9 @@ include('../partials/navbar.php');
                         <b><br><br>Fintech
                             <br>Digital Marketing
                             <br>Talent Management
-                            <br>Supply Chain</b>
+                            <br>Supply Chain
+                            <br>Information Management
+                        </b>
                     </p>
                     <a target="_blank" href="mba/admissions/MBA KSBL Spring 2022 admissions.pdf"  class=" rmv btn-primary">Download Brochure</a>
                     <a target="_blank" href="http://admissions.colaraz.com/signup?institute=ksbledu" class=" rmv  btn-primary">Apply Now</a>
@@ -190,6 +192,7 @@ include('../partials/navbar.php');
                 <br>- Digital Marketing
                 <br>- Talent Management
                 <br>- Supply Chain
+                <br>- Information Management
             </div>
         </div>
     </div>
