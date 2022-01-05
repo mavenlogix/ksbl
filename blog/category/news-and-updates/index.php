@@ -80,7 +80,7 @@ include('../../../partials/navbar.php');
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
-                                <div class="detail" >Muhammad Saad Yusufi Conducted a Session on Managing Profitability in the FMCG Landscape</div>
+                                <div class="detail" >Muhammad Saad Yusufi talks to KSBL Students</div>
                                 <div class="date">Friday, December, 10th, 2021</div>
                             </div>
                         </div>

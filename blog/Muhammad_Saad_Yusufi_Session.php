@@ -31,7 +31,7 @@ include('../partials/navbar.php');
                         <img src="images/blog/Muhammad_Saad_Yusufi_Session_thumbnail.jpg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>Muhammad Saad Yusufi Conducted a Session on Managing Profitability in the FMCG Landscape</h2>
+                            <h2>Muhammad Saad Yusufi talks to KSBL Students</h2>
                             <div class="post-date">Friday, December, 10th, 2021 </div>
                         </div>
                     </div>
