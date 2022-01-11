@@ -113,53 +113,82 @@ include('../partials/navbar.php');
     <!-----------------------------------------------------------------#
 	#                      Open House Start                            #
 	#----------------------------------------------------------------->
-    <div class="open-house-section  new-open-houese ees-container">
-        <br><br><br>
-        <h3 class="title edu_page_Catalog_link colorChange">
-            <a href="executive-education-services/pdf/performance_based_coaching.pdf" target="_blank" rel="noopener noreferrer">Stay Tuned for More Programs</a> 
-        </h3>
-            <!-- <h3 class="title">  <a href="./pdf/performance-based-coaching.pdf" target="_blank" class="text-white text-decoration-none" >Performance Based Coaching</a></h3> -->
-        <div class="container">
-            <!-- <div class="upcoming-programs">
-                <div class="event-detail">
+    <div class="edsNewPrograms">
+       
+
+        <div class="container ">
+            <div class="upcoming-programs d-grid">
+                <div class="eventDescDetail ">
                     <div class="event-date">
                         <div class="current-month">
-                            <h3 class="visible-hidden">03</h3>
+                           
                             <h3 class="">
-                                <span>FEB 2021</span>02</h3>
-                            <h3>03</h3>
+                                Jan 2022</h3>
+                           
                         </div>
                     </div>
-                    <div class="event-discription ">
-                        <h2>Finance</h2>
-                        <h2>Financial Acumen for Non Financial Executive</h2>
-                        <span>Dr. Tariq Basheer</span>
+                    <div class="eventDesc">
+                        <h2>Visualizing data stories</h2>
+                       
+                        <span>Unlock the magical ways to turn hidden gems into shining insights</span>
+
+                    </div>
+                    <div class="actionBtns">
+                               <a class="btn btn_events" href="#" >Enroll now</a>
+                            <a class="btn btn_events" target="_blank" href="pdf/Visualizing-Data-Stories-for-Strategic-Thinking.pdf" >View catalog</a>
                     </div>
                 </div>
-            </div> -->
-            <!-- <div class="upcoming-programs">
-                <div class="event-detail">
+                       <div class="eventDescDetail ">
                     <div class="event-date">
                         <div class="current-month">
+                           
                             <h3 class="">
-                                <span>FEB 2021</span>16</h3>
-                            <h3>17</h3>
-                            <h3>18</h3>
+                                Jan 2022</h3>
+                           
                         </div>
                     </div>
-                    <div class="event-discription ">
-                        <h2>Innovation</h2>
-                        <h2>Leading Innovation Strategically</h2>
-                        <span>Dr. Nadeem Javaid</span>
+                    <div class="eventDesc">
+                        <h2>Goal Setting</h2>
+                       
+                        <span>Your first step towards success</span>
+
+                    </div>
+                    <div class="actionBtns">
+                              <a class="btn btn_events" href="#" >Enroll now</a>
+                            <a class="btn btn_events" target="_blank" href="pdf/Goal-Setting.pdf" >View catalog</a>
                     </div>
                 </div>
-            </div> -->
+                
+                       <div class="eventDescDetail ">
+                    <div class="event-date">
+                        <div class="current-month">
+                           
+                            <h3 class="">
+                                Jan 2022</h3>
+                           
+                        </div>
+                    </div>
+                    <div class="eventDesc">
+                        <h2>Finance for Non- Financial Executives</h2>
+                       
+                        <span>Finance fundamentals for non-finance executives</span>
+
+                    </div>
+                    <div class="actionBtns">
+                             <a class="btn btn_events" href="#" >Enroll now</a>
+                            <a class="btn btn_events" target="_blank" href="pdf/Finance-for-Non-Financial-Executives.pdf" >View catalog</a>
+                    </div>
+                </div>
+                
+              
+            </div>
+           
             <div class="contact-committee">
-                <!-- <span>Since pre-program reading is required, it is advised to send registration(s) at least 10 working days prior to the program.</span> -->
+              <!--   <span>Since pre-program reading is required, it is advised to send registration(s) at least 10 working days prior to the program.</span> -->
                 <h2>For more information, please contact our Executive Education Team</h2>
                 <a href="mailto:execed@ksbl.edu.pk">execed@ksbl.edu.pk</a>
                 <a href="tel:03332161255">PABX: 03332161255, +92(21) 38771999, Ext 716</a>
-                <a href="executive-education-services/pdf/performance_based_coaching.pdf" title="Contact Us">Apply</a>
+                <a href="executive-education-services/pdf/performance_based_coaching.pdf" title="Contact Us" class="mb-0">Apply</a>
             </div>
         </div>
     </div>

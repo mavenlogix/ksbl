@@ -3699,6 +3699,82 @@ button.playBtnVid:focus {
     }
 }
 
+.edsNewPrograms .d-grid{
+
+    display: grid;
+    grid-template-columns: 329px 329px 329px;
+    justify-content: center;
+    grid-column-gap: 20px;
+
+}
+.edsNewPrograms .eventDesc h2{
+
+    font-size: 24px;
+    font-family: MyriadPro-Cond;
+}
+
+.edsNewPrograms h2 {
+    font-family: MyriadPro-Cond;
+    font-size: 35px;
+    margin: 0px;
+    font-weight: normal;
+}
+.edsNewPrograms .eventDesc {
+    text-align: left;
+   height: 110px;
+    color: #000000;
+    padding: 15px 40px 15px 15px;
+    border-bottom: 1px solid #707070;
+
+}
+.edsNewPrograms{
+    background: url(../images/ees/ees.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.edsNewPrograms .container {
+    text-align: center;
+    display: block;
+    color: #ffffff;
+}
+
+.edsNewPrograms  .eventDescDetail .event-date div h3 {
+    background-color: #FAA633;
+    padding: 10px;
+    position: relative;
+    font-size: 24px;
+    font-family: MyriadPro-Regular;
+    margin: 0;
+    border-bottom: 1px solid #707070;
+}
+
+
+.eventDescDetail {
+  background: white;
+}
+
+.eventDescDetail .actionBtns{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 65px;
+}
+.eventDescDetail .btn_events{
+        background: #FAA633;
+    width: 100px;
+    margin: 0 5px;
+    font-size: 14px;
+    border-radius: 0;
+    padding: 5px;
+}
+
+
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
