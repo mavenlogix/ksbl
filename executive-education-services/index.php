@@ -169,7 +169,7 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="eventDesc">
-                        <h2>Finance for Non- Financial Executives</h2>
+                        <h2>Finance for Non-Financial Executives</h2>
                        
                         <span>Finance fundamentals for non-finance executives</span>
 
