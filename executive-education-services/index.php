@@ -135,7 +135,7 @@ include('../partials/navbar.php');
                     </div>
                     <div class="actionBtns">
                                <a class="btn btn_events" href="#" >Enroll now</a>
-                            <a class="btn btn_events" target="_blank" href="pdf/Visualizing-Data-Stories-for-Strategic-Thinking.pdf" >View catalog</a>
+                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Visualizing-Data-Stories-for-Strategic-Thinking.pdf" >View catalog</a>
                     </div>
                 </div>
                        <div class="eventDescDetail ">
@@ -155,7 +155,7 @@ include('../partials/navbar.php');
                     </div>
                     <div class="actionBtns">
                               <a class="btn btn_events" href="#" >Enroll now</a>
-                            <a class="btn btn_events" target="_blank" href="pdf/Goal-Setting.pdf" >View catalog</a>
+                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Goal-Setting.pdf" >View catalog</a>
                     </div>
                 </div>
                 
@@ -176,7 +176,7 @@ include('../partials/navbar.php');
                     </div>
                     <div class="actionBtns">
                              <a class="btn btn_events" href="#" >Enroll now</a>
-                            <a class="btn btn_events" target="_blank" href="pdf/Finance-for-Non-Financial-Executives.pdf" >View catalog</a>
+                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Finance-for-Non-Financial-Executives.pdf" >View catalog</a>
                     </div>
                 </div>
                 
