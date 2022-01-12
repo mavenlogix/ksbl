@@ -47,7 +47,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Gohar_Alam_Siddiqui_Session_thumbnail.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events </div>
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
                                 <div class="detail" >Gohar Alam Siddiqui Conducted a Session on Industrial Relations</div>
@@ -76,7 +76,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Adnan_Masood_Session_thumbnail.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events </div>
                           
                             <div class="other-details">
                                 <div class="detail" >Adnan Masood Conducted a Session on MBTI - Myers-Briggs Type Indicator</div>
@@ -91,7 +91,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Muhammad_Saad_Yusufi_Session_thumbnail.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events </div>
                           
                             <div class="other-details">
                                 <div class="detail" >Muhammad Saad Yusufi talks to KSBL Students</div>
