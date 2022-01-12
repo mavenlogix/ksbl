@@ -52,7 +52,7 @@ include('../../../partials/navbar.php');
                           
                             <div class="other-details">
                                 <div class="detail" >Sulman Malik Conducted a Top-Five Challenges that CEOs Face</div>
-                                <div class="date">Monday, January, 3rd, 2021</div>
+                                <div class="date">Monday, January, 3rd, 2022</div>
                             </div>
                         </div>
                     </a>
@@ -67,7 +67,7 @@ include('../../../partials/navbar.php');
                           
                             <div class="other-details">
                                 <div class="detail" >Gohar Alam Siddiqui Conducted a Session on Industrial Relations</div>
-                                <div class="date">Thursday, January, 6th, 2021</div>
+                                <div class="date">Thursday, January, 6th, 2022</div>
                             </div>
                         </div>
                     </a>
