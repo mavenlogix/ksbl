@@ -118,32 +118,14 @@ include('../partials/navbar.php');
 
         <div class="container ">
             <div class="upcoming-programs d-grid">
-                <div class="eventDescDetail ">
-                    <div class="event-date">
-                        <div class="current-month">
-                           
-                            <h3 class="">
-                                Jan 2022</h3>
-                           
-                        </div>
-                    </div>
-                    <div class="eventDesc">
-                        <h2>Visualizing data stories</h2>
-                       
-                        <span>Unlock the magical ways to turn hidden gems into shining insights</span>
 
-                    </div>
-                    <div class="actionBtns">
-                               <a class="btn btn_events" href="#" >Enroll now</a>
-                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Visualizing-Data-Stories-for-Strategic-Thinking.pdf" >View catalog</a>
-                    </div>
-                </div>
-                       <div class="eventDescDetail ">
+            <div class="eventDescDetail ">
                     <div class="event-date">
                         <div class="current-month">
                            
                             <h3 class="">
-                                Jan 2022</h3>
+                                Jan 20, 2022
+                            </h3>
                            
                         </div>
                     </div>
@@ -158,13 +140,16 @@ include('../partials/navbar.php');
                             <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Goal-Setting.pdf" >View catalog</a>
                     </div>
                 </div>
+
+   
                 
-                       <div class="eventDescDetail ">
+                <div class="eventDescDetail ">
                     <div class="event-date">
                         <div class="current-month">
                            
                             <h3 class="">
-                                Jan 2022</h3>
+                                Jan 25 - 26, 2022
+                            </h3>
                            
                         </div>
                     </div>
@@ -179,15 +164,39 @@ include('../partials/navbar.php');
                             <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Finance-for-Non-Financial-Executives.pdf" >View catalog</a>
                     </div>
                 </div>
+
+                <div class="eventDescDetail ">
+                    <div class="event-date">
+                        <div class="current-month">
+                           
+                            <h3 class="">
+                                Jan 26 - 27, 2022
+                            </h3>
+                           
+                        </div>
+                    </div>
+                    <div class="eventDesc">
+                        <h2>Visualizing data stories</h2>
+                       
+                        <span>Unlock the magical ways to turn hidden gems into shining insights</span>
+
+                    </div>
+                    <div class="actionBtns">
+                               <a class="btn btn_events" href="#" >Enroll now</a>
+                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Visualizing-Data-Stories-for-Strategic-Thinking.pdf" >View catalog</a>
+                    </div>
+                </div>
                 
               
             </div>
            
             <div class="contact-committee">
               <!--   <span>Since pre-program reading is required, it is advised to send registration(s) at least 10 working days prior to the program.</span> -->
-                <h2>For more information, please contact our Executive Education Team</h2>
+                <h2>For more information, please contact our
+                    Executive Education Team
+                </h2>
                 <a href="mailto:execed@ksbl.edu.pk">execed@ksbl.edu.pk</a>
-                <a href="tel:03332161255">PABX: 03332161255, +92(21) 38771999, Ext 716</a>
+                <a href="tel:03332161255">PABX: +92 (21) 38771999, Ext 716, +92 (333) 216 1255</a>
                 <a href="executive-education-services/pdf/performance_based_coaching.pdf" title="Contact Us" class="mb-0">Apply</a>
             </div>
         </div>
