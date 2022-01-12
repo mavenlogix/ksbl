@@ -3965,6 +3965,17 @@ button.playBtnVid:focus {
         background-attachment: fixed;
         background-size: cover;
     }
+        .edsNewPrograms .d-grid{
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-row-gap: 20px;
+    }
+ .edsNewPrograms{
+        height: auto;
+        padding: 80px 0;
+    }
+    .edsNewPrograms .eventDesc{
+        height: 130px;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -4181,6 +4192,15 @@ button.playBtnVid:focus {
     }
 
 
+    .edsNewPrograms .d-grid{
+        grid-template-columns: auto auto;
+        grid-row-gap: 20px;
+    }
+    .edsNewPrograms{
+        height: auto;
+        padding: 80px 0;
+    }
+ 
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
@@ -4397,12 +4417,17 @@ button.playBtnVid:focus {
         max-width: 100%;
     }
 
-    /*   .videoSecondHome .about-campus {
-        position: initial;
-        width: 100%;
-        display: block;
-        transform: initial;
-    }*/
+    .edsNewPrograms .d-grid{
+        grid-template-columns: auto;
+        grid-row-gap: 20px;
+    }
+    .edsNewPrograms{
+        height: auto;
+        padding: 80px 0;
+    }
+    .edsNewPrograms .eventDesc{
+        height: auto;
+    }
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -4613,6 +4638,18 @@ button.playBtnVid:focus {
         display: block;
         transform: initial;
     }*/
+
+    .edsNewPrograms .d-grid{
+        grid-template-columns: auto;
+        grid-row-gap: 20px;
+    }
+    .edsNewPrograms{
+        height: auto;
+        padding: 80px 0;
+    }
+    .edsNewPrograms .eventDesc{
+        height: auto;
+    }
 }
 
 @media (min-width: 320px) and (max-width: 360px) {
