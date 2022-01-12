@@ -42,6 +42,22 @@ include('../../../partials/navbar.php');
 
                 <div class="center-page-content news-and-events container-boxes" >
 
+
+                <a href="blog/Sulman_Malik.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/Sulman_Malik_thumbnail.jpg" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >Sulman Malik Conducted a Top-Five Challenges that CEOs Face</div>
+                                <div class="date">Monday, January, 3rd, 2021</div>
+                            </div>
+                        </div>
+                    </a>
+
+
                 <a href="blog/Gohar_Alam_Siddiqui_Session.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/Gohar_Alam_Siddiqui_Session_thumbnail.jpg" alt="Data Science">
