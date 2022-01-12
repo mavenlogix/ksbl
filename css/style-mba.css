@@ -938,6 +938,9 @@ a.btn-primary:hover {
     width: 50%;
     margin: 50px auto 0px auto;
 }
+.increaseWidth{
+    width: 60%;
+}
 
 .contact-committee a {
     text-decoration: none;

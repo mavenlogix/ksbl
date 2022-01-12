@@ -190,7 +190,7 @@ include('../partials/navbar.php');
               
             </div>
            
-            <div class="contact-committee">
+            <div class="contact-committee increaseWidth">
               <!--   <span>Since pre-program reading is required, it is advised to send registration(s) at least 10 working days prior to the program.</span> -->
                 <h2>For more information, please contact our
                     Executive Education Team
