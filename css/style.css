@@ -3708,7 +3708,8 @@ button.playBtnVid:focus {
 
 }
 .edsNewPrograms .eventDesc h2{
-
+  text-align: left;
+  color: #000;
     font-size: 24px;
     font-family: MyriadPro-Cond;
 }
@@ -3718,6 +3719,9 @@ button.playBtnVid:focus {
     font-size: 35px;
     margin: 0px;
     font-weight: normal;
+    text-align: center;
+    display: block;
+    color: #ffffff;
 }
 .edsNewPrograms .eventDesc {
     text-align: left;
@@ -3773,8 +3777,105 @@ button.playBtnVid:focus {
     border-radius: 0;
     padding: 5px;
 }
+.edsNewProgramsNew{
+    background: url(../images/ees/ees.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  
+    padding: 40px 0;
+    height: 120vh;
+    display: flex;
+    align-items: center;
+    
+}
+.edsNewProgramsNew .d-grid{
 
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    justify-content: center;
+    grid-column-gap: 20px;
 
+}
+.edsNewProgramsNew .eventDesc h2{
+
+    font-size: 24px;
+    font-family: MyriadPro-Cond;
+    
+}
+.edsNewProgramsNew .eventDesc span{
+
+    font-size: 16px;
+    
+}
+
+.edsNewProgramsNew h2 {
+    font-family: MyriadPro-Cond;
+    font-size: 35px;
+    margin: 0px;
+    font-weight: normal;
+    text-align: center;
+    display: block;
+    color: #ffffff;
+}
+.edsNewCard{
+          border-left: 10px solid #000;
+    width: 300px;
+clip-path: polygon(0 34%, 100% 0, 100% 73%, 0 100%);
+    background:#FAA633;
+}
+.eventDescDetailNew{
+    position: relative;
+    text-align: center;
+    height: 420px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/*.eventDescDetailNew::after{
+    content: '';
+       background: #000;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}*/
+
+.eventDescDetailNew .event-date{
+  position: absolute;
+  top: 25px;
+  right:5px;
+}
+.eventDescDetailNew .event-date h3{
+     font-weight: normal;
+     line-height: 18px;
+        font-size: 16px;
+}
+.eventDescDetailNew .event-date h3 small{
+    font-size: 12px;
+
+}
+.eventDescDetailNew .event-date h3 span{
+  font-weight: bold;
+  font-size: 20px;
+}
+.edsNewProgramsNew .eventDesc h2{
+  margin-bottom: 0;
+}
+.edsNewProgramsNew .eventDesc{
+  margin: 30px 0;
+  height: 79px;
+}
+.edsNewProgramsNew .btn_events{
+        background: #000;
+        color: #fff;
+    width: 100px;
+    margin: 0 5px;
+    font-size: 14px;
+    border-radius: 0;
+    padding: 5px;
+}
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
