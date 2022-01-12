@@ -42,6 +42,20 @@ include('../../../partials/navbar.php');
 
                 <div class="center-page-content news-and-events container-boxes" >
 
+                <a href="blog/Gohar_Alam_Siddiqui_Session.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/Gohar_Alam_Siddiqui_Session_thumbnail.jpg" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events </div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >Gohar Alam Siddiqui Conducted a Session on Industrial Relations</div>
+                                <div class="date">Thursday, January, 6th, 2021</div>
+                            </div>
+                        </div>
+                    </a>
+
                 <a href="blog/Aisha_Aijaz_Session.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/Aisha_Aijaz_session.jpg" alt="Data Science">
