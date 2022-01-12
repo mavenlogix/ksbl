@@ -3702,7 +3702,7 @@ button.playBtnVid:focus {
 .edsNewPrograms .d-grid{
 
     display: grid;
-    grid-template-columns: 329px 329px 329px;
+    grid-template-columns: 350px 350px 350px;
     justify-content: center;
     grid-column-gap: 20px;
 
