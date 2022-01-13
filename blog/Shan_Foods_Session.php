@@ -52,11 +52,30 @@ include('../partials/navbar.php');
 							#                       Other Pictures                             #
 							#----------------------------------------------------------------->
                     <div class="other-pictures">
-                        <!-- <div class="blog-image-section image">
+                        <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/Gohar_Alam_Siddiqui_Session_pic1.jpg" alt="Data Science">
+                                <img src="images/blog/Shan_Foods_Session_pic2.jpg" alt="Data Science">
                             </div>
-                        </div> -->
+                        </div>
+
+                        <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/Shan_Foods_Session_pic2.jpg" alt="Data Science">
+                            </div>
+                        </div>
+
+                        <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/Shan_Foods_Session_pic3.jpg" alt="Data Science">
+                            </div>
+                        </div>
+
+                        <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/Shan_Foods_Session_pic4.jpg" alt="Data Science">
+                            </div>
+                        </div>
+
                         
                     </div>
                     <!-----------------------------------------------------------------#
