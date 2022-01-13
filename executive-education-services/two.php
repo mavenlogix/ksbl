@@ -131,6 +131,7 @@ include('../partials/navbar.php');
             border: solid 1px orange;
             border-radius: 20px;
             margin: 20px;
+            width: 350px;
         }
 
         .cardsParent .myCards .cardDate{
@@ -194,6 +195,9 @@ include('../partials/navbar.php');
             .cardsParent{
             flex-direction: column;
             }
+            .cardsParent .myCards{
+            width: 100%;
+        }
         }
         @media (max-width: 480px) {
 
@@ -208,6 +212,7 @@ include('../partials/navbar.php');
             .cardsParent .myCards{
             padding: 10px;
             margin: 10px;
+            width: 100%;
         }
         }
 
