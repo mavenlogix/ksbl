@@ -28,27 +28,23 @@ include('../partials/navbar.php');
                 <a href="blog/category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
                 <div class="center-page-content news-and-events container-boxes">
                     <div class="blog-header">
-                        <img src="images/blog/Gohar_Alam_Siddiqui_Session_thumbnail.jpg" alt="Blog other">
+                        <img src="images/blog/Shan_Foods_Session_thumbnail.jpg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>Gohar Alam Siddiqui Conducted a Session on Industrial Relations</h2>
-                            <div class="post-date">Thursday, January, 6th, 2022</div>
+                            <h2>Shan Foods Recently Conducted a One-On-One Counseling Session with KSBL Students</h2>
+                            <div class="post-date">Wednesday, January, 5th, 2022</div>
                         </div>
                     </div>
                     <div class="blog-detail">
                         <p>
-                        It is an integral part of the teaching methodology at KSBL to impart the latest and most industry-relevant knowledge to our students.
+                        Shan Foods Private Limited recently conducted a one-on-one counseling session with KSBL students. The session was conducted by Talha Sufi (Deputy Manager of HR), Roohi Usman (Talent Acquisition Manager and KSBL MBA Alumna), and Mahira Mirza (Marketing MT).
                         </p>
 
                         <p>
-                        An interactive session was recently conducted by industrial relations champion Mr. Gohar Alam Siddiqui where he spoke to KSBL MBA students about Industrial Relations.
+                        The session included career advice and addressing questions about students' areas of interest. The counselors also guided the students on building their future career road map based on their interests.
                         </p>
                         <p>
-                        He shared various interesting anecdotes regarding the state of industrial and employee relations in Pakistan, and the finer points involved in managing labor unions. He also advised the students on how to effectively work in a unionized environment.
-                        </p>
-
-                        <p>
-                        Gohar Alam Siddiqui is CEO and Founder of Right End Consultants and holds more than 30 years of diverse experience in HR and Industrial Relations.
+                        Interaction with industry practitioners and learning from their experiences is a regular feature for students at KSBL. This gives them an opportunity to network and learn from professionals and their personal experiences firsthand.
                         </p>
             
                     </div>
@@ -56,23 +52,11 @@ include('../partials/navbar.php');
 							#                       Other Pictures                             #
 							#----------------------------------------------------------------->
                     <div class="other-pictures">
-                        <div class="blog-image-section image">
+                        <!-- <div class="blog-image-section image">
                             <div class="campus-image">
                                 <img src="images/blog/Gohar_Alam_Siddiqui_Session_pic1.jpg" alt="Data Science">
                             </div>
-                        </div>
-
-                        <div class="blog-image-section image">
-                            <div class="campus-image">
-                                <img src="images/blog/Gohar_Alam_Siddiqui_Session_pic2.jpg" alt="Data Science">
-                            </div>
-                        </div>
-
-                        <div class="blog-image-section image">
-                            <div class="campus-image">
-                                <img src="images/blog/Gohar_Alam_Siddiqui_Session_thumbnail.jpg" alt="Data Science">
-                            </div>
-                        </div>
+                        </div> -->
                         
                     </div>
                     <!-----------------------------------------------------------------#
