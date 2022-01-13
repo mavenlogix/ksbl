@@ -197,12 +197,12 @@ include('../partials/navbar.php');
                 </h2>
                 <a href="mailto:execed@ksbl.edu.pk">execed@ksbl.edu.pk</a>
                 <a href="tel:03332161255">PABX: +92 (21) 38771999, Ext 716, +92 (333) 216 1255</a>
-                <a href="executive-education-services/pdf/performance_based_coaching.pdf" title="Contact Us" class="mb-0">Apply</a>
+                <!-- <a href="executive-education-services/pdf/performance_based_coaching.pdf" title="Contact Us" class="mb-0">Apply</a> -->
             </div>
         </div>
     </div>
 <br></br>
-<div class="edsNewProgramsNew">
+<div class="edsNewProgramsNew" style="display: none;">
        <div class="container d-block">
         <div class="d-grid">
               <div class="edsNewCard">
