@@ -171,6 +171,7 @@ include('../partials/navbar.php');
             color: white;
             transition: 0.5s;
             margin: 5px;
+            border-radius: 10px;
         }
         .cardsParent .myCards .cardsBtn button:hover{
             border: solid 1px white;
@@ -189,6 +190,27 @@ include('../partials/navbar.php');
             }
         }
       
+        @media (min-width: 481px) and (max-width: 992px) {
+            .cardsParent{
+            flex-direction: column;
+            }
+        }
+        @media (max-width: 480px) {
+
+            .cardsParent{
+            flex-direction: column;
+            }
+
+            .cardsParent .myCards .cardsBtn{
+                flex-direction: column;
+            }
+
+            .cardsParent .myCards{
+            padding: 10px;
+            margin: 10px;
+        }
+        }
+
     </style>
 
         <div class="container ">
@@ -215,14 +237,14 @@ include('../partials/navbar.php');
 
                 <div class="myCards">
                 <div class="cardDate">
-                        Jan 20, 2022
+                        Jan 25 - 26, 2022
                     </div>
                     <div class="cardBody">
                         <h6>
-                            Goal Setting
+                        Finance for Non-Financial Executives
                         </h6>
                         <p>
-                            Your first step towards success
+                        Finance fundamentals for non-finance executives
                         </p>
                     </div>
                     <div class="cardsBtn">
@@ -233,14 +255,14 @@ include('../partials/navbar.php');
 
                 <div class="myCards">
                 <div class="cardDate">
-                        Jan 20, 2022
+                Jan 26 - 27, 2022
                     </div>
                     <div class="cardBody">
                         <h6>
-                            Goal Setting
+                        Visualizing data stories
                         </h6>
                         <p>
-                            Your first step towards success
+                        Unlock the magical ways to turn hidden gems into shining insights
                         </p>
                     </div>
                     <div class="cardsBtn">
@@ -251,78 +273,6 @@ include('../partials/navbar.php');
 
             </div>
 
-            <!-- <div class="upcoming-programs d-grid"> -->
-
-                <!-- <div class="eventDescDetail ">
-                    <div class="event-date">
-                        <div class="current-month">
-                           
-                            <h3 class="">
-                                Jan 20, 2022
-                            </h3>
-                           
-                        </div>
-                    </div>
-                    <div class="eventDesc">
-                        <h2>Goal Setting</h2>
-                       
-                        <span>Your first step towards success</span>
-
-                    </div>
-                    <div class="actionBtns">
-                              <a class="btn btn_events" href="http://bit.ly/goal-setting-2" >Enroll now</a>
-                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Goal-Setting.pdf" >View catalog</a>
-                    </div>
-                </div> -->
-
-   
-                
-                <!-- <div class="eventDescDetail ">
-                    <div class="event-date">
-                        <div class="current-month">
-                           
-                            <h3 class="">
-                                Jan 25 - 26, 2022
-                            </h3>
-                           
-                        </div>
-                    </div>
-                    <div class="eventDesc">
-                        <h2>Finance for Non-Financial Executives</h2>
-                       
-                        <span>Finance fundamentals for non-finance executives</span>
-
-                    </div>
-                    <div class="actionBtns">
-                             <a class="btn btn_events" href="http://bit.ly/non-financial-executives" >Enroll now</a>
-                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Finance-for-Non-Financial-Executives.pdf" >View catalog</a>
-                    </div>
-                </div> -->
-
-                <!-- <div class="eventDescDetail ">
-                    <div class="event-date">
-                        <div class="current-month">
-                           
-                            <h3 class="">
-                                Jan 26 - 27, 2022
-                            </h3>
-                           
-                        </div>
-                    </div>
-                    <div class="eventDesc">
-                        <h2>Visualizing data stories</h2>
-                       
-                        <span>Unlock the magical ways to turn hidden gems into shining insights</span>
-
-                    </div>
-                    <div class="actionBtns">
-                               <a class="btn btn_events" href="http://bit.ly/viz-data-stories" >Enroll now</a>
-                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Visualizing-Data-Stories-for-Strategic-Thinking.pdf" >View catalog</a>
-                    </div>
-                </div> -->
-                
-              
-            <!-- </div> -->
            
             <div class="contact-committee increaseWidth">
               <!--   <span>Since pre-program reading is required, it is advised to send registration(s) at least 10 working days prior to the program.</span> -->
