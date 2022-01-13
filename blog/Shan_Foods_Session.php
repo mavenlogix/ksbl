@@ -28,7 +28,7 @@ include('../partials/navbar.php');
                 <a href="blog/category/news-and-updates/" class="back-link" title="All News">All News & Events</a>
                 <div class="center-page-content news-and-events container-boxes">
                     <div class="blog-header">
-                        <img src="images/blog/Gohar_Alam_Siddiqui_Session_thumbnail.jpg" alt="Blog other">
+                        <img src="images/blog/Shan_Foods_Session_thumbnail.jpg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
                             <h2>Shan Foods Recently Conducted a One-On-One Counseling Session with KSBL Students</h2>
@@ -52,17 +52,11 @@ include('../partials/navbar.php');
 							#                       Other Pictures                             #
 							#----------------------------------------------------------------->
                     <div class="other-pictures">
-                        <div class="blog-image-section image">
+                        <!-- <div class="blog-image-section image">
                             <div class="campus-image">
                                 <img src="images/blog/Gohar_Alam_Siddiqui_Session_pic1.jpg" alt="Data Science">
                             </div>
-                        </div>
-
-                        <div class="blog-image-section image">
-                            <div class="campus-image">
-                                <img src="images/blog/Gohar_Alam_Siddiqui_Session_pic2.jpg" alt="Data Science">
-                            </div>
-                        </div>
+                        </div> -->
                         
                     </div>
                     <!-----------------------------------------------------------------#
