@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <?php 
 $page_meta_key = 'Executive-Education-Programs';
 include('../partials/head.php');
 
 ?>
+
 <body class="mba ees">
     <!-----------------------------------------------------------------#
-	#                       Header START                               #
-	#----------------------------------------------------------------->
+    #                       Header START                               #
+    #----------------------------------------------------------------->
     <header id="header" class="run">
         <div class="container">
             <?php
 include('../partials/navbar.php'); 
 ?>
-
             <div class="header-content">
                 <a href="index.php" title="KSBL" class="logo">
                     <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
@@ -26,7 +25,7 @@ include('../partials/navbar.php');
                 </div><!-- container -->
             </div>
         </div><!-- container -->
-         <div class="header-bottom">
+        <div class="header-bottom">
             <div class="ksbl-programs-wrap">
                 <div class="container">
                     <div class="ksbl-programs">
@@ -46,11 +45,11 @@ include('../partials/navbar.php');
         </div><!-- Header-bottom -->
     </header>
     <!-----------------------------------------------------------------#
-	#                       Header END                                 #
-	#----------------------------------------------------------------->
+    #                       Header END                                 #
+    #----------------------------------------------------------------->
     <!-----------------------------------------------------------------#
-	#                       MBA Department                             #
-	#----------------------------------------------------------------->
+    #                       MBA Department                             #
+    #----------------------------------------------------------------->
     <div class="departments">
         <div class="container">
             <a href="executive-education-services/" class="department active" title="MBA">About</a>
@@ -61,11 +60,11 @@ include('../partials/navbar.php');
         </div><!-- container -->
     </div>
     <!-----------------------------------------------------------------#
-	#                   MBA Department END                             #
-	#----------------------------------------------------------------->
+    #                   MBA Department END                             #
+    #----------------------------------------------------------------->
     <!-----------------------------------------------------------------#
-	#                      About MBA Start                            #
-	#----------------------------------------------------------------->
+    #                      About MBA Start                            #
+    #----------------------------------------------------------------->
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
@@ -76,18 +75,18 @@ include('../partials/navbar.php');
                 <div class="detail">
                     <p>Mastery for executives and decision-makers rests in the knowledge they hold, the power to communicate and a detailed yet overarching understanding of the business at hand. Our executive education programs prepare and train for all-embracing components at play.
                         <p>Executive Education at KSBL encourages and supports intellectual leadership and ongoing innovation across all major disciplines of business education. With the ambition of being the most cutting-edge executive education center in the region, we prepare professionals for the next stage in their career. It is through our deep learning that we understand the expectations of the industry, helping us to tailor our learning interventions, keeping the professionals' knowledge and skillsets absolutely market relevant.
-                            </p>
+                        </p>
                     </p>
                 </div>
             </div>
         </div>
     </div>
     <!-----------------------------------------------------------------#
-	#                      About END                              #
-	#----------------------------------------------------------------->
+    #                      About END                              #
+    #----------------------------------------------------------------->
     <!-----------------------------------------------------------------#
-	#                      Faculty MBA Start                           #
-	#----------------------------------------------------------------->
+    #                      Faculty MBA Start                           #
+    #----------------------------------------------------------------->
     <div class="mba-section">
         <div class="container">
             <div class="left-side">
@@ -108,90 +107,67 @@ include('../partials/navbar.php');
         </div>
     </div>
     <!-----------------------------------------------------------------#
-	#                      Faculty MBA END                             #
-	#----------------------------------------------------------------->
+    #                      Faculty MBA END                             #
+    #----------------------------------------------------------------->
     <!-----------------------------------------------------------------#
-	#                      Open House Start                            #
-	#----------------------------------------------------------------->
+    #                      Open House Start                            #
+    #----------------------------------------------------------------->
     <div class="edsNewPrograms">
-       
-
         <div class="container ">
             <div class="upcoming-programs d-grid">
-
-            <div class="eventDescDetail ">
+                <div class="eventDescDetail ">
                     <div class="event-date">
                         <div class="current-month">
-                           
                             <h3 class="">
                                 Jan 20, 2022
                             </h3>
-                           
                         </div>
                     </div>
                     <div class="eventDesc">
                         <h2>Goal Setting</h2>
-                       
                         <span>Your first step towards success</span>
-
                     </div>
                     <div class="actionBtns">
-                              <a class="btn btn_events" href="http://bit.ly/goal-setting-2" >Enroll now</a>
-                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Goal-Setting.pdf" >View catalog</a>
+                        <a class="btn btn_events" href="http://bit.ly/goal-setting-2">Enroll now</a>
+                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Goal-Setting.pdf">View catalog</a>
                     </div>
                 </div>
-
-   
-                
                 <div class="eventDescDetail ">
                     <div class="event-date">
                         <div class="current-month">
-                           
                             <h3 class="">
                                 Jan 25 - 26, 2022
                             </h3>
-                           
                         </div>
                     </div>
                     <div class="eventDesc">
                         <h2>Finance for Non-Financial Executives</h2>
-                       
                         <span>Finance fundamentals for non-finance executives</span>
-
                     </div>
                     <div class="actionBtns">
-                             <a class="btn btn_events" href="http://bit.ly/non-financial-executives" >Enroll now</a>
-                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Finance-for-Non-Financial-Executives.pdf" >View catalog</a>
+                        <a class="btn btn_events" href="http://bit.ly/non-financial-executives">Enroll now</a>
+                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Finance-for-Non-Financial-Executives.pdf">View catalog</a>
                     </div>
                 </div>
-
                 <div class="eventDescDetail ">
                     <div class="event-date">
                         <div class="current-month">
-                           
                             <h3 class="">
                                 Jan 26 - 27, 2022
                             </h3>
-                           
                         </div>
                     </div>
                     <div class="eventDesc">
                         <h2>Visualizing data stories</h2>
-                       
                         <span>Unlock the magical ways to turn hidden gems into shining insights</span>
-
                     </div>
                     <div class="actionBtns">
-                               <a class="btn btn_events" href="http://bit.ly/viz-data-stories" >Enroll now</a>
-                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Visualizing-Data-Stories-for-Strategic-Thinking.pdf" >View catalog</a>
+                        <a class="btn btn_events" href="http://bit.ly/viz-data-stories">Enroll now</a>
+                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Visualizing-Data-Stories-for-Strategic-Thinking.pdf">View catalog</a>
                     </div>
                 </div>
-                
-              
             </div>
-           
             <div class="contact-committee increaseWidth">
-            
                 <h2>For more information, please contact our
                     Executive Education Team
                 </h2>
@@ -201,22 +177,84 @@ include('../partials/navbar.php');
             </div>
         </div>
     </div>
-
-
-
+<!--     <div class="edsNewProgramsNew" style="display: none;">
+        <div class="container d-block">
+            <div class="d-grid">
+                <div class="edsNewCard">
+                    <div class="eventDescDetailNew ">
+                        <div class="event-date">
+                            <div class="current-month">
+                                <h3 class="">
+                                    <small>20</small> <span>JAN</span> <br> 2022
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="eventDesc">
+                            <h2>Goal Setting</h2>
+                            <span>Your first step towards success</span>
+                        </div>
+                        <div class="actionBtns">
+                            <a class="btn btn_events" href="http://bit.ly/goal-setting-2">Enroll now</a>
+                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Goal-Setting.pdf">View catalog</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="edsNewCard">
+                    <div class="eventDescDetailNew ">
+                        <div class="event-date">
+                            <div class="current-month">
+                                <h3 class="">
+                                    <small>20</small> <span>JAN</span> <br> 2022
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="eventDesc">
+                            <h2>Finance for Non-Financial Executives</h2>
+                            <span>Finance fundamentals for non-finance executives</span>
+                        </div>
+                        <div class="actionBtns">
+                            <a class="btn btn_events" href="http://bit.ly/non-financial-executives">Enroll now</a>
+                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Finance-for-Non-Financial-Executives.pdf">View catalog</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="edsNewCard">
+                    <div class="eventDescDetailNew ">
+                        <div class="event-date">
+                            <div class="current-month">
+                                <h3 class="">
+                                    <small>20</small> <span>JAN</span> <br> 2022
+                                </h3>
+                            </div>
+                        </div>
+                        <div class="eventDesc">
+                            <h2>Visualizing data stories
+                            </h2>
+                            <span>Unlock the magical ways to turn hidden gems into shining insights</span>
+                        </div>
+                        <div class="actionBtns">
+                            <a class="btn btn_events" href="http://bit.ly/viz-data-stories">Enroll now</a>
+                            <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Visualizing-Data-Stories-for-Strategic-Thinking.pdf">View catalog</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="contact-committee text-center">
+                <h2>For more information, please contact our
+                    Executive Education Team
+                </h2>
+                <a href="mailto:execed@ksbl.edu.pk">execed@ksbl.edu.pk</a>
+                <a href="tel:03332161255">PABX: +92 (21) 38771999, Ext 716, +92 (333) 216 1255</a>
+                <a href="executive-education-services/pdf/performance_based_coaching.pdf" title="Contact Us" class="mb-0">Apply</a>
+            </div>
+        </div>
+    </div> -->
     <!-----------------------------------------------------------------#
-	#                      Open House END                              #
-	#----------------------------------------------------------------->
-    <?php
-include('../partials/footer.php');
-?>
-
-<!-- footer end -->
-<?php
-include('../partials/footer-scripts.php');
-?>
-
-
+    #                      Open House END                              #
+    #----------------------------------------------------------------->
+    <?php include('../partials/footer.php');?>
+    <!-- footer end -->
+    <?php include('../partials/footer-scripts.php');?>
 </body>
 
 </html>

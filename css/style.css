@@ -3625,14 +3625,14 @@ button.playBtnVid:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-  border-radius: 0;
+    border-radius: 0;
     padding: 0px 2px 0 1.7px;
     line-height: 1.2;
     background-color: #db4157;
     font-size: 12px;
     color: white;
     font-weight: 100;
-   
+
 }
 
 
@@ -3646,16 +3646,16 @@ button.playBtnVid:focus {
     align-items: center;
     justify-content: center;
     border-radius: 0;
-  padding: 0px 2px 0 2px;
+    padding: 0px 2px 0 2px;
     line-height: 1.2;
-    background-color:#db4157;
+    background-color: #db4157;
     font-family: MyriadPro-Regular;
     color: white;
     font-weight: 100;
-  
+
 }
 
-.news-event-detail  .badge{
+.news-event-detail .badge {
     position: absolute;
     top: 0px;
     font-size: 12px;
@@ -3667,21 +3667,31 @@ button.playBtnVid:focus {
     border-radius: 0;
     padding: 0px 2px 0 2px;
     line-height: 1.2;
-    background-color:#db4157;
+    background-color: #db4157;
     font-family: MyriadPro-Regular;
     color: white;
     font-weight: 100;
-  
+
 }
 
 
 .news-event-detail {
     position: relative;
 }
-.open-house-section .edu_page_Catalog_link a{ text-decoration: none; color: #fff; }
-.open-house-section .edu_page_Catalog_link a:hover{ color: #FAA633; }
 
-.open-house-section .colorChange a{ text-decoration: none; color: #FAA633; }
+.open-house-section .edu_page_Catalog_link a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.open-house-section .edu_page_Catalog_link a:hover {
+    color: #FAA633;
+}
+
+.open-house-section .colorChange a {
+    text-decoration: none;
+    color: #FAA633;
+}
 
 
 
@@ -3699,19 +3709,22 @@ button.playBtnVid:focus {
     }
 }
 
-.edsNewPrograms .d-grid{
+.edsNewPrograms .d-grid {
 
     display: grid;
-    grid-template-columns: 350px 350px 350px;
+    grid-template-columns: 370px 370px 370px;
     justify-content: center;
     grid-column-gap: 20px;
 
 }
-.edsNewPrograms .eventDesc h2{
-  text-align: left;
-  color: #000;
-    font-size: 24px;
+
+.edsNewPrograms .eventDesc h2 {
+    text-align: left;
+    color: #000;
+    font-size: 28px;
+    line-height: 26px;
     font-family: MyriadPro-Cond;
+    margin-bottom: 5px;
 }
 
 .edsNewPrograms h2 {
@@ -3723,19 +3736,21 @@ button.playBtnVid:focus {
     display: block;
     color: #ffffff;
 }
+
 .edsNewPrograms .eventDesc {
     text-align: left;
-   height: 110px;
+    height: 110px;
     color: #000000;
     padding: 15px 40px 15px 15px;
     border-bottom: 1px solid #707070;
 
 }
-.edsNewPrograms{
+
+.edsNewPrograms {
     background: url(../images/ees/ees.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
-  
+
     padding: 0;
     height: 100vh;
     display: flex;
@@ -3748,7 +3763,7 @@ button.playBtnVid:focus {
     color: #ffffff;
 }
 
-.edsNewPrograms  .eventDescDetail .event-date div h3 {
+.edsNewPrograms .eventDescDetail .event-date div h3 {
     background-color: #FAA633;
     padding: 10px;
     position: relative;
@@ -3760,35 +3775,38 @@ button.playBtnVid:focus {
 
 
 .eventDescDetail {
-  background: white;
+    background: white;
 }
 
-.eventDescDetail .actionBtns{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 65px;
+.eventDescDetail .actionBtns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 65px;
 }
-.eventDescDetail .btn_events{
-        background: #FAA633;
+
+.eventDescDetail .btn_events {
+    background: #FAA633;
     width: 100px;
     margin: 0 5px;
     font-size: 14px;
     border-radius: 0;
     padding: 5px;
 }
-.edsNewProgramsNew{
+
+.edsNewProgramsNew {
     background: url(../images/ees/ees.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
-  
+
     padding: 40px 0;
     height: 120vh;
     display: flex;
     align-items: center;
-    
+
 }
-.edsNewProgramsNew .d-grid{
+
+.edsNewProgramsNew .d-grid {
 
     display: grid;
     grid-template-columns: 350px 350px 350px;
@@ -3797,10 +3815,10 @@ button.playBtnVid:focus {
 
 }
 
-.edsNewProgramsNew .eventDesc span{
+.edsNewProgramsNew .eventDesc span {
 
     font-size: 16px;
-    
+
 }
 
 .edsNewProgramsNew h2 {
@@ -3812,22 +3830,25 @@ button.playBtnVid:focus {
     display: block;
     color: #ffffff;
 }
-.edsNewProgramsNew .eventDesc h2{
+
+.edsNewProgramsNew .eventDesc h2 {
 
     font-size: 24px;
     font-family: MyriadPro-Cond;
-    color:#000 ;
+    color: #000;
     letter-spacing: 1px;
     font-weight: 600;
-    
+
 }
-.edsNewCard{
-          border-left: 10px solid #000;
+
+.edsNewCard {
+    border-left: 10px solid #000;
     width: 300px;
-clip-path: polygon(0 34%, 100% 0, 100% 73%, 0 100%);
-    background:#FAA633;
+    clip-path: polygon(0 34%, 100% 0, 100% 73%, 0 100%);
+    background: #FAA633;
 }
-.eventDescDetailNew{
+
+.eventDescDetailNew {
     position: relative;
     text-align: center;
     height: 420px;
@@ -3837,46 +3858,45 @@ clip-path: polygon(0 34%, 100% 0, 100% 73%, 0 100%);
     justify-content: center;
 }
 
-/*.eventDescDetailNew::after{
-    content: '';
-       background: #000;
-    height: 60px;
-    width: 100%;
-    position: absolute;
-    bottom: 0;
-}*/
 
-.eventDescDetailNew .event-date{
-  position: absolute;
-  top: 25px;
-  right:5px;
+
+.eventDescDetailNew .event-date {
+    position: absolute;
+    top: 25px;
+    right: 5px;
 }
-.eventDescDetailNew .event-date h3{
-     font-weight: normal;
-     line-height: 18px;
-        font-size: 16px;
-        color: #fff;
+
+.eventDescDetailNew .event-date h3 {
+    font-weight: normal;
+    line-height: 18px;
+    font-size: 16px;
+    color: #fff;
 }
-.eventDescDetailNew .event-date h3 small{
+
+.eventDescDetailNew .event-date h3 small {
     font-size: 12px;
     color: #000;
 
 }
-.eventDescDetailNew .event-date h3 span{
-  font-weight: bold;
-  font-size: 20px;
-  color: #000;
+
+.eventDescDetailNew .event-date h3 span {
+    font-weight: bold;
+    font-size: 20px;
+    color: #000;
 }
-.edsNewProgramsNew .eventDesc h2{
-  margin-bottom: 0;
+
+.edsNewProgramsNew .eventDesc h2 {
+    margin-bottom: 0;
 }
-.edsNewProgramsNew .eventDesc{
-  margin: 30px 0;
-  height: 79px;
+
+.edsNewProgramsNew .eventDesc {
+    margin: 30px 0;
+    height: 79px;
 }
-.edsNewProgramsNew .btn_events{
-        background: #000;
-        color: #fff;
+
+.edsNewProgramsNew .btn_events {
+    background: #000;
+    color: #fff;
     width: 100px;
     margin: 0 5px;
     font-size: 14px;
@@ -4073,15 +4093,18 @@ clip-path: polygon(0 34%, 100% 0, 100% 73%, 0 100%);
         background-attachment: fixed;
         background-size: cover;
     }
-        .edsNewPrograms .d-grid{
+
+    .edsNewPrograms .d-grid {
         grid-template-columns: 1fr 1fr 1fr;
         grid-row-gap: 20px;
     }
- .edsNewPrograms{
+
+    .edsNewPrograms {
         height: auto;
         padding: 80px 0;
     }
-    .edsNewPrograms .eventDesc{
+
+    .edsNewPrograms .eventDesc {
         height: 130px;
     }
 }
@@ -4300,15 +4323,16 @@ clip-path: polygon(0 34%, 100% 0, 100% 73%, 0 100%);
     }
 
 
-    .edsNewPrograms .d-grid{
+    .edsNewPrograms .d-grid {
         grid-template-columns: auto auto;
         grid-row-gap: 20px;
     }
-    .edsNewPrograms{
+
+    .edsNewPrograms {
         height: auto;
         padding: 80px 0;
     }
- 
+
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
@@ -4525,15 +4549,17 @@ clip-path: polygon(0 34%, 100% 0, 100% 73%, 0 100%);
         max-width: 100%;
     }
 
-    .edsNewPrograms .d-grid{
+    .edsNewPrograms .d-grid {
         grid-template-columns: auto;
         grid-row-gap: 20px;
     }
-    .edsNewPrograms{
+
+    .edsNewPrograms {
         height: auto;
         padding: 80px 0;
     }
-    .edsNewPrograms .eventDesc{
+
+    .edsNewPrograms .eventDesc {
         height: auto;
     }
 }
@@ -4747,15 +4773,17 @@ clip-path: polygon(0 34%, 100% 0, 100% 73%, 0 100%);
         transform: initial;
     }*/
 
-    .edsNewPrograms .d-grid{
+    .edsNewPrograms .d-grid {
         grid-template-columns: auto;
         grid-row-gap: 20px;
     }
-    .edsNewPrograms{
+
+    .edsNewPrograms {
         height: auto;
         padding: 80px 0;
     }
-    .edsNewPrograms .eventDesc{
+
+    .edsNewPrograms .eventDesc {
         height: auto;
     }
 }
