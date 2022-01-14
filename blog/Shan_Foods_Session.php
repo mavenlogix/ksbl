@@ -54,7 +54,7 @@ include('../partials/navbar.php');
                     <div class="other-pictures">
                         <div class="blog-image-section image">
                             <div class="campus-image">
-                                <img src="images/blog/Shan_Foods_Session_pic2.jpg" alt="Data Science">
+                                <img src="images/blog/Shan_Foods_Session_pic1.jpg" alt="Data Science">
                             </div>
                         </div>
 
