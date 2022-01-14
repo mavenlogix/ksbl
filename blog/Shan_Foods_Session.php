@@ -32,7 +32,7 @@ include('../partials/navbar.php');
                         <div class="blog-name">
                             <div class="tag">Events</div>
                             <h2>Shan Foods Recently Conducted a One-On-One Counseling Session with KSBL Students</h2>
-                            <div class="post-date">Wednesday, January, 5th, 2022</div>
+                            <div class="post-date">Monday, January, 3rd, 2022</div>
                         </div>
                     </div>
                     <div class="blog-detail">

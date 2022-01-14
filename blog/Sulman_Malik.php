@@ -32,7 +32,7 @@ include('../partials/navbar.php');
                         <div class="blog-name">
                             <div class="tag">Events</div>
                             <h2>Sulman Malik Conducted a Top-Five Challenges that CEOs Face</h2>
-                            <div class="post-date">Monday, January, 3rd, 2022</div>
+                            <div class="post-date">Thursday, January, 6th, 2022</div>
                         </div>
                     </div>
                     <div class="blog-detail">

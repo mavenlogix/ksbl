@@ -32,7 +32,7 @@ include('../partials/navbar.php');
                         <div class="blog-name">
                             <div class="tag">Events</div>
                             <h2>Gohar Alam Siddiqui Conducted a Session on Industrial Relations</h2>
-                            <div class="post-date">Thursday, January, 6th, 2022</div>
+                            <div class="post-date">Wednesday, January, 5th, 2022</div>
                         </div>
                     </div>
                     <div class="blog-detail">
