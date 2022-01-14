@@ -75,9 +75,12 @@ include('../../partials/navbar.php');
             <div class="left-side">
                 <h2>Admissions Process</h2>
                 Admission at KSBL is based on various parameters of competencies and diversities of applicants. Here you will understand how the admissions process works, from completing your application, to reaching the interview stage. It is a simple but holistic three step process:<br><br>
-                1. Filling out all sections of our online application form<br>
-                2. Assessment (Including KMAT)<br>
-                3. Interview<br>
+                1. Completing the Online Application Form<br>
+                2. Assessment<br>
+                <ul>
+                <li>Graduate Programs: KSBL Management Admissions Test (KMAT) and Interview</li>
+                <li>Undergraduate Programs: KSBL Undergraduate Admissions Test</li>
+                </ul>
             </div>
             <div class="right-side">
                 <div class="contact-committee">
@@ -154,6 +157,21 @@ include('../../partials/navbar.php');
                                     <a href="https://us02web.zoom.us/meeting/register/tZEsf-CqrjoqEtxkKtUS6lURutVTMB2XILDP">here</a>
                                 </div>
                             </div>
+
+                            <div class="sec-row">
+                                <div class="sec-col heading"><strong>Transfer Students:</strong></div>
+                                <div class="sec-col">
+                                    <ul>
+                                        <li>Transfer of credits applies to 1st and 2nd-semester students on the Undergraduate level only.</li>
+                                        <li>Credits are transferred on a course-to-course basis, for courses graded minimum C and above.</li>
+                                        <li>Credit transfer will take place once the candidate has been accepted for admission at KSBL</li>
+                                        <li>The test will be waived on a case-to-case basis</li>
+                                        <li>Transfer of credits will be as per HEC Guidelines</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+
                         </div>
                         <!-- ==== deadlines === -->
                         <!--====== key dates started =======-->
