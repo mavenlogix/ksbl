@@ -82,7 +82,7 @@ include('../../partials/navbar.php');
                 <li>Undergraduate Programs: KSBL Undergraduate Admissions Test (KUAT)</li>
                 </ul>
             </div>
-            <div class="right-side rightAlign">
+            <div class="right-side ">
                 <div class="contact-committee">
                     <h2>Contact our </br>Admissions Office</h2>
                     <a href="mailto:admissions@ksbl.edu.pk">admissions@ksbl.edu.pk</a>
