@@ -74,15 +74,15 @@ include('../../partials/navbar.php');
         <div class="container">
             <div class="left-side">
                 <h2>Admissions Process</h2>
-                Admission at KSBL is based on various parameters of competencies and diversities of applicants. Here you will understand how the admissions process works, from completing your application, to reaching the interview stage. It is a simple but holistic three step process:<br><br>
-                1. Completing the Online Application Form<br>
-                2. Assessment<br>
+                
+                Step 1: Completing the Online Application Form<br>
+                Step 2: Assessment<br>
                 <ul>
                 <li>Graduate Programs: KSBL Management Admissions Test (KMAT) and Interview</li>
                 <li>Undergraduate Programs: KSBL Undergraduate Admissions Test (KUAT)</li>
                 </ul>
             </div>
-            <div class="right-side">
+            <div class="right-side rightAlign">
                 <div class="contact-committee">
                     <h2>Contact our </br>Admissions Office</h2>
                     <a href="mailto:admissions@ksbl.edu.pk">admissions@ksbl.edu.pk</a>
