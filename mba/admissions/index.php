@@ -74,7 +74,6 @@ include('../../partials/navbar.php');
         <div class="container">
             <div class="left-side">
                 <h2>Admissions Process</h2>
-                
                 1. Completing the Online Application Form<br>
                 2. Assessment<br>
                 <ul>
