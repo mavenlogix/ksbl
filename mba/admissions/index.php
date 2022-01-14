@@ -77,9 +77,9 @@ include('../../partials/navbar.php');
                 
                 Step 1: Completing the Online Application Form<br>
                 Step 2: Assessment<br>
-                <ul>
-                <li>Graduate Programs: KSBL Management Admissions Test (KMAT) and Interview</li>
-                <li>Undergraduate Programs: KSBL Undergraduate Admissions Test (KUAT)</li>
+                <ul style="list-style: none;">
+                <li><em>Graduate Programs:</em> KSBL Management Admissions Test (KMAT) and Interview</li>
+                <li><em>Undergraduate Programs:</em> KSBL Undergraduate Admissions Test (KUAT)</li>
                 </ul>
             </div>
             <div class="right-side rightAlign">
