@@ -142,79 +142,82 @@ include('../partials/head.php');
 
                         <div id="credentials" class=" tab-pane fade"><br>
                             <h4 class="text-primary">Education</h4>
-                            <p>
-                            •	PhD in Economics, GREDEG-CNRS, Université de Nice-Sophia Antipolis. France <br>
-                                Thesis Title “Financial System and Technological Catching-Up; A Quantitative and Qualitative Analysis of the Wealth of Nations” 2011
-                            </p>
-                            <p>
-                            •	M2/MS: Economics of Innovation and Industrial Dynamics, Institute d’Administration des Entreprises <br>
-                                Universite de Nice -Sophia Antipolis. <br>
-                                Thesis Title" Corporate Diversification, Export Performance and Economic Growth; A Case Study of South Korea" <br>
-                                2007
-                            </p>
-                            <p>
-                            •	Course Intensif de Français Spécialisé en Economie <br>
-                                Centre Universitaire d’Etudes Françaises (C.U.E.F) <br>
-                                Université Stendhal – Grenoble 3, France <br>
-                                2006
-                            </p>
-                            <p>
-                            •	Certificate d’Etudes de Langue Française <br>
-                                Alliance Française D’Islamabad <br>
-                                French Cultural Center, F-7/2, St # 18 <br>
-                                Islamabad, Pakistan. <br>
-                                2006
-                            </p>
+                            <ul>
+                                <li>
+                                    PhD in Economics, GREDEG-CNRS, Université de Nice-Sophia Antipolis. France <br>
+                                    Thesis Title “Financial System and Technological Catching-Up; A Quantitative and Qualitative Analysis of the Wealth of Nations” 2011
+                                </li>
 
-
+                                <li>
+                                    M2/MS: Economics of Innovation and Industrial Dynamics, Institute d’Administration des Entreprises <br>
+                                    Universite de Nice -Sophia Antipolis. <br>
+                                    Thesis Title" Corporate Diversification, Export Performance and Economic Growth; A Case Study of South Korea" <br>
+                                    2007
+                                </li>
+                                <li>
+                                    Course Intensif de Français Spécialisé en Economie <br>
+                                    Centre Universitaire d’Etudes Françaises (C.U.E.F) <br>
+                                    Université Stendhal – Grenoble 3, France <br>
+                                    2006
+                                </li>
+                                <li>
+                                    Certificate d’Etudes de Langue Française <br>
+                                    Alliance Française D’Islamabad <br>
+                                    French Cultural Center, F-7/2, St # 18 <br>
+                                    Islamabad, Pakistan. <br>
+                                    2006
+                                </li>
+                            </ul>
+                            
+                            
                             <p ><b>Professional Trainings</b><br></p>
 
-                            <p>
-                            •	Certificate of Training in Banking and Finance <br>
+                            <li>
+                                Certificate of Training in Banking and Finance <br>
                                 National Institute of Banking & Finance, <br>
                                 Islamabad, Pakistan
-                            </p>
+                            </li>
 
-                            <p>
-                            •	7th HRDC Faculty Orientation Program Institute of <br>
+                            <li>
+                                7th HRDC Faculty Orientation Program Institute of <br>
                                 Administrative Sciences University of the <br>
                                 Punjab, Lahore, Pakistan
-                            </p>
+                            </li>
 
-                            <p>
-                            •	Scientific Writing Skills <br>
+                            <li>
+                                Scientific Writing Skills <br>
                                 30 hours training organized by College of Doctoral Studies, UNICE.
-                            </p>
+                            </li>
 
-                            <p>
-                            •	Scientific Presentation Skills <br>
+                            <li>
+                                Scientific Presentation Skills <br>
                                 30 hours training organized by College of Doctoral Studies, UNICE
-                            </p>
+                            </li>
 
 
-                            <p>
-                            •	Discovering the Enterprise <br>
+                            <li>
+                                Discovering the Enterprise <br>
                                 15 hours of Training to setup a small enterprise, organized by Faculty of Law, <br>
                                 Political Science & Economics, UNICE.
-                            </p>
+                            </li>
 
-                            <p>
-                            •	Education, Leadership & Entrepreneurship International <br>
+                            <li>
+                                Education, Leadership & Entrepreneurship International <br>
                                 Visitor Leadership Program (IVLP)US Department of State, <br>
                                 Washington, DC.
-                            </p>
-                            <p>
-                            •	Education, Leadership & Entrepreneurship International <br>
+                            </li>
+                            <li>
+                                Education, Leadership & Entrepreneurship International <br>
                                 Visitor Leadership Program (IVLP)US Department of State, <br>
                                 Washington, DC.
-                            </p>
+                            </li>
 
-                            <p>
-                            •	Escaping Middle-Income and Productivity Trap <br>
+                            <li>
+                                Escaping Middle-Income and Productivity Trap <br>
                                 Korea Development Institute, Korea <br>
                                 Korea Development Institute and the Asian Foundation organized 2 weeks study/visit program for Pakistani and Sri Lankan delegation on Sustainable Development of Middle-income Countries: Korea’s Experience and Practices.
 
-                            </p>
+                            </li>
 
                         </div>
 
