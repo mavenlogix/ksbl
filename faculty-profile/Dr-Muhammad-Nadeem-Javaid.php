@@ -129,91 +129,92 @@ include('../partials/head.php');
                     <div class="tab-content mt-2">
 
                         <div id="vita" class=" tab-pane active">
-                            <p><span style="color: #ff9f19;">Dr. Nadeem Javaid </span>has over 20 years of experience in academia, financial industry and policymaking. From August 2014 to October 2018, he has the privilege to be the Chief Economist of Government of Pakistan with the responsibility to advise the highest decision making forums such as Central Development Working Party (CDWP), Executive Committee of National Economic Council (ECNEC), National Economic Council (NEC) and Federal Cabinet. In his capacity as a Chief Economist, he supervised the preparation of the 11th and 12th National Five Year Plans besides finalizing the China Pakistan Economic Corridor (CPEC) Long term Plan (2016-30). The rigorous CPEC negotiations between China and Pakistan spanned over two-year period. The result is an approved document delineating the aspirational goals of both nations and a framework of cooperation worth $60 Billion of Projects under Chinese flagship Belt and Road Initiative.</p>
-                           <p>Also, Dr. Javaid served as an ex-officio Member of Economic Policy & Planning at the Planning Commission chaired by Prime Minister of Pakistan. He also served as Member Policy Board of Accountant General of Pakistan Revenue, Member National Accounts Committee and Member BoG CPEC Center of Excellence at PIDE University, Islamabad. In addition, he contributed as a member of the Working Group on Regulatory Reforms at the Economic Reforms Unit, Ministry of Finance.</p>
-                            <p>Dr. Javaid also served as an Advisor to the Federal Minister for Planning, Development and Reform. His advisory responsibilities included undertaking reviews, analyze policies and institutional structures, identifying challenges and recommend reforms for national development. In this capacity, Dr. Javaid has the honor of preparing the Vision 2025 of Pakistan as a lead author. Besides, the task involved developing a consensus among different stakeholders including line ministries and provincial governments, and devising an implementation and communication strategy. Moreover, he has central banking experience at the State Bank of Pakistan where he conducted compliance and risk-based on-site inspections of banks and non-banking financial institutions of the country.</p>
-                            <p>Further, Dr. Javaid has taught to postgraduates and executives at Suleman Dawood School for Business, Lahore University of Management Sciences and SKEMA Business School, France, where he taught Economic Policy, Innovation Strategy, Organization and Dynamics of Financial System, Financial Markets and Issues in Corporate Finance to its executive and postgraduate programs. Dr. Javaid has also served as an Associate Dean at Karachi School of Business and Leadership. He regularly contributes as a resource person in various capacity building trainings of senior Government officials at the National Institute of Management, National School of Public Policy, National Defense University and Air War College.</p>
-                            <p>During his PhD, he remained associated with the Group of Research on Law, Economics and Management at National Center for Scientific Research (GREDEG-CNRS), Sophia Antipolis, France. His PhD dissertation highlights the role of the financial sector in driving successful technological change in an economic system.</p>
+                            <p><span style="color: #ff9f19;">Dr. Nadeem Javaid </span>is the Professor of Strategy & Economics at KSBL. He has over 20 years of experience in academia, financial industry and policymaking and has also served as the Chief Economist of Government of Pakistan.</p>
+
+                           <p>In his academia experience, Dr. Javaid has taught postgraduates and executives at Suleman Dawood School for Business, Lahore University of Management Sciences and SKEMA Business School, France, where he taught Economic Policy, Innovation Strategy, Organization and Dynamics of Financial System, Financial Markets and Issues in Corporate Finance. </p>
+
+                            <p>He has served as the Member of Policy Board of Accountant General of Pakistan Revenue, Member National Accounts Committee and Member BoG CPEC Center of Excellence at PIDE University, Islamabad. He also served as an ex-officio Member of Economic Policy & Planning at the Planning Commission chaired by Prime Minister of Pakistan. </p>
+
+                            <p>During his Ph.D., Dr. Javaid remained associated with the Group of Research on Law, Economics and Management at National Center for Scientific Research, Sophia Antipolis, France to highlight the role of the financial sector in driving successful technological change in an economic system.</p>
+
+                          
                         </div>
 
                         <div id="credentials" class=" tab-pane fade"><br>
                             <h4 class="text-primary">Education</h4>
                             <p>
-                                <b>PhD</b> in Economics, GREDEG-CNRS, <b>Université de Nice-Sophia Antipolis. France</b><br>
-                                Thesis Title “Financial System and Technological Catching-Up; A Quantitative and Qualitative Analysis of the Wealth of Nations”
-                                <b>2011</b>
-
+                            •	PhD in Economics, GREDEG-CNRS, Université de Nice-Sophia Antipolis. France <br>
+                                Thesis Title “Financial System and Technological Catching-Up; A Quantitative and Qualitative Analysis of the Wealth of Nations” 2011
                             </p>
                             <p>
-                                <b>M2/MS:</b> Economics of Innovation and Industrial Dynamics, Institute d’Administration des Entreprises<br>
-                               <b> Université de Nice -Sophia Antipolis.</b><br>
-                                Thesis Title" Corporate Diversification, Export Performance and Economic Growth; A Case Study of South Korea"<br>
-                                <b>2007</b>
-
+                            •	M2/MS: Economics of Innovation and Industrial Dynamics, Institute d’Administration des Entreprises <br>
+                                Universite de Nice -Sophia Antipolis. <br>
+                                Thesis Title" Corporate Diversification, Export Performance and Economic Growth; A Case Study of South Korea" <br>
+                                2007
                             </p>
                             <p>
-                                Course Intensif de Français Spécialisé en Economie<br>
-                                Centre Universitaire d’Etudes Françaises (C.U.E.F)<br>
-                                <b>Université Stendhal – Grenoble 3, France</b><br>
-                                <b>2006</b>
-
+                            •	Course Intensif de Français Spécialisé en Economie <br>
+                                Centre Universitaire d’Etudes Françaises (C.U.E.F) <br>
+                                Université Stendhal – Grenoble 3, France <br>
+                                2006
                             </p>
                             <p>
-                                Certificate d’Etudes de Langue Française<br>
-                                Alliance Française D’Islamabad<br>
-                                French Cultural Center, F-7/2, St # 18<br>
-                                Islamabad, Pakistan.<br>
-                                <b>2006</b>
-
+                            •	Certificate d’Etudes de Langue Française <br>
+                                Alliance Française D’Islamabad <br>
+                                French Cultural Center, F-7/2, St # 18 <br>
+                                Islamabad, Pakistan. <br>
+                                2006
                             </p>
 
 
                             <p ><b>Professional Trainings</b><br></p>
 
                             <p>
-                                <em >Certificate of Training in Banking and Finance</em><br>
-                               <b>National Institute of Banking & Finance, </b>
-                                <br>Islamabad, Pakistan
+                            •	Certificate of Training in Banking and Finance <br>
+                                National Institute of Banking & Finance, <br>
+                                Islamabad, Pakistan
                             </p>
 
                             <p>
-                                <em >7th HRDC Faculty Orientation Program </em><b>Institute of</b><br>
-                               <b>Administrative Sciences </b>University of the 
-                                <br>Punjab, Lahore, Pakistan
+                            •	7th HRDC Faculty Orientation Program Institute of <br>
+                                Administrative Sciences University of the <br>
+                                Punjab, Lahore, Pakistan
                             </p>
 
                             <p>
-                                <em >Scientific Writing Skills</em><br>
+                            •	Scientific Writing Skills <br>
                                 30 hours training organized by College of Doctoral Studies, UNICE.
                             </p>
 
                             <p>
-                                <em >Scientific Presentation Skills</em><br>
+                            •	Scientific Presentation Skills <br>
                                 30 hours training organized by College of Doctoral Studies, UNICE
                             </p>
 
 
                             <p>
-                                <em >Discovering the Enterprise</em><br>
+                            •	Discovering the Enterprise <br>
                                 15 hours of Training to setup a small enterprise, organized by Faculty of Law, <br>
                                 Political Science & Economics, UNICE.
                             </p>
 
                             <p>
-                                <em >Education, Leadership & Entrepreneurship </em><b>International</b><br>
-                                <b>Visitor Leadership Program (IVLP)</b>US Department of State,<br>
+                            •	Education, Leadership & Entrepreneurship International <br>
+                                Visitor Leadership Program (IVLP)US Department of State, <br>
                                 Washington, DC.
                             </p>
-                            <p>3 weeks visit to USA to explore how universities, businesses and civil society work together to solve the socioeconomic problems.</p>
-
                             <p>
-                                <em >Escaping Middle-Income and Productivity Trap</em>
-                                <br>
-                                <b>Korea Development Institute, Korea</b><br>
-                                Korea Development Institute and the Asian Foundation organized 2 weeks study/visit program for Pakistani and Sri Lankan delegation on Sustainable Development of Middle-income Countries: Korea’s Experience and Practices.
+                            •	Education, Leadership & Entrepreneurship International <br>
+                                Visitor Leadership Program (IVLP)US Department of State, <br>
+                                Washington, DC.
                             </p>
 
+                            <p>
+                            •	Escaping Middle-Income and Productivity Trap <br>
+                                Korea Development Institute, Korea <br>
+                                Korea Development Institute and the Asian Foundation organized 2 weeks study/visit program for Pakistani and Sri Lankan delegation on Sustainable Development of Middle-income Countries: Korea’s Experience and Practices.
 
+                            </p>
 
                         </div>
 
