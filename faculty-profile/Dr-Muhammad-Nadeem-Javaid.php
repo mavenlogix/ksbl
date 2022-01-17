@@ -171,53 +171,55 @@ include('../partials/head.php');
                             
                             
                             <p ><b>Professional Trainings</b><br></p>
+                            <ul>
 
-                            <li>
-                                Certificate of Training in Banking and Finance <br>
+                                <li>
+                                    Certificate of Training in Banking and Finance <br>
                                 National Institute of Banking & Finance, <br>
                                 Islamabad, Pakistan
-                            </li>
+                                </li>
+                                
+                                <li>
+                                    7th HRDC Faculty Orientation Program Institute of <br>
+                                    Administrative Sciences University of the <br>
+                                    Punjab, Lahore, Pakistan
+                                </li>
 
-                            <li>
-                                7th HRDC Faculty Orientation Program Institute of <br>
-                                Administrative Sciences University of the <br>
-                                Punjab, Lahore, Pakistan
-                            </li>
+                                <li>
+                                    Scientific Writing Skills <br>
+                                    30 hours training organized by College of Doctoral Studies, UNICE.
+                                </li>
 
-                            <li>
-                                Scientific Writing Skills <br>
-                                30 hours training organized by College of Doctoral Studies, UNICE.
-                            </li>
-
-                            <li>
-                                Scientific Presentation Skills <br>
-                                30 hours training organized by College of Doctoral Studies, UNICE
-                            </li>
+                                <li>
+                                    Scientific Presentation Skills <br>
+                                    30 hours training organized by College of Doctoral Studies, UNICE
+                                </li>
 
 
-                            <li>
-                                Discovering the Enterprise <br>
-                                15 hours of Training to setup a small enterprise, organized by Faculty of Law, <br>
-                                Political Science & Economics, UNICE.
-                            </li>
+                                <li>
+                                    Discovering the Enterprise <br>
+                                    15 hours of Training to setup a small enterprise, organized by Faculty of Law, <br>
+                                    Political Science & Economics, UNICE.
+                                </li>
 
-                            <li>
-                                Education, Leadership & Entrepreneurship International <br>
-                                Visitor Leadership Program (IVLP)US Department of State, <br>
-                                Washington, DC.
-                            </li>
-                            <li>
-                                Education, Leadership & Entrepreneurship International <br>
-                                Visitor Leadership Program (IVLP)US Department of State, <br>
-                                Washington, DC.
-                            </li>
+                                <li>
+                                    Education, Leadership & Entrepreneurship International <br>
+                                    Visitor Leadership Program (IVLP)US Department of State, <br>
+                                    Washington, DC.
+                                </li>
+                                <li>
+                                    Education, Leadership & Entrepreneurship International <br>
+                                    Visitor Leadership Program (IVLP)US Department of State, <br>
+                                    Washington, DC.
+                                </li>
 
-                            <li>
-                                Escaping Middle-Income and Productivity Trap <br>
-                                Korea Development Institute, Korea <br>
-                                Korea Development Institute and the Asian Foundation organized 2 weeks study/visit program for Pakistani and Sri Lankan delegation on Sustainable Development of Middle-income Countries: Korea’s Experience and Practices.
-
-                            </li>
+                                <li>
+                                    Escaping Middle-Income and Productivity Trap <br>
+                                    Korea Development Institute, Korea <br>
+                                    Korea Development Institute and the Asian Foundation organized 2 weeks study/visit program for Pakistani and Sri Lankan delegation on Sustainable Development of Middle-income Countries: Korea’s Experience and Practices.
+                                    
+                                </li>
+                            </ul>
 
                         </div>
 
