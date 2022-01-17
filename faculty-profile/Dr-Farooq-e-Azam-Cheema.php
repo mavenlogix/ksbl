@@ -127,11 +127,11 @@ include('../partials/head.php');
                             <p class="ml-3 mt-1">Professor & Dean of Faculty of Management & Social Sciences, Bahria University Islamabad (stationed at Karachi)</p>
                             <p>2010 – 2013</p>
                             <p class="ml-3 mt-1">Professor & Dean Faculty of Management & Social Sciences, Institute of Business & Technology (IBT), Karachi (now Ilma University)</p>
-                            <p>2007 - 2010</p>
+                            <p>2007 – 2010</p>
                             <p class="ml-3 mt-1">Associate Professor, Acting Head of HR, Coordinator External Trainings, SZABIST Karachi</p>
                             <p>1988 – 2006</p>
                             <p class="ml-3 mt-1">Chief Consultant Human Resource Management & Development, 21st Century HR Consultants, Karachi.</p>
-                            <p><b class="" style="text-decoration: underline;">Corporate Training</b></p>
+                            <p><b >Corporate Training</b></p>
                             <p class="mt-2">Been actively engaged in corporate training at the Employers’ Federation of Pakistan (EFP), Institute of Bankers Pakistan (IBP) and NBEAC forums for last many years.</p>
                            
                         </div>
