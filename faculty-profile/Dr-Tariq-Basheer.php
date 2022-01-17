@@ -212,6 +212,7 @@ include('../partials/navbar.php');
                         <div id="publications" class=" tab-pane fade"><br>
                             <p>
                                 <p class="text-center"> <b>CONFERENCE PRESENTATIONS </b> </p>
+                                <br>
                                 <ul style="list-style: square;">
                                    <li>Frontiers of Finance Conference, Warwick, 2014</li>
                                    <li>Multinational Finance Society Annual Conference, Poland, 2012</li>
