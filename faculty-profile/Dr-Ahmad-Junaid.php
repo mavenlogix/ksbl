@@ -79,40 +79,50 @@ include('../partials/head.php');
                     <!-- Tab panes -->
                     <div class="tab-content mt-2">
                         <div id="vita" class=" tab-pane active">
-                          <p><span style="color: #ff9f19;">Dr. Ahmad Junaid</span> is an Associate Professor, Cluster Head Finance and Accounting at KSBL. Before joining KSBL he was at IBA as Chairman of Department of Finance and research fellow CBER. He has also taught at various leading international universities in France including Kedge Business School and IAE-AIX graduate school of management in their top ranked programs.<br>
-                            Apart from the academic engagements, after returning to Pakistan, he has been providing consultancy services to large private organizations, autonomous bodies and governmental organizations. Currently he also serves on board level committees of several financial market institutions.<br>
-                            He received his Ms and PhD. in finance from France. His area of interest includes market microstructures, quantitative finance, asset pricing and International finance.</p>
+                          <p><span style="color: #ff9f19;">Dr. Ahmad Junaid</span> is an Associate Professor, Cluster Head Finance and Accounting at KSBL. He has several years of experience teaching at national & international universities, and also serves on board level committees of several financial market institutions</p>
+
+                          <p>
+                          In his academia experience, he was the Chairman of Department of Finance and Research Fellow at Institute of Business Administration and has taught at various leading international universities in France including Kedge Business School and IAE-AIX graduate school of management in their top ranked programs. 
+                          </p>
+
+                          <p>
+                          Dr. Junaid completed his MS and Ph.D. in finance from I.A.E, Graduate School of Business, France with his thesis on Liquidity Spirals, Corporate governance, and Crisis: A case of Emerging Market. 
+                          </p>
                         
                         </div>
                         <div id="credentials" class=" tab-pane fade"><br>
                             <h4 class="text-primary">Education</h4>
-                                <p>
-                                    <b>PhD Finance, I.A.E, Graduate School of Business, France</b><br>
-                                    Topic: Liquidity Spirals, Corporate governance and Crisis: A case of Emerging Market<br>
-                                    <b>2014</b>
-
-                                    <b>Masters in Finance,</b> I.A.E, Graduate School of Business, France<br>
-                                    <b>2009</b>
-
-                                    <b>M.B.A (Finance)</b><br>
-                                    <b>2007</b>
-
-                                </p>
+                                <ul>
+                                    <li>PhD Finance, I.A.E, Graduate School of Business, France
+                                    Topic: Liquidity Spirals, Corporate governance and Crisis: A case of Emerging Market</li>
+                                    
+                                    <li>2014 Masters in Finance, I.A.E, Graduate School of Business, France</li>
+                                    
+                                    <li><span style="color: red;">From Where</span> 2009 M.B.A (Finance)</li>
+                                </ul>
 
                                 <p><b>Summer Schools and Courses Attended</b></p>
                                 <p>
                                     <ul>
                                         <li>Certification in fixed income investments- USAID-IFMP</li>
+                                        
                                         <li>Islamic Finance for Academicians- LUMS, Pakistan</li>
+                                        
                                         <li>Train the Trainer Workshop - INCEIF, Malaysia</li>
+                                        
                                         <li>Financial Management for Public Sector Executives - LUMS, Lahore</li>
+                                        
                                         <li>International Management Teachers Academy - CEEMAN, Bled , Slovenia</li>
+                                        
                                         <li>Summer School, Financial Markets in a Global World - Instituto Di Studi Economici E per L’Occupazione, Italy</li>
+                                        
                                         <li>Summer School, Microstructure of Financial markets - Groupement de Recherche en Economie Quantitative d'Aix Marseille, France</li>
+                                        
                                         <li>Cours Intensif De Francais Specialise en Economie/Finance (Level A2 and B1)- Universite Stendhal Grenoble 3, France</li>
+                                        
                                         <li>French Language Delf A2 Certification - Alliance Francaise</li>
-                                        <li>Master in Philosophy Financial Economics (Course Work Uncredited) <b>PIDE, Pakistan</b></li>
-
+                                        
+                                        <li>Master in Philosophy Financial Economics (Course Work Uncredited) PIDE, Pakistan</li>
                                     </ul>
                                 </p>
                         
@@ -120,56 +130,64 @@ include('../partials/head.php');
                                 <p>
                                     <ul>
                                         <li>Gold Medalist in M.B.A with 3.95/4 CGPA and 4.0/4 in three out of four semesters.</li>
+                                        
                                         <li>1st Position in Masters Financial Engineering at IAE-AIX</li>
+                                        
                                         <li>Highest Grades in the research thesis for the Masters Finance Program</li>
+                                        
                                         <li>Recipient of multiple research grants.</li>
+                                        
                                         <li>Had the honor to work with five Nobel laureates at the Instituto Di Studi Economici E per L’Occupazione, and was the only one at the school to receive an all-inclusive scholarship for the program. The Nobel laureates included, Professor Robert Solow, Professor William Sharpe, Prof Michael Spence, and Professor George Akerlof.</li>
-
                                     </ul>
                                 </p>
                         </div>
                         <div id="interests" class=" tab-pane fade"><br>
-                            <p class="text-primary">Chairman Faculty of Finance, <b>Institute of Business Administration IBA, Karachi. 2014-2020</b></p>
-                            <p>
-                                <span class="text-primary">Assistant Professor, <b>Institute of Business Administration IBA, Karachi. 2014-2020</b></span><br>
-                                Teaching and developing courses on Corporate Finance, Investment Banking and quantitative finance<br>
-                                <b>Area of Research:</b> Industrial policy, CPEC Asset pricing, Risk modelling
+                            <p class="text-primary">Chairman Faculty of Finance, Institute of Business Administration IBA, Karachi. 2014-2020
+                                Assistant Professor, Institute of Business Administration IBA, Karachi. 2014-2020
+                                </b>
                             </p>
                             <p>
-                                <span>Research Fellow, <b>Center of Business and Economic Research, CBER, IBA, Karachi. 2014-present</b></span><br>
-                                <b>Member of Board Risk Committee, National Clearing Company of Pakistan Limited (NCCPL). <br>2017 – Present </b>
+                                Teaching and developing courses on Corporate Finance, Investment Banking and quantitative finance
+                                Area of Research: Industrial policy, CPEC Asset pricing, Risk modelling
+                                Research Fellow, Center of Business and Economic Research, CBER, IBA, Karachi. 2014-present
+                                Member of Board Risk Committee, National Clearing Company of Pakistan Limited (NCCPL).
+                                2017 – Present
                             </p>
                             <p>
-                                <span class="text-primary">Affiliate Faculty</span><br>
-                                <b>I.A.E Graduate School of Business, Aix en Provence, France. 2011- 2012</b>
-
+                                <span><b>Affiliate Faculty</b></span><br>
+                                I.A.E Graduate School of Business, Aix en Provence, France. 2011- 2012
+                            </p>
+                            <p>
+                                <b >Affiliate Faculty</b><br>
+                                Kedge Business school, France 2010- 2012
                             </p>
 
                             <p>
-                                <span class="text-primary">Affiliate Faculty</span><br>
-                                <b>Kedge Business school, France 2010- 2012</b> 
-
+                                <span class="text-primary">Consultancy Assignments</span><br>
+                                <ul>
+                                    <li>Development of Policy paper for Islamic Financial Industry in Pakistan to achieve growth in SME and Agriculture sector. (SBP-CEIF)</li>
+                                    
+                                    <li>Risk Management Review of Pakistan Stock Exchange (PSX-NCCPL)</li>
+                                    
+                                    <li>Feasibility Study (Economic Impact Assessment, Industry Cluster analysis, Provincial Growth Strategy) Dhabeji Special Economic Zone (Government of Sindh (SBI))</li>
+                                    
+                                    <li>Assisted Planning Commission CPEC center of Excellence in LTP development</li>
+                                </ul>
                             </p>
-
-                            <p class="text-primary">Some Consultancy Assignments</p>
-                            <ul style="list-style: square;">
-                                <li class="mt-3">Development of Policy paper for Islamic Financial Industry in Pakistan to achieve growth in SME and Agriculture sector. (SBP-CEIF)</li>
-                                <li class="mt-3">Risk Management Review of Pakistan Stock Exchange (PSX-NCCPL)</li>
-                                <li class="mt-3">Feasibility Study (Economic Impact Assessment, Industry Cluster analysis, Provincial Growth Strategy) Dhabeji Special Economic Zone (Government of Sindh (SBI))</li>
-                                <li class="mt-3">Assisted Planning Commission CPEC center of Excellence in LTP development</li>
-
-                            </ul>
                             
                         </div>
                         <div id="publications" class=" tab-pane fade"><br>
                             <p class="text-center"><b>Research Activity</b></p>
                             <ul>
-                                <li class="mt-3">“Liquidity Commonality, Liquidity Spirals and Market crisis: A case of an emerging market”</li>
-                                <li class="mt-3">Derivative trading a bane or a boon? A tale of leverage and liquidity</li>
-                                <li class="mt-3">Industry Cluster Analysis for Special Economic zones in Pakistan</li>
-                                <li class="mt-3">Financing the SME and Agriculture Growth Sectors in Pakistan.</li>
-                                <li class="mt-3">Stock Market Infrastructure in Pakistan: Assessing the Impact of Proposed policy changes on risk management at PSX.</li>
-                               
+                                <li>“Liquidity Commonality, Liquidity Spirals and Market crisis: A case of an emerging market”</li>
+                                
+                                <li>Derivative trading a bane or a boon? A tale of leverage and liquidity</li>
+                                
+                                <li>Industry Cluster Analysis for Special Economic zones in Pakistan</li>
+                                
+                                <li>Financing the SME and Agriculture Growth Sectors in Pakistan.</li>
+                                
+                                <li>Stock Market Infrastructure in Pakistan: Assessing the Impact of Proposed policy changes on risk management at PSX.</li>
                             </ul>
 
                             <p><span class="text-primary">Conferences</span><br>
@@ -177,13 +195,19 @@ include('../partials/head.php');
                             </p>
                             <p>
                                 <ul style="list-style: square;">
-                                    <li class="mt-3">4th Annual American Business Research conference, <b>ABRC New York</b></li>
-                                    <li class="mt-3">“The search for Financial Stability: Models, Policies and Prospects” <b>5th International IFABS Conference Nottingham</b></li>
-                                    <li class="mt-3">13th Eurasia Business and Economic society Meeting, <b>EBES Istanbul</b></li>
-                                    <li class="mt-3">Global Conference on Business and Finance, <b>GCBF San Jose Costa Rica</b></li>
-                                    <li class="mt-3">“Financial Markets and Corporate Governance” The <b>5th FMCGC QUT Brisbane</b></li>
-                                    <li class="mt-3">31st International Conference of French Finance Association, <b>AFFI France</b></li>
-                                    <li class="mt-3">21st Annual Conference of Global Finance association, <b>GFC Dubai</b></li>
+                                    <li>4th Annual American Business Research conference, ABRC New York</li>
+                                    
+                                    <li>“The search for Financial Stability: Models, Policies and Prospects” 5th International IFABS Conference Nottingham</li>
+                                    
+                                    <li>13th Eurasia Business and Economic society Meeting, EBES Istanbul</li>
+                                    
+                                    <li>Global Conference on Business and Finance, GCBF San Jose Costa Rica</li>
+                                    
+                                    <li>“Financial Markets and Corporate Governance” The 5th FMCGC QUT Brisbane</li>
+                                    
+                                    <li>31st International Conference of French Finance Association, AFFI France</li>
+                                    
+                                    <li>21st Annual Conference of Global Finance association, GFC Dubai</li>
                                 </ul>
                             </p>
                         </div>
