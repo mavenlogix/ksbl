@@ -171,8 +171,8 @@ include('../partials/head.php');
                             
                             
                             <p ><b>Professional Trainings</b><br></p>
+                           
                             <ul>
-
                                 <li>
                                     Certificate of Training in Banking and Finance <br>
                                 National Institute of Banking & Finance, <br>
@@ -227,21 +227,23 @@ include('../partials/head.php');
 
                            <div class="container">
                                 <div class="row">
-                                    <div class="col-lg-3"><p>2014 - 2018:</p></div>
+                                    <div class="col-lg-3"><p>2014 - 2018</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            <b>Chief Economist,</b><br>
-                                            Ministry of Planning, Development & <br>Reform, Government of Pakistan
+                                            Chief Economist, <br>
+                                            Ministry of Planning, Development & <br>
+                                            Reform, Government of Pakistan
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2014:</p></div>
+                                    <div class="col-lg-3"><p>2014</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            <b>Policy Advisor</b><br>
-                                            Ministry of Planning, Development & <br>Reform, Government of Pakistan.
+                                            Policy Advisor <br>
+                                            Ministry of Planning, Development & <br>
+                                            Reform, Government of Pakistan.
                                         </p>
                                     </div>
                                 </div>
@@ -250,62 +252,61 @@ include('../partials/head.php');
                                     <div class="col-lg-3"><p>2012- 2014</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            <b>Associate Dean/ Faculty Member</b><br>
-                                            KSBL 
+                                            Associate Dean/ Faculty Member <br>
+                                            KSBL
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2011- 2012:</p></div>
+                                    <div class="col-lg-3"><p>2011- 2012</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            <b>Assistant Professor</b><br>
-                                            Suleman Dawood School of Business,<br>
+                                            Assistant Professor <br>
+                                            Suleman Dawood School of Business, <br>
                                             Lahore University of Management Sciences, Lahore
-                                            
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2008 – 2011:</p></div>
+                                    <div class="col-lg-3"><p>2008 - 2011</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            <b>Adjunct Faculty Member</b><br>
+                                            Adjunct Faculty Member <br>
                                             SKEMA Business School, France. 
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2005- 2011:</p></div>
+                                    <div class="col-lg-3"><p>2005 - 2011</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            <b>Lecturer</b><br>
-                                            Department of Economics<br>
+                                            Lecturer <br>
+                                            Department of Economics <br>
                                             University of the Punjab, Lahore, Pakistan.
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2003 - 2005:</p></div>
+                                    <div class="col-lg-3"><p>2003 - 2005</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            <b>Assistant Director/ Inspecting Officer</b><br>
-                                            Banking Inspection Department<br>
+                                            Assistant Director/ Inspecting Officer <br>
+                                            Banking Inspection Department <br>
                                             State Bank of Pakistan, Karachi, Pakistan.
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>1999- 2003:</p></div>
+                                    <div class="col-lg-3"><p>1999 - 2003</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            <b>Lecturer</b><br>
-                                            Department of Economics<br>
+                                            Lecturer <br>
+                                            Department of Economics <br>
                                             The Islamia University of Bahawalpur, Pakistan.
                                         </p>
                                     </div>
@@ -313,16 +314,25 @@ include('../partials/head.php');
 
                                 <h4 class="text-primary mt-4">Keynote Speeches, Panelist and Chair</h4>
                                 <ul style="list-style: square;">
-                                    <li>Panel discussion on “The road to naya Pakistan is throng with pitfalls” AERC Annual International Conference, <b>Serena Hotel, Islamabad, 19-20 November,</b> 2019</li>
-                                    <li>Panel discussion on “Leveraging Karachi for CPEC” at 5th Deans and Directors Conference, organized by NBEC, Higher Education Commission, <b>Pearl Continental Hotel, Karachi,</b> 5-6 February 2018.</li>
-                                    <li>Keynote Speech as <b>Head of Pakistan’s delegation</b> “Investment Climate of Pakistan” at OBOR Seminar, <b>China Development Bank, Beijing,</b> 18 April 2017.</li>
-                                    <li>Keynote address “CPEC and Financial Integration” at International Forum on Unlocking Islamic Finance Potential” at <b>Center for Excellence of Islamic Finance, IBA Karachi,</b> 17 January, 2017.</li>
-                                    <li>Keynote on “CPEC: Rationale & Socioeconomics” at The Julis - Rabinowitz Center for Public Policy & Finance, 19 October 2016, <b>Princeton University, USA.</b></li>
-                                    <li>Chaired Panel discussion on “Economic and Institutional Landscape” at Regional Conference on Risks and Solutions: Adaptation Frameworks for Water Resources Planning, Development and Management in South Asia, 12-13 July 2016, <b>Hilton Colombo, Sri Lanka.</b></li>
-                                    <li>Panel discussion on “Pakistan and Climate Change” at Regional Exchange - Budgeting for Climate Change: A Collaborative Approach for Effectiveness, 4-5 April 2016, <b>Kathmandu, Nepal.</b></li>
-                                    <li>Panel discussion on “Productivity led growth and Development” at 31st PIDE-PSDE International Conference - Effective Strategies for Transformational Growth, 17-19 December 2015, <b>the Marriot Islamabad, Pakistan.</b></li>
-                                    <li>Keynote on “Directions for Economic Reforms” at 4th International Conference - National Evaluation Capacities for Development, 26-30 October 2015, <b>Bangkok, Thailand.</b></li>
-                                    <li>Chaired technical session on “Rural Pakistan: Entrepreneurship, Land and Political Economy” at 30th PIDE-PSDE International Conference - Poverty, Inequality and Economic Growth, 2-4 December 2014, <b>Pak China Center Islamabad, Pakistan.</b></li>
+                                    <li>Panel discussion on “The road to naya Pakistan is throng with pitfalls” AERC Annual International Conference, Serena Hotel, Islamabad, 19-20 November, 2019</li>
+                                    
+                                    <li>Panel discussion on “Leveraging Karachi for CPEC” at 5th Deans and Directors Conference, organized by NBEC, Higher Education Commission, Pearl Continental Hotel, Karachi, 5-6 February 2018.</li>
+                                    
+                                    <li>Keynote Speech as Head of Pakistan’s delegation “Investment Climate of Pakistan” at OBOR Seminar, China Development Bank, Beijing, 18 April 2017.</li>
+                                    
+                                    <li>Keynote address “CPEC and Financial Integration” at International Forum on Unlocking Islamic Finance Potential” at Center for Excellence of Islamic Finance, IBA Karachi, 17 January, 2017.</li>
+                                    
+                                    <li>Keynote on “CPEC: Rationale & Socioeconomics” at The Julis - Rabinowitz Center for Public Policy & Finance, 19 October 2016, Princeton University, USA.</li>
+                                    
+                                    <li>Chaired Panel discussion on “Economic and Institutional Landscape” at Regional Conference on Risks and Solutions: Adaptation Frameworks for Water Resources Planning, Development and Management in South Asia, 12-13 July 2016, Hilton Colombo, Sri Lanka.</li>
+                                    
+                                    <li>Panel discussion on “Pakistan and Climate Change” at Regional Exchange - Budgeting for Climate Change: A Collaborative Approach for Effectiveness, 4-5 April 2016, Kathmandu, Nepal.</li>
+                                    
+                                    <li>Panel discussion on “Productivity led growth and Development” at 31st PIDE-PSDE International Conference - Effective Strategies for Transformational Growth, 17-19 December 2015, the Marriot Islamabad, Pakistan.</li>
+                                    
+                                    <li>Keynote on “Directions for Economic Reforms” at 4th International Conference - National Evaluation Capacities for Development, 26-30 October 2015, Bangkok, Thailand.</li>
+                                    
+                                    <li>Chaired technical session on “Rural Pakistan: Entrepreneurship, Land and Political Economy” at 30th PIDE-PSDE International Conference - Poverty, Inequality and Economic Growth, 2-4 December 2014, Pak China Center Islamabad, Pakistan.</li>
                                 </ul>
                               
                            </div>
@@ -331,15 +341,20 @@ include('../partials/head.php');
 
                         <div id="publications" class=" tab-pane fade"><br>
 
-                           <p>Dr. Javaid firmly believes that technology is an imperative determinant of economic growth; whereas technological change takes place in the framework of a complex process of institutional embeddedness, in which policies and institutions co-evolve with the macroeconomic environments. Therefore, he contends that differences among financial institutions and financial sector policies within the framework of "national system of innovation" have strong potential to explain the nature and causes of the differences of the wealth of nations. Following this context his research and teaching interests revolve around Financial System, Macroeconomics, Business Government Relations, Innovation & Technological Change, Industrial Organization and Corporate Strategy. Dr. Javaid has presented his research work at several International peer reviewed conferences.</p>
                             <h4 class="text-primary mt-4">Publications</h4>
                             <ul style="list-style: square;">
                                 <li>Javaid, M.N., and Saviotti, P.P. (2012), “Financial System and Technological Catching-up: An Empirical Analysis” Journal of Evolutionary Economics: Volume 22, Issue 4, Page 847-870.</li>
+                            
                                 <li>Javaid, M.N., and Saviotti, P.P. (2013), “Is There a Recipe for Increasing the Export Variety of Nations” Book Chapter # 21 in “Long Term Economic Development, Economic Complexity and Evolution”, Edited by A. Pyka and E.S. Andersen, Springer, Germany.</li>
+                            
                                 <li>Afzal, M; Ahmed, G; and Javaid, M.N. (2017), “ Empirical Assessment of Climate Change on Agricultural Crops for Pakistan: A Panel Data Analysis” International Journal of Food and Agricultural Economics: Volume 5, issue 2, Page 59-68</li>
+                            
                                 <li>Javaid, M.N., Naveed, I., and Ahmed, G., (2017) “What Drives the Quality of Institutions in Asian Economies? Directions for Economic Reforms” Journal of South Asian Studies: 05(03) Page 127- 139</li>
+                            
                                 <li>Javaid, M.N., and Sharik, A. R (2018) “Political Economy of Taxation in Pakistan: Replace or not to replace GST with VAT?” forthcoming Asian Journal of Management Cases.</li>
+                            
                                 <li>“Productivity Dynamics; A case of Pakistan” under review process in Journal of South Asian Development.</li>
+
                             </ul>
 
 
@@ -353,31 +368,43 @@ include('../partials/head.php');
                             <h4 class="text-primary mt-4">Official Documents as Chairman/lead Review Committee</h4>
                             <ul style="list-style: square;">
                                 <li>Vision 2025: A document, approved by National Economic Council, which outlines the development philosophy of the government of Pakistan.</li>
+                                
                                 <li>11th and 12th Five Year Plans: A publication that aligns the initiatives and efforts of all the line ministries to achieve high growth trajectory. Federal Cabinet, National Economic Council and Parliament of Pakistan have approved it.</li>
+                                
                                 <li>Government of Pakistan’s Annual Plans 2014-15, 2015-16 and 2017-18</li>
+                                
                                 <li>China Pakistan Economic Corridor Long-term Plan (2016-2030)</li>
                             </ul>
 
                             <h4 class="text-primary mt-4">Peer Reviewed International Conferences</h4>
                             <ul style="list-style: square;">
-                                <li>“Financial System, Corporate Diversification and Technological Catching-up: South Korea; an imitator to innovator” Presented at GLOBELICS Academy on Innovation and Development, 2 -13 June 2008, University of Tempere, <b>Finland.</b></li>
-                                <li>“Is There a Direction in Economic Development? And, if so, what does it imply for emerging countries?” with P.P. Saviotti. 6th GLOBELICS Conference, 22 - 24 September 2008, <b>Mexico City.</b></li>
-                                <li>“Financial System and Technological Catching-Up: Organization & Dynamics: An Overview” Presented at Thematic Meeting of the French Economic Association “Firms, Markets and Innovation” 25 - 26 June 2009, <b>Sophia Antipolis, France.</b></li>
-                                <li>“Financial System and Technological Catching-up; An Empirical Analysis: Is there a Recipe for Increasing the Export Variety of the Countries? Presented at 13th Conference of the International Joseph A. Schumpeter Society, 21- 24 June 2010, Aalborg University, <b>Denmark.</b></li>
-                                <li>“Financial System and Technological Change: An Investigation into the Wealth of Nations” presented at the 8th GLOBELICS International Conference, 1- 3 November 2010, <b>Kuala Lumpur, Malaysia.</b></li>
-                                <li>“Export Variety and the Catching-up of Countries” with P.P. Saviotti, presented at the 8th GLOBELICS International Conference, November 1- 3, 2010, <b>Kuala Lumpur, Malaysia.</b></li>
-                                <li>“What Drives the Quality of Institutions in Asian Economics? Directions for Economic Reforms” presented at the 27th Annual Conference of the Pakistan Society of Development Economists, 13 -15 December 2011, Marriot, <b>Islamabad, Pakistan.</b></li>
+                                
+                                <li>“Financial System, Corporate Diversification and Technological Catching-up: South Korea; an imitator to innovator” Presented at GLOBELICS Academy on Innovation and Development, 2 -13 June 2008, University of Tempere, Finland.</li>
+                                
+                                <li>“Is There a Direction in Economic Development? And, if so, what does it imply for emerging countries?” with P.P. Saviotti. 6th GLOBELICS Conference, 22 - 24 September 2008, Mexico City.</li>
+                                
+                                <li>“Financial System and Technological Catching-Up: Organization & Dynamics: An Overview” Presented at Thematic Meeting of the French Economic Association “Firms, Markets and Innovation” 25 - 26 June 2009, Sophia Antipolis, France.</li>
+                                
+                                <li>“Financial System and Technological Catching-up; An Empirical Analysis: Is there a Recipe for Increasing the Export Variety of the Countries? Presented at 13th Conference of the International Joseph A. Schumpeter Society, 21- 24 June 2010, Aalborg University, Denmark.</li>
+                                
+                                <li>“Financial System and Technological Change: An Investigation into the Wealth of Nations” presented at the 8th GLOBELICS International Conference, 1- 3 November 2010, Kuala Lumpur, Malaysia.</li>
+                                
+                                <li>“Export Variety and the Catching-up of Countries” with P.P. Saviotti, presented at the 8th GLOBELICS International Conference, November 1- 3, 2010, Kuala Lumpur, Malaysia.</li>
+                                
+                                <li>“What Drives the Quality of Institutions in Asian Economics? Directions for Economic Reforms” presented at the 27th Annual Conference of the Pakistan Society of Development Economists, 13 -15 December 2011, Marriot, Islamabad, Pakistan.</li>
                                                           
                             </ul>
 
                             <h4 class="text-primary mt-4">Research Grants</h4>
-                            <ol>
-                                <li><b>Doctoral Scholarship</b> (2006-10) - Franco-Pak Scientific and Technical Cooperation Program</li>
-                                <li>The Global Network for the Economics of Learning, innovation and Competence Building Systems (GLOBELICS) for attending PhD Academy at <b>Tampere, Finland</b> (June 2008).</li>
-                                <li>Dynamics of Institutions and Markets in Europe, DIME-Network Doctoral Mobility Grant for short stay at Centre for Technology, Innovation and Culture, <b>University of Oslo, Norway</b> (June 2009)</li>
-                                <li>EGIDE: Project COFECUB n° 21692RM for conducting research and visiting <b>Brazil</b> in a joint project with Pier Paolo Saviotti and José Eduardo Cassiolato (2010-2011).</li>
-                                                           
-                            </ol>
+                            <ul>
+                                <li>Doctoral Scholarship (2006-10) - Franco-Pak Scientific and Technical Cooperation Program</li>
+                                
+                                <li>The Global Network for the Economics of Learning, innovation and Competence Building Systems (GLOBELICS) for attending PhD Academy at Tampere, Finland (June 2008).</li>
+                                
+                                <li>Dynamics of Institutions and Markets in Europe, DIME-Network Doctoral Mobility Grant for short stay at Centre for Technology, Innovation and Culture, University of Oslo, Norway (June 2009)</li>
+                                
+                                <li>EGIDE: Project COFECUB n° 21692RM for conducting research and visiting Brazil in a joint project with Pier Paolo Saviotti and José Eduardo Cassiolato (2010-2011).  </li>                       
+                            </ul>
 
 
                         </div>
