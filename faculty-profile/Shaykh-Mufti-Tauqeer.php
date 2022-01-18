@@ -98,156 +98,26 @@ include('../partials/navbar.php');
                             <div class="non_faculty_grid_two_right_content">
 
                                 <p>
-                                    A well versed religious scholar, Shaykh Mufti Tauqeer is a Computer Engineer by profession. Having graduated from Ohio State University, USA, he has more than twenty years of global experience at multinational giants in the telecommunication industry across USA and the Middle East. He has been associated with many reputable organisations in the capacity of Global Director, Management Consultant and more, like  Earthlink Innovations, Dubai, NewNet Communications, USA / Dubai,   Nokia Siemens Networks, Dubai and Motorola, USA / Dubai.
-                                </p>
-                                <p>
-                                    Spreading the word of peace of Islam, he travels across the world, including but not limited to Middle East, UK, Africa, Malaysia, Australia, Europe, Turkey and Pakistan in the capacity of a motivational speaker and a spiritual mentor to inspire people spiritually and morally. His focus has always been self-development and character building. He regularly delivers lectures, conducts seminars and workshops at universities, colleges, professional organisations, TV programs and Islamic Institutions around the world. 
+                                    Mr. Shaykh Mufti Tauqeer is the Professor of Islamic Studies at KSBL. He is a Computer Engineer by profession and has over 20 years of experience working with multinational companies in the telecommunication industry across USA and the Middle East. 
                                 </p>
 
                                 <p>
-                                    He graduated with the A'alim degree and has his post-graduation with specialization in Islamic Jurisprudence (commonly known as iftaa). He has authorization to teach all the major books of hadith by many renowned scholars of this time, like Shaykh ul Hadith Maulana Taqiuddin Nadwi(UAE), Shaykh ul Islam Mufti Muhammad Taqi Usmani(Pakistan) and Shaykh ul Tafseer Maulana Sajjad Nomani (India).
+                                    He has been associated with many reputable organisations such as Earthlink Innovations, Dubai, NewNet Communications, USA / Dubai, Nokia Siemens Networks, Dubai and Motorola, USA / Dubai as a Global Director and a Management Consultant. He is a well-versed religious scholar and travels to different countries like Middle East, UK, Africa, Malaysia, Australia, Europe, Turkey and Pakistan in the capacity of a motivational speaker and a spiritual mentor. He also regularly delivers lectures, conducts seminars and workshops at universities, colleges, professional organisations, TV programs and Islamic Institutions around the world. 
                                 </p>
 
                                 <p>
-                                    In 2008, Shaykh Mufti Tauqeer established the Nur ul Ilm Academy, now based in London, UK and Sydney, Australia with its sister institute in Dubai, UAE, where he teaches all levels of the Arabic and Shariah Programs. With a forward thinking approach, this academy based on traditional teaching of Islam favours innovation and development under the guidance of Shaykh Mufti Tauqeer to develop the beautiful character of Prophet (peace be upon him) and to become mindful Muslims.
+                                   He has also established the Nur ul Ilm Academy, in London, UK and Sydney, Australia with its sister institute in Dubai, UAE, where he teaches all levels of the Arabic and Shariah Programs. 
                                 </p>
 
                                 <p>
-                                    He has a strong passion to have the youth of today benefit from the introspective way of Islam on developing the self to become better people and beneficial, proactive citizens of our society and so has worked with the youth around the world at multi-faceted levels.
+                                    Mr. Tauqeer has completed post-Graduate (equivalent) degree in Arabic and Islamic Sciences with specialization in Jurisprudence from Mahad al Faqeer, Pakistan,  M.S. Electrical Engineering from The Ohio State University, Columbus, Ohio, USA and has authorization to teach all the major books of hadith by many renowned scholars including Shaykh ul Hadith Maulana Taqiuddin Nadwi(UAE), Shaykh ul Islam Mufti Muhammad Taqi Usmani(Pakistan) and Shaykh ul Tafseer Maulana Sajjad Nomani (India).
                                 </p>
+
                                
-                                <h4 class="text-primary">Credentials</h4>
-                                
-                                <p>
-                                    <span class="top_sub_heading"><strong>Education</strong></span> 
-                                    <br>
-                                    <b>M.S. Electrical Engineering:</b> The Ohio State University, Columbus, Ohio, USA
-                                    <br><br>
-                                    
-                                    <b>Post-Graduate (equivalent) degree in Arabic and Islamic Sciences with specialization in Jurisprudence:</b> Mahad al Faqeer, Pakistan
-                                
-                                    <br><br>
-
-                                    <b>B.Sc Electrical (Electronics/Communications) Engineering:</b> University of Engineering and Technology, Lahore, Pakistan
-                                
-                                </p>
-
+                                <!-- <h4 class="text-primary">Credentials</h4>
                                 <h4 class="text-primary">Consulting and Teaching</h4>
-                                <p>
-                               <b> Nur ul Ilm Academy (based in London, Sydney) and Institute (Dubai)</b>
-                               <br>
-                                Co-Founder and Principal – Teaching all levels of Shariah Programs
-                            </p>
-
-                            <p>
-                                <span class="top_sub_heading"><strong>Workshops, Trainings and Guest Lectures:</strong></span> <br>
-                                <br>
-                                <span class="country_of_tauqeer"><strong>UK</strong></span>
-                                <ol>
-                                     <li>University of Birmingham, Birmingham</li>
-                                     <li>University of Strathclyde, Glasgow</li>
-                                     <li>DeMontfort University, Leicester</li>
-                                     <li>St. Mary University, London</li>
-                                </ol>
-
-                                <span class="country_of_tauqeer"><strong>Malaysia</strong></span>
-                                <ol>
-                                    <li>University of Malaya, Kuala Lumpur </li>
-                                    <li>University of Technology Malaysia, Johor Baru</li>
-                                    <li>University Putra Malaysia, Serdang</li>
-                                    <li>University Technology Petronas, Ipoh Perak</li>
-                                    <li>International Islamic Universtiy, Selangor</li>
-                                </ol>
-                            </p>
-                            <p>
-                                
-                                <span class="country_of_tauqeer"><strong>Pakistan</strong></span>
-                                <p>
-
-                                <span class="city_tauqeer">ISLAMABAD/ RAWALPINDI</span>
-                                <ol>
-                                     <li>Air University</li>
-                                     <li>Bahria University</li>
-                                     <li>COMSATS University</li>
-                                     <li>Foundation University</li>
-                                     <li>Iqra University</li>
-                                     <li>Islamic International University</li>
-                                     <li>NUML </li>
-                                     <li>PMAS- ARID Agriculture University</li>
-                                     <li>Riphah University</li>
-                                     <li>Shifa College of Medicine</li>
-                                     <li>TMUC</li>
-                                </ol>
-
-                                <span class="city_tauqeer">LAHORE</span>
-                                <ol>
-                                    <li>Bahria University</li>
-                                    <li>COMSATS University</li>
-                                    <li>University of Lahore</li>
-                                </ol>
-
-                                <span class="city_tauqeer">PESHAWAR</span>
-                                <ol>
-                                    <li>Abasyn Universiity</li>
-                                    <li>Aisha Institute of Modern Sciences</li>
-                                    <li>CECOS University of IT and Emerging Sciences, Hayatabad</li>
-                                    <li>Comprehensive GGHS</li>
-                                    <li>FAST- National University</li>
-                                    <li>GGHSS Lady Griffith Peshawar</li>
-                                    <li>Govt. Degree College for Girls, Hayatabad</li>
-                                    <li>Govt. Post Graduate College, Nowshehra</li>
-                                    <li>Home Economics College</li>
-                                    <li>Institute of Health Sciences</li>
-                                    <li>Institute of Management Sciences </li>
-                                    <li>Institute of Paramedical Sciences, Doranpur - KMU</li>
-                                    <li>Institute of Physical Medicine and Rehabilitation Clinic  - KMU</li>
-                                    <li>Iqra National University, Hayatabad</li>
-                                    <li>Islamia College – Islamiat Department</li>
-                                    <li>Islamia College – Physics Department</li>
-                                    <li>Jinnah College for Women</li>
-                                    <li>KMU (Khyber Medical University)</li>
-                                    <li>NUML </li>
-                                    <li>Quaid-e-azam College of Commerce</li>
-                                    <li>Quaid-e-azam Group of Colleges</li>
-                                    <li>Qurtuba University</li>
-                                    <li>Sarhad University</li>
-                                    <li>SBBWU ( Shaheed Benazir Bhutto Women University), Larama</li>
-                                    <li>Shaykh Zayed Islamic Centre</li>
-                                    <li>The University of Agriculture – Department of Plant Protection</li>
-                                    <li>UET Hayatabad Campus</li>
-                                    <li>UET Main Campus</li>
-                                    <li>University of Peshawar</li>
-                                    <li>Department of Geography – University of Peshawar</li>
-                                </ol>
-
-                                <span class="city_tauqeer">AJ&K</span>
-                                <ol>
-                                    <li>Cadet College Plandri </li>
-                                    <li>University of AJ& K  </li>
-                                </ol>
-
-                                </p>
-                            </p>
-                            <p>
-                        
-                                <span class="top_sub_heading"><strong>TV Appearances</strong></span>
-                                <br>
-                                <ol>
-                                    <li>Blessings of Ramadan – 28 episodes series – PTV World</li>
-                                    <li>Riasat e Madina aur Daur e Haazir – ongoing Series – PTV News</li>
-                                    <li>Regular appearance on PTV World – World this morning – topics including, Accusation, Backbiting, Importance of Tolerance in Society, Patience, etc</li>
-                                    <li>Aaj News – Aaj Pakistan – Discussion on Covid Anxiety</li>
-                                    <li>Hum News – Subah Say Aagay – Discussion on Transgender in Islam</li>
-                                    <li>Lahore Rung</li>
-                                    <li>Nai Baat Digital – Importance of gaining knowledge</li>
-                                    <li>Sindh TV News </li>
-                                </ol>
-                            </p>
-
-                            <h4 class="text-primary">Publications and Research</h4>
-                            <p>
-                                Radiance of Purification – 6 Volumes published – Collections of advices to students on the path of   self-rectification 
-                            </p>
+                                <h4 class="text-primary">Publications and Research</h4> -->
+                    
                             </div>
                         </div>
                     </div>
