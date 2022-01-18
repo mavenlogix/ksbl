@@ -97,79 +97,30 @@ include('../partials/navbar.php');
                         <div class="non_faculty_grid_two_right">
                             <div class="non_faculty_grid_two_right_content">
                             <p><b>Dr Fouzia Haneef Khan </b> 
-                            is a Lecturer (Teaching) within the Faculty of Medicine at Imperial College 
-                            London. She has vast teaching and research experience spanning over 10 years. Fouzia contributes to 
-                            teaching and learning activity by taking an active role in promoting up-to-date and innovative 
-                            pedagogy and practice.
+                            is … at KSBL. She is also a Lecturer within the Faculty of Medicine at Imperial College London. She has a vast teaching and research experience spanning over 10 years and contributes to teaching and learning activities by taking an active role in promoting up-to-date and innovative pedagogy and practice.
                             </p>
                             <p>
-                                Fouzia joined Imperial College London in 2019. She is mainly responsible for coordinating, teaching, 
-                                and organising the MSc Genes, Drugs and Stem Cells (GDS) – Novel Therapies programme of the 
-                                Faculty of Medicine. The Programme provides academic and laboratory research training in three key 
-                                areas: Gene and Nucleic Acid Based Therapies, New Horizons in Pharmacology and Regenerative 
-                                Medicine. Fouzia also implements the authentic assessments for that course. As a lead for the 
-                                Coordinated Transformation Group, Fouzia plays a key role in the transformation of the MSc 
-                                programme to blended/remote delivery. She is a project supervisor and a module leader for the 
-                                Evidence, Information and Communication module and the Research project module in her 
-                                programme. Fouzia also teaches ad-hoc to the MBBS students and is a personal and academic tutor 
-                                for undergraduates and postgraduates within the Faculty.
+                                At Imperial College London, she is mainly responsible for coordinating, teaching, and organizing the M.Sc. Genes, Drugs and Stem Cells – Novel Therapies Program of the Faculty of Medicine since 2019. As a lead for the Coordinated Transformation Group, she plays a key role in the transformation of the M.Sc. program to blend remote delivery. She is a project supervisor and a module leader for the Evidence, Information and Communication module and the Research project module in her program. She also teaches ad-hoc to the Bachelor of Medicine, Bachelore of Surgery (MBBS) students and is a personal and academic tutor for undergraduates and postgraduates within the Faculty.
                             </p>
                             <p>
-                                Fouzia is a graduate of UCL. She completed her BSc in Pharmacology and Toxicology with first Class 
-                                honours. During her undergraduate degree, she spent a year working in the Development 
-                                Pharmacology department as a Research Associate within Glaxo Smithkline (GSK). After her 
-                                graduation, she was invited to join the PhD programme at UCL under the supervision of Professor 
-                                Mike Simmonds. Her PhD research investigated the "Influence of membrane cholesterol on Neurosteroid modulation of Benzodiazepine/ GABA<sup>A</sup> receptor".
-                            </p>
-                            <p>
-                                Prior to joining Imperial College in 2019, Fouzia taught on the MSc Drug Discovery and the MPharm 
-                                programmes. She is currently a Pharmacy OSCE (objective structured clinical examination) Assessor 
-                                for the Research Department of Practice and Policy within UCL.
+                                Dr. Khan completed her Ph.D. in Neuropharmacology from University College London (UCL), UK under the supervision of Professor Mike Simmonds. Her Ph.D. research investigated the "Influence of membrane cholesterol on Neurosteroid modulation of Benzodiazepine/ GABAA receptor." She also graduated with 1st class honors in BSc UCL, UK. During her undergraduate degree, she spent a year working in the Development Pharmacology department as a Research Associate within Glaxo Smith Kline.
                             </p>
 
                             <p>
-                                Fouzia serves on the Education Committee of the British Pharmacological Society’s (BPS) and develops
-                                resources and supports teaching initiatives to improve education, teaching, training, and continuing 
-                                professional development for pharmacologists across the UK. She is also the member of the Equality, 
-                                Diversity, and Inclusion (EDI) Committee at Imperial College London, where she contributes to the 
-                                Athena SWAN framework to encourage and recognise commitment to advancing the careers of
-                                women in Science, Technology, Engineering, Maths and Medicine (STEMM) in higher education and 
-                                research.
-                            </p>
-
-                            <p>
-                                Fouzia is a recipient of several awards and prizes. She has presented her research as talks and posters 
-                                at various conferences on both STEM and Education topics. She is a Fellow of the Higher Education 
-                                Academy (FHEA) which is an indicator of the professional achievement for higher education 
-                                practitioners against the UK Professional Standard Framework. She has recently achieved a Post 
-                                Graduate Diploma in ULT (University Learning and Teaching) and currently pursuing MEd and working 
-                                towards a Senior Fellowship from Imperial College London.
-                            </p>
-
-                            <p>
-                                Fouzia is passionate about technology-led pedagogy, specifically developing innovative teaching and 
-                                blended learning practice. Fouzia has been a leading player in the use of e-pedagogy within her 
-                                programme and is keen to create opportunities for sharing good practice in teaching and learning
-                                across universities within UK and other countries.
-                            </p>
-
-                            <p>
-                            <strong>CREDIENTIALS</strong>
+                                <strong>CREDIENTIALS</strong>
                             </p>
                             <p>
                                 2021-2022 <br>MEd (Masters in University Learning and Teaching), Imperial College London.
                             </p>
                             <P>
-                            2020-2021 <br>PGDip ULT (Postgraduate Diploma in University Learning and Teaching), Imperial 
-                            College London.
+                                2020-2021 <br>PGDip ULT (Postgraduate Diploma in University Learning and Teaching), Imperial College  London.
                             </P>
                             <P>
                             2019-2020 <br>FHEA (Fellow of the Higher Education Academy, UK)
                             </P>
                             
                             <p>
-                            2019-2020 <br>PGCert ULT (Postgraduate Certificate in University Learning and Teaching), 
-                            Imperial College London.
+                            2019-2020 <br>PGCert ULT (Postgraduate Certificate in University Learning and Teaching), Imperial  College London.
                             </p>
 
                             <p>
@@ -177,19 +128,20 @@ include('../partials/navbar.php');
                             </p>
 
                             <p>
-                            1992-1996 <br>BSc in Pharmacology and Toxicology – 1
-                            st Class Honours Degree, UCL, UK.
+                            1992-1996 <br>BSc in Pharmacology and Toxicology – 1 st Class Honours Degree, UCL, UK.
                             </p>
 
 
                             <p>
-                                <strong>AWARDS AND ACHIEVEMENTS</strong>
+                                <strong>Awards & Achievements</strong>
+                                <br>
+                                Fouzia is a recipient of several awards and prizes. She has presented her research as talks and posters at various conferences on both STEM and Education topics. She is a Fellow of the Higher Education Academy (FHEA) which is an indicator of the professional achievement for higher education practitioners against the UK Professional Standard Framework. She has recently achieved a Post Graduate Diploma in ULT (University Learning and Teaching) and currently pursuing MEd and working towards a Senior Fellowship from Imperial College London.
                                 <br>
                                 <ul>
-                                     <li>FHEA (Fellow of the Higher Education Academy), UK</li>
-                                     <li>Award for exceptional academic achievement during the COVID-19 pandemic.</li>
-                                     <li>Imperial College London Student Choice Award for Outstanding Professional Staff.</li>
-                                     <li>GlaxoSmithKline Award</li>
+                                   <li>FHEA (Fellow of the Higher Education Academy), UK </li>
+                                   <li>Award for exceptional academic achievement during the COVID-19 pandemic. </li>
+                                   <li>Imperial College London Student Choice Award for Outstanding Professional Staff. </li>
+                                   <li>GlaxoSmithKline Award </li>
                                 </ul>
                             </p>
 
@@ -197,54 +149,62 @@ include('../partials/navbar.php');
                                 <strong>PROFESSIONAL PRESENTATIONS</strong>
                                 <br>
                                 <ul>
-                                     <li>Poster presentation on online assessment, Education week 2021, Imperial College London.</li>
-                                     <li>Invited speaker for Faculty “Being Teaching Lecturer”. Imperial College London, 2021</li>
-
+                                    <li>Poster presentation on online assessment, Education week 2021, Imperial College London.</li>
+                                    <li>Invited speaker for Faculty “Being Teaching Lecturer”. Imperial College London, 2021</li>
                                 </ul>
                             </p>
 
                             <p> 
-                                <strong>RESEARCH</strong>
+                                <strong>Consulting & Teaching</strong>
                             </p>
                             <p>
-                            PGDip Research  <br>How Authentic are Timed Remote Assessments?
+                            Prior to joining Imperial College in 2019, Fouzia taught on the MSc Drug Discovery and the MPharm programmes. She is currently a Pharmacy OSCE (objective structured clinical examination) Assessor for the Research Department of Practice and Policy within UCL.
                             </p>
                             <p>
-                            PhD Research <br>“Influence of membrane cholesterol on Neurosteroid modulation of 
-                                benzodiazepine/ GABA<sup>A</sup>
-                                receptor”, UCL.
+                            Fouzia serves on the Education Committee of the British Pharmacological Society’s (BPS) and develops resources and supports teaching initiatives to improve education, teaching, training, and continuing professional development for pharmacologists across the UK. She is also the member of the Equality, Diversity, and Inclusion (EDI) Committee at Imperial College London, where she contributes to the Athena SWAN framework to encourage and recognise commitment to advancing the careers of women in Science, Technology, Engineering, Maths and Medicine (STEMM) in higher education and research.
                             </p>
                             <p>
-                            BSc Research <br>Enzymatic degradation of particulate formulation of PK1 copolymer
+                            Fouzia is passionate about technology-led pedagogy, specifically developing innovative teaching and blended learning practice. Fouzia has been a leading player in the use of e-pedagogy within her programme and is keen to create opportunities for sharing good practice in teaching and learning across universities within UK and other countries.
                             </p>
 
 
 
                             <p>
-                                <strong>PUBLICATIONS</strong>
+                                <strong>Research & Publications</strong>
                             </p>
                             <p>
-                                Haneef F. and Simmonds M.A (1999). <br>
-                                Influence of membrane cholesterol on flunitazepam binding and its modulation 
-                                by pregnanolone and propofol. J. Physiol., 518: 160P
-                            </p>
-                            <p>
-                                Simmonds M.A, T.Sookswate and Haneef F. (1999). <br>
-                                Membrane cholesterol and neurosteroid action at the GABA<sup>A</sup>
-                                receptor. J. Physiol., 518: 9P
-
-                            </p>
-                            <p>
-                                Haneef F. and Simmonds M.A (2000).<br>
-                                Pregnanolone-induced increases in [3H]-flunitrazepam binding 
-                                involve low affinity binding sites. Br. J. Pharmacol., 129:111P
-                            </p>
-                            <p>
-                                Haneef F. and Simmonds M.A (2000). <br>
-                                Effects of cholesterol and some analogues on [3H]-
-                                flunitrazepam binding. Br. J. Pharmacol., 129:112P
+                                <b>Research</b>
+                                <br>
+                                <ul>
+                                    <li>PGDip Research <br>
+                                    How Authentic are Timed Remote Assessments?</li>
+                                    
+                                    <li>PhD Research <br>
+                                    “Influence of membrane cholesterol on Neurosteroid modulation of benzodiazepine/ GABAA receptor”, UCL.</li>
+                                    
+                                    <li>BSc Research <br>
+                                    Enzymatic degradation of particulate formulation of PK1 copolymer</li>
+                                </ul>
                             </p>
 
+                            <p>
+                                <b>Publications</b>
+                                <br>
+                                <ul>
+                                    <li>Haneef F. and Simmonds M.A (1999). <br>
+                                    Influence of membrane cholesterol on flunitazepam binding and its modulation by pregnanolone and propofol. J. Physiol., 518: 160P</li>
+                                    
+                                    <li>Simmonds M.A, T.Sookswate and Haneef F. (1999). <br>
+                                    Membrane cholesterol and neurosteroid action at the GABAA receptor. J. Physiol., 518: 9P</li>
+                                    
+                                    <li>Haneef F. and Simmonds M.A (2000). <br>
+                                    Pregnanolone-induced increases in [3H]-flunitrazepam binding involve low affinity binding sites. Br. J. Pharmacol., 129:111P</li>
+                                    
+                                    <li>Haneef F. and Simmonds M.A (2000). <br>
+                                    Effects of cholesterol and some analogues on [3H]- flunitrazepam binding. Br. J. Pharmacol., 129:112P</li>
+                                </ul>
+                            </p>
+                            
                             </div>
                         </div>
                     </div>
