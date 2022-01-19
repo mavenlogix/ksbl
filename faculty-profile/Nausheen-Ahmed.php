@@ -96,8 +96,9 @@ include('../partials/navbar.php');
                         </div>
                         <div class="non_faculty_grid_two_right">
                             <div class="non_faculty_grid_two_right_content">
-                                <p>Ms. Nausheen Ahmed teaches Business Law at KSBL. She also serves as Independent Director of Meezan Bank, Jubilee General Insurance, International Steel and is a member of the Pay and Pension Commission, Government of Pakistan, a visiting faculty at Institute of Business Management and has over 30 years of corporate experience. </p>
-                                
+                                <p>
+                                <b>Ms. Nausheen Ahmed</b> teaches Business Law at KSBL. She also serves as Independent Director of Meezan Bank, Jubilee General Insurance, International Steel and is a member of the Pay and Pension Commission, Government of Pakistan, a visiting faculty at Institute of Business Management and has over 30 years of corporate experience. </p>
+
                                 <p>She recently completed a tenure as independent director of the Pakistan Stock Exchange and has worked with corporate law firm Surridge and Beecheno, and companies like Pakistan Petroleum, Unilever Pakistan, ICI Pakistan and Habib Bank Limited. She was called to the Bar from the Honorable Society of Grays Inn London and is registered as an Advocate of the Sindh High Court. </p>
 
                                 <p>She was also accredited as a mediator and master trainer by the Centre for Effective Dispute Resolution, United Kingdom and has delivered executive trainings with the Pakistan Mediators Association, the Institute of Business Administration, and Pakistan Institute of Corporate Governance. She is a founder of the Dispute Resolution Forum at Institute of Business Administration, Karachi which promotes civil and commercial mediation. </p>

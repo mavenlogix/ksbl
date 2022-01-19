@@ -97,21 +97,21 @@ include('../partials/navbar.php');
                         <div class="non_faculty_grid_two_right">
                             <div class="non_faculty_grid_two_right_content">
                                 <p><b>Ms. Naima Fatima Shariff</b>  
-                                    is a Consultant Clinical Psychologist. She is presently serving as the 
-                                    CEO and Co-founder of Kumak-The Journey to Wellness, an organization that works for spreading 
-                                    mental health awareness and helping individuals reach their true potential by providing affordable 
-                                    and accessible mental health services. She served as an Assistant Professor at the Institute of 
-                                    Professional Psychology, Bahria University and was also Clinical In-Charge of the Psychological 
-                                    Services Centre, Umeed e Nau at Bahria University. She is the Treasurer of the Pakistan Society 
-                                    for Excellence in Psychology (PSEP) and member of Pakistan Association of Clinical 
-                                    Psychologists (PACP). She is associated with various mental health causes, including spreading
-                                    mental health awareness, providing counselling and therapy services to the underprivileged, 
-                                    working for the well-being of physically and mentally challenged individuals and orphans. She is 
-                                    a National level trainer who conducts regular trainings for Multinational Companies, NGOs, 
-                                    teachers and students and members of the armed forces. She provides her services as a 
-                                    Psychologist, Counselor, Psychotherapist, Clinical and Research Supervisor, Psychodrama 
-                                    Practitioner, Teacher, Motivational Speaker and a National Level Trainer.
-                            </p>
+                                 is a Consultant Clinical Psychologist at KSBL. She is presently serving as the CEO and Co-founder of Kumak - The Journey to Wellness, an organization that works for spreading mental health awareness.
+                                </p>
+                                <p>
+                                In her academia experience, she has served as an Assistant Professor at the Institute of Professional Psychology, Bahria University and was also Clinical In-Charge of the Psychological Services Centre, Umeed-e-Nau at Bahria University. She is the Treasurer of the Pakistan Society for Excellence in Psychology and a member of Pakistan Association of Clinical Psychologists. 
+                                </p>
+
+                                <p>
+                                She is associated with various mental health causes, including spreading mental health awareness, providing counselling and therapy services to the underprivileged, working for the well-being of physically and mentally challenged individuals and orphans. 
+                                </p>
+
+                                <p>
+                                She is also a national level trainer and conducts regular trainings for Multinational Companies, Non-Governmental Organizations, teachers and students and members of the armed forces. She provides her services as a Psychologist, Counselor, Psychotherapist, clinical and research Supervisor, Psychodrama Practitioner, Teacher, motivational speaker and a national level trainer.
+                                </p>
+
+
                             </div>
                         </div>
                     </div>
