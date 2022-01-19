@@ -599,6 +599,23 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person Mohammad Taha Thanvi -->
 
+                <!-- Person Mr Shahrukh Irfan -->
+               <div class="person come-out ">
+                   <a href="faculty-profile/Mr_Shahrukh_Irfan.php">
+                       <div class="person-info ">
+                           <img src="images/faculty/non-faculty-Dr-shahrukh_khan_thumbnail.JPG" alt="Mr Shahrukh Irfan" />
+                       </div>
+                   </a>
+                    <div class="person-detail">
+                        <h2 class="name">Mr Shahrukh Irfan</h2>
+                        <div class="designation">
+                            Accounting & Finance
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Mr Shahrukh Irfan -->
+
+
                 <!-- Person 6 -->
                <!--  <div class="person come-out">
                     <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">
