@@ -96,11 +96,14 @@ include('../partials/navbar.php');
                         </div>
                         <div class="non_faculty_grid_two_right">
                             <div class="non_faculty_grid_two_right_content">
-                                <p><b>Nausheen Ahmad</b> serves as Independent Director of Meezan Bank Ltd, Jubilee General Insurance Co Ltd, International Steel Ltd and is a member of the Pay and Pension Commission (Government of Pakistan). She recently completed a tenure as independent director of the Pakistan Stock Exchange (having been appointed against a casual vacancy). </p>
-                                <p>Having spent over three decades in the corporate sector, Nausheen brings with her a tremendous amount of experience and expertise in the legal and regulatory area. Nausheen began her legal practice with the corporate law firm Surridge and Beecheno. Later, she went on to hold the position of legal counsel at Pakistan Petroleum Ltd and Unilever Pakistan Ltd. Later with ICI Pakistan Ltd and HBL she was the Company Secretary and General Counsel.</p>
-                                <p>Nausheen has an LLM degree from the University of London, an LLB from Kings College London, and a degree in the Philosophy of Religion from Kings College London. She was called to the Bar from the Honourable Society of Grays Inn London and is registered as an Advocate of the Sindh High Court. Nausheen was also accredited as a mediator and master trainer by the Centre for Effective Dispute Resolution, UK.</p>
-                                <p>With her strong interest in corporate governance, Nausheen delivers executive training with the Pakistan Mediators Association, the Institute of Business Administration (CEE), and Pakistan Institute of Corporate Governance (PICG). Recently, she joined the Institute of Business Management (IOBM) as visiting faculty teaching business and company law. </p>
-                                <p>She is a founder of the Dispute Resolution Forum at IBA, Karachi which promotes civil and commercial mediation. This has become an important area of practice as the law has been amended in Sindh province to enable referral and recognition of mediation.</p>
+                                <p>Ms. Nausheen Ahmed teaches Business Law at KSBL. She also serves as Independent Director of Meezan Bank, Jubilee General Insurance, International Steel and is a member of the Pay and Pension Commission, Government of Pakistan, a visiting faculty at Institute of Business Management and has over 30 years of corporate experience. </p>
+                                
+                                <p>She recently completed a tenure as independent director of the Pakistan Stock Exchange and has worked with corporate law firm Surridge and Beecheno, and companies like Pakistan Petroleum, Unilever Pakistan, ICI Pakistan and Habib Bank Limited. She was called to the Bar from the Honorable Society of Grays Inn London and is registered as an Advocate of the Sindh High Court. </p>
+
+                                <p>She was also accredited as a mediator and master trainer by the Centre for Effective Dispute Resolution, United Kingdom and has delivered executive trainings with the Pakistan Mediators Association, the Institute of Business Administration, and Pakistan Institute of Corporate Governance. She is a founder of the Dispute Resolution Forum at Institute of Business Administration, Karachi which promotes civil and commercial mediation. </p>
+
+                                <p>Ms. Ahmed has an LL.M degree from the University of London, an LL.B. from Kings College London, and a degree in the Philosophy of Religion from Kings College London.</p>
+                                
                             </div>
                         </div>
                     </div>
