@@ -2564,6 +2564,12 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 225px;
 }
 
+.non_faculty_grid_img_mr_shahrukh_khan {
+    background: url(../images/about/non-faculty-Mr-Shahrukh-Irfan.png) no-repeat top center;
+    background-size: cover;
+    height: 225px;
+}
+
 .non_faculty_grid_img_dr-fouzia-haneef-khan {
     background: url(../images/about/non-faculty-dr-fouzia-haneef-khan.png) no-repeat top center;
     background-size: cover;
