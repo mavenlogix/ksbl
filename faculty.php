@@ -632,6 +632,23 @@ include('./partials/head.php');
                 <!-- END Person Mr Absar Ahmed -->
 
 
+                <!-- Person Amra Mubashir -->
+               <div class="person come-out ">
+                   <a href="faculty-profile/Amra_Mubashir.php">
+                       <div class="person-info ">
+                           <img src="images/faculty/Amra_Mubashir.jpg" alt="Mr Absar Ahmed" />
+                       </div>
+                   </a>
+                    <div class="person-detail">
+                        <h2 class="name">Amra Mubashir</h2>
+                        <div class="designation">
+                        Head of HR, Diversity Expert, Talent Management
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Amra Mubashir -->
+
+
                 <!-- Person 6 -->
                <!--  <div class="person come-out">
                     <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">
