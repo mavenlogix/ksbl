@@ -244,39 +244,39 @@ include('../partials/head.php');
                          <br>
                          <ul>
                             <li>
-                                2021: Certificate of Appreciation for being “The Most Approachable and Gregarious Professor”
+                                2021: Certificate of Appreciation for being “The Most Approachable and Gregarious Professor” <br>
                                 KFUPM Business School, King Fahd University of Petroleum and Minerals, Saudi Arabia
                             </li>
                             <li>
-                                2019: Letter of Appreciation for Dedicated Teaching in the EMBA Program
+                                2019: Letter of Appreciation for Dedicated Teaching in the EMBA Program <br>
                                 KFUPM Business School, King Fahd University of Petroleum and Minerals, Saudi Arabia
                             </li>
                             <li>
-                                2018: Distinguished Teaching Honor
+                                2018: Distinguished Teaching Honor <br>
                                 College of Business Administration, University of Prince Muqrin, Saudi Arabia
                             </li>
                             <li>
-                                2014: Distinguished Teaching Honor for courses taught in 2014
+                                2014: Distinguished Teaching Honor for courses taught in 2014 <br>
                                 Department of Business, College of Business, Umm Al-Qura University, Saudi Arabia
                             </li>
                             <li>
-                                2013: Award for Excellence in Teaching
+                                2013: Award for Excellence in Teaching <br>
                                 College of Business, Umm Al-Qura University, Saudi Arabia
                             </li>
                             <li>
-                                2013: Teaching Excellence Award
+                                2013: Teaching Excellence Award <br>
                                 Department of Business, College of Business, Umm Al-Qura University, Saudi Arabia
                             </li>
                             <li>
-                                2013: Distinguished Teaching Honor for courses taught in 2013
+                                2013: Distinguished Teaching Honor for courses taught in 2013 <br>
                                 Department of Marketing, College of Business, Umm Al-Qura University, Saudi Arabia
                             </li>
                             <li>
-                                2012: Distinguished Teaching Honor for courses taught in 2012
+                                2012: Distinguished Teaching Honor for courses taught in 2012 <br>
                                 Department of Business, College of Business, Umm Al-Qura University, Saudi Arabia
                             </li>
                             <li>
-                                2011: Distinguished Teaching Honor for courses taught in 2011
+                                2011: Distinguished Teaching Honor for courses taught in 2011 <br>
                                 Department of Business, College of Business, Umm Al-Qura University, Saudi Arabia
                             </li>
                             <li>
@@ -288,35 +288,35 @@ include('../partials/head.php');
                                 Dalhousie University, Canada
                             </li>
                             <li>
-                                2009: Letter of Appreciation on High-Impact Teaching Excellence
+                                2009: Letter of Appreciation on High-Impact Teaching Excellence <br>
                                 Faculty of Engineering, University of Waterloo, Canada
                             </li>
                             <li>
-                                2009: A. Gordon Archibald Teaching Excellence Award
+                                2009: A. Gordon Archibald Teaching Excellence Award <br>
                                 Dalhousie University, Canada
                             </li>
                             <li>
-                                2008: Teaching Excellence Award nomination
+                                2008: Teaching Excellence Award nomination <br>
                                 University of Waterloo, Canada
                             </li>
                             <li>
-                                2005: The Distinguished Teaching Award
+                                2005: The Distinguished Teaching Award <br>
                                 University of Waterloo, Canada
                             </li>
                             <li>
-                                2006: Graduate Student Teaching Award
+                                2006: Graduate Student Teaching Award <br>
                                 Faculty of Engineering – University of Waterloo, Canada
                             </li>
                             <li>
-                                2005: The Distinguished Teaching by a Registered Student Award
+                                2005: The Distinguished Teaching by a Registered Student Award <br>
                                 University of Waterloo, Canada
                             </li>
                             <li>
-                                2005: Graduate Student Teaching Award
+                                2005: Graduate Student Teaching Award <br>
                                 Faculty of Engineering – University of Waterloo, Canada
                             </li>
                             <li>
-                                2004: Amit and Meena Chakma Award for Exceptional Teaching by a Student
+                                2004: Amit and Meena Chakma Award for Exceptional Teaching by a Student <br>
                                 University of Waterloo, Canada
                             </li>
                          </ul>
@@ -405,18 +405,19 @@ include('../partials/head.php');
                                     N. Hoda, A.R. Ahmad, A. Melibary, “Analysis of Demographic Factors, Internet Usage and Online Shopping for Social Media Users in Saudi Arabia”, [Proceedings of the 11th International Business and Social Science Research Conference, Dubai, UAE, 8-9 Jan. 2015.]
                                 </li>
                                 <li>
-                                    M. Khan, M.Y. Jaber, A.R. Ahmad, “An Integrated Supply Chain Model with Errors in Quality Inspection and Learning in Production” [Omega: The International Journal of Management Science – Vol. 42(1), pp. 16-24, 2014 – available online: http://dx.doi.org/10.1016/j.omega.2013.02.002]
+                                    M. Khan, M.Y. Jaber, A.R. Ahmad, “An Integrated Supply Chain Model with Errors in Quality Inspection and Learning in Production” [Omega: The International Journal of Management Science – Vol. 42(1), pp. 16-24, 2014 – available online: <br>
+                                    <a href="http://dx.doi.org/10.1016/j.omega.2013.02.002]">http://dx.doi.org/10.1016/j.omega.2013.02.002]</a>
                                 </li>
                                 <li>
                                     A.R. Ahmad, I.A. Tasadduq, M.H. Imam, K.B. Shaban, “Automated Knowledge Discovery in Facility Layout Planning” [Proceedings of the Twenty Fourth International Business Information Management Association (IBIMA-24), Milan, Italy, Nov. 6-7, 2014]
                                 </li>
                                 <li>
                                     S. Akhtar, E.M. Abdel-Rahman, A.R. Ahmad, “A New Fitness Based Adaptive Parameter Particle Swarm Optimizer” [Proceedings of Computer and Robot Vision (CRV-2014), pp. 336-343, Montreal, Canada, May 6-9, 2014]
-                                    <ol style="list-style: upper-roman;">
-                                        <li>
-                                        M. Hussain, I. A. Tasadduq, A.R. Ahmad, “On the Contributions of Power Variance in PAPR Reduction for OFDM Signals” [International Journal of Autonomous and Adaptive Communications Systems – Vol. 6(4), pp. 391-402, 2013]
-                                        </li>
-                                    </ol>
+                                       
+                                </li>
+
+                                <li>
+                                    M. Hussain, I. A. Tasadduq, A.R. Ahmad, “On the Contributions of Power Variance in PAPR Reduction for OFDM Signals” [International Journal of Autonomous and Adaptive Communications Systems – Vol. 6(4), pp. 391-402, 2013]
                                 </li>
 
                                     <li>
@@ -445,13 +446,12 @@ include('../partials/head.php');
                                     </li>
                                     <li>
                                         M. Velasquez, A.R. Ahmad, M. Bliemel, M.H. Imam, “Online Vs Offline Video Rental: A Comparative Study of Carbon Footprints” [International Journal of Global Business and Management Research – Vol. 2(10), pp. 1-12, 2010 – Invited Paper]
-                                        <ol style="list-style: upper-roman;">
-                                            <li>
-                                            M. Hussain, I. A. Tasadduq, A.R. Ahmad, “A New Effective and Efficient Measure of PAPR in OFDM” [International Journal of Communications, Network and System Sciences – Vol. 3(9), pp. 639-651, 2010 – Invited Paper]
-                                            </li>
-                                        </ol>
+                                            
                                     </li>
 
+                                    <li>
+                                        M. Hussain, I. A. Tasadduq, A.R. Ahmad, “A New Effective and Efficient Measure of PAPR in OFDM” [International Journal of Communications, Network and System Sciences – Vol. 3(9), pp. 639-651, 2010 – Invited Paper]
+                                    </li>
 
                                         <li>
                                             M. Khan, M. Jaber, A.R. Ahmad, “A Two-Stage Supply Chain with Inspection Errors and Learning in Production” [Proceedings The 40th Atlantic Schools of Business Conference (ASB-2010), Halifax, Canada, Oct. 1-3, 2010]
