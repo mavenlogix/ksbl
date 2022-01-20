@@ -102,12 +102,12 @@ include('../partials/head.php');
                                 <p>
                                     <ul>
                                         <li>
-                                            PhD, Management Sciences (HR), Bahria University Islamabad, Pakistan
-                                        Developing and validating a Scale for Emotional Intelligence at Pakistani Workplace: A Case of Hyper Markets of Pakistan.
+                                            PhD, Management Sciences (HR), Bahria University Islamabad, Pakistan <br>
+                                            Developing and validating a Scale for Emotional Intelligence at Pakistani Workplace: A Case of Hyper Markets of Pakistan.
                                         </li>
                                         <li>
-                                            MS, Management Sciences (HR), COMSATS University.
-                                        Effective Change Management: A Case of Canteen Stores Department
+                                            MS, Management Sciences (HR), COMSATS University. <br>
+                                            Effective Change Management: A Case of Canteen Stores Department
                                         </li>
                                     </ul>
                                 </p>
@@ -204,10 +204,7 @@ include('../partials/head.php');
                                         Conducted an advanced level workshop on, “Stress Management and building resilience” for PAF Officers from13-15th January,2020 for CPD- Air University
                                     </li>
                                     <li>
-                                        Conducted Training for PAF CWO’s and PDC, Air University for Time and
-                                    </li>
-                                    <li>
-                                        Stress Management from 9-11th Dec 2019.
+                                        Conducted Training for PAF CWO’s and PDC, Air University for Time and Stress Management from 9-11th Dec 2019.
                                     </li>
                                     <li>
                                         Conducted Training for SAARC women portal for Islamabad women chamber Mentored young Women Entrepreneurs for Khudi-Women Empowerment Boot
