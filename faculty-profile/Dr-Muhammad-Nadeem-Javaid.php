@@ -212,6 +212,9 @@ include('../partials/head.php');
                                     Visitor Leadership Program (IVLP)US Department of State, <br>
                                     Washington, DC.
                                 </li>
+                                <li>
+                                    3 weeks visit to USA to explore how universities, businesses and civil society work together to solve the socioeconomic problems.
+                                </li>
 
                                 <li>
                                     Escaping Middle-Income and Productivity Trap <br>
