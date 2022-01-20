@@ -77,7 +77,7 @@ include('../partials/navbar.php');
                     <!-- Tab panes -->
                     <div class="tab-content mt-2">
                         <div id="vita" class=" tab-pane active">
-                            <p><span style="color: #ff9f19;">Dr. Sheraz </span>
+                            <p><span style="color: #ff9f19;">Dr. Sheraz Mustafa </span>
                                 is an Associate Professor of Economics at KSBL. He has over ten years of experience in teaching and research. 
                             </p>
                             <p>
@@ -95,7 +95,7 @@ include('../partials/navbar.php');
                             <!-- <h4 class="text-primary">Education</h4> -->
                             <p>
                                 Ph.D. University of York, UK, 2016<br>
-                                Ph.D. University of York, UK, 2016<br>
+                                Economics MSc. University of York, UK, 2012<br>
                                 Economics MSc. Quaid e Azam University Islamabad, 2009<br>
                                 Economics BBA Shah Abdul Latif University, 2005
                             </p>
@@ -131,27 +131,30 @@ include('../partials/navbar.php');
                                       “Why Socialism Failed but Capitalism Survived and Succeeded” at Sukkur IBA University ( November 26, 2018)
                                     </li>
 
-                                  <li>
-                                      TRAININGS ATTENDED
-                                    </li>
-
-                                  <li>
-                                      Workshop Training, “Case Study method of Teaching” at Business Department, Sukkur IBA University (April 22-24, 2016)
-                                    </li>
-
-                                  <li>
-                                      Assurance of Learning Seminar II, Kuala Lumpur, Malaysia (December 21-22, 2016)
-                                    </li>
-
-                                  <li>
-                                      IVEY Business School, “Case Teaching and Case Writing Workshop” at Executive Development Center Sukkur IBA University, Sukkur ( September 18-20, 2018)
-                                    </li>
-
-                                  <li>
-                                      Certification, “Case Study method of Teaching” at Rausing Executive Development Centre – LUMS (October 12-14, 2018)
-                                    </li>
-
                                 </ul>
+                            </p>
+                            <p>
+                                <b>TRAININGS ATTENDED</b>
+                                <br>
+                                <ul>
+                                    <li>
+                                        Workshop Training, “Case Study method of Teaching” at Business Department, Sukkur IBA University (April 22-24, 2016)
+                                        </li>
+
+                                    <li>
+                                        Assurance of Learning Seminar II, Kuala Lumpur, Malaysia (December 21-22, 2016)
+                                        </li>
+
+                                    <li>
+                                        IVEY Business School, “Case Teaching and Case Writing Workshop” at Executive Development Center Sukkur IBA University, Sukkur ( September 18-20, 2018)
+                                        </li>
+
+                                    <li>
+                                        Certification, “Case Study method of Teaching” at Rausing Executive Development Centre – LUMS (October 12-14, 2018)
+                                    </li>
+                                </ul>
+
+
                             </p>
                           
                          
