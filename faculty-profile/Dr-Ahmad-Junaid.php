@@ -93,7 +93,7 @@ include('../partials/head.php');
                         <div id="credentials" class=" tab-pane fade"><br>
                             <h4 class="text-primary">Education</h4>
                                 <ul>
-                                    <li>PhD Finance, I.A.E, Graduate School of Business, France
+                                    <li>PhD Finance, I.A.E, Graduate School of Business, France <br>
                                     Topic: Liquidity Spirals, Corporate governance and Crisis: A case of Emerging Market</li>
                                     
                                     <li>2014 Masters in Finance, I.A.E, Graduate School of Business, France</li>
@@ -150,7 +150,7 @@ include('../partials/head.php');
                                 Teaching and developing courses on Corporate Finance, Investment Banking and quantitative finance
                                 Area of Research: Industrial policy, CPEC Asset pricing, Risk modelling
                                 Research Fellow, Center of Business and Economic Research, CBER, IBA, Karachi. 2014-present
-                                Member of Board Risk Committee, National Clearing Company of Pakistan Limited (NCCPL).
+                                Member of Board Risk Committee, National Clearing Company of Pakistan Limited (NCCPL). <br>
                                 2017 – Present
                             </p>
                             <p>
