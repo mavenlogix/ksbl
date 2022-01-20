@@ -61,7 +61,7 @@ include('../partials/navbar.php');
                 <div class="content">
                     <a href="#" target="_blank">
                         <div class="content-overlay"></div>
-                        <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
+                        <img class="content-image" src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFsbHdheXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60">
                         <div class="content-details fadeIn-right">
                             <h3>This is a title</h3>
                             <p>This is a short description</p>
@@ -71,7 +71,7 @@ include('../partials/navbar.php');
                 <div class="content">
                     <a href="#" target="_blank">
                         <div class="content-overlay"></div>
-                        <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
+                        <img class="content-image" src="https://images.unsplash.com/photo-1615414047026-802692414b79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60">
                         <div class="content-details fadeIn-right">
                             <h3>This is a title</h3>
                             <p>This is a short description</p>
@@ -81,7 +81,7 @@ include('../partials/navbar.php');
                 <div class="content">
                     <a href="#" target="_blank">
                         <div class="content-overlay"></div>
-                        <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
+                        <img class="content-image" src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60">
                         <div class="content-details fadeIn-right">
                             <h3>This is a title</h3>
                             <p>This is a short description</p>
