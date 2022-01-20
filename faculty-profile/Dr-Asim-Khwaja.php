@@ -111,23 +111,63 @@ include('../partials/head.php');
                                     </li>
                                </ul>
                            </p>
-                           <p>
-                               <b>Professional Trainings</b>
-                               <br>
-                               
-                                2013 <br> 
-                                First-Aid Training, St John Ambulance, Australia <br>
-                                2008 <br> 
-                                Communicating Science to Peers Workshop, ANU College of Science, Australia <br>
-                                1999 <br> 
-                                Time Management Workshop, Verizon Data Services, USA <br>
-                                2015 <br> 
-                                Sleep Management Workshop, TimeLenders, Pakistan <br>
-                                2016  <br> 
-                                Strategic Time Management Workshop, TimeLenders, Pakistan
-                                Strategic Vision Workshop, TimeLenders, Pakistan
+                       
 
-                           </p>
+                           <p class="text-center"><b>Professional Trainings</b></p>
+                            <div>
+                                <p style="margin-top: 0px !important;">
+                                    <p class="float-left">First-Aid Training, St John Ambulance, Australia</p>
+                                    <p class="float-right">2013</p>
+                                </p>
+                            </div>
+                            <br>
+                         
+                            
+
+                            <div>
+                                <p style="margin-top: 0px !important;">
+                                    <p class="float-left">Communicating Science to Peers Workshop, ANU College of Science, Australia</p>
+                                    <p class="float-right">2008</p>
+                                </p>
+                            </div>
+                            <br>
+                         
+                            
+
+                            <div>
+                                <p style="margin-top: 0px !important;">
+                                    <p class="float-left">Time Management Workshop, Verizon Data Services, USA</p>
+                                    <p class="float-right">1999</p>
+                                </p>
+                            </div>
+                            <br>
+                        
+                         
+
+                            <div>
+                                <p style="margin-top: 0px !important;">
+                                    <p class="float-left">Sleep Management Workshop, TimeLenders, Pakistan</p>
+                                    <p class="float-right">2015</p>
+                                </p>
+                            </div>
+                            <br>
+                      
+                      
+
+                            <div>
+                                <p style="margin-top: 0px !important;">
+                                    <p class="float-left">Strategic Time Management Workshop, TimeLenders, Pakistan <br>
+                                        Strategic Vision Workshop, TimeLenders, Pakistan
+                                    </p>
+                                    <p class="float-right">2016</p>
+                                </p>
+                            </div>
+                          
+                        
+
+
+
+
                             
                         </div>
                         <div id="interests" class=" tab-pane fade">
@@ -163,10 +203,14 @@ include('../partials/head.php');
                                         </li>
                                     <li>
                                         Arizona State University, Tempe, Arizona, USA 1996 – 1998 Teaching Assistant / Software Developer
-                                        </li>
-                                    <li>
-                                        Workshops Conducted:
-                                        </li>
+                                    </li>
+                                    
+                                </ul>
+                            </p>
+                            <p>
+                                <b>Workshops Conducted:</b>
+                                <br>
+                                <ul>
                                     <li>
                                         Sleep Science (Personal Development) PNEC, NUST
                                         </li>
@@ -182,17 +226,28 @@ include('../partials/head.php');
                                     <li>
                                         Introduction to Web Development (Computer Science) PNEC, NUST
                                         </li>
+                                 
+                                    
+                                </ul>
+                            </p>
+                            <p>
+                                <b>Information Sessions Conducted & TV Appearances:</b>
+                                <br>
+                                <ul>
                                     <li>
-                                        Information Sessions Conducted & TV Appearances:
+                                            METRO TV Education Guide Program on DHA Suffa University, 2020 <br>
+                                            Link: <a href="https://www.youtube.com/watch?v=ooh6PGrqoD0#t=9m40s">https://www.youtube.com/watch?v=ooh6PGrqoD0#t=9m40s</a>  <br>
+                                            (Click on the link to view it on YouTube)
                                             </li>
-                                    <li>
-                                        METRO TV Education Guide Program on DHA Suffa University, 2020 Link: https://www.youtube.com/watch?v=ooh6PGrqoD0#t=9m40s (Click on the link to view it on YouTube)
-                                        </li>
-                                    <li>
-                                        DSU 1st Virtual Info Session, May 2020 https://www.youtube.com/watch?v=NBCFCWVlEe4#t=8m42s (Click on the link to view it on YouTube)
-                                        </li>
-                                    <li>
-                                        DSU 2nd Virtual Info Session https://www.youtube.com/watch?v=1UIzu7aV1V4#t=14m34s (Click on the link to view it on YouTube)
+                                        <li>
+                                            DSU 1st Virtual Info Session, May 2020 <br>
+                                            <a href="https://www.youtube.com/watch?v=NBCFCWVlEe4#t=8m42s">https://www.youtube.com/watch?v=NBCFCWVlEe4#t=8m42s</a> <br>
+                                            (Click on the link to view it on YouTube)
+                                            </li>
+                                        <li>
+                                            DSU 2nd Virtual Info Session <br>
+                                            <a href="https://www.youtube.com/watch?v=1UIzu7aV1V4#t=14m34s">https://www.youtube.com/watch?v=1UIzu7aV1V4#t=14m34s</a> <br>
+                                            (Click on the link to view it on YouTube)
                                         </li>
                                 </ul>
                             </p>
