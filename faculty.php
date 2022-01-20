@@ -636,7 +636,7 @@ include('./partials/head.php');
                <div class="person come-out ">
                    <a href="faculty-profile/Amra_Mubashir.php">
                        <div class="person-info ">
-                           <img src="images/faculty/Amra_Mubashir.jpg" alt="Mr Absar Ahmed" />
+                           <img src="images/faculty/Amra_Mubashir.jpg" alt="Amra Mubashir" />
                        </div>
                    </a>
                     <div class="person-detail">
@@ -647,6 +647,22 @@ include('./partials/head.php');
                     </div>
                 </div>
                 <!-- END Person Amra Mubashir -->
+
+                <!-- Person Mufti Muhammad Sarfaraz Nihal -->
+               <div class="person come-out ">
+                   <a href="faculty-profile/Mufti_Muhammad_Sarfaraz_Nihal.php">
+                       <div class="person-info ">
+                           <img src="images/faculty/male_dummy.jpg" alt="Mufti Muhammad Sarfaraz Nihal" />
+                       </div>
+                   </a>
+                    <div class="person-detail">
+                        <h2 class="name">Mufti Muhammad Sarfaraz Nihal</h2>
+                        <div class="designation">
+                        Islamic Finance & Economics
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Mufti Muhammad Sarfaraz Nihal -->
 
 
                 <!-- Person 6 -->

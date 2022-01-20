@@ -2754,6 +2754,14 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 560px;
 }
 
+
+.faculty_grid_left.sarfaraz_nihal {
+    background: url(../images/about/male_dummy_.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
+
+
 .faculty_grid_left.amra_mubashir {
     background: url(../images/about/Amra_Mubashir.jpg) no-repeat left center;
     background-size: cover;
@@ -4123,6 +4131,12 @@ button.playBtnVid:focus {
         height: 224px;
     }
 
+    .faculty_grid_left.sarfaraz_nihal {
+        background: url(../images/about/male_dummy_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
+
     
     .faculty_grid_left.amra_mubashir {
         background: url(../images/about/Amra_Mubashir_1024.jpg) no-repeat top center;
@@ -4300,6 +4314,15 @@ button.playBtnVid:focus {
         background-size: cover;
         height: 153px
     }
+
+    
+    .faculty_grid_left.sarfaraz_nihal {
+        background: url(../images/about/male_dummy_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px
+    }
+    
+
 
     .faculty_grid_left.amra_mubashir {
         background: url(../images/about/Amra_Mubashir_1024.jpg) no-repeat top center;

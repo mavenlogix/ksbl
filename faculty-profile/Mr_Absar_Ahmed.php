@@ -249,23 +249,6 @@ include('../partials/head.php');
                                 </li>
                             </ul>
 
-
-
-                            <ul style="list-style: square;">
-                                <li>Javaid, M.N., and Saviotti, P.P. (2012), “Financial System and Technological Catching-up: An Empirical Analysis” Journal of Evolutionary Economics: Volume 22, Issue 4, Page 847-870.</li>
-                            
-                                <li>Javaid, M.N., and Saviotti, P.P. (2013), “Is There a Recipe for Increasing the Export Variety of Nations” Book Chapter # 21 in “Long Term Economic Development, Economic Complexity and Evolution”, Edited by A. Pyka and E.S. Andersen, Springer, Germany.</li>
-                            
-                                <li>Afzal, M; Ahmed, G; and Javaid, M.N. (2017), “ Empirical Assessment of Climate Change on Agricultural Crops for Pakistan: A Panel Data Analysis” International Journal of Food and Agricultural Economics: Volume 5, issue 2, Page 59-68</li>
-                            
-                                <li>Javaid, M.N., Naveed, I., and Ahmed, G., (2017) “What Drives the Quality of Institutions in Asian Economies? Directions for Economic Reforms” Journal of South Asian Studies: 05(03) Page 127- 139</li>
-                            
-                                <li>Javaid, M.N., and Sharik, A. R (2018) “Political Economy of Taxation in Pakistan: Replace or not to replace GST with VAT?” forthcoming Asian Journal of Management Cases.</li>
-                            
-                                <li>“Productivity Dynamics; A case of Pakistan” under review process in Journal of South Asian Development.</li>
-
-                            </ul>
-
                         </div>
 
                     </div>
