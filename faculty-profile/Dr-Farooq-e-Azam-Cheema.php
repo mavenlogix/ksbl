@@ -80,7 +80,9 @@ include('../partials/head.php');
                     <div class="tab-content mt-2">
                         <div id="vita" class=" tab-pane active">
                             <p><span style="color: #ff9f19;">Dr. Farooq e Azam Cheema </span>is the Provost & Acting Registrar at KSBL. He is a member of the National Business Education Accreditation Council and an accreditation mentor of renowned universities across Pakistan. He is also the permanent member of National Curriculum Review Committee of Business Administration, Higher Education Commission. </p>
-                            <p>is the Provost & Acting Registrar at KSBL. He is a member of the National Business Education Accreditation Council and an accreditation mentor of renowned universities across Pakistan. He is also the permanent member of National Curriculum Review Committee of Business Administration, Higher Education Commission. </p>
+                            <p>Additionally, he is also a member of coveted bodies like Chartered Institute of Personnel & Development, United Kingdom (UK) and Chartered Institute of Logistics and Transport, UK.
+                            He has a diverse and vast experience with special expertise in HRM & D Consultancy, building HR systems for reputed organizations and Industrial Relations & Labor Laws and has conducted multiple workshops on managerial skills, Industrial Relations and Labour Laws.
+                            </p>
                             <p>Dr. Cheema completed his M.Sc. in Human Resource Management & Development from the University of Manchester, UK, and his Ph.D. in Management, from the University of Karachi, Pakistan</p>
                         </div>
                         <div id="credentials" class=" tab-pane fade">
@@ -160,8 +162,6 @@ include('../partials/head.php');
                                 <li>Bashir, R., Hassan, A. & Cheema, F. A. (2019) A Qualitative Analysis of Microfinance Institutions in Poverty Alleviation and Societal Wellbeing of Pakistan, Global Management Journal for Academic & Corporate Studies, Volume 8(1) ISSN: 2219-6145</li>
 
                                 <li>Cheema F. A. Rehman, S., Zia, S. & Rehman, M. (2016), Do Taglines have a Positive Impact on Building the Brand Perception?, IBT Journal of Business Studies, Volume 12(1) ISSN 2414-8393</li>
-
-                                <li>Hassan, A., Rajagopal, P. & Cheema, F. A., (2015) Speed of Adaption of Information Systems: Correlation between Business Enterprises and Universities, Global Management Journal for Academic & Corporate Studies, Volume 5(1) ISSN: 2219-6145</li>
 
                                 <li>Hassan, A., Rajagopal, P. & Cheema, F. A., (2015) Speed of Adaption of Information Systems: Correlation between Business Enterprises and Universities, Global Management Journal for Academic & Corporate Studies, Volume 5(1) ISSN: 2219-6145</li>
 
