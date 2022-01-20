@@ -2754,6 +2754,12 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 560px;
 }
 
+.faculty_grid_left.mr-shahrukh-irfan {
+    background: url(../images/about/Mr_Shahrukh_Irfan.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
+
 .faculty_grid_left.dr-faryal {
     background: url(../images/about/faculty-Dr-Faryal-Razzaq.jpg) no-repeat left center;
     background-size: cover;
@@ -3976,6 +3982,12 @@ button.playBtnVid:focus {
         height: 224px;
     }
 
+    .faculty_grid_left.mr-shahrukh-irfan {
+        background: url(../images/about/Mr_Shahrukh_Irfan_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
+
     .faculty_grid_left.dr-faryal {
         background: url(../images/about/faculty-Dr-Faryal-Razzaq_1024.jpg) no-repeat top center;
         background-size: cover;
@@ -4131,6 +4143,12 @@ button.playBtnVid:focus {
 
     .faculty_grid_left.dr-nadeem {
         background: url(../images/about/Dr-Nadeem_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px
+    }
+    
+    .faculty_grid_left.mr-shahrukh-irfan {
+        background: url(../images/about/Mr_Shahrukh_Irfan_1024.jpg) no-repeat top center;
         background-size: cover;
         height: 153px
     }
