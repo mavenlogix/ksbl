@@ -95,12 +95,12 @@ include('../partials/navbar.php');
                         <div id="credentials" class=" tab-pane fade"><br>
                             <h4 class="text-primary">Education</h4>
                             <p>
-                                <b> Phd, Washington University, USA </b><br>
+                                <b> PHD, Washington University, USA </b><br>
                                 Corporate Financial Decision-Making and Performance<br>
                                 <b>2006 </b>
                             </p>
                             <p>
-                                <b>Msc, London School Of Economics & Political Science, UK </b> <br>
+                                <b>MSC, London School Of Economics & Political Science, UK </b> <br>
                                 International Accounting & Finance<br>
                                 <b>1998</b>
                             </p>
@@ -134,8 +134,13 @@ include('../partials/navbar.php');
                                   <li>BHS, 2000-2005</li>
                                   <li>Blockbuster Entertainment Inc., 1999</li>
                                   <li>Ford (UK) Ltd, 1998-2000</li>
-                                    <span style="color: red;">Advisory or Consultancy?</span>
-
+                                  
+                                </ul>
+                            </p>
+                            <p>
+                                <b>Advisory or Consultancy?</b>
+                                <br>
+                                <ul>
                                     <li>Academic Work Experience <span style="color: red;">(What & Where)</span> <br>
                                     2010-2018</li>
                                     <li>CEO and Principal Consultant, EDTREC UK  <br>
@@ -143,7 +148,6 @@ include('../partials/navbar.php');
                                     <li>Subject Manager & Academic Lead, COVENTRY UNIVERSITY, UK <br>
                                     1991-2011</li>
                                     <li>Group Leader, Accounting and Finance, UNIVERSITY OF LONDON, UK</li>
-
                                 </ul>
                             </p>
                             <p>
