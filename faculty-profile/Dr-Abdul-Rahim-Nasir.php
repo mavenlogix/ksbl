@@ -156,26 +156,32 @@ include('../partials/head.php');
                                     2016–2018: <br>Design & Analysis Inc., Jeddah, Saudi Arabia <br>
                                     BI & SCM Consultant
                                 </li>
+                                <br>
                                 <li>
                                     2017–2018: <br>Dhafoor (startup), Thawul, Saudi Arabia (Dhafoor ظفور in Arabic means triumphs) <br>
                                     Co-Owner, Chief Technology Officer, and Strategic Analyst
                                 </li>
+                                <br>
                                 <li>
                                     2013–2016: <br>House of Expertise in Academic Accreditation, UQU, Makkah, Saudi Arabia <br>
                                     Co-Owner and Lead Consultant
                                 </li>
+                                <br>
                                 <li>
                                     2008–2012: <br>Congruent Systems Inc., Waterloo, Canada <br>
                                     Part-Time Consultant
                                 </li>
+                                <br>
                                 <li>
                                     2005–2008: <br>Congruent Systems Inc., Waterloo, Canada <br>
                                     Research Scientist & Director of Research
                                 </li>
+                                <br>
                                 <li>
                                     2000–2005: <br>Engineering Optimization Software Inc., CA, USA <br>
                                     Part-Time Consultant
                                 </li>
+                                <br>
                                 <li>
                                     1993–1994: <br>Precision Technologies, Karachi, Pakistan <br>
                                     Systems Design Engineer, R&D Division
