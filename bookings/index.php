@@ -112,7 +112,7 @@ include('../partials/navbar.php');
                     </div>
                      <div class="col-lg-4">
                         <div class="form-group">
-                            <label >Facility Requird</label>
+                            <label >Facility Required</label>
                             <select class="form-control">
                                 <option>Option 1</option>
                                 <option>Option 2</option>
