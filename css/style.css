@@ -2753,6 +2753,11 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     background-size: cover;
     height: 560px;
 }
+.faculty_grid_left.absar_ahmad {
+    background: url(../images/about/Absar_Ahmad.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
 
 .faculty_grid_left.mr-shahrukh-irfan {
     background: url(../images/about/Mr_Shahrukh_Irfan.jpg) no-repeat left center;
@@ -3981,6 +3986,12 @@ button.playBtnVid:focus {
         background-size: cover;
         height: 224px;
     }
+    
+    .faculty_grid_left.absar_ahmad {
+        background: url(../images/about/Absar_Ahmad_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
 
     .faculty_grid_left.mr-shahrukh-irfan {
         background: url(../images/about/Mr_Shahrukh_Irfan_1024.jpg) no-repeat top center;
@@ -4147,6 +4158,12 @@ button.playBtnVid:focus {
         height: 153px
     }
     
+    .faculty_grid_left.absar_ahmad {
+        background: url(../images/about/Absar_Ahmad_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px
+    }
+
     .faculty_grid_left.mr-shahrukh-irfan {
         background: url(../images/about/Mr_Shahrukh_Irfan_1024.jpg) no-repeat top center;
         background-size: cover;

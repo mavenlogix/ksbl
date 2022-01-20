@@ -615,6 +615,22 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person Mr Shahrukh Irfan -->
 
+                <!-- Person Mr Absar Ahmed -->
+               <div class="person come-out ">
+                   <a href="faculty-profile/Mr_Absar_Ahmed.php">
+                       <div class="person-info ">
+                           <img src="images/faculty/Absar_Ahmed.jpg" alt="Mr Absar Ahmed" />
+                       </div>
+                   </a>
+                    <div class="person-detail">
+                        <h2 class="name">Mr Absar Ahmed</h2>
+                        <div class="designation">
+                            Lecturer in College Algebra
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Mr Absar Ahmed -->
+
 
                 <!-- Person 6 -->
                <!--  <div class="person come-out">
