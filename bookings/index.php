@@ -135,7 +135,7 @@ include('../partials/navbar.php');
                     </div>
                           <div class="col-lg-4">
                         <div class="form-group">
-                            <label >Food Requird</label>
+                            <label >Food Required</label>
                             <select class="form-control">
                                 <option>All </option>
                                 <option>Hi-Tea </option>
