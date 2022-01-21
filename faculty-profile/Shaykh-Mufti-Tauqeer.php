@@ -109,18 +109,10 @@ include('../partials/head.php');
 
                     <ul class="nav nav-tabs border-0" role="tablist">
 
-                         <li class="nav-item">
+                         <li class="nav-item page_tabs_adjusment">
                             <a class="nav-link active" data-toggle="tab" href="#vita">Profile Summary</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#credentials">Credentials</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#interests">Consulting & Teaching</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#publications">Publications & Research</a>
-                        </li>
+                       
 
                     </ul>
 
@@ -138,18 +130,6 @@ include('../partials/head.php');
                             <p> Mr. Tauqeer has completed post-Graduate (equivalent) degree in Arabic and Islamic Sciences with specialization in Jurisprudence from Mahad al Faqeer, Pakistan,  M.S. Electrical Engineering from The Ohio State University, Columbus, Ohio, USA and has authorization to teach all the major books of hadith by many renowned scholars including Shaykh ul Hadith Maulana Taqiuddin Nadwi(UAE), Shaykh ul Islam Mufti Muhammad Taqi Usmani(Pakistan) and Shaykh ul Tafseer Maulana Sajjad Nomani (India).</p>
 
                           
-                        </div>
-
-                        <div id="credentials" class=" tab-pane fade"><br>
-                           
-                        </div>
-
-                        <div id="interests" class=" tab-pane fade"><br>
-
-                        </div>
-
-                        <div id="publications" class=" tab-pane fade"><br>
-
                         </div>
 
                     </div>

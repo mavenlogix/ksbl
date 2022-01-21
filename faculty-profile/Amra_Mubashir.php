@@ -125,16 +125,17 @@ include('../partials/head.php');
                         <div id="vita" class=" tab-pane active">
                             <p><span style="color: #ff9f19;">Amra Mubashir </span>is an HR professional having work experience of more than 15 years with multinational and local companies. She has expertise in leadership development, diversity, and inclusion. Amra has coached young professionals across Asia Pacific particularly Pakistan, Thailand, Vietnam, Philippines, Malaysia and Indonesia. She has taught in FAST-NU and wrote local case studies for LUMS which have been published by LUMS in a book on Knitwear Industry of Pakistan. Previously Amra has worked in PepsiCo International, British American Tobacco, Jazz and Tetra Pak in local and Regional roles. Currently she is heading Human Resources at Tapal tea (PVT) Ltd.</p>
 
-                           <p>She is also a co-founder of a female community, Her Bright Beginning, a platform for all women creating a broad range of opportunities that inspires and enables women of all walks of life. She has been a key note and conference speaker for many salient conferences within Pakistan and abroad. Amra has worked with Global Centre of Inclusion, USA on "DEI Futures to reinvent, reimagine and retool D&I practices". </p>
-
                             <p>Amra holds Masters in Engineering Business Management from Warwick University, UK with majors in change management and HR. She has bachelor’s degree in Computer Sciences from University of Engineering and Technology, Lahore. She holds D&I certification from INSEAD Business School.</p>
 
                            
                         </div>
 
-                        <div id="credentials" class=" tab-pane fade"><br>
-                            <h4 class="text-primary">Education</h4>
+                        <div id="credentials" class=" tab-pane fade">
 
+                            <p>She is also a co-founder of a female community, Her Bright Beginning, a platform for all women creating a broad range of opportunities that inspires and enables women of all walks of life. She has been a key note and conference speaker for many salient conferences within Pakistan and abroad. Amra has worked with Global Centre of Inclusion, USA on "DEI Futures to reinvent, reimagine and retool D&I practices". </p>
+                            <br>
+
+                            <h4 class="text-primary">Education</h4>
                             <ul>
                                 <li>
                                     <b>M.Sc. (Engineering Business Management)</b> <br>

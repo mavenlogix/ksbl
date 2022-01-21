@@ -149,49 +149,49 @@ include('../partials/head.php');
                                         <td>Ph.D.(Islamic Finance) </td>
                                         <td>2016-present</td>
                                         <td>University of Karachi</td>
-                                        <td>Proposal approved (Final submission in process)</td>
+                                        
                                     </tr>
                                     <tr>
                                         <td>M Phil.(Economics) </td>
                                         <td>2015</td>
                                         <td>University of Karachi</td>
-                                        <td>(3.85 CGPA)</td>
+                                        
                                     </tr>
                                     <tr>
                                         <td>MA.(Arabic/Islamic Studies)</td>
                                         <td>2013</td>
                                         <td>University of Karachi</td>
-                                        <td>(Equivalence)</td>
+                                       
                                     </tr>
                                     <tr>
                                         <td>M.Sc.(Economics)</td>
                                         <td>2006</td>
                                         <td>University of Karachi</td>
-                                        <td>(1st Division)</td>
+                                        
                                     </tr>
                                     <tr>
                                         <td>B.Sc.(Math’s, Stats. & Economics) </td>
                                         <td>2002</td>
                                         <td>University of Karachi</td>
-                                        <td>(2st Division)</td>
+                                        
                                     </tr>
                                     <tr>
                                         <td>F.Sc.(Pre-Engineering)</td>
                                         <td>1999</td>
                                         <td>DJ Govt. Science College</td>
-                                        <td>(2st Division)</td>
+                                      
                                     </tr>
                                     <tr>
                                         <td>Specialization in Islamic Jurisprudence (Takhassus-fil Fiqh-il-islami) (Mufti)</td>
                                         <td>2010</td>
                                         <td>Jamia Farooqia Karachi</td>
-                                        <td>(80% Marks)</td>
+                                        
                                     </tr>
                                     <tr>
                                         <td>Shahadat-ul-Aalamiyah (Aalim)</td>
                                         <td>2007</td>
                                         <td>Jamia Farooqia, Wifaq-ul-Madaris Al-Arabia Pakistan</td>
-                                        <td>(80% Marks)</td>
+                                      
                                     </tr>
                                 </tbody>
                             </table>
