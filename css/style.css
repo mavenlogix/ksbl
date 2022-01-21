@@ -2745,6 +2745,12 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 560px;
 }
 
+.faculty_grid_left.dr-nida_khan {
+    background: url(../images/about/Dr-Nida-Khan.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
+
 .faculty_grid_left.naima_fatima_shariff {
     background: url(../images/about/Naima_Fatima_Shariff.jpg) no-repeat left center;
     background-size: cover;
@@ -4172,6 +4178,12 @@ button.playBtnVid:focus {
         height: 224px;
     }
 
+    .faculty_grid_left.dr-nida_khan {
+        background: url(../images/about/Dr-Nida-Khan_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
+
 
     .faculty_grid_left.naima_fatima_shariff {
         background: url(../images/about/Naima_Fatima_Shariff_1024.jpg) no-repeat top center;
@@ -4385,6 +4397,13 @@ button.playBtnVid:focus {
         background-size: cover;
         height: 153px
     }
+
+    .faculty_grid_left.dr-nida_khan {
+        background: url(../images/about/Dr-Nida-Khan_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px
+    }
+
     
     .faculty_grid_left.naima_fatima_shariff {
         background: url(../images/about/Naima_Fatima_Shariff_1024.jpg) no-repeat top center;

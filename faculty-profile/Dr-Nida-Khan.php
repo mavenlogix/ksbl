@@ -1,131 +1,167 @@
 <!DOCTYPE html>
-<html lang="en">
-<?php 
 
+<html lang="en">
+
+
+
+   <?php 
+$page_meta_key = 'faculty';
 include('../partials/head.php');
 
 ?>
-<style type="text/css">
-body,
-html {
 
-    overflow-x: hidden;
 
-}
-</style>
 
-<body class="mba about bog">
+<body class="mba aboutt bog main-faculty">
+
     <!-----------------------------------------------------------------#
 
     #                       Header START                               #
 
     #----------------------------------------------------------------->
+
     <header id="header" class="run">
+
         <div class="container">
-            <?php
-include('../partials/navbar.php'); 
-?>
+
+         <?php
+                include('../partials/navbar.php'); 
+            ?>
 
             <div class="header-content">
-                <a href="../index.php" title="KSBL" class="logo">
-                    <img src="../images/ksbl-logo-high.png" width="239" alt="KSBL" />
+
+                <a href="index.php" title="KSBL" class="logo">
+
+                    <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
+
                 </a>
+
                 <div class="heder-info">
+
                     <h1>FACULTY</h1>
+
                     <h2>KSBL faculty is composed of world-class scholars, focused on <span class="orange-yellow-text">transferring their knowledge & wisdom</span> to the next generation</h2>
+
                 </div><!-- container -->
+
             </div>
+
         </div><!-- container -->
+
         </div><!-- Header-bottom -->
+
     </header>
+
     <!-----------------------------------------------------------------#
 
     #                       Header END                                 #
 
     #----------------------------------------------------------------->
+
     <div class="departments">
+
         <div class="container">
-            <a href="../about/" class="department" title="Vision & Mission">Vision & Mission</a>
+
+            <a href="about/" class="department" title="Vision & Mission">Vision & Mission</a>
+
             <!-- About -->
-            <a href="../about/board-of-governors.php" class="department " title="Board of Governors">Board of Governors</a>
+
+            <a href="about/board-of-governors.php" class="department " title="Board of Governors">Board of Governors</a>
+
             <!-- Board of Governors -->
-            <a href="../faculty.php" class="department" title="Faculty">Faculty</a>
+
+            <a href="faculty.php" class="department" title="Faculty">Faculty</a>
+
             <!-- Accreditation -->
-            <a href="../about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
+
+            <a href="about/karachi-education-initiative/" class="department" title="KEI">KEI</a>
+
             <!-- KEi -->
-            <a href="../contact-us.php" class="department" title="Contact Us">Contact Us</a>
+
+            <a href="contact-us.php" class="department" title="Contact Us">Contact Us</a>
+
             <!-- Contact -->
+
         </div><!-- container -->
+
     </div>
-    <!-----------------------------------------------------------------#
 
-    #                   MBA Department END                             #
-
-    #----------------------------------------------------------------->
-    <!-----------------------------------------------------------------#
-
-    #                     Faculty Group Start                          #
-
-    #----------------------------------------------------------------->
     <div class="faculty-section teacher-group">
+
         <div class="container">
-            <div class="non_faculty_grid">
-                <div class="non_faculty_grid_left">
-                    <div class=" non_faculty_grid_img  non_faculty_grid_img_Dr_Nida_Khan">
-                        <div class="non_faculty_grid_head">
-                            <h1>Dr. Nida Khan</h1>
-                            <h4>Fintech</h4>
-                        </div>
+
+            <div class="faculty_grid">
+
+                <div class="faculty_grid_left dr-nida_khan">
+
+                    <div class="faculty_grid_head">
+
+                        <h1>Dr. Nida Khan</h1>
+                        <h4>Fintech</h4>
+
                     </div>
-                    <div class="non_faculty_grid_two">
-                        <div class="non_faculty_grid_two_left">
-                            <h4>Recent Activity</h4>
-                            <!-- <div class="recent_activity">
-                                <a href="">Mubashar Speaks on the orientation for the Inaugral batch of KSBL MS Business Analytics. </a>
-                                <span>Monday, March 22nd, 2021</span>
-                            </div>
-                            <div class="recent_activity">
-                                <a href=""><b>Mubashar welcomes Mr. Shoaib Khalil,</b> Head of Channel & Business Development, Microsoft Pakistan, for a session at KSBL on Future Job Trends... </a>
-                                <span>Monday, March 22nd, 2021</span>
-                            </div>
-                            <div class="recent_activity">
-                                <a href="">The board of KSBL has appointed Mr. Mubashar Hameed as the Rector.
-                                    In addition to his role as Rector KSBL, Mr. Hameed will also serve as CEO of Karachi Education Initiative (KEI). </a>
-                                <span>Tuesday, May 12th, 2020</span>
-                            </div> -->
-                        </div>
-                        <div class="non_faculty_grid_two_right">
-                            <div class="non_faculty_grid_two_right_content">
-                                <p><b>Dr. Nida Khan</b> teaches … at KSBL. She is is the CEO of Nash fintechX, a Luxembourgish startup, providing software solutions and consulting services, specializing in blockchain and AI. 
-                                </p>
-                                <p>
-                                She was ranked as the 12th most influential woman in Islamic business and finance in 2019 and 2020 and is currently working on projects that revolve around impact investing, NFTs for real estate and preventing greenwashing.
-                                </p>
-                                <p>
-                                She has worked on projects in social finance and decentralized finance, including tokenization and is a pioneer in giving the economic impact of blockchain-based micropayments, developing a novel consensus mechanism for scalable blockchains, proposing a mathematical framework for blockchain governance, and ensuring GDPR-compliant privacy preservation in blockchains.  
-                                </p>
 
-                                <p>
-                                She also worked as the CTO in a Singapore-based e-commerce platform, where she developed their tech stack, gave a concrete architecture to their business model and proposed a novel mechanism using blockchain-based tokens to record the impact of their initiative. Her work appears in diverse publications and she speaks regularly on emerging technologies.
-                                </p>
-                                <p>
-                                Dr. Khan holds a doctorate in computer science, from….? where her industrial research on blockchain-based financial applications was accorded the FNR (Luxembourg National Research Fund) grant for innovative, industrial projects.
-                                </p>
-
-                                <!-- <p><h4 class="text-primary">Credentials</h4></p> -->
-                                <!-- <h4 class="text-primary">Consulting and Teaching</h4> -->
-                                <!-- <h4 class="text-primary">Publications and Research</h4> -->
-                              
-                               
-
-                            </div>
-                        </div>
-                    </div>
                 </div>
-                <div class="non_faculty_grid_right">
-                <h4>Other Faculty Members</h4>
-                    <div class="non_faculty_grid_right_scroll">
 
+                <div class="faculty_grid_center">
+
+                    <ul class="nav nav-tabs border-0" role="tablist">
+
+                         <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#vita">Profile Summary</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#credentials">Credentials</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#interests">Consulting & Teaching</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#publications">Publications & Research</a>
+                        </li>
+
+                    </ul>
+
+                    <!-- Tab panes -->
+
+                    <div class="tab-content mt-2">
+
+                        <div id="vita" class=" tab-pane active">
+                            <p><span style="color: #ff9f19;">Dr. Nida Khan </span>teaches … at KSBL. She is is the CEO of Nash fintechX, a Luxembourgish startup, providing software solutions and consulting services, specializing in blockchain and AI. </p>
+
+                           <p>She was ranked as the 12th most influential woman in Islamic business and finance in 2019 and 2020 and is currently working on projects that revolve around impact investing, NFTs for real estate and preventing greenwashing. </p>
+
+                            <p>She has worked on projects in social finance and decentralized finance, including tokenization and is a pioneer in giving the economic impact of blockchain-based micropayments, developing a novel consensus mechanism for scalable blockchains, proposing a mathematical framework for blockchain governance, and ensuring GDPR-compliant privacy preservation in blockchains.</p>
+
+                            <p>She also worked as the CTO in a Singapore-based e-commerce platform, where she developed their tech stack, gave a concrete architecture to their business model and proposed a novel mechanism using blockchain-based tokens to record the impact of their initiative. Her work appears in diverse publications and she speaks regularly on emerging technologies.</p>
+
+                            <p>
+                                Dr. Khan holds a doctorate in computer science, from….? where her industrial research on blockchain-based financial applications was accorded the FNR (Luxembourg National Research Fund) grant for innovative, industrial projects.
+                            </p>
+
+                          
+                        </div>
+
+                        <div id="credentials" class=" tab-pane fade"><br>
+                            
+                        </div>
+
+                        <div id="interests" class=" tab-pane fade"><br>
+
+                        </div>
+
+                        <div id="publications" class=" tab-pane fade"><br>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="non_faculty_grid_right">
+                    <h4>Other Faculty Members</h4>
+                    <div class="non_faculty_grid_right_scroll">
+                    
                     <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Farooq-e-Azam-Cheema.php">Dr. Farooq-e-Azam Cheema
                                 <span>Provost & Acting Registrar</span>
@@ -140,7 +176,6 @@ include('../partials/navbar.php');
                             </a>
                         </div>
 
-                   
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Muhammad-Nadeem-Javaid.php">Dr. Nadeem Javaid
                                 <span>Professor<br>
@@ -218,22 +253,26 @@ include('../partials/navbar.php');
                         </div> -->
 
 
-
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-  <?php
-include('../partials/footer.php');
-?>
 
-<!-- footer end -->
-<?php
-include('../partials/footer-scripts.php');
-?>
+            </div>
+
+        </div>
+
+    </div>
+
+   <?php
+        include('../partials/footer.php');
+    ?>
+    <!-- footer end -->
+   <?php
+        include('../partials/footer-scripts.php');
+    ?>
 
 
 </body>
+
+
 
 </html>
