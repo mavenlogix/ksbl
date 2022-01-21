@@ -97,7 +97,7 @@ include('../partials/head.php');
                     <div class="faculty_grid_head">
 
                         <h1>Mufti Muhammad Sarfaraz Nihal</h1>
-                        <h4>Islamic Finance & Economics</h4>
+                        <h4>Visiting Faculty<br>Islamic Finance & Economics</h4>
 
                         <a href="mailto:mufti.sarfaraz@ksbl.edu.pk">mufti.sarfaraz@ksbl.edu.pk</a>
 

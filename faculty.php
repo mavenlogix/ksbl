@@ -609,6 +609,7 @@ include('./partials/head.php');
                     <div class="person-detail">
                         <h2 class="name">Mr Shahrukh Irfan</h2>
                         <div class="designation">
+                            Visiting Lecturer<br>
                             Accounting & Finance
                         </div>
                     </div>
@@ -625,7 +626,7 @@ include('./partials/head.php');
                     <div class="person-detail">
                         <h2 class="name">Mr Absar Ahmed</h2>
                         <div class="designation">
-                            Lecturer in College Algebra
+                            Lecturer in<br>College Algebra
                         </div>
                     </div>
                 </div>
@@ -642,7 +643,7 @@ include('./partials/head.php');
                     <div class="person-detail">
                         <h2 class="name">Amra Mubashir</h2>
                         <div class="designation">
-                        Head of HR, Diversity Expert, Talent Management
+                            Visiting Faculty <br>Head of HR | Diversity Expert | Talent Management
                         </div>
                     </div>
                 </div>
@@ -658,7 +659,7 @@ include('./partials/head.php');
                     <div class="person-detail">
                         <h2 class="name">Mufti Muhammad Sarfaraz Nihal</h2>
                         <div class="designation">
-                        Islamic Finance & Economics
+                            Visiting Faculty<br>Islamic Finance & Economics
                         </div>
                     </div>
                 </div>
