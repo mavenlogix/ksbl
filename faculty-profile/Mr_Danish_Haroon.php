@@ -217,6 +217,14 @@ include('../partials/navbar.php');
                             </a>
                         </div>
 
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Muhammad-Nadeem-Javaid.php">Dr. Nadeem Javaid
+                                <span>Professor<br>
+                                    Strategy & Economics<br>
+                                </span>
+                            </a>
+                        </div>
+
                    
                         <div class="non_faculty_grid_right_sub_head">
                             <a href="faculty-profile/Dr-Muhammad-Nadeem-Javaid.php">Dr. Nadeem Javaid

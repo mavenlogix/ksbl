@@ -99,7 +99,7 @@ include('../partials/head.php');
                         <h1>Mufti Muhammad Sarfaraz Nihal</h1>
                         <h4>Islamic Finance & Economics</h4>
 
-                        <!-- <a href="mail:to">email here</a> -->
+                        <a href="mailto:mufti.sarfaraz@ksbl.edu.pk">mufti.sarfaraz@ksbl.edu.pk</a>
 
                     </div>
 
@@ -363,6 +363,14 @@ include('../partials/head.php');
                             <a href="faculty-profile/Dr-Tariq-Basheer.php">Dr. Tariq Basheer
                                 <span>Professor<br>Accounting & Finance<br>Dean - Faculty of Management Sciences</span>
 
+                            </a>
+                        </div>
+
+                        <div class="non_faculty_grid_right_sub_head">
+                            <a href="faculty-profile/Dr-Muhammad-Nadeem-Javaid.php">Dr. Nadeem Javaid
+                                <span>Professor<br>
+                                    Strategy & Economics<br>
+                                </span>
                             </a>
                         </div>
                         

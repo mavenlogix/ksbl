@@ -2566,17 +2566,6 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 225px;
 }
 
-.non_faculty_grid_img_mr_shahrukh_khan {
-    background: url(../images/about/non-faculty-Mr-Shahrukh-Irfan.png) no-repeat top center;
-    background-size: cover;
-    height: 225px;
-}
-
-.non_faculty_grid_img_dr-fouzia-haneef-khan {
-    background: url(../images/about/non-faculty-dr-fouzia-haneef-khan.png) no-repeat top center;
-    background-size: cover;
-    height: 225px;
-}
 
 .non_faculty_grid_img_Naima_Fatima_Shariff {
     background: url(../images/about/non-faculty-naima_fatima_shariff.png) no-repeat top center;
@@ -2752,6 +2741,12 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 
 .faculty_grid_left.dr-nadeem {
     background: url(../images/about/Dr-Nadeem.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
+
+.faculty_grid_left.dr-fouzia {
+    background: url(../images/about/Dr-Fouzia.jpg) no-repeat left center;
     background-size: cover;
     height: 560px;
 }
@@ -4151,6 +4146,12 @@ button.playBtnVid:focus {
         height: 224px;
     }
 
+    .faculty_grid_left.dr-fouzia {
+        background: url(../images/about/dr-fouzia_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
+
     .faculty_grid_left.sarfaraz_nihal {
         background: url(../images/about/male_dummy_1024.jpg) no-repeat top center;
         background-size: cover;
@@ -4331,6 +4332,11 @@ button.playBtnVid:focus {
 
     .faculty_grid_left.dr-nadeem {
         background: url(../images/about/Dr-Nadeem_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px
+    }
+    .faculty_grid_left.dr-fouzia {
+        background: url(../images/about/dr-fouzia_1024.jpg) no-repeat top center;
         background-size: cover;
         height: 153px
     }
