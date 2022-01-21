@@ -2874,6 +2874,10 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     margin: auto;
 }
 
+.faculty_grid_center .nav-tabs .amra_page_tabs{
+    margin: unset;
+}
+
 .faculty_grid_center .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
     color: #000000;
@@ -2992,6 +2996,8 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
 .faculty_grid .tab-content ol li+li {
     margin-top: 10px;
 }
+
+
 
 /*MEBA*/
 .main-meba .about-ksbl-section .right-side {
@@ -4094,6 +4100,8 @@ button.playBtnVid:focus {
     box-shadow:0 0 0 0.2rem rgb(250 166 51 / 30%)
 }
 
+
+
 @media (min-width: 992px) and (max-width: 1199px) {
 
     .non_faculty_grid_right_sub_head+.non_faculty_grid_right_sub_head {
@@ -4340,6 +4348,10 @@ button.playBtnVid:focus {
 
     .edsNewPrograms .eventDesc {
         height: 130px;
+    }
+
+    .faculty_grid_center .nav-tabs .amra_page_tabs{
+        margin: auto;
     }
 }
 
@@ -4620,6 +4632,10 @@ button.playBtnVid:focus {
     .edsNewPrograms .eventDesc h2 {
         font-size: 26px;
     }
+
+    .faculty_grid_center .nav-tabs .amra_page_tabs{
+        margin: auto;
+    }
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
@@ -4853,6 +4869,10 @@ button.playBtnVid:focus {
     .edsNewPrograms .eventDesc h2 {
         font-size: 24px;
     }
+
+    .faculty_grid_center .nav-tabs .amra_page_tabs{
+        margin: auto;
+    }
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -5080,6 +5100,10 @@ button.playBtnVid:focus {
 
     .edsNewPrograms .eventDesc h2 {
         font-size: 24px;
+    }
+
+    .faculty_grid_center .nav-tabs .amra_page_tabs{
+        margin: auto;
     }
 }
 

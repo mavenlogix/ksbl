@@ -92,7 +92,7 @@ include('../partials/head.php');
 
             <div class="faculty_grid">
 
-                <div class="faculty_grid_left dr-nadeem">
+                <div class="faculty_grid_left nausheen-ahmed">
 
                     <div class="faculty_grid_head">
 
