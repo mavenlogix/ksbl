@@ -97,7 +97,7 @@ include('../partials/head.php');
                     <div class="faculty_grid_head">
 
                         <h1>Mr Shahrukh Irfan</h1>
-                        <h4>Accounting & Finance</h4>
+                        <h4>Visiting Lecturer<br>Accounting & Finance</h4>
 
                         <!-- <a href="mail:to">email here</a> -->
 

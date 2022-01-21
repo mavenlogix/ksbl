@@ -97,9 +97,9 @@ include('../partials/head.php');
                     <div class="faculty_grid_head">
 
                         <h1>Amra Mubashir</h1>
-                        <h4>Head of HR, Diversity Expert, Talent Management</h4>
+                        <h4>Visiting Faculty <br>Head of HR, Diversity Expert, Talent Management</h4>
 
-                        <!-- <a href="mail:to">emial here</a> -->
+                        <a href="mailto:amra.mubashir@ksbl.edu.pk">amra.mubashir@ksbl.edu.pk</a>
 
                     </div>
 
