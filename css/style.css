@@ -2745,6 +2745,12 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 560px;
 }
 
+.faculty_grid_left.nausheen-ahmed {
+    background: url(../images/about/nausheen-ahmed.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
+
 .faculty_grid_left.shaykh_mufi_tauqeer {
     background: url(../images/about/Tauqeer.jpg) no-repeat left center;
     background-size: cover;
@@ -4152,6 +4158,13 @@ button.playBtnVid:focus {
         height: 224px;
     }
 
+    
+    .faculty_grid_left.nausheen-ahmed {
+        background: url(../images/about/nausheen-ahmed_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
+
     .faculty_grid_left.shaykh_mufi_tauqeer {
         background: url(../images/about/Tauqeer_1024.jpg) no-repeat top center;
         background-size: cover;
@@ -4347,7 +4360,12 @@ button.playBtnVid:focus {
         background-size: cover;
         height: 153px
     }
-
+    
+    .faculty_grid_left.nausheen-ahmed {
+        background: url(../images/about/nausheen-ahmed_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px
+    }
 
     .faculty_grid_left.shaykh_mufi_tauqeer {
         background: url(../images/about/Tauqeer_1024.jpg) no-repeat top center;

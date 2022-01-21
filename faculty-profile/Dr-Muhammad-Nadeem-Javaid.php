@@ -99,7 +99,7 @@ include('../partials/head.php');
                         <h1>Dr. Nadeem Javaid</h1>
                         <h4>Professor<br>Strategy & Economics</h4>
 
-                        <a href="mail:to">nadeem.javaid@ksbl.edu.pk</a>
+                        <a href="mailto:nadeem.javaid@ksbl.edu.pk">nadeem.javaid@ksbl.edu.pk</a>
 
                     </div>
 

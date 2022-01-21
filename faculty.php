@@ -236,7 +236,7 @@ include('./partials/head.php');
                         <div class="person-detail">
                             <h2 class="name">Shaykh Mufti Tauqeer</h2>
                             <div class="designation">
-                                Islamic Studies
+                                Islamic Studies<br>Professor of Islamic Studies
                             </div>
                         </div>
                 </div>
