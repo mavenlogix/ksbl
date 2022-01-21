@@ -2874,7 +2874,7 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     margin: auto;
 }
 
-.faculty_grid_center .nav-tabs .amra_page_tabs{
+.faculty_grid_center .nav-tabs .page_tabs_adjusment{
     margin: unset;
 }
 
@@ -4350,7 +4350,7 @@ button.playBtnVid:focus {
         height: 130px;
     }
 
-    .faculty_grid_center .nav-tabs .amra_page_tabs{
+    .faculty_grid_center .nav-tabs .page_tabs_adjusment{
         margin: auto;
     }
 }
@@ -4633,7 +4633,7 @@ button.playBtnVid:focus {
         font-size: 26px;
     }
 
-    .faculty_grid_center .nav-tabs .amra_page_tabs{
+    .faculty_grid_center .nav-tabs .page_tabs_adjusment{
         margin: auto;
     }
 }
@@ -4870,7 +4870,7 @@ button.playBtnVid:focus {
         font-size: 24px;
     }
 
-    .faculty_grid_center .nav-tabs .amra_page_tabs{
+    .faculty_grid_center .nav-tabs .page_tabs_adjusment{
         margin: auto;
     }
 }
@@ -5102,7 +5102,7 @@ button.playBtnVid:focus {
         font-size: 24px;
     }
 
-    .faculty_grid_center .nav-tabs .amra_page_tabs{
+    .faculty_grid_center .nav-tabs .page_tabs_adjusment{
         margin: auto;
     }
 }

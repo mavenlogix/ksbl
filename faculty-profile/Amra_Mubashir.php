@@ -109,10 +109,10 @@ include('../partials/head.php');
 
                     <ul class="nav nav-tabs border-0" role="tablist">
 
-                         <li class="nav-item amra_page_tabs">
+                         <li class="nav-item page_tabs_adjusment">
                             <a class="nav-link active" data-toggle="tab" href="#vita">Profile Summary</a>
                         </li>
-                        <li class="nav-item amra_page_tabs">
+                        <li class="nav-item page_tabs_adjusment">
                             <a class="nav-link" data-toggle="tab" href="#credentials">Credentials</a>
                         </li>
                        
