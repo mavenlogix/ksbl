@@ -34,6 +34,11 @@
         }
     }
 
+const requiredSession = (id)=>{
+   if(id){
+    $("#bookingModal").modal()
+   }
+}
 
  
 </script>

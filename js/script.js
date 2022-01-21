@@ -45,42 +45,42 @@
     }
     //$(".latest-news-event:not(:first-child)").find(".badge").css("display", "none");
 
-   //  function Start() {
+    //  function Start() {
 
-   //      var OldHtml = window.jQuery.fn.html;
+    //      var OldHtml = window.jQuery.fn.html;
 
-   //      window.jQuery.fn.html = function() {
+    //      window.jQuery.fn.html = function() {
 
-   //          var EnhancedHtml = OldHtml.apply(this, arguments);
+    //          var EnhancedHtml = OldHtml.apply(this, arguments);
 
-   //          if (arguments.length && EnhancedHtml.find('.badge').length) {
+    //          if (arguments.length && EnhancedHtml.find('.badge').length) {
 
-   //              var TheElementAdded = EnhancedHtml.find('.badge'); //there it is
-   //          }
+    //              var TheElementAdded = EnhancedHtml.find('.badge'); //there it is
+    //          }
 
-   //          return EnhancedHtml;
-   //      }
-   //  }
+    //          return EnhancedHtml;
+    //      }
+    //  }
 
-   // console.log($(Start), "ss")
-//    var now = new Date(),
-//   CurrentDay = now.getDay(),
-//   OpeningTime = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 8, 30),
-//   ClosingTime = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 17, 30),
-//   Open = new Date(now.setDate(now.getDate() + 6))
-//   console.log(new Date(now.setDate(now.getDate() + 6)))
+    // console.log($(Start), "ss")
+    //    var now = new Date(),
+    //   CurrentDay = now.getDay(),
+    //   OpeningTime = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 8, 30),
+    //   ClosingTime = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 17, 30),
+    //   Open = new Date(now.setDate(now.getDate() + 6))
+    //   console.log(new Date(now.setDate(now.getDate() + 6)))
 
-// if (CurrentDay == Open) {
-//     $('.badge').toggle();
-// }
+    // if (CurrentDay == Open) {
+    //     $('.badge').toggle();
+    // }
 
-// var minutesToAdd=1;
-// var currentDate = new Date();
-// var futureDate = new Date(currentDate.getTime() + minutesToAdd*60000);
-// console.log(futureDate)
-// if (currentDate < futureDate ) {
-//     $('.badge').hide();
-// }
+    // var minutesToAdd=1;
+    // var currentDate = new Date();
+    // var futureDate = new Date(currentDate.getTime() + minutesToAdd*60000);
+    // console.log(futureDate)
+    // if (currentDate < futureDate ) {
+    //     $('.badge').hide();
+    // }
     $(window).scroll(function() {
         var scroll = $(window).scrollTop();
         if (scroll > 1) {
@@ -337,17 +337,24 @@
                 }
             });
         }
-        /*
-        $(".owl-carousel").owlCarousel({
+
+
+        $("#bookingsHall").owlCarousel({
             animateOut: 'fadeOut',
             animateIn: 'fadeIn',
             lazyLoad: true,
+            margin:20,
             loop: true,
-            dots: true,
+            dots: false,
             autoplay: true,
+            navigation: true,
+            navText: [
+                "<i class='fa fa-chevron-left'></i>",
+                "<i class='fa fa-chevron-right'></i>"
+            ],
             autoplaySpeed: 1000,
-            autoplayTimeout: 3500,
-            nav: false,
+           
+            nav: true,
             responsive: {
                 0: {
                     items: 1
@@ -355,14 +362,14 @@
                 500: {
                     items: 1
                 },
-                700: {
-                    items: 1
+                991: {
+                    items: 2
                 },
-                1000: {
-                    items: 1
+                1200: {
+                    items: 3
                 }
             }
-        });*/
+        });
     });
 
 

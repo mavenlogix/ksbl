@@ -56,10 +56,10 @@ include('../partials/navbar.php');
     </div>
     <div class="facBookingForm">
         <div class="container">
-            <h1 class="text-center">Title</h1>
-            <div class="dGrid">
-                <div class="content">
-                    <a href="#" target="_blank">
+            <h1 class="text-center">Facility Bookings</h1>
+            <div class="dGrid owl-carousel owl-theme " id="bookingsHall">
+                <div class="content item">
+                    <a href="javascript:void(0)">
                         <div class="content-overlay"></div>
                         <img class="content-image" src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFsbHdheXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60">
                         <div class="content-details fadeIn-right">
@@ -68,8 +68,18 @@ include('../partials/navbar.php');
                         </div>
                     </a>
                 </div>
-                <div class="content">
-                    <a href="#" target="_blank">
+                <div class="content item">
+                    <a href="javascript:void(0)">
+                        <div class="content-overlay"></div>
+                        <img class="content-image" src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60">
+                        <div class="content-details fadeIn-right">
+                            <h3>This is a title</h3>
+                            <p>This is a short description</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="content item">
+                    <a href="javascript:void(0)">
                         <div class="content-overlay"></div>
                         <img class="content-image" src="https://images.unsplash.com/photo-1615414047026-802692414b79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60">
                         <div class="content-details fadeIn-right">
@@ -78,8 +88,8 @@ include('../partials/navbar.php');
                         </div>
                     </a>
                 </div>
-                <div class="content">
-                    <a href="#" target="_blank">
+                <div class="content item">
+                    <a href="javascript:void(0)">
                         <div class="content-overlay"></div>
                         <img class="content-image" src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60">
                         <div class="content-details fadeIn-right">
@@ -92,83 +102,110 @@ include('../partials/navbar.php');
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
             <form class="">
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 col-md-6">
                         <div class="form-group">
-                            <label >Name</label>
-                            <input type="text" class="form-control" id="name"  placeholder="Enter name">
+                            <label>Name</label>
+                            <input type="text" class="form-control" id="name" placeholder="Enter name">
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 col-md-6">
                         <div class="form-group">
-                            <label >Contact Number</label>
-                            <input type="number" class="form-control" id="email"  placeholder="Enter phone no">
+                            <label>Contact Number</label>
+                            <input type="number" class="form-control" id="email" placeholder="Enter phone no">
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 col-md-6">
                         <div class="form-group">
-                            <label >Email</label>
-                            <input type="email" class="form-control" id="email"  placeholder="Enter email">
+                            <label>Email</label>
+                            <input type="email" class="form-control" id="email" placeholder="Enter email">
                         </div>
                     </div>
-                     <div class="col-lg-4">
+                    <div class="col-lg-4 col-md-6">
                         <div class="form-group">
-                            <label >Facility Required</label>
+                            <label>Facility Required</label>
                             <select class="form-control">
-                                <option>Option 1</option>
-                                <option>Option 2</option>
-                                <option>Option 3</option>
-                                
+                                <option>Auditorium 1</option>
+                                <option>Auditorium 2</option>
+                                <option>Auditorium 3</option>
                             </select>
                         </div>
                     </div>
-                     <div class="col-lg-4">
+                    <div class="col-lg-4 col-md-6">
                         <div class="form-group">
-                            <label >Date</label>
-                            <input type="date" class="form-control" id="date"  placeholder="Enter date">
+                            <label>Date</label>
+                            <input type="date" class="form-control" id="date" placeholder="Enter date">
                         </div>
                     </div>
-                     <div class="col-lg-4">
+                    <div class="col-lg-4 col-md-6">
                         <div class="form-group">
-                            <label >Time</label>
-                            <input type="time" class="form-control" id="Time"  placeholder="Enter time">
+                            <label>Time</label>
+                            <input type="time" class="form-control" id="Time" placeholder="Enter time">
                         </div>
                     </div>
-                          <div class="col-lg-4">
+                    <div class="col-lg-4 col-md-6">
                         <div class="form-group">
-                            <label >Food Required</label>
-                            <select class="form-control">
-                                <option>All </option>
-                                <option>Hi-Tea </option>
-                                <option>Lunch</option>
-                                <option>Dinner</option>
-                                
+                            <label>Food Required</label>
+                            <select class="form-control" id="RequiredSession" onchange="return requiredSession(this)">
+                                <option value="CorporateMeeting">Corporate Meeting </option>
+                                <option value="Workshop">Workshop</option>
+                                <option value="Townhall">Townhall</option>
+                                <option value="Training">Training</option>
                             </select>
                         </div>
                     </div>
-                     <div class="col-lg-4">
+                    <div class="col-lg-4 col-md-6">
                         <div class="form-group">
-                            <label >No of attendees</label>
-                            <input type="text" class="form-control" id="attendees"  placeholder="Enter attendees">
+                            <label>No of attendees</label>
+                            <input type="text" class="form-control" id="attendees" placeholder="Enter attendees">
                         </div>
                     </div>
-                     <div class="col-lg-4">
+                    <div class="col-lg-4 col-md-12">
                         <div class="form-group">
-                            <label >Nature of event</label>
-                            <input type="text" class="form-control" id="event"  placeholder="Enter event nature">
+                            <label>Nature of event</label>
+                            <input type="text" class="form-control" id="event" placeholder="Enter event nature">
                         </div>
                     </div>
-                     <div class="col-lg-12">
+                    <div class="col-lg-12">
                         <div class="form-group">
-                            <label >Any other requirements</label>
-                            <textarea type="text" class="form-control" id="requirements"  placeholder="Enter any other requirements"></textarea> 
+                            <label>Any other requirements</label>
+                            <textarea type="text" class="form-control" id="requirements" placeholder="Enter any other requirements"></textarea>
                         </div>
                     </div>
                     <div class="col-lg-2 mx-auto">
                         <button class="btn btn_submit">Submit</button>
-                        
                     </div>
                 </div>
             </form>
+        </div>
+    </div>
+    <!-- The Modal -->
+    <div class="modal fade" id="bookingModal">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">Do you want KSBL to provide Food?</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <div class="d-flex align-items-center">
+                        <div class="checkbox">
+                            <input type="checkbox" id="yes" name="yes" value="yes">
+                            <label for="yes">Yes</label>
+                        </div>
+                        <div class="checkbox">
+                            <input type="checkbox" id="no" name="no" value="no">
+                            <label for="no">No</label>
+                        </div>
+                           <div class="btnmodal ml-auto">
+                    <button type="button" class="btn btn_save">Save</button>
+                </div>
+                    </div>
+                </div>
+           
+             
+            </div>
         </div>
     </div>
     <?php include('../partials/footer.php');?>
