@@ -666,22 +666,23 @@ include('./partials/head.php');
                 <!-- END Person Mufti Muhammad Sarfaraz Nihal -->
 
 
-                <!-- Person 6 -->
-               <!--  <div class="person come-out">
-                    <a href="faculty-profile/Dr-Muhammad-Talha-Salam.php">
-                        <div class="person-info">
-                            <img src="images/faculty/Dr-Talha2_new.jpg" alt="Dr. Muhammad Talha Salam" />
-                        </div>
-                    </a>
+                <!-- Person Mr. Danish Haroon -->
+               <div class="person come-out ">
+                   <a href="faculty-profile/Mr_Danish_Haroon.php">
+                       <div class="person-info ">
+                           <img src="images/faculty/male_dummy.jpg" alt="Mr. Danish Haroon" />
+                       </div>
+                   </a>
                     <div class="person-detail">
-                        <h2 class="name">Dr. Muhammad Talha Salam</h2>
+                        <h2 class="name">Mr. Danish Haroon</h2>
                         <div class="designation">
-                            Assistant Professor
-                            <br>Marketing & Analytics
+                            Visiting Faculty<br>Data Mining and Big Data
                         </div>
                     </div>
-                </div> -->
-                <!-- END Person 6 -->
+                </div>
+                <!-- END Person Mr. Danish Haroon -->
+
+
 
  
 
