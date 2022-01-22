@@ -31,7 +31,7 @@ include('../partials/navbar.php');
                         <img src="images/blog/two-day_training_program_thumbnail.jpg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>KSBL organized a two-day training program on ‘Performance-Based Coaching’ for professionals on 14-15 December 2021.</h2>
+                            <h2>KSBL Organized a Two-Day Training Program on ‘Performance-Based Coaching’ for Professionals on 14-15 December 2021.</h2>
                             <div class="post-date">14-15, December, 2021</div>
                         </div>
                     </div>
@@ -41,7 +41,7 @@ include('../partials/navbar.php');
                         </p>
 
                         <p>
-                        The program was attended by professionals and team leaders from different industries
+                        The program was attended by professionals and team leaders from different industries.
                         </p>
                        
                     </div>
