@@ -117,6 +117,20 @@ include('../../../partials/navbar.php');
                         </div>
                     </a>
 
+                    <a href="blog/KSBL_two_day_training_program.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/two-day_training_program_thumbnail.jpg" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >KSBL organized a two-day training program on ‘Performance-Based Coaching’ for professionals on 14-15 December 2021.</div>
+                                <div class="date">14-15, December, 2021</div>
+                            </div>
+                        </div>
+                    </a>
+
 
                     <a href="blog/Muhammad_Saad_Yusufi_Session.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
