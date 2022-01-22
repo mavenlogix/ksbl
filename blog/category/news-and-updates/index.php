@@ -125,7 +125,7 @@ include('../../../partials/navbar.php');
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
-                                <div class="detail" >KSBL organized a two-day training program on ‘Performance-Based Coaching’ for professionals on 14-15 December 2021.</div>
+                                <div class="detail" >KSBL Organized a Two-Day Training Program on ‘Performance-Based Coaching’ for Professionals on 14-15 December 2021.</div>
                                 <div class="date">14-15, December, 2021</div>
                             </div>
                         </div>
