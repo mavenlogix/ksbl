@@ -136,7 +136,7 @@ include('../partials/head.php');
                             <p>She also worked as the CTO in a Singapore-based e-commerce platform, where she developed their tech stack, gave a concrete architecture to their business model and proposed a novel mechanism using blockchain-based tokens to record the impact of their initiative. Her work appears in diverse publications and she speaks regularly on emerging technologies.</p>
 
                             <p>
-                                Dr. Khan holds a doctorate in computer science, from….? where her industrial research on blockchain-based financial applications was accorded the FNR (Luxembourg National Research Fund) grant for innovative, industrial projects.
+                            She holds a doctorate in computer science, where her industrial research on blockchain-based financial applications was accorded the prestigious FNR (Luxembourg National Research Fund) grant for innovative, industrial projects.
                             </p>
 
                           
