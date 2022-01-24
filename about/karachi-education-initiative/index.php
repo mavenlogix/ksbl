@@ -135,10 +135,10 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Hussain Dawood</h2>
+                        <h2 class="name">Mr. Hussain Dawood</h2>
                         <div class="designation">
-                            Founding Chairman, Board of Governors,
-                            <br>KSBL
+                            Chairman <br>
+                            KSBL, KEI, Engro
                         </div>
                     </div>
                 </div>
@@ -158,10 +158,10 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Mubashar Hameed</h2>
+                        <h2 class="name">Mr. Mubashar Hameed</h2>
                         <div class="designation">
-                            Rector, KSBL<br />
-                            CEO, Karachi Education Initiative
+                            Rector KSBL <br>
+                            CEO,KEI
                         </div>
                     </div>
                 </div>
@@ -178,12 +178,10 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Munawar Alam Siddiqui</h2>
+                        <h2 class="name">Mr. Munawar Alam Siddiqui</h2>
                         <div class="designation">
-                            Director & Chair
-                            <br>Infrastructure Committee
-                            Chairman
-                            <br>J.S Investments Limited
+                            Chairman <br>
+                            JS investments limited
                         </div>
                     </div>
                 </div>
@@ -201,10 +199,10 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Muhammad Ali Tabba</h2>
+                        <h2 class="name">Mr. Muhammad Ali Tabba</h2>
                         <div class="designation">
-                            Director, KEI<br />
-                            CEO, Lucky Cement Limited
+                            CEO <br>
+                            Lucky Cement
                         </div>
                     </div>
                 </div>
@@ -237,11 +235,10 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Sabrina Dawood</h2>
+                        <h2 class="name">Ms. Sabrina Dawood</h2>
                         <div class="designation">
-                            Director, KEI
-                            <br>Director, Dawood Hercules
-                            <br>Corporation Ltd
+                            CEO <br>
+                            The Dawood Foundation
                         </div>
                     </div>
                 </div>
@@ -260,10 +257,10 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Arif Habib</h2>
+                        <h2 class="name">Mr. Arif Habib</h2>
                         <div class="designation">
-                            Director, KEI<br>
-                            Director & Chair <br>Finance & Fundraising Committee
+                            CEO <br>
+                            Arif Habib Group
                         </div>
                     </div>
                 </div>
@@ -296,11 +293,10 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Hasan Irfan Khan</h2>
+                        <h2 class="name">Mr. Hasan Irfan Khan</h2>
                         <div class="designation">
-                            Director
-                            <br>Member Board of Trustees
-                            <br>Asifa-lrfan Foundation
+                            Member Board of Trustees <br>
+                            Asifa-lrfan Foundation
                         </div>
                     </div>
                 </div>
@@ -315,10 +311,9 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Ghias Khan</h2>
+                        <h2 class="name">Mr. Ghias Khan</h2>
                         <div class="designation">
-                            Director, KEI<br />
-                            President & CEO, Engro Corporation
+                            CEO of Engro Corporation
                         </div>
                     </div>
                 </div>
@@ -334,7 +329,7 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Muneer Kamal</h2>
+                        <h2 class="name">Mr. Muneer Kamal</h2>
                         <div class="designation">
                             Director, KEI
                         </div>
@@ -353,10 +348,10 @@ Served Deutsche Bank for 20 years- from June 1990 to Sept 2010 and became the Ma
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Shazad Dada</h2>
+                        <h2 class="name">Mr.Shazad Dada</h2>
                         <div class="designation">
-                            Director, KEI<br>
-                            President & CEO, UBL
+                                CEO <br>
+                                UBL
                         </div>
                     </div>
                 </div>
@@ -370,11 +365,10 @@ Served Deutsche Bank for 20 years- from June 1990 to Sept 2010 and became the Ma
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Mohammad Naeem Mukhtar</h2>
+                        <h2 class="name">Mr. Mohammad Naeem Mukhtar</h2>
                         <div class="designation">
-                            Director, KEI<br />
-                            Chairman, Allied Bank Limited<br />
-                            Chief Executive Officer, Ibrahim Fibres Limited
+                            Chairman Allied Bank <br>
+                            CEO Ibrahim Fibers limited.
                         </div>
                     </div>
                 </div>
@@ -390,10 +384,10 @@ Served Deutsche Bank for 20 years- from June 1990 to Sept 2010 and became the Ma
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Imran Sayeed</h2>
+                        <h2 class="name">Mr. Imran Sayeed</h2>
                         <div class="designation">
-                            Director, KEI<br />
-                            Senior Lecturer, Technical Innovation, <br>Entrepreneurship & Strategic Movement at MIT
+                            Senior Lecturer <br>
+                            MIT
                         </div>
                     </div>
                 </div>
@@ -427,10 +421,10 @@ Served Deutsche Bank for 20 years- from June 1990 to Sept 2010 and became the Ma
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Inam-Ur-Rahman</h2>
+                        <h2 class="name">Mr. Inam-Ur-Rahman</h2>
                         <div class="designation">
-                            Director, KEI<br />
-                            CEO DH Corp
+                            CEO <br>
+                            Dawood Hercules
                         </div>
                     </div>
                 </div>
