@@ -127,7 +127,7 @@ include('../partials/head.php');
                     <div class="tab-content mt-2">
 
                         <div id="vita" class=" tab-pane active">
-                            <p><span style="color: #ff9f19;">Dr. Nida Khan </span>teaches … at KSBL. She is is the CEO of Nash fintechX, a Luxembourgish startup, providing software solutions and consulting services, specializing in blockchain and AI. </p>
+                            <p><span style="color: #ff9f19;">Dr. Nida Khan </span>teaches at KSBL. She is is the CEO of Nash fintechX, a Luxembourgish startup, providing software solutions and consulting services, specializing in blockchain and AI. </p>
 
                            <p>She was ranked as the 12th most influential woman in Islamic business and finance in 2019 and 2020 and is currently working on projects that revolve around impact investing, NFTs for real estate and preventing greenwashing. </p>
 
