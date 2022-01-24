@@ -76,9 +76,10 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Hussain Dawood</h2>
+                        <h2 class="name">Mr. Hussain Dawood</h2>
                         <div class="designation">
-                            Founding Chairman, KSBL
+                            Chairman <br>
+                            KSBL, KEI, Engro
                         </div>
                     </div>
                 </div>
@@ -98,10 +99,10 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Mubashar Hameed</h2>
+                        <h2 class="name">Mr. Mubashar Hameed</h2>
                         <div class="designation">
-                            Rector, KSBL
-                            <br>CEO, Karachi Education Initiative
+                            Rector, KSBL <br>
+                            CEO, Karachi Education Initiative
                         </div>
                     </div>
                 </div>
@@ -120,11 +121,10 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Hasan Irfan Khan</h2>
+                        <h2 class="name">Mr. Hasan Irfan Khan</h2>
                         <div class="designation">
-                            Director<br />
-                            Member Board of Trustees<br>
-                            Asifa-irfan Foundation
+                            Member Board of Trustees <br>
+                            Asifa-lrfan Foundation
                         </div>
                     </div>
                 </div>
@@ -145,10 +145,11 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Dr. Atta-ur-Rahman</h2>
+                        <h2 class="name">Professor Atta Ur Rahman</h2>
                         <div class="designation">
-                            Director & Chair <br>HR & Academic Committee<br />
-                            President, Pak Academy of Sciences
+                            Director and Chair <br>
+                            HR & Academic Committee <br>
+                            President, Pakistan Academy of Sciences
                         </div>
                     </div>
                 </div>
@@ -167,10 +168,10 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Munawar Alam Siddiqui</h2>
+                        <h2 class="name">Mr. Munawar Alam Siddiqui</h2>
                         <div class="designation">
-                            Director & Chair <br>Infrastructure Committee<br />
-                            Chairman, J.S Investments Limited
+                                Chairman <br>
+                                JS Investments Limited
                         </div>
                     </div>
                 </div>
@@ -188,9 +189,10 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Dr. Mohammad Aslam Uqaili</h2>
+                        <h2 class="name">Dr. Muhammad Aslam Uquili</h2>
                         <div class="designation">
-                            VC, Mehran University
+                            VC <br>
+                            Mehran University
                         </div>
                     </div>
                 </div>
@@ -205,10 +207,10 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Dr. Sarosh Hashmat Lodhi</h2>
+                        <h2 class="name">Dr Sarosh Hashmat Lodi</h2>
                         <div class="designation">
-                            Vice-Chancellor
-                            <br>NED University of Engineering <br>& Technology
+                            Vice Chancellor <br>
+                            NED University of Engineering and Technology
                         </div>
                     </div>
                 </div>
@@ -224,10 +226,10 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Imran Sayeed</h2>
+                        <h2 class="name">Mr. Imran Sayeed</h2>
                         <div class="designation">
-                            Director, KEI<br />
-                            Senior Lecturer, Technical Innovation, <br>Entrepreneurship & <br>Strategic Movement at MIT
+                            Senior Lecturer <br>
+                            MIT
                         </div>
                     </div>
                 </div>
@@ -284,9 +286,10 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Abuzar Wajidi</h2>
+                        <h2 class="name">Dr Muhammad Abuzar Wajidi</h2>
                         <div class="designation">
-                            Meritorious Professor<br>Department of Public Administration <br>University of Karachi
+                            Rector <br>
+                            HANDS Institute of Community Development, Karachi
                         </div>
                     </div>
                 </div>
@@ -303,11 +306,10 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Justice Aqeel Ahmed Abbasi
-                        </h2>
+                        <h2 class="name">Justice Aqeel Ahmed Abbasi</h2>
                         <div class="designation">
-                            Advocate
-                            <br>Supreme Court of Pakistan
+                            Advocate <br>
+                            Supreme Court of Pakistan
                         </div>
                     </div>
                 </div>
@@ -326,9 +328,10 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Parvez Ahmed Seehar</h2>
+                        <h2 class="name">Mr Parvez Ahmed Seehar</h2>
                         <div class="designation">
-                            Secretary to Government of Sindh<br> in Department of Culture, <br>Tourism & Antiquities
+                            Secretary to Government of Sindh <br>
+                            Department of Culture, Tourism & Antiquities
                         </div>
                     </div>
                 </div>
