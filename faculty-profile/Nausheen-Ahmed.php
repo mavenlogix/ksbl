@@ -109,18 +109,10 @@ include('../partials/head.php');
 
                     <ul class="nav nav-tabs border-0" role="tablist">
 
-                         <li class="nav-item">
+                         <li class="nav-item page_tabs_adjusment">
                             <a class="nav-link active" data-toggle="tab" href="#vita">Profile Summary</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#credentials">Credentials</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#interests">Consulting & Teaching</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" data-toggle="tab" href="#publications">Publications & Research</a>
-                        </li>
+                      
 
                     </ul>
 
@@ -138,20 +130,6 @@ include('../partials/head.php');
                             <p>Ms. Ahmed has an LL.M degree from the University of London, an LL.B. from Kings College London, and a degree in the Philosophy of Religion from Kings College London.</p>
 
                           
-                        </div>
-
-                        <div id="credentials" class=" tab-pane fade"><br>
-                          
-
-                        </div>
-
-                        <div id="interests" class=" tab-pane fade"><br>
-
-
-                        </div>
-
-                        <div id="publications" class=" tab-pane fade"><br>
-
                         </div>
 
                     </div>
