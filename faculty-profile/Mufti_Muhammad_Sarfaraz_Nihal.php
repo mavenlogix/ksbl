@@ -143,7 +143,7 @@ include('../partials/head.php');
                         <div id="credentials" class=" tab-pane fade"><br>
                             <h4 class="text-primary">Education</h4>
 
-                            <table class="table table-sm table-bordered">
+                            <table class="table table-sm table-bordered table_size_faculty">
                                 <tbody>
                                     <tr>
                                         <td>Ph.D.(Islamic Finance) </td>

@@ -40,6 +40,9 @@ img {
 .d-contents {
     display: contents;
 }
+.table_size_faculty{
+    font-size: 14px;
+}
 
 @media(min-width: 768px) {
 
