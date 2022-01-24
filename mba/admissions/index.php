@@ -212,7 +212,7 @@ include('../../partials/navbar.php');
                                 <div class="sec-col heading"><strong>Application Deadline for Spring 2022:</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong>January 31st, 2021</strong>
+                                        <strong>January 31st, 2022</strong>
                                     </ul>
                                 </div>
                             </div>
