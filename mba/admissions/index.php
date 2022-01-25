@@ -125,7 +125,7 @@ include('../../partials/navbar.php');
                                     <p style="margin-top: 5px;margin-bottom: 0px">Undergraduate Programs</p>
                                     <ul>
                                       <li>12 years of Education at the time of Admission (Those awaiting result may also apply)</li>
-                                      <li>This includes HSSC (min. 60% marks), <b>A Levels or Equivalent</b> & <b>IB</b></li>
+                                      <li>This includes HSSC (min. 60% marks), A-Levels (Minimum one A and 2 Bs) or Equivalent & IB</li>
                                     </ul>
                                 </div>
                             </div>
