@@ -85,7 +85,7 @@ include('../partials/head.php');
                             He is an award-winning academician and an active researcher and has served in top universities including King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia. He has worked on several government- and industry-funded collaborative research projects and has received more than 10 distinguished teaching awards.
                             </p>
                             <p>
-                            He is experienced in Supply Chain Management, Decision Support Systems, and Software Development. He is also an academic accreditation consultant for universities pursuing <b>AACSB, EFMD/EPAS, and NCAAA/EEC-HES.</b> 
+                            He is experienced in Supply Chain Management, Decision Support Systems, and Software Development. He is also an academic accreditation consultant for universities pursuing AACSB, EFMD/EPAS, and NCAAA/EEC-HES.
                             </p>
                             <p>
                             Dr. Ahmad completed his Ph.D. in Systems Design Engineering (Expert Systems) from University of Waterloo and double MS in Management Sciences, Management of Technology from University of Waterloo and Industrial Systems Engineering, Supply Chain Management from KFUPM.

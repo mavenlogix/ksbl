@@ -129,7 +129,7 @@ include('../partials/head.php');
                     <div class="tab-content mt-2">
 
                         <div id="vita" class=" tab-pane active">
-                            <p><span style="color: #ff9f19;">Dr Fouzia Haneef Khan </span>is … at KSBL. She is also a Lecturer within the Faculty of Medicine at Imperial College London. She has a vast teaching and research experience spanning over 10 years and contributes to teaching and learning activities by taking an active role in promoting up-to-date and innovative pedagogy and practice.</p>
+                            <p><span style="color: #ff9f19;">Dr Fouzia Haneef Khan</span> is at KSBL. She is also a Lecturer within the Faculty of Medicine at Imperial College London. She has a vast teaching and research experience spanning over 10 years and contributes to teaching and learning activities by taking an active role in promoting up-to-date and innovative pedagogy and practice.</p>
 
                            <p>At Imperial College London, she is mainly responsible for coordinating, teaching, and organizing the M.Sc. Genes, Drugs and Stem Cells – Novel Therapies Program of the Faculty of Medicine since 2019. As a lead for the Coordinated Transformation Group, she plays a key role in the transformation of the M.Sc. program to blend remote delivery. She is a project supervisor and a module leader for the Evidence, Information and Communication module and the Research project module in her program. She also teaches ad-hoc to the Bachelor of Medicine, Bachelore of Surgery (MBBS) students and is a personal and academic tutor for undergraduates and postgraduates within the Faculty.</p>
 
