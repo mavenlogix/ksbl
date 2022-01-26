@@ -30,6 +30,80 @@ include('../partials/navbar.php');
                 </div>
                 <div class="open-house-tabs">
 
+                <!-- === Course Digitization Executive === -->
+                    <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Course Digitization Executive</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                        KSBL is looking to hire Course Digitization Executive.
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        
+                                      <p>
+                                      KSBL is looking to hire Course Digitization Executive. The ideal candidate will be responsible for:
+                                      </p>
+                                        
+                                        <ul>
+                                            <li>
+                                                Providing LMS training & support to students, faculty, and staff as well as addressing the software technical issues
+                                            </li>
+                                            <li>
+                                                Supporting on-time implementation of LMS as well as in improving and expanding its functionality & operations
+                                            </li>
+                                            <li>
+                                                Working in collaboration with support functions, ensuring smooth execution of courses/classes on LMS
+                                            </li>
+                                            <li>
+                                                Timely deployment of all updated teaching & assessment material on LMS
+                                            </li>
+                                            <li>Producing, Compiling, and maintaining LMS reports</li>
+                                            <li>
+                                                Managing users on LMS, including provisioning of account, access, user roles, and permissions
+                                            </li>
+                                            <li>
+                                                Facilitate recording of lectures, editing, and uploading on LMS
+                                            </li>
+                                        </ul>
+                                        <br>
+                                        <h3>Requirements:</h3>
+                                        <ul>
+                                            <li>
+                                                Minimum 2-3 years of relevant experience
+                                            </li>
+                                            <li>
+                                                Knowledge of Graphic designing and in-house content development would be an added plus.
+                                            </li>
+                                            <li>
+                                                Bachelor’s/ Master’s Degree
+                                            </li>
+                                        </ul>
+
+                                        <p>
+                                            Kindly apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                            <br>
+                                            Deadline to apply: 1st February, 2022
+                                            <br>
+                                            Employment Type Full
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- === END Course Digitization Executive=== -->
+
                    <!-- === Head of Center for Circular Economy === -->
                      <div class="tab-section" style="margin-top: 20px;">
                         <div class="student-achievement">
@@ -88,7 +162,7 @@ include('../partials/navbar.php');
                                 </div>
                                 <div class="button-links">
                                     <div class="other-details">
-                                        Application Deadline: 16th January, 2022
+                                        Application Deadline - Closed
                                     </div>
                                     <div class="tab-links">
                                         <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
