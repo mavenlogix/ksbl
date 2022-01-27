@@ -58,7 +58,7 @@ include('../partials/head.php');
                     <div class="faculty_grid_head">
                         <h1>Dr. Asim Khwaja</h1>
                         <h4>Assistant Professor<br>Decision Sciences</h4>
-                        <a href="mail:to">asim.khuwaja@ksbl.edu.pk</a>
+                        <a href="mailto:asim.khuwaja@ksbl.edu.pk">asim.khuwaja@ksbl.edu.pk</a>
                     </div>
                 </div>
                 <div class="faculty_grid_center">
@@ -79,9 +79,9 @@ include('../partials/head.php');
                     <!-- Tab panes -->
                     <div class="tab-content mt-2">
                         <div id="vita" class=" tab-pane active">
-                            <p>Dr. Asim Khwaja is an Assistant Professor of Decision Sciences at KSBL. He has over 30 years of experience as a researcher, educator, and an industry professional.</p>
+                            <p>Dr. Asim Khwaja is an Assistant Professor of Decision Sciences at KSBL. He has over 20 years of experience as a researcher, educator, and an industry professional. </p>
 
-                            <p>He is a dedicated educationist with interest in all levels from K-12 and upwards. He has experimented with different learning strategies and has spoken on different issues related to early education. His research interests have been devoted to the intersection of computer science and human biology, and he has worked with reputed organizations across United States of America (USA), Pakistan and Australia including Intel and Verizon Data Services.</p>
+                            <p>He is a dedicated educationist with interest in all levels from K-12 and upwards. He has experimented with different learning strategies and has spoken on different issues related to early education. His research interests have been devoted to the intersection of computer science and human biology, and he has worked with reputed organizations across United States of America (USA), Pakistan and Australia including Intel and Verizon Data Services. </p>
 
                             <p>Dr. Khwaja completed his Ph.D. in Information Sciences & Engineering from Australian National University, Australia and his Masters in Computer Science from Arizona State University, USA.</p>
 
@@ -104,161 +104,110 @@ include('../partials/head.php');
                                         Thesis: Inverse Kinematics of Arbitrary Robotic Manipulators using Genetic Algorithms
                                     </li>
                                     <li>
-                                        BE, Electrical Engineering <br>
+                                        BE, Electrical Engineering  <br>
                                         1994 <br>
                                         N.E.D. University of Engineering and Technology, Karachi, Pakistan <br>
                                         Final Project: Optical Character Recognition using Artificial Neural Networks
+
                                     </li>
                                </ul>
                            </p>
                        
 
                            <p class="text-center"><b>Professional Trainings</b></p>
-                            <div>
-                                <p style="margin-top: 0px !important;">
-                                    <p class="float-left">First-Aid Training, St John Ambulance, Australia</p>
-                                    <p class="float-right">2013</p>
-                                </p>
-                            </div>
-                            <br>
-                         
-                            
-
-                            <div>
-                                <p style="margin-top: 0px !important;">
-                                    <p class="float-left">Communicating Science to Peers Workshop, ANU College of Science, Australia</p>
-                                    <p class="float-right">2008</p>
-                                </p>
-                            </div>
-                            <br>
-                         
-                            
-
-                            <div>
-                                <p style="margin-top: 0px !important;">
-                                    <p class="float-left">Time Management Workshop, Verizon Data Services, USA</p>
-                                    <p class="float-right">1999</p>
-                                </p>
-                            </div>
-                            <br>
-                        
-                         
-
-                            <div>
-                                <p style="margin-top: 0px !important;">
-                                    <p class="float-left">Sleep Management Workshop, TimeLenders, Pakistan</p>
-                                    <p class="float-right">2015</p>
-                                </p>
-                            </div>
-                            <br>
-                      
-                      
-
-                            <div>
-                                <p style="margin-top: 0px !important;">
-                                    <p class="float-left">Strategic Time Management Workshop, TimeLenders, Pakistan <br>
-                                        Strategic Vision Workshop, TimeLenders, Pakistan
-                                    </p>
-                                    <p class="float-right">2016</p>
-                                </p>
-                            </div>
-                          
-                        
-
-
-
+                           <p>
+                            2013 &nbsp;&nbsp;	First-Aid Training, St John Ambulance, Australia <br>
+                            2008 &nbsp;&nbsp;	Communicating Science to Peers Workshop, ANU College of Science, Australia <br>
+                            1999 &nbsp;&nbsp;	Time Management Workshop, Verizon Data Services, USA <br>
+                            2015 &nbsp;&nbsp;	Sleep Management Workshop, TimeLenders, Pakistan <br>
+                            2016 &nbsp;&nbsp; 	Strategic Time Management Workshop, TimeLenders, Pakistan <br>
+                            Strategic Vision Workshop, TimeLenders, Pakistan
+                           </p>
 
                             
                         </div>
                         <div id="interests" class=" tab-pane fade">
+                            <p>
+                                <ul>
+                                <li>
+                                    DHA Suffa University, Karachi, Pakistan Dec 2019 – Current Assistant Professor
+                                </li>
+                                <li>
+                                    National University of Sciences & Technology (NUST), Karachi, Pakistan Apr 2014 – Dec 2019 Assistant Professor
+                                </li>
+                                <li>
+                                    University of Canberra, Canberra, Australia Jan 2009 – Dec 2013 Lecturer / Research Assistant
+                                </li>
+                                <li>
+                                    NICTA, Canberra Research Labs, Canberra, Australia Jun 2011 – Aug 2011 Research Engineer
+                                </li>
+                                <li>
+                                    The Australian National University, Canberra, Australia 2007 – 2010 PhD Candidate / Software Developer / Teaching Assistant
+                                </li>
+                                <li>
+                                    NICTA, Canberra Research Labs, Canberra, Australia 2007 Web Developer / Assistant Conference Organizer
+                                </li>
+                                <li>
+                                    National University of Sciences & Technology (NUST), Karachi, Pakistan 2004 – 2007 Lecturer / Hon. Asst. Professor
+                                </li>
+                                <li>
+                                    Intel Corporation, Chandler, Arizona, USA 2000 – 2003 Systems Validation Engineer / Software Engineer
+                                </li>
+                                <li>
+                                    Verizon Data Services, Dallas, Texas, USA 1999 – 2000 Software Systems Architect
+                                </li>
+                                <li>
+                                    Arizona State University, Tempe, Arizona, USA 1996 – 1998 Teaching Assistant / Software Developer
+                                </li>
+                                <li>
+                                    Workshops Conducted:
+                                    <ul style="list-style: circle;">
+                                        <li>
+                                            Sleep Science (Personal Development) PNEC, NUST
+                                        </li>
+                                        <li>
+                                            The Power of Belief (Personal Development, Psychology) PNEC, NUST
+                                        </li>
+                                        <li>
+                                            Is Seeing Believing + The Invisible Gorilla (Personal Development, Psychology) PNEC, NUST
+                                        </li>
+                                        <li>
+                                            MATLAB Basics (Engineering, Computer Science) PNEC, NUST
+                                        </li>
+                                        <li>
+                                            Introduction to Web Development (Computer Science) PNEC, NUST
+                                        </li>
+                                    </ul>
+                                </li>
 
-                            <p>
-                                <ul>
-                                    <li>
-                                        DHA Suffa University, Karachi, Pakistan Dec 2019 – Current Assistant Professor
-                                        </li>
-                                    <li>
-                                        National University of Sciences & Technology (NUST), Karachi, Pakistan Apr 2014 – Dec 2019 Assistant Professor
-                                        </li>
-                                    <li>
-                                        University of Canberra, Canberra, Australia Jan 2009 – Dec 2013 Lecturer / Research Assistant
-                                        </li>
-                                    <li>
-                                        NICTA, Canberra Research Labs, Canberra, Australia Jun 2011 – Aug 2011 Research Engineer
-                                        </li>
-                                    <li>
-                                        The Australian National University, Canberra, Australia 2007 – 2010 PhD Candidate / Software Developer / Teaching Assistant
-                                        </li>
-                                    <li>
-                                        NICTA, Canberra Research Labs, Canberra, Australia 2007 Web Developer / Assistant Conference Organizer
-                                        </li>
-                                    <li>
-                                        National University of Sciences & Technology (NUST), Karachi, Pakistan 2004 – 2007 Lecturer / Hon. Asst. Professor
-                                        </li>
-                                    <li>
-                                        Intel Corporation, Chandler, Arizona, USA 2000 – 2003 Systems Validation Engineer / Software Engineer
-                                        </li>
-                                    <li>
-                                        Verizon Data Services, Dallas, Texas, USA 1999 – 2000 Software Systems Architect
-                                        </li>
-                                    <li>
-                                        Arizona State University, Tempe, Arizona, USA 1996 – 1998 Teaching Assistant / Software Developer
-                                    </li>
-                                    
-                                </ul>
-                            </p>
-                            <p>
-                                <b>Workshops Conducted:</b>
-                                <br>
-                                <ul>
-                                    <li>
-                                        Sleep Science (Personal Development) PNEC, NUST
-                                        </li>
-                                    <li>
-                                        The Power of Belief (Personal Development, Psychology) PNEC, NUST
-                                        </li>
-                                    <li>
-                                        Is Seeing Believing + The Invisible Gorilla (Personal Development, Psychology) PNEC, NUST
-                                        </li>
-                                    <li>
-                                        MATLAB Basics (Engineering, Computer Science) PNEC, NUST
-                                        </li>
-                                    <li>
-                                        Introduction to Web Development (Computer Science) PNEC, NUST
-                                        </li>
-                                 
-                                    
-                                </ul>
-                            </p>
-                            <p>
-                                <b>Information Sessions Conducted & TV Appearances:</b>
-                                <br>
-                                <ul>
-                                    <li>
-                                            METRO TV Education Guide Program on DHA Suffa University, 2020 <br>
-                                            Link: <a href="https://www.youtube.com/watch?v=ooh6PGrqoD0#t=9m40s">https://www.youtube.com/watch?v=ooh6PGrqoD0#t=9m40s</a>  <br>
-                                            (Click on the link to view it on YouTube)
-                                            </li>
+                                <li>
+                                    Information Sessions Conducted & TV Appearances:
+                                    <ul style="list-style: circle;">
                                         <li>
-                                            DSU 1st Virtual Info Session, May 2020 <br>
-                                            <a href="https://www.youtube.com/watch?v=NBCFCWVlEe4#t=8m42s">https://www.youtube.com/watch?v=NBCFCWVlEe4#t=8m42s</a> <br>
-                                            (Click on the link to view it on YouTube)
-                                            </li>
-                                        <li>
-                                            DSU 2nd Virtual Info Session <br>
-                                            <a href="https://www.youtube.com/watch?v=1UIzu7aV1V4#t=14m34s">https://www.youtube.com/watch?v=1UIzu7aV1V4#t=14m34s</a> <br>
-                                            (Click on the link to view it on YouTube)
+                                            METRO TV Education Guide Program on DHA Suffa University, 2020 Link: <a href="https://www.youtube.com/watch?v=ooh6PGrqoD0#t=9m40s">https://www.youtube.com/watch?v=ooh6PGrqoD0#t=9m40s</a> (Click on the link to view it on YouTube)
                                         </li>
+                                        <li>
+                                            DSU 1st Virtual Info Session, May 2020 <a href="https://www.youtube.com/watch?v=NBCFCWVlEe4#t=8m42s">https://www.youtube.com/watch?v=NBCFCWVlEe4#t=8m42s</a> (Click on the link to view it on YouTube)
+                                        </li>
+                                        <li>
+                                            DSU 2nd Virtual Info Session <a href="https://www.youtube.com/watch?v=1UIzu7aV1V4#t=14m34s">https://www.youtube.com/watch?v=1UIzu7aV1V4#t=14m34s</a> (Click on the link to view it on YouTube)
+                                        </li>
+
+                                    </ul>
+                                </li>
+
                                 </ul>
                             </p>
+
+
 
                         </div>
                         <div id="publications" class=" tab-pane fade"><br>
                             <p>
-                                Dr. Khwaja's research interests are devoted to the intersection of computer science and human biology - the nexus of machine learning, computer vision, and image processing on one hand, and neuroscience, psychology, and personal development on the other.
+                            Dr. Khwaja's research interests are devoted to the intersection of computer science and human biology - the nexus of machine learning, computer vision, and image processing on one hand, and neuroscience, psychology, and personal development on the other.
                             </p>
                             <p>
-                                Dr. Khwaja has also contributed to social and community work among diverse groups of people in Pakistan, USA, and Australia in the past 18 years. He has delivered lectures worldwide on topics of religion, science, psychology, sociology, and ethics.
+                            Dr. Khwaja has also contributed to social and community work among diverse groups of people in Pakistan, USA, and Australia in the past 18 years. He has delivered lectures worldwide on topics of religion, science, psychology, sociology, and ethics.
                             </p>
 
                             <p>
