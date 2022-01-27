@@ -103,7 +103,10 @@ include('../partials/navbar.php');
             <iframe name='hidden_iframe' style="display: none;" src="bookings" onload="if(submitted){
                     alert('Thanks for Submitting')
                    setTimeout(() => {window.location='http://localhost/ksbl_local/bookings/';}, 1000)}"></iframe>
-            <form class="" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfttkOmHl5-EZSAqYzGRHwfqP9KCska2Co0jd0v-zMgckRNzQ/formResponse?edit2=2_ABaOnueuo3cXOCT3ViyZIczh5Ae_IP3CgtYhR4ok_-XWvgqyv6jHdr9JfIcsXqwNAg" target="hidden_iframe" onsubmit="submitted = true">
+
+<!-- https://docs.google.com/forms/u/0/d/e/1FAIpQLSfttkOmHl5-EZSAqYzGRHwfqP9KCska2Co0jd0v-zMgckRNzQ/formResponse?edit2=2_ABaOnueuo3cXOCT3ViyZIczh5Ae_IP3CgtYhR4ok_-XWvgqyv6jHdr9JfIcsXqwNAg -->
+
+            <form class="" action="" target="hidden_iframe" onsubmit="submitted = true">
                <!--  <div jsname="o6bZLc">
                     <input type="hidden" name="entry.127579927" value="no of  att">
                     <input type="hidden" name="entry.1505598292" value="any">
