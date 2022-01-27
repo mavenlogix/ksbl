@@ -100,30 +100,45 @@ include('../partials/navbar.php');
                 </div>
             </div>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-            <form class="">
+            <iframe name='hidden_iframe' style="display: none;" src="bookings" onload="if(submitted){
+                    alert('Thanks for Submitting')
+                   setTimeout(() => {window.location='http://localhost/ksbl_local/bookings/';}, 1000)}"></iframe>
+            <form class="" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfttkOmHl5-EZSAqYzGRHwfqP9KCska2Co0jd0v-zMgckRNzQ/formResponse?edit2=2_ABaOnueuo3cXOCT3ViyZIczh5Ae_IP3CgtYhR4ok_-XWvgqyv6jHdr9JfIcsXqwNAg" target="hidden_iframe" onsubmit="submitted = true">
+               <!--  <div jsname="o6bZLc">
+                    <input type="hidden" name="entry.127579927" value="no of  att">
+                    <input type="hidden" name="entry.1505598292" value="any">
+                    <input type="hidden" name="entry.1661479026" value="no of event">
+                    <input type="hidden" name="entry.2051908047_year" value="2022">
+                    <input type="hidden" name="entry.2051908047_month" value="1">
+                    <input type="hidden" name="entry.2051908047_day" value="27">
+                    <input type="hidden" name="entry.997412094_hour" value="00">
+                    <input type="hidden" name="entry.997412094_minute" value="22">
+                    <input type="hidden" name="entry.687347619" value="Auditorium 1">
+                    <input type="hidden" name="entry.666803539" value="Corporate Meeting">
+                </div> -->
                 <div class="row">
                     <div class="col-lg-4 col-md-6">
                         <div class="form-group">
                             <label>Name</label>
-                            <input type="text" class="form-control" id="name" placeholder="Enter name">
+                            <input type="text" class="form-control" id="name" name="entry.2005620554" placeholder="Enter name">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="form-group">
                             <label>Contact Number</label>
-                            <input type="number" class="form-control" id="email" placeholder="Enter phone no">
+                            <input type="number" class="form-control" name="entry.1045781291" id="email" placeholder="Enter phone no">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="form-group">
                             <label>Email</label>
-                            <input type="email" class="form-control" id="email" placeholder="Enter email">
+                            <input type="email" class="form-control" id="email" name="entry.1082866173" placeholder="Enter email">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="form-group">
                             <label>Facility Required</label>
-                            <select class="form-control">
+                            <select class="form-control" name="entry.687347619">
                                 <option>Auditorium 1</option>
                                 <option>Auditorium 2</option>
                                 <option>Auditorium 3</option>
@@ -134,6 +149,9 @@ include('../partials/navbar.php');
                         <div class="form-group">
                             <label>Date</label>
                             <input type="date" class="form-control" id="date" placeholder="Enter date">
+                            <input type="hidden" name="entry.2051908047_year" value="2022">
+                            <input type="hidden" name="entry.2051908047_month" value="1">
+                            <input type="hidden" name="entry.2051908047_day" value="27">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -145,7 +163,7 @@ include('../partials/navbar.php');
                     <div class="col-lg-4 col-md-6">
                         <div class="form-group">
                             <label>Food Required</label>
-                            <select class="form-control" id="RequiredSession" onchange="return requiredSession(this)">
+                            <select class="form-control" id="RequiredSession" onchange="return requiredSession(this)" name="entry.666803539">
                                 <option value="CorporateMeeting">Corporate Meeting </option>
                                 <option value="Workshop">Workshop</option>
                                 <option value="Townhall">Townhall</option>
@@ -198,13 +216,11 @@ include('../partials/navbar.php');
                             <input type="checkbox" id="no" name="no" value="no">
                             <label for="no">No</label>
                         </div>
-                           <div class="btnmodal ml-auto">
-                    <button type="button" class="btn btn_save">Save</button>
-                </div>
+                        <div class="btnmodal ml-auto">
+                            <button type="button" class="btn btn_save">Save</button>
+                        </div>
                     </div>
                 </div>
-           
-             
             </div>
         </div>
     </div>
