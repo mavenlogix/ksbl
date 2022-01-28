@@ -99,7 +99,9 @@ include('../partials/navbar.php');
                     </a>
                 </div>
             </div>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+            <p>
+            Workshops, Training or Events has been made easier than ever by KSBL. Organizations can book our campus auditoriums or meeting rooms for workshops, meetings, training sessions, and seminars. For booking and more information, please fill in the form.
+            </p>
             <iframe name='hidden_iframe' style="display: none;" src="bookings" onload="if(submitted){
                     alert('Thanks for Submitting')
                    setTimeout(() => {window.location='http://localhost/ksbl_local/bookings/';}, 1000)}"></iframe>
