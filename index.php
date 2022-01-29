@@ -22,9 +22,9 @@ include('./partials/head.php');
         <div class="header-video">
            
             <video id="myvideo" width="1000" height="400" autoplay loop muted playsinline>
-                <source class="active" src="images/ksbl-video-desktop.mp4" data-mobile="images/ksbl-video-mobile.mp4" data-desktop="images/ksbl-video-desktop.mp4" data-mobile="images/ksbl-video-mobile.mp4" data-ipad="images/ksbl-video-mobile.mp4"   type="video/mp4">
+                <source class="active" src="images/ksbl-video-desktop-new.mp4" data-mobile="images/ksbl-video-mobile-new.mp4" data-desktop="images/ksbl-video-desktop-new.mp4" data-mobile="images/ksbl-video-mobile-new.mp4" data-ipad="images/ksbl-video-ipad-new.mp4"   type="video/mp4">
 
-                <source src="images/ksbl-video-mobile.mov" data-mobile="images/ksbl-video-mobile.mov" data-desktop="images/ksbl-video-mobile.mov" type="video/mp4">
+                <source src="images/ksbl-video-desktop-new.mov" data-mobile="images/ksbl-video-mobile-new.mov" data-desktop="images/ksbl-video-desktop-new.mov" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
          
