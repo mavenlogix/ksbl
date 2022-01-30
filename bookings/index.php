@@ -102,48 +102,34 @@ include('../partials/navbar.php');
             <p>
             Workshops, Training or Events has been made easier than ever by KSBL. Organizations can book our campus auditoriums or meeting rooms for workshops, meetings, training sessions, and seminars. For booking and more information, please fill in the form.
             </p>
-            <iframe name='hidden_iframe' style="display: none;" src="bookings" onload="if(submitted){
-                    alert('Thanks for Submitting')
-                   setTimeout(() => {window.location='http://localhost/ksbl_local/bookings/';}, 1000)}"></iframe>
+            <iframe  style="display: none;" src=""> </iframe>
 
-<!-- https://docs.google.com/forms/u/0/d/e/1FAIpQLSfttkOmHl5-EZSAqYzGRHwfqP9KCska2Co0jd0v-zMgckRNzQ/formResponse?edit2=2_ABaOnueuo3cXOCT3ViyZIczh5Ae_IP3CgtYhR4ok_-XWvgqyv6jHdr9JfIcsXqwNAg -->
 
-            <form class="" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfttkOmHl5-EZSAqYzGRHwfqP9KCska2Co0jd0v-zMgckRNzQ/formResponse?edit2=2_ABaOnueuo3cXOCT3ViyZIczh5Ae_IP3CgtYhR4ok_-XWvgqyv6jHdr9JfIcsXqwNAg" target="hidden_iframe" onsubmit="submitted = true">
-               <!--  <div jsname="o6bZLc">
-                    <input type="hidden" name="entry.127579927" value="no of  att">
-                    <input type="hidden" name="entry.1505598292" value="any">
-                    <input type="hidden" name="entry.1661479026" value="no of event">
-                    <input type="hidden" name="entry.2051908047_year" value="2022">
-                    <input type="hidden" name="entry.2051908047_month" value="1">
-                    <input type="hidden" name="entry.2051908047_day" value="27">
-                    <input type="hidden" name="entry.997412094_hour" value="00">
-                    <input type="hidden" name="entry.997412094_minute" value="22">
-                    <input type="hidden" name="entry.687347619" value="Auditorium 1">
-                    <input type="hidden" name="entry.666803539" value="Corporate Meeting">
-                </div> -->
+            <form class="" action="">
+            
                 <div class="row">
                     <div class="col-lg-4 col-md-6">
                         <div class="form-group">
                             <label>Name</label>
-                            <input type="text" class="form-control" id="name" name="entry.2005620554" placeholder="Enter name">
+                            <input type="text" class="form-control" id="name" name="" placeholder="Enter name">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="form-group">
                             <label>Contact Number</label>
-                            <input type="number" class="form-control" name="entry.1045781291" id="email" placeholder="Enter phone no">
+                            <input type="number" class="form-control" name="" id="email" placeholder="Enter phone no">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="form-group">
                             <label>Email</label>
-                            <input type="email" class="form-control" id="email" name="entry.1082866173" placeholder="Enter email">
+                            <input type="email" class="form-control" id="email" name="" placeholder="Enter email">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
                         <div class="form-group">
                             <label>Facility Required</label>
-                            <select class="form-control" name="entry.687347619">
+                            <select class="form-control" name="">
                                 <option>Auditorium 1</option>
                                 <option>Auditorium 2</option>
                                 <option>Auditorium 3</option>
@@ -154,9 +140,7 @@ include('../partials/navbar.php');
                         <div class="form-group">
                             <label>Date</label>
                             <input type="date" class="form-control" id="date" placeholder="Enter date">
-                            <input type="hidden" name="entry.2051908047_year" value="2022">
-                            <input type="hidden" name="entry.2051908047_month" value="1">
-                            <input type="hidden" name="entry.2051908047_day" value="27">
+                           
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -168,7 +152,7 @@ include('../partials/navbar.php');
                     <div class="col-lg-4 col-md-6">
                         <div class="form-group">
                             <label>Food Required</label>
-                            <select class="form-control" id="RequiredSession" onchange="return requiredSession(this)" name="entry.666803539">
+                            <select class="form-control" id="RequiredSession" onchange="return requiredSession(this)" name="">
                                 <option value="CorporateMeeting">Corporate Meeting </option>
                                 <option value="Workshop">Workshop</option>
                                 <option value="Townhall">Townhall</option>
