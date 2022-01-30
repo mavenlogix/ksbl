@@ -12,6 +12,7 @@ RewriteRule ^(.*)$ https://mavenology.site/$1 [R,L]
 
 
 
+
 #Directory to file
 RewriteRule ^faculty-research/(.*)$ /faculty.html [R=301,NC,L]
 RewriteRule ^contact-us/(.*)$ /contact-us.html [R=301,NC,L]
