@@ -31,7 +31,7 @@ include('../partials/navbar.php');
                         <img src="images/blog/KSBL_Students_Visit_Plastic_factory_pic5.jpeg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>KSBL Students Visit Plastic factory to Learn more about Sustainability</h2>
+                            <h2>KSBL Students Visit Plastic Factory to Learn more about Sustainability</h2>
                             <div class="post-date">Friday, January, 28th, 2022 </div>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ include('../partials/navbar.php');
                         </p>
 
                         <p>
-                            Director Research and Development, Abid Omar shared some challenges of doing business in Karachi. These included limited energy supply and unregulated waste disposal. These elements were highlighted as business opportunities for students to develop eco-friendly and innovative solutions for the city’s most pressing problems. Muhammad Ibrahim, the General Manager shared essential factors for successful business factors including trusting and empowering people, educating and building capacity, and supporting individuals with innovative ideas. Establishing systems and prioritizing cleanliness were key factors identified to successful business operations. They were made aware of communal transport having less impact on the environment as compared to cars. Key takeaways included consuming less, being mindful, the importance of social inclusion, and potential areas for pro-environment and sustainable business
+                            Director Research and Development, Abid Omar shared some challenges of doing business in Karachi. These included limited energy supply and unregulated waste disposal. These elements were highlighted as business opportunities for students to develop eco-friendly and innovative solutions for the city’s most pressing problems. Muhammad Ibrahim, the General Manager shared essential factors for successful business factors including trusting and empowering people, educating and building capacity, and supporting individuals with innovative ideas. Establishing systems and prioritizing cleanliness were key factors identified to successful business operations. They were made aware of communal transport having less impact on the environment as compared to cars. Key takeaways included consuming less, being mindful, the importance of social inclusion, and potential areas for pro-environment and sustainable business.
                         </p>
                        
             

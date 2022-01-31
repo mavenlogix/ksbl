@@ -51,7 +51,7 @@ include('../../../partials/navbar.php');
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
-                                <div class="detail" >KSBL Students Visit Plastic factory to Learn more about Sustainability</div>
+                                <div class="detail" >KSBL Students Visit Plastic Factory to Learn more about Sustainability</div>
                                 <div class="date">Friday, January, 28th, 2022</div>
                             </div>
                         </div>
