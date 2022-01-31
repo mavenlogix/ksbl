@@ -43,13 +43,28 @@ include('../../../partials/navbar.php');
                 <div class="center-page-content news-and-events container-boxes" >
 
               
+                <a href="blog/KSBL_Students_Visit_Plastic_factory.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/KSBL_Students_Visit_Plastic_factory_pic5.jpeg" alt="Data Science">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >KSBL Students Visit Plastic factory to Learn more about Sustainability</div>
+                                <div class="date">Friday, January, 28th, 2022</div>
+                            </div>
+                        </div>
+                    </a>
+
+
 
                 <a href="blog/Sulman_Malik.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/Sulman_Malik_thumbnail.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events </div>
                           
                             <div class="other-details">
                                 <div class="detail" >Sulman Malik Conducted a Top-Five Challenges that CEOs Face</div>
@@ -64,7 +79,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Gohar_Alam_Siddiqui_Session_thumbnail.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events </div>
                           
                             <div class="other-details">
                                 <div class="detail" >Gohar Alam Siddiqui Conducted a Session on Industrial Relations</div>
@@ -79,7 +94,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/Shan_Foods_Session_thumbnail.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events </div>
                           
                             <div class="other-details">
                                 <div class="detail" >Shan Foods Recently Conducted a One-On-One Counseling Session with KSBL Students</div>
@@ -122,7 +137,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/two-day_training_program_thumbnail.jpg" alt="Data Science">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events </div>
                           
                             <div class="other-details">
                                 <div class="detail" >KSBL Organized a Two-Day Training Program on ‘Performance-Based Coaching’ for Professionals on 14-15 December 2021.</div>
