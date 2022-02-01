@@ -138,7 +138,7 @@ include('../../partials/navbar.php');
                         <h2 class="name">Mr. Hussain Dawood</h2>
                         <div class="designation">
                             Founding Chairman<br>
-                            Board of Governors,KSBL
+                            Board of Governors, KSBL
                         </div>
                     </div>
                 </div>
@@ -162,8 +162,8 @@ include('../../partials/navbar.php');
                     <div class="person-detail">
                         <h2 class="name">Mr. Mubashar Hameed</h2>
                         <div class="designation">
-                            Rector, KSBL CEO<br>
-                            Karachi Education Initiative
+                            Rector, KSBL<br>
+                            CEO, Karachi Education Initiative
                         </div>
                     </div>
                 </div>
