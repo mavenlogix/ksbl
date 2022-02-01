@@ -65,7 +65,7 @@ include('../partials/navbar.php');
                 <h2>Board of Governors</h2>
             </div>
             <div class="group">
-                <!-- Person 1 -->
+                <!-- Mr. Hussain Dawood -->
                 <div class="person come-out">
                     <div class="person-info">
                         <img src="images/faculty/hussain-dawood.jpg" alt="Hussain Dawood" />
@@ -78,13 +78,16 @@ include('../partials/navbar.php');
                     <div class="person-detail">
                         <h2 class="name">Mr. Hussain Dawood</h2>
                         <div class="designation">
-                            Chairman <br>
-                            KSBL, KEI, Engro
+                            Chairman KSBL<br>
+                            KEI, Engro
                         </div>
                     </div>
                 </div>
-                <!-- END Person 1 -->
-                <!-- Person 2 -->
+                <!-- END Mr. Hussain Dawood -->
+
+
+
+                <!-- Mr. Mubashar Hameed -->
                 <div class="person come-out">
                     <div class="person-info">
                         <img src="images/faculty/mubashar-hameed.jpg" alt="Mubashar Hameed" />
@@ -106,8 +109,74 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                 </div>
-                <!-- END Person 2 -->
-                <!-- Person 3 -->
+                <!-- END Mr. Mubashar Hameed -->
+
+
+                <!-- Justice Aqeel Ahmed Abbasi -->
+                 <div class="person come-out">
+                    <div class="person-info">
+                        <img src="images/faculty/justice-aqeel-ahmed-abbasi.jpg" alt="Justice Aqeel Ahmed Abbasi" />
+                        <div class="hover-detail">
+                            <span class="orange-yellow-text">Justice Abbasi</span> started legal practice as a Taxation & Corporate Laws Consultant in the year 1988 in the chambers of his illustrious father Professor Masood Ahmed Abbasi Advocate, one of the pioneers on the tax side, whose law firm was established in 1949 under the name and style of M/S Abbasi & Company Advocates.<br /><br />
+                            He was appointed as Legal Advisor to the Income Tax Department, Federal Board of Revenue (FBR), Government of Pakistan in 2000. He was also appointed as Advocate on Panels of Custom Central Excise & Sales Tax Department, Government of Pakistan, Industrial Development Bank of Pakistan, Government of Pakistan and House building Finance Corporation, Government of Pakistan.<br /><br />
+                            Justice Abbasi remained an Honorary Law Reporter of Pakistan Legal Decisions (P.I.D) and Pakistan Tax Decisions (P.T.D) until his elevation to the High Court of Sindh. He has contributed several articles and research papers on Taxation Laws which were all published in Law Journals i.e. Taxation, P.T.D & English Daily Dawn. He was elected as Member Managing Committee of Sindh High Court Bar Association Karachi for the years 1998/1999 & 1999/2000. Also, he was elected as (unopposed) Honorary Joint Secretary of Sindh High Court Bar Association Karachi for 2001/2002.
+                            <br><br>
+                        </div>
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Justice Aqeel Ahmed Abbasi</h2>
+                        <div class="designation">
+                            Advocate <br>
+                            Supreme Court of Pakistan
+                        </div>
+                    </div>
+                </div>
+                <!-- END Justice Aqeel Ahmed Abbasi -->
+
+
+               <!-- Mr. Abdul Samad Dawood -->
+                 <div class="person come-out">
+                    <div class="person-info">
+                        <img src="images/faculty/Abdul-Samad-Dawood.jpg" alt="Justice Aqeel Ahmed Abbasi" />
+                        <div class="hover-detail">
+                            <span class="orange-yellow-text">Mr. Abdul Samad Dawood</span> joined the Board of Engro Corporation in 2009. He currently serves as the Vice Chair of the Board of Dawood Hercules Corporation, where he has been a director since 2002, and has also previously served the company in an executive capacity..<br /><br />
+                            Mr. Dawood’s rich and diverse experience of management and governance spans 18 years, with a special interest in mergers and acquisitions. He has led more than $4 billion worth of M&A deals, including the Dawood group’s acquisition of HUBCO from National Power International Holdings B.V. in 2012 and the sale of DH Fertilizers to Fatima Fertilizer Company Ltd in 2015. He also played a leading role in the merger of Engro Foods into global dairy giant, Royal FrieslandCampina N.V., based on the convergence of their values, goals, and abilities to address Pakistan’s nutritional challenges; he has since served as the Chair of the Board of FrieslandCampina Engro Pakistan. In addition to this, Mr. Dawood is an active director on the board of Pakistan Business Council, a pan-industry advocacy group that promotes easing of barriers to enable Pakistani businesses to compete in regional and global arenas. In line with his areas of interest, he is a director and trustee of Boards across varied industries including financial investments, energy, and education, some of which are the Dawood Foundation, Dawood Lawrencepur Ltd, and Reon (Pvt) Ltd. In addition to these responsibilities of governance, Mr. Dawood has previously served as the Chief Executive Officer for Dawood Hercules Corporation Ltd and Cyan Ltd, and is an active member of the Young Presidents Organization.<br /><br />
+                            Mr. Dawood is a graduate in Economics from University College London, UK and a certified director of corporate governance from the Pakistan Institute of Corporate Governance.
+                            <br><br>
+                        </div>
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Mr. Abdul Samad Dawood</h2>
+                        <div class="designation">
+                            Vice Chairman <br>
+                            Dawood Group
+                        </div>
+                    </div>
+                </div>
+                <!-- END Mr. Abdul Samad Dawood -->
+
+
+              <!-- Ms. Sabrina Dawood-->
+                <div class="person come-out">
+                    <div class="person-info">
+                        <img src="images/faculty/ms-sabrina-dawood.jpg" alt="Justice Aqeel Ahmed Abbasi" />
+                        <div class="hover-detail">
+                            <span class="orange-yellow-text">Sabrina Dawood</span> is currently the CEO of The Dawood Foundation & Public School and Director of Engro Foods Limited, prior to which she has been working in various companies of the Dawood Hercules Group, such as Dawood Hercules Corporation Limited and Dawood Lawrencepur Limited in marketing, corporate communications, administration and CSR. She holds an MSc in Medical Anthropology from University College London and a BA from London School of Economics in Anthropology & Law.
+                            <br><br>
+                        </div>
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Ms. Sabrina Dawood</h2>
+                        <div class="designation">
+                            CEO <br>
+                            The Dawood Foundation
+                        </div>
+                    </div>
+                </div>
+                <!-- END Ms. Sabrina Dawood -->
+
+
+                <!-- Mr. Hasan Irfan Khan -->
                 <div class="person come-out">
                     <div class="person-info">
                         <img src="images/faculty/hasan-irfan-khan.jpg" alt="Hasan Irfan Khan" />
@@ -123,13 +192,35 @@ include('../partials/navbar.php');
                     <div class="person-detail">
                         <h2 class="name">Mr. Hasan Irfan Khan</h2>
                         <div class="designation">
-                            Member Board of Trustees <br>
+                            Director Member Board of Trustees <br>
                             Asifa-lrfan Foundation
                         </div>
                     </div>
                 </div>
-                <!-- END Person 3 -->
-                <!-- Person 4 -->
+                <!-- END Mr. Hasan Irfan Khan -->
+
+
+                 <!-- Dr Sarosh Hashmat Lodi -->
+                <div class="person come-out">
+                    <div class="person-info">
+                        <img src="images/faculty/dr-sarosh-hashmat-lodhi.jpg" alt="Dr. Sarosh Hashmat Lodhi" />
+                        <div class="hover-detail">
+                            <span class="orange-yellow-text">Dr. Sarosh Lodi</span> is currently serving as the Vice-Chancellor of NED University of Engineering and Technology, Karachi. He is the professor at the Department of Civil Engineering, NED University. Mr. Lodhi has previously served as the Dean, Chairman, Registrar and Managing Representative ISO in the same University. His research interests include Higher Education, Civil Engineering and Engineering Education. He has served as principal investigator and co-principal investigator for various research projects, related to Civil Engineering. His is also currently working on a research project on Constitutive Modelling of Ferrocement Elements
+                            <br><br><br>
+                        </div>
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Dr Sarosh Hashmat Lodi</h2>
+                        <div class="designation">
+                            Vice Chancellor of NED <br>
+                            University of Engineering and Technology
+                        </div>
+                    </div>
+                </div>
+                <!-- END Dr Sarosh Hashmat Lodi -->
+
+
+                <!-- Professor Atta Ur Rahman -->
                 <div class="person come-out">
                     <div class="person-info">
                         <img src="images/faculty/dr-atta-ur-rahman.jpg" alt="Dr. Atta-ur-Rahman" />
@@ -147,14 +238,62 @@ include('../partials/navbar.php');
                     <div class="person-detail">
                         <h2 class="name">Professor Atta Ur Rahman</h2>
                         <div class="designation">
-                            Director and Chair <br>
+                            Director and Chair<br>
                             HR & Academic Committee <br>
                             President, Pakistan Academy of Sciences
                         </div>
                     </div>
                 </div>
-                <!-- END Person 4 -->
-                <!-- Person 5 -->
+                <!-- END Professor Atta Ur Rahman -->
+
+
+                <!-- Mr. Imran Sayeed -->
+                <div class="person come-out">
+                    <div class="person-info">
+                        <img src="images/faculty/mr-imran-sayeed.jpg" alt="Imran Sayeed" />
+                        <div class="hover-detail">
+                            <span class="orange-yellow-text">Imran Sayeed</span> is the Senior Lecturer, Technological Innovation, and Entrepreneurship & Strategic Movement at the MIT Sloan School of Management. Working with MIT Enterprise Forum, he has started and developed entrepreneurial ecosystems in Central America and South Asia. Previously, Sayeed started and led the Digital practice for NTT Data, the 6th largest technology consulting company in the world with 75,000 employees in 45 countries and $16 Billion in annual revenue. He was also the Chief Technology Officer and head of innovation. Prior to Keane, Sayeed was an entrepreneur for 13 years, having founded two successful software products and services companies. He was also the member of founding team of Open Environment, a leading middleware product company that he helped grow from a 10-person startup, to an IPO in 1995. He then started NetNumina, a technology strategy and consulting company and as its CEO he expanded it from a 15 person startup, to one of the Computerworld's Top 100 emerging companies. This was also mentioned on Inc 500's fastest growing businesses that was subsequently sold to Keane in 2005.<br /><br />
+                            He was also the founding global President of OPEN, the largest Pakistani entrepreneurship and leadership organization in the world, with over 5000 executives and entrepreneurs in 12 cities in the US, UK, Canada and Pakistan. Mr. Sayeed also holds a patent on Internet security technology that he jointly developed with Citibank. He was also named by Computerworld as one of the Premier 100 IT Leaders for 2013. Moreover, Mr. Sayeed has also been featured in the Wall Street Journal, Forbes, Harvard Business Review and most of the other leading business and technology publications, for his work on entrepreneurship, digital technologies, and innovation. Mr. Sayeed is also the co-founder of Teach the World Foundation, a global literacy non-profit organization, that is using technology to radically transform how children across the world learn to read, write and do math. Sayeed attended Brown University where he majored in<br /><br />
+                            Engineering, and Harvard University, where he did post-graduate work in business, marketing and product development.<br><br><br>
+                        </div>
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Mr. Imran Sayeed</h2>
+                        <div class="designation">
+                            Senior Lecturer, Technical Innovation <br>
+                            Entrepreneurship & <br>
+                            Strategic Movement at MIT
+                        </div>
+                    </div>
+                </div>
+                <!-- END Mr. Imran Sayeed -->
+
+
+                <!-- Mr Parvez Ahmed Seehar -->
+                <div class="person come-out">
+                    <div class="person-info">
+                        <img src="images/faculty/mr-parvez-ahmed-seehar.jpg" alt="Parvez Ahmed Seehar" />
+                        <div class="hover-detail">
+                            <span class="orange-yellow-text">Parvez Ahmed Seehar</span> is the Secretary to Government of Sindh in Department of Culture, Tourism & Antiquities. Previously, he served as Special Secretary Education Department, Chief Program Manager in Sindh education reforms, and other positions for ten years.
+                            <br /><br />
+                            He also led the reform support unit, planning and conducting the first meeting of Sindh Education Development Partners' Coordination (SEDPC) Forum. Mr. Seehar has also supervised the Diagnostic Testing (of Language, Mathematics and Social Studies) and Standard Achievement Testing (SAT), of students. Furthermore, he also looked after the first 'merit-based' recruitment of teachers in Sindh, through Third Party, Supervision of Donor-funded Projects and initiatives; e.g. 'Districts That Work (USAID); 'Missing facilities to schools', School Management Committees, Girls Stipend Program, Girls Education Project.
+                            <br><br>
+                            In addition to being a practitioner, he is also an academic and scholar. Currently, he is pursuing his PhD in public sector management in Pakistan. He brings in rich comparative perspectives due to his professional visits to the USA, UK, Thailand, India, Sri Lanka, Dubai, Philippines, etc. Moreover, he has also been invited for talks on many seminars, policy dialogues and panel discussions as a key panellist, speaker, or to conduct sessions on his skills & expertise.
+                            <br><br><br>
+                        </div>
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Mr Parvez Ahmed Seehar</h2>
+                        <div class="designation">
+                            Secretary to Government of Sindh in<br>
+                            Department of Culture, Tourism & Antiquities
+                        </div>
+                    </div>
+                </div>
+                <!-- END Mr Parvez Ahmed Seehar -->
+
+
+                <!-- Mr. Munawar Alam Siddiqui -->
                 <div class="person come-out">
                     <div class="person-info">
                         <img src="images/faculty/munawar-alam-siddiqui.jpg" alt="Munawar Alam Siddiqui" />
@@ -170,13 +309,15 @@ include('../partials/navbar.php');
                     <div class="person-detail">
                         <h2 class="name">Mr. Munawar Alam Siddiqui</h2>
                         <div class="designation">
-                                Chairman <br>
-                                JS Investments Limited
+                            Director & Chair<br>
+                            Chairman JS investments limited
                         </div>
                     </div>
                 </div>
-                <!-- END Person 5 -->
-                <!-- Person 13 -->
+                <!-- END Mr. Munawar Alam Siddiqui -->
+
+
+                <!-- Dr. Muhammad Aslam Uquili -->
                 <div class="person come-out">
                     <div class="person-info">
                         <img src="images/faculty/m-aslam-uqaili.jpg" alt="Professor Dr. Mohammad Aslam Uqaili" />
@@ -196,86 +337,10 @@ include('../partials/navbar.php');
                         </div>
                     </div>
                 </div>
-                <!-- END Person 13 -->
-                <!-- Person 9 -->
-                <div class="person come-out">
-                    <div class="person-info">
-                        <img src="images/faculty/dr-sarosh-hashmat-lodhi.jpg" alt="Dr. Sarosh Hashmat Lodhi" />
-                        <div class="hover-detail">
-                            <span class="orange-yellow-text">Dr. Sarosh Lodi</span> is currently serving as the Vice-Chancellor of NED University of Engineering and Technology, Karachi. He is the professor at the Department of Civil Engineering, NED University. Mr. Lodhi has previously served as the Dean, Chairman, Registrar and Managing Representative ISO in the same University. His research interests include Higher Education, Civil Engineering and Engineering Education. He has served as principal investigator and co-principal investigator for various research projects, related to Civil Engineering. His is also currently working on a research project on Constitutive Modelling of Ferrocement Elements
-                            <br><br><br>
-                        </div>
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Dr Sarosh Hashmat Lodi</h2>
-                        <div class="designation">
-                            Vice Chancellor <br>
-                            NED University of Engineering and Technology
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 9 -->
-                <!-- Person 12 -->
-                <div class="person come-out">
-                    <div class="person-info">
-                        <img src="images/faculty/mr-imran-sayeed.jpg" alt="Imran Sayeed" />
-                        <div class="hover-detail">
-                            <span class="orange-yellow-text">Imran Sayeed</span> is the Senior Lecturer, Technological Innovation, and Entrepreneurship & Strategic Movement at the MIT Sloan School of Management. Working with MIT Enterprise Forum, he has started and developed entrepreneurial ecosystems in Central America and South Asia. Previously, Sayeed started and led the Digital practice for NTT Data, the 6th largest technology consulting company in the world with 75,000 employees in 45 countries and $16 Billion in annual revenue. He was also the Chief Technology Officer and head of innovation. Prior to Keane, Sayeed was an entrepreneur for 13 years, having founded two successful software products and services companies. He was also the member of founding team of Open Environment, a leading middleware product company that he helped grow from a 10-person startup, to an IPO in 1995. He then started NetNumina, a technology strategy and consulting company and as its CEO he expanded it from a 15 person startup, to one of the Computerworld's Top 100 emerging companies. This was also mentioned on Inc 500's fastest growing businesses that was subsequently sold to Keane in 2005.<br /><br />
-                            He was also the founding global President of OPEN, the largest Pakistani entrepreneurship and leadership organization in the world, with over 5000 executives and entrepreneurs in 12 cities in the US, UK, Canada and Pakistan. Mr. Sayeed also holds a patent on Internet security technology that he jointly developed with Citibank. He was also named by Computerworld as one of the Premier 100 IT Leaders for 2013. Moreover, Mr. Sayeed has also been featured in the Wall Street Journal, Forbes, Harvard Business Review and most of the other leading business and technology publications, for his work on entrepreneurship, digital technologies, and innovation. Mr. Sayeed is also the co-founder of Teach the World Foundation, a global literacy non-profit organization, that is using technology to radically transform how children across the world learn to read, write and do math. Sayeed attended Brown University where he majored in<br /><br />
-                            Engineering, and Harvard University, where he did post-graduate work in business, marketing and product development.<br><br><br>
-                        </div>
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Mr. Imran Sayeed</h2>
-                        <div class="designation">
-                            Senior Lecturer <br>
-                            MIT
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 12 -->
-                <!-- Person 11 -->
-                <div class="person come-out">
-                    <div class="person-info">
-                        <img src="images/faculty/mr-mir-muhammad-nasir.jpg" alt="Mir Muhammad Nasir" />
-                        <div class="hover-detail">
-                            <span class="orange-yellow-text">Mir Muhammad Nasir </span>is the former Chief Executive Officer (CEO) & Executive Director at Inbox Business Technologies Ltd. As the Co-Founder of company, he led expansion of business in Sri Lanka, Maldives, Bangladesh and Singapore. His key accomplishments there involved building the oracle ERP practice from Scratch, and expansion of business vertical to USD 5 million.<br><br>
-                            Mr. Nasir completed his undergraduate degree from the Southeastern University with the Bachelors, in Finance.<br><br>
-                            He has also been on board of multiple renowned organizations, Inbox Business Inbox Technologies Ltd., Citizens Archive of Pakistan and Tenaga Generasi Ltd and Dawood Lawrencepur Ltd. Currently, Mr. Nasir is serving on the board of Karachi School of Business & Leadership.
-                            <br><br><br>
-                        </div>
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Mir Muhammad Nasir</h2>
-                        <div class="designation">
-                            Executive Director<br>Inbox Business Technologies Ltd.
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 11 -->
-                <!-- Person 10 -->
-                <div class="person come-out">
-                    <div class="person-info">
-                        <img src="images/faculty/mr-rizwan-masood-raja.jpg" alt="Rizwan Masood Raja" />
-                        <div class="hover-detail">
-                            <span class="orange-yellow-text">Rizwan Masood Raja</span> is the Senior Vice President & Chief People Officer at Engro Corporation. Rizwan's experience spans over 25 years. He was with Standard Chartered Bank (SCB) for over 15 years and, before that, with Jaffer Group for 9 years. He has held multiple senior roles within HR with a focus on Retail Banking, SME Business, Financial Crime Compliance & Talent Acquisition, across strategic markets such as in Pakistan, Hong Kong, Singapore, China, Taiwan and South Korea.
-                            <br /><br />
-                            Before his HR career, he managed businesses P&L and finance for Jaffer Group's companies based in Pakistan. Before joining Engro, Rizwan was serving as the Managing Director and Head of HR for Retail Banking and Wealth Management, Greater China and North Asia, at SCB. Always driven by new challenges, Mr. Lodhi was instrumental in developing and delivering projects on strategic workforce planning, leading multiple Transformation projects related to client-centricity & digitalization for Retail Bank, and being part of the Global HR transformation's design team.
-                            <br><br>
-                            One of his key achievements was the successful build-up of the Virtual Bank in Hong Kong; a first for SCB globally. <br><br><br>
-                        </div>
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Rizwan Masood Raja</h2>
-                        <div class="designation">
-                            Senior Vice President
-                            <br>& Chief People Officer<br>Engro Corporation
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 10 -->
-                <!-- Person 6 -->
-                <div class="person come-out">
+                <!-- END Dr. Muhammad Aslam Uquili -->
+
+              <!-- Dr Muhammad Abuzar Wajidi -->
+              <div class="person come-out">
                     <div class="person-info">
                         <img src="images/faculty/professor-abuzar-wajidi.jpg" alt="Professor Abuzar Wajidi" />
                         <div class="hover-detail">
@@ -288,54 +353,15 @@ include('../partials/navbar.php');
                     <div class="person-detail">
                         <h2 class="name">Dr Muhammad Abuzar Wajidi</h2>
                         <div class="designation">
-                            Rector <br>
-                            HANDS Institute of Community Development, Karachi
+                            Rector HANDS<br>
+                            Institute of Community Development, Karachi
+
                         </div>
                     </div>
                 </div>
-                <!-- END Person 6 -->
-                <!-- Person 7 -->
-                <div class="person come-out">
-                    <div class="person-info">
-                        <img src="images/faculty/justice-aqeel-ahmed-abbasi.jpg" alt="Justice Aqeel Ahmed Abbasi" />
-                        <div class="hover-detail">
-                            <span class="orange-yellow-text">Justice Abbasi</span> started legal practice as a Taxation & Corporate Laws Consultant in the year 1988 in the chambers of his illustrious father Professor Masood Ahmed Abbasi Advocate, one of the pioneers on the tax side, whose law firm was established in 1949 under the name and style of M/S Abbasi & Company Advocates.<br /><br />
-                            He was appointed as Legal Advisor to the Income Tax Department, Federal Board of Revenue (FBR), Government of Pakistan in 2000. He was also appointed as Advocate on Panels of Custom Central Excise & Sales Tax Department, Government of Pakistan, Industrial Development Bank of Pakistan, Government of Pakistan and House building Finance Corporation, Government of Pakistan.<br /><br />
-                            Justice Abbasi remained an Honorary Law Reporter of Pakistan Legal Decisions (P.I.D) and Pakistan Tax Decisions (P.T.D) until his elevation to the High Court of Sindh. He has contributed several articles and research papers on Taxation Laws which were all published in Law Journals i.e. Taxation, P.T.D & English Daily Dawn. He was elected as Member Managing Committee of Sindh High Court Bar Association Karachi for the years 1998/1999 & 1999/2000. Also, he was elected as (unopposed) Honorary Joint Secretary of Sindh High Court Bar Association Karachi for 2001/2002.
-                            <br><br>
-                        </div>
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Justice Aqeel Ahmed Abbasi</h2>
-                        <div class="designation">
-                            Advocate <br>
-                            Supreme Court of Pakistan
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 7 -->
-                <!-- Person 8 -->
-                <div class="person come-out">
-                    <div class="person-info">
-                        <img src="images/faculty/mr-parvez-ahmed-seehar.jpg" alt="Parvez Ahmed Seehar" />
-                        <div class="hover-detail">
-                            <span class="orange-yellow-text">Parvez Ahmed Seehar</span> is the Secretary to Government of Sindh in Department of Culture, Tourism & Antiquities. Previously, he served as Special Secretary Education Department, Chief Program Manager in Sindh education reforms, and other positions for ten years.
-                            <br /><br />
-                            He also led the reform support unit, planning and conducting the first meeting of Sindh Education Development Partners' Coordination (SEDPC) Forum. Mr. Seehar has also supervised the Diagnostic Testing (of Language, Mathematics and Social Studies) and Standard Achievement Testing (SAT), of students. Furthermore, he also looked after the first 'merit-based' recruitment of teachers in Sindh, through Third Party, Supervision of Donor-funded Projects and initiatives; e.g. 'Districts That Work (USAID); 'Missing facilities to schools', School Management Committees, Girls Stipend Program, Girls Education Project.
-                            <br><br>
-                            In addition to being a practitioner, he is also an academic and scholar. Currently, he is pursuing his PhD in public sector management in Pakistan. He brings in rich comparative perspectives due to his professional visits to the USA, UK, Thailand, India, Sri Lanka, Dubai, Philippines, etc. Moreover, he has also been invited for talks on many seminars, policy dialogues and panel discussions as a key panellist, speaker, or to conduct sessions on his skills & expertise.
-                            <br><br><br>
-                        </div>
-                    </div>
-                    <div class="person-detail">
-                        <h2 class="name">Mr Parvez Ahmed Seehar</h2>
-                        <div class="designation">
-                            Secretary to Government of Sindh <br>
-                            Department of Culture, Tourism & Antiquities
-                        </div>
-                    </div>
-                </div>
-                <!-- END Person 8 -->
+                <!-- END Dr Muhammad Abuzar Wajidi-->
+  
+               
             </div>
         </div>
     </div>

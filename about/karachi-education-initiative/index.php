@@ -224,6 +224,7 @@ include('../../partials/navbar.php');
                     <div class="person-detail">
                         <h2 class="name">Mr. Abdul Samad Dawood</h2>
                         <div class="designation">
+                            Director, KEI<br>
                             Vice Chairman Dawood Group
                         </div>
                     </div>
