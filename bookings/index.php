@@ -102,7 +102,7 @@ include('../partials/navbar.php');
             <p>
             Workshops, Training or Events has been made easier than ever by KSBL. Organizations can book our campus auditoriums or meeting rooms for workshops, meetings, training sessions, and seminars. For booking and more information, please fill in the form.
             </p>
-            <iframe  style="display: none;" src=""> </iframe>
+            <iframe class="iframeBookingFrom"  frameBorder="0" src="https://docs.google.com/forms/d/e/1FAIpQLScE9SWeSV9UiUqd7vqjhkf54NCvxBRZJYaD-UzFUtVfJszaPQ/viewform"> </iframe>
 
 
             <form class="" action="">
