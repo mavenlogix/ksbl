@@ -53,7 +53,7 @@ include('./partials/head.php');
 
                     <div class="ksbl-programs-wrap">
                     <div class="container">
-                        <h2 class="homeHeading  ">KSBL PROGRAMS</h2>
+                        <h2 class="homeHeading  ">KSBL PROGRAMS - Fall 2022 Admissions Open</h2>
                         
                         <div class="ksbl-programs">
                         

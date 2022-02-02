@@ -118,51 +118,51 @@ include('../partials/head.php');
                     <div class="event-date">
                         <div class="current-month">
                             <h3 class="">
-                                Jan 20, 2022
+                                Feb 8 - 9, 2022
                             </h3>
                         </div>
                     </div>
                     <div class="eventDesc">
-                        <h2>Goal Setting</h2>
-                        <span>Your first step towards success</span>
+                        <h2>Leading High Performance Teams For Growth & Change</h2>
+                        <!-- <span>Your first step towards success</span> -->
                     </div>
                     <div class="actionBtns">
-                        <a class="btn btn_events" href="http://bit.ly/goal-setting-2">Enroll now</a>
-                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Goal-Setting.pdf">View catalog</a>
+                        <a class="btn btn_events" href="https://bit.ly/leading-high-performance-teams">Enroll now</a>
+                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Leading High Performance Teams for Growth & Change.pdf">View catalog</a>
                     </div>
                 </div>
                 <div class="eventDescDetail ">
                     <div class="event-date">
                         <div class="current-month">
                             <h3 class="">
-                                Jan 25 - 26, 2022
+                                Feb 15 - 16, 2022
                             </h3>
                         </div>
                     </div>
                     <div class="eventDesc">
-                        <h2>Finance for Non-Financial Executives</h2>
-                        <span>Finance fundamentals for non-finance executives</span>
+                        <h2>Strategy "In" Execution</h2>
+                        <!-- <span>Finance fundamentals for non-finance executives</span> -->
                     </div>
                     <div class="actionBtns">
-                        <a class="btn btn_events" href="http://bit.ly/non-financial-executives">Enroll now</a>
-                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Finance-for-Non-Financial-Executives.pdf">View catalog</a>
+                        <a class="btn btn_events" href="https://bit.ly/strategy-in-execution">Enroll now</a>
+                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Strategy IN Execution.pdf">View catalog</a>
                     </div>
                 </div>
                 <div class="eventDescDetail ">
                     <div class="event-date">
                         <div class="current-month">
                             <h3 class="">
-                                Jan 26 - 27, 2022
+                                Feb 22 - 23, 2022
                             </h3>
                         </div>
                     </div>
                     <div class="eventDesc">
-                        <h2>Visualizing data stories</h2>
-                        <span>Unlock the magical ways to turn hidden gems into shining insights</span>
+                        <h2>Creating Value Through Financial Decision Making</h2>
+                        <!-- <span>Unlock the magical ways to turn hidden gems into shining insights</span> -->
                     </div>
                     <div class="actionBtns">
-                        <a class="btn btn_events" href="http://bit.ly/viz-data-stories">Enroll now</a>
-                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Visualizing-Data-Stories-for-Strategic-Thinking.pdf">View catalog</a>
+                        <a class="btn btn_events" href="https://bit.ly/financial-decision-making">Enroll now</a>
+                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Creating Value through Financial Decision Making.pdf">View catalog</a>
                     </div>
                 </div>
             </div>
