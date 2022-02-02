@@ -372,6 +372,7 @@
         });
     });
 
+    $("#programModal").modal("show")
 
 
 })(jQuery);

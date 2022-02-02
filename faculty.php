@@ -523,7 +523,7 @@ include('./partials/head.php');
                 <!-- END Person Abdur-Rahman Syed -->
    
 
-                <!-- Person Mr Shahrukh Irfan -->
+                <!-- Person Shahrukh Irfan -->
                <div class="person come-out ">
                    <a href="faculty-profile/Mr_Shahrukh_Irfan.php">
                        <div class="person-info ">
@@ -531,16 +531,16 @@ include('./partials/head.php');
                        </div>
                    </a>
                     <div class="person-detail">
-                        <h2 class="name">Mr Shahrukh Irfan</h2>
+                        <h2 class="name">Shahrukh Irfan</h2>
                         <div class="designation">
                             Visiting Lecturer<br>
                             Accounting & Finance
                         </div>
                     </div>
                 </div>
-                <!-- END Person Mr Shahrukh Irfan -->
+                <!-- END Person Shahrukh Irfan -->
 
-                <!-- Person Mr Absar Ahmed -->
+                <!-- Person Absar Ahmed -->
                <div class="person come-out ">
                    <a href="faculty-profile/Mr_Absar_Ahmed.php">
                        <div class="person-info ">
@@ -548,13 +548,13 @@ include('./partials/head.php');
                        </div>
                    </a>
                     <div class="person-detail">
-                        <h2 class="name">Mr Absar Ahmed</h2>
+                        <h2 class="name">Absar Ahmed</h2>
                         <div class="designation">
                             Lecturer in<br>College Algebra
                         </div>
                     </div>
                 </div>
-                <!-- END Person Mr Absar Ahmed -->
+                <!-- END Person Absar Ahmed -->
 
 
                 <!-- Person Amra Mubashir -->
@@ -590,21 +590,21 @@ include('./partials/head.php');
                 <!-- END Person Mufti Muhammad Sarfaraz Nihal -->
 
 
-                <!-- Person Mr. Danish Haroon -->
+                <!-- Person  Danish Haroon -->
                <div class="person come-out ">
                    <a href="faculty-profile/Mr_Danish_Haroon.php">
                        <div class="person-info ">
-                           <img src="images/faculty/male_dummy.jpg" alt="Mr. Danish Haroon" />
+                           <img src="images/faculty/male_dummy.jpg" alt="Danish Haroon" />
                        </div>
                    </a>
                     <div class="person-detail">
-                        <h2 class="name">Mr. Danish Haroon</h2>
+                        <h2 class="name">Danish Haroon</h2>
                         <div class="designation">
                             Visiting Faculty<br>Data Mining and Big Data
                         </div>
                     </div>
                 </div>
-                <!-- END Person Mr. Danish Haroon -->
+                <!-- END Person  Danish Haroon -->
 
 
 
