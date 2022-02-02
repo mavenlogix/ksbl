@@ -96,7 +96,7 @@ include('../partials/head.php');
 
                     <div class="faculty_grid_head">
 
-                        <h1>Mr Absar Ahmed</h1>
+                        <h1>Absar Ahmed</h1>
                         <h4>Lecturer in<br>College Algebra</h4>
 
                         <a href="mail:to">xyz@ksbl.edu.pk</a>

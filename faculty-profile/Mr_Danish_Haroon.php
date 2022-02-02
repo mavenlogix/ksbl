@@ -96,7 +96,7 @@ include('../partials/head.php');
 
                     <div class="faculty_grid_head">
 
-                        <h1>Mr. Danish Haroon</h1>
+                        <h1>Danish Haroon</h1>
                         <h4>Visiting Faculty<br>Data Mining and Big Data</h4>
 
                         <a href="mailto:danish.haroon@ksbl.edu.pk">danish.haroon@ksbl.edu.pk</a>
