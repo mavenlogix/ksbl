@@ -12,9 +12,7 @@ include('../partials/head.php');
     #----------------------------------------------------------------->
     <header id="header" class="run">
         <div class="container">
-            <?php
-include('../partials/navbar.php'); 
-?>
+            <?php include('../partials/navbar.php');  ?>
             <div class="header-content">
                 <a href="index.php" title="KSBL" class="logo">
                     <img src="images/ksbl-logo-high.png" width="239" alt="KSBL" />
