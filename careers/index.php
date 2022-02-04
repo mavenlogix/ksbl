@@ -30,6 +30,91 @@ include('../partials/navbar.php');
                 </div>
                 <div class="open-house-tabs">
 
+
+                 <!-- === Executive Secretary to the Rector === -->
+                 <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Executive Secretary to the Rector</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                    KSBL is looking to hire candidate who will provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff.
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        
+                                      <p>
+                                      KSBL is looking to hire candidate who will provide administrative support in the variety of functions to the CEO and Rector as well as Chief of Staff. The candidate will be required to have great time-management and multitasking abilities. The goal is to contribute to the efficiency of the overall business by ensuring all assigned administrative duties are carried on timely and efficiently.
+                                      </p>
+                                        
+                                      <h3>Major Job Responsibilities:</h3>
+                                      <br>
+                                        <ol>
+                                            <li>
+                                                Maintain executive’s agenda and assist in planning appointments, board meetings, conferences etc.
+                                            </li>
+                                            <li>
+                                                Attend meetings and keep minutes
+                                            </li>
+                                            <li>
+                                                Responds to or routes priority and confidential from external and internal sources with correspondences on behalf of the Executive
+                                            </li>
+                                            <li>
+                                                Receive and screen phone calls and redirect them when appropriate
+                                            </li>
+                                            <li>
+                                                Handle and prioritize all outgoing or incoming correspondence (e-mail, letters, packages, etc.)
+                                            </li>
+                                            <li>
+                                                Make travel arrangements for executives
+                                            </li>
+                                            <li>
+                                                Handle confidential documents ensuring they remain secure
+                                            </li>
+                                            <li>
+                                                Prepare invoices or financial statements and provide assistance in bookkeeping
+                                            </li>
+                                            <li>
+                                                Monitor office supplies and negotiate terms with suppliers to ensure the most cost-effective orders
+                                            </li>
+                                            <li>
+                                                Maintain electronic and paper records ensuring information is organized and easily accessible
+                                            </li>
+                                            <li>
+                                                Conduct research and prepare presentations or reports as assigned
+                                            </li>
+                                        </ol>
+                                        <br>
+                                        <h3>Requirement:</h3>
+                                        
+                                        <ol>
+                                            <li>Excellent communication skills and must be fluent in English</li>
+                                            <li>Obtaining a minimum bachelor’s degree</li>
+                                            <li>Have 7-9 years of relevant experience</li>
+                                        </ol>
+
+                                        <p>
+                                            Deadline to apply: February 11, 2022
+                                            <br>
+                                            Kindly apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                           
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- === Executive Secretary to the Rector=== -->
+
                 <!-- === Course Digitization Executive === -->
                     <div class="tab-section" style="margin-top: 20px;">
                         <div class="student-achievement">
