@@ -4087,14 +4087,14 @@ button.playBtnVid:focus {
 }
 
 .mainContainer{
-    padding-top: 20px;
+    /* padding-top: 20px; */
 }
 .mainContainer .imageHolder{
     max-width: 380px;
     
 }
 .mainContainer .paragraphHolder{
-    padding: 20px 0px;
+    /* padding: 20px 0px; */
 }
 
 .mainContainer .imageHolderBelow{

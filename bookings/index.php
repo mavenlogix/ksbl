@@ -185,32 +185,26 @@ include('../partials/navbar.php');
             </form> -->
 
 
-            <div class="mainContainer">
-                <div class="d-flex justify-content-sm-between flex-column flex-sm-row align-items-center">
-                    
-                        <div class="imageHolder pr-sm-3 pb-3 pb-sm-0">
-                            <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
-                        </div>
-                    
-    
-                  
-                        <div class="imageHolder mr-sm-3 pb-3 pb-sm-0">
-                            <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
-                        </div>
-                    
-    
-                   
-                        <div class="imageHolder">
-                            <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
-                        </div>
-                   
-                </div>
+            <div class="mainContainer pt-lg-4">
+                <!-- <div class="d-flex justify-content-sm-between flex-column flex-sm-row align-items-center">
+                    <div class="imageHolder pr-sm-3 pb-3 pb-sm-0">
+                        <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
+                    </div>
+                                
+                    <div class="imageHolder mr-sm-3 pb-3 pb-sm-0">
+                        <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
+                    </div>
+                
+                    <div class="imageHolder">
+                        <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
+                    </div>
+                </div> -->
 
-                <div class="paragraphHolder">
+                <!-- <div class="paragraphHolder">
                     <p>
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim commodi iure delectus, quae totam, error, deleniti est magnam porro reiciendis recusandae ratione? Laborum fugit quam cum eaque modi, nobis, tempore excepturi minima aut temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus nobis quos saepe nesciunt.
                     </p>
-                </div>
+                </div> -->
 
                 <div class="row">
                     <div class="col-lg-8 col-12 order-2 order-lg-1">
@@ -219,7 +213,7 @@ include('../partials/navbar.php');
                             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim commodi iure delectus, quae totam, error, deleniti est magnam porro reiciendis recusandae ratione? Laborum fugit quam cum eaque modi, nobis, tempore excepturi minima aut temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim commodi iure delectus, quae totam, error, deleniti est magnam porro reiciendis recusandae ratione? Laborum fugit quam cum eaque modi, nobis, tempore excepturi minima aut temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus. temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                             </p>
 
-                            <a href="#" class="bookNowButton">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScE9SWeSV9UiUqd7vqjhkf54NCvxBRZJYaD-UzFUtVfJszaPQ/viewform" class="bookNowButton">
                                 Book Now
                             </a>
                         </div>
