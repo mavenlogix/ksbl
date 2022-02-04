@@ -102,10 +102,10 @@ include('../partials/navbar.php');
             <p>
             Workshops, Training or Events has been made easier than ever by KSBL. Organizations can book our campus auditoriums or meeting rooms for workshops, meetings, training sessions, and seminars. For booking and more information, please fill in the form.
             </p>
-            <iframe class="iframeBookingFrom"  frameBorder="0" src="https://docs.google.com/forms/d/e/1FAIpQLScE9SWeSV9UiUqd7vqjhkf54NCvxBRZJYaD-UzFUtVfJszaPQ/viewform"> </iframe>
+            <!-- <iframe class="iframeBookingFrom"  frameBorder="0" src="https://docs.google.com/forms/d/e/1FAIpQLScE9SWeSV9UiUqd7vqjhkf54NCvxBRZJYaD-UzFUtVfJszaPQ/viewform"> </iframe> -->
 
 
-            <form class="" action="">
+            <!-- <form class="" action="">
             
                 <div class="row">
                     <div class="col-lg-4 col-md-6">
@@ -182,7 +182,62 @@ include('../partials/navbar.php');
                         <button class="btn btn_submit">Submit</button>
                     </div>
                 </div>
-            </form>
+            </form> -->
+
+
+            <div class="mainContainer">
+                <div class="d-flex justify-content-sm-between flex-column flex-sm-row align-items-center">
+                    
+                        <div class="imageHolder pr-sm-3 pb-3 pb-sm-0">
+                            <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
+                        </div>
+                    
+    
+                  
+                        <div class="imageHolder mr-sm-3 pb-3 pb-sm-0">
+                            <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
+                        </div>
+                    
+    
+                   
+                        <div class="imageHolder">
+                            <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
+                        </div>
+                   
+                </div>
+
+                <div class="paragraphHolder">
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim commodi iure delectus, quae totam, error, deleniti est magnam porro reiciendis recusandae ratione? Laborum fugit quam cum eaque modi, nobis, tempore excepturi minima aut temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus nobis quos saepe nesciunt.
+                    </p>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-8 col-12 order-2 order-lg-1">
+                        <div class="textHolder">
+                            <p class="pr-lg-5">
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim commodi iure delectus, quae totam, error, deleniti est magnam porro reiciendis recusandae ratione? Laborum fugit quam cum eaque modi, nobis, tempore excepturi minima aut temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim commodi iure delectus, quae totam, error, deleniti est magnam porro reiciendis recusandae ratione? Laborum fugit quam cum eaque modi, nobis, tempore excepturi minima aut temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus. temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                            </p>
+
+                            <a href="#" class="bookNowButton">
+                                Book Now
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-12 order-1 order-lg-2">
+                        <div class="imageHolderBelow py-3 pt-lg-0 d-flex justify-lg-content-end justify-content-center ">
+                            <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
+                        </div>
+                    </div>
+
+
+                </div>
+
+
+
+            </div>
+
         </div>
     </div>
     <!-- The Modal -->

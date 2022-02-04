@@ -4086,6 +4086,51 @@ button.playBtnVid:focus {
     text-transform: uppercase;
 }
 
+.mainContainer{
+    padding-top: 20px;
+}
+.mainContainer .imageHolder{
+    max-width: 380px;
+    
+}
+.mainContainer .paragraphHolder{
+    padding: 20px 0px;
+}
+
+.mainContainer .imageHolderBelow{
+    /* display: flex; */
+    /* justify-content: end; */
+    /* max-height: 300px; */
+}
+.mainContainer .textHolder .bookNowButton{
+    background: #FAA633;
+    border: solid 1px transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 45px;
+    font-size: 22px;
+    transition: 0.3s;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    
+}
+.mainContainer .textHolder .bookNowButton:hover{
+    color: white;
+    border: solid 1px black;
+    box-shadow: rgb(0 0 0 / 30%) 0px 6px 15px;
+    text-decoration: none;
+}
+.mainContainer .textHolder p{
+    /* padding-right: 30px; */
+}
+
+
+
+
+
 .facBookingForm .content-details p {
     color: #fff;
     font-size: 14px;
