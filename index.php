@@ -395,31 +395,30 @@ include('./partials/head.php');
 </div>
 
 
-<!-- <div class="modal fade" id="programModal"> -->
-    <!-- <div class="modal-dialog modal-md text-center modal-dialog-centered"> -->
-        <!-- <a href="http://admissions.colaraz.com/signup?institute=ksbledu" target="_blank"> -->
-        <!-- <div class="modal-content"> -->
+ <div class="modal fade" id="programModal"> 
+    <div class="modal-dialog modal-md text-center modal-dialog-centered">
+        <a href="https://bit.ly/leading-high-performance-teams" target="_blank">
+        <div class="modal-content">
           
-            <!-- Modal Header -->
-            <!-- <div class="modal-header border-0"> -->
+           
+            <div class="modal-header border-0">
              
-              <!-- <button type="button" class="close" data-dismiss="modal"><span>&times;</span></button> -->
-            <!-- </div> -->
+              <button type="button" class="close" data-dismiss="modal"><span>&times;</span></button>
+            </div>
             
-            <!-- Modal body -->
-            <!-- <div class="modal-body border-0 mbody"> -->
+         
+            <div class="modal-body border-0 mbody">
              
-            <!-- </div> -->
-            
-            <!-- Modal footer -->
-            <!-- <div class="modal-footer border-0">
+            </div>
+          
+         <!--    <div class="modal-footer border-0">
               <a href="executive-education-services" target="_blank" class="btn btnprogramModal" >Register Now</a>
             </div> -->
             
-            <!-- </div> -->
-        <!-- </a> -->
-    <!-- </div> -->
-  <!-- </div> -->
+            </div>
+        </a>
+    </div>
+  </div>
 
 
     <!-----------------------------------------------------------------#

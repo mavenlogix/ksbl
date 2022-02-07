@@ -100,7 +100,8 @@ include('../partials/navbar.php');
                 </div>
             </div>
             <p>
-            Workshops, Training or Events has been made easier than ever by KSBL. Organizations can book our campus auditoriums or meeting rooms for workshops, meetings, training sessions, and seminars. For booking and more information, please fill in the form.
+            Located in a prime location of Karachi, KSBL campus provides versatile event venues which can cater to all kinds of social, academic, and corporate events.
+KSBL provides clients with multitude configurations to choose from - whether it's the need of an auditorium, townhall or seminar room.
             </p>
             <!-- <iframe class="iframeBookingFrom"  frameBorder="0" src="https://docs.google.com/forms/d/e/1FAIpQLScE9SWeSV9UiUqd7vqjhkf54NCvxBRZJYaD-UzFUtVfJszaPQ/viewform"> </iframe> -->
 
@@ -209,9 +210,14 @@ include('../partials/navbar.php');
                 <div class="row">
                     <div class="col-lg-8 col-12 order-2 order-lg-1">
                         <div class="textHolder">
-                            <p class="pr-lg-5">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim commodi iure delectus, quae totam, error, deleniti est magnam porro reiciendis recusandae ratione? Laborum fugit quam cum eaque modi, nobis, tempore excepturi minima aut temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim commodi iure delectus, quae totam, error, deleniti est magnam porro reiciendis recusandae ratione? Laborum fugit quam cum eaque modi, nobis, tempore excepturi minima aut temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus. temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                            </p>
+                            <h4 class="">
+                           Why book KSBL for an event?
+                            </h4>
+                            <ul class="">
+                                <li>Located in a convenient vicinity</li>
+                                <li>Provides a fully furnished & equipped venue for all kinds of events</li>
+                                <li>Multiple options for the venue setup</li>
+                            </ul>
 
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLScE9SWeSV9UiUqd7vqjhkf54NCvxBRZJYaD-UzFUtVfJszaPQ/viewform" class="bookNowButton">
                                 Book Now

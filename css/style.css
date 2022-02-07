@@ -3644,7 +3644,7 @@ input.search {
     border: 0;
     color: #FAA633;
     border-radius: 0;
-    background-image: url(../images/modal_image2.jpg);
+    background-image: url(../images/popupn.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -4127,6 +4127,14 @@ button.playBtnVid:focus {
     /* padding-right: 30px; */
 }
 
+.mainContainer ul{
+    padding-left: 20px;
+
+}
+.mainContainer li{
+ color: #626262;
+    line-height: 24px;    
+}
 
 
 
