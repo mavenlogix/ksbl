@@ -397,7 +397,7 @@ include('./partials/head.php');
 
  <div class="modal fade" id="programModal"> 
     <div class="modal-dialog modal-md text-center modal-dialog-centered">
-        <a href="https://bit.ly/leading-high-performance-teams" target="_blank">
+        <a href="https://bit.ly/strategy-in-execution" target="_blank">
         <div class="modal-content">
           
            
