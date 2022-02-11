@@ -100,6 +100,7 @@ include('../partials/navbar.php');
                 </div>
             </div>
             <p>
+                Workshops, Training or Events has been made easier than ever by KSBL. Organizations can book our campus auditoriums or meeting rooms for workshops, meetings, training sessions, and seminars. For booking and more information, please fill in the form. <br/>
             Located in a prime location of Karachi, KSBL campus provides versatile event venues which can cater to all kinds of social, academic, and corporate events.
 KSBL provides clients with multitude configurations to choose from - whether it's the need of an auditorium, townhall or seminar room.
             </p>
