@@ -90,7 +90,11 @@ include('../partials/navbar.php');
                                 <img src="images/blog/lead_high_9.jpg" alt="Data Science">
                             </div>
                         </div>
-                   
+                   <div class="blog-image-section image">
+                            <div class="campus-image">
+                                <img src="images/blog/lead_high_1.jpg" alt="Data Science">
+                            </div>
+                        </div>
                      
                      
                     </div>

@@ -241,7 +241,7 @@ KSBL provides clients with multitude configurations to choose from - whether it'
 
                     <div class="col-lg-4 col-12 order-1 order-lg-2">
                         <div class="imageHolderBelow py-3 pt-lg-0 d-flex justify-lg-content-end justify-content-center ">
-                            <img src="images/bookings/9.jpg" alt="" class="img-fluid">
+                            <img src="images/bookings/3.jpg" alt="" class="img-fluid">
                         </div>
                     </div>
 

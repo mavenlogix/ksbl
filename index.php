@@ -65,7 +65,7 @@ include('./partials/head.php');
                             </a><!-- mba -->
                             
                             <a href="emba/" class="ksbl-program executive-mba">
-                                <h4>EMBA</h4>
+                                <h4>Executive MBA</h4>
                                 <div class="program-detail">
                                     A cutting-edge MBA program designed for working professionals & leaders
                                 </div>
