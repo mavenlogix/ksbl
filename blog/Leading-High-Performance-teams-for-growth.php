@@ -31,7 +31,7 @@ include('../partials/navbar.php');
                         <img src="images/blog/Abbott_Laboratories_Pakistan_thumbnail.jpg" alt="Blog other">
                         <div class="blog-name">
                             <div class="tag">Events</div>
-                            <h2>A Two-Day training program on 'Leading High-Performance Teams for Growth & Change' was organized by Executive Education at KSBL</h2>
+                            <h2>A Two-Day training program on 'Leading High-Performance Teams for Growth & Change' was organized by Executive Education at KSBL, on February 08-09, 2022.</h2>
                             <div class="post-date">February 08-09, 2022</div>
                         </div>
                     </div>

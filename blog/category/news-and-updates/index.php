@@ -51,7 +51,7 @@ include('../../../partials/navbar.php');
                             <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
                           
                             <div class="other-details">
-                                <div class="detail" >A Two-Day training program on 'Leading High-Performance Teams for Growth & Change' was organized by Executive Education at KSBL</div>
+                                <div class="detail" >A Two-Day training program on 'Leading High-Performance Teams for Growth & Change' was organized by Executive Education at KSBL, on February 08-09, 2022.</div>
                                 <div class="date">February 08-09, 2022</div>
                             </div>
                         </div>
