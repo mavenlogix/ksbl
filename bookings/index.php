@@ -61,41 +61,67 @@ include('../partials/navbar.php');
                 <div class="content item">
                     <a href="javascript:void(0)">
                         <div class="content-overlay"></div>
-                        <img class="content-image" src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFsbHdheXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60">
-                        <div class="content-details fadeIn-right">
+                        <img class="content-image" src="images/bookings/1.jpg">
+                       <!--  <div class="content-details fadeIn-right">
                             <h3>This is a title</h3>
                             <p>This is a short description</p>
-                        </div>
+                        </div> -->
                     </a>
                 </div>
                 <div class="content item">
                     <a href="javascript:void(0)">
                         <div class="content-overlay"></div>
-                        <img class="content-image" src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60">
-                        <div class="content-details fadeIn-right">
-                            <h3>This is a title</h3>
-                            <p>This is a short description</p>
-                        </div>
+                         <img class="content-image" src="images/bookings/2.jpg">
+                       
                     </a>
                 </div>
                 <div class="content item">
                     <a href="javascript:void(0)">
                         <div class="content-overlay"></div>
-                        <img class="content-image" src="https://images.unsplash.com/photo-1615414047026-802692414b79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60">
-                        <div class="content-details fadeIn-right">
-                            <h3>This is a title</h3>
-                            <p>This is a short description</p>
-                        </div>
+                         <img class="content-image" src="images/bookings/3.jpg">
+                     
                     </a>
                 </div>
                 <div class="content item">
                     <a href="javascript:void(0)">
                         <div class="content-overlay"></div>
-                        <img class="content-image" src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60">
-                        <div class="content-details fadeIn-right">
-                            <h3>This is a title</h3>
-                            <p>This is a short description</p>
-                        </div>
+                        <img class="content-image" src="images/bookings/4.jpg">
+                     
+                    </a>
+                </div>
+                 <div class="content item">
+                    <a href="javascript:void(0)">
+                        <div class="content-overlay"></div>
+                        <img class="content-image" src="images/bookings/5.jpg">
+                     
+                    </a>
+                </div>
+                    <div class="content item">
+                    <a href="javascript:void(0)">
+                        <div class="content-overlay"></div>
+                        <img class="content-image" src="images/bookings/6.jpg">
+                     
+                    </a>
+                </div>
+                   <div class="content item">
+                    <a href="javascript:void(0)">
+                        <div class="content-overlay"></div>
+                        <img class="content-image" src="images/bookings/7.jpg">
+                     
+                    </a>
+                </div>
+                      <div class="content item">
+                    <a href="javascript:void(0)">
+                        <div class="content-overlay"></div>
+                        <img class="content-image" src="images/bookings/8.jpg">
+                     
+                    </a>
+                </div>
+                      <div class="content item">
+                    <a href="javascript:void(0)">
+                        <div class="content-overlay"></div>
+                        <img class="content-image" src="images/bookings/9.jpg">
+                     
                     </a>
                 </div>
             </div>
@@ -188,20 +214,7 @@ KSBL provides clients with multitude configurations to choose from - whether it'
 
 
             <div class="mainContainer pt-lg-4">
-                <!-- <div class="d-flex justify-content-sm-between flex-column flex-sm-row align-items-center">
-                    <div class="imageHolder pr-sm-3 pb-3 pb-sm-0">
-                        <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
-                    </div>
-                                
-                    <div class="imageHolder mr-sm-3 pb-3 pb-sm-0">
-                        <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
-                    </div>
-                
-                    <div class="imageHolder">
-                        <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
-                    </div>
-                </div> -->
-
+            
                 <!-- <div class="paragraphHolder">
                     <p>
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim commodi iure delectus, quae totam, error, deleniti est magnam porro reiciendis recusandae ratione? Laborum fugit quam cum eaque modi, nobis, tempore excepturi minima aut temporibus accusamus sapiente dolores nemo! Quisquam amet at voluptatibus nobis quos saepe nesciunt.
@@ -220,7 +233,7 @@ KSBL provides clients with multitude configurations to choose from - whether it'
                                 <li>Multiple options for the venue setup</li>
                             </ul>
 
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScE9SWeSV9UiUqd7vqjhkf54NCvxBRZJYaD-UzFUtVfJszaPQ/viewform" class="bookNowButton">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScE9SWeSV9UiUqd7vqjhkf54NCvxBRZJYaD-UzFUtVfJszaPQ/viewform" class="mt-4 bookNowButton">
                                 Book Now
                             </a>
                         </div>
@@ -228,7 +241,7 @@ KSBL provides clients with multitude configurations to choose from - whether it'
 
                     <div class="col-lg-4 col-12 order-1 order-lg-2">
                         <div class="imageHolderBelow py-3 pt-lg-0 d-flex justify-lg-content-end justify-content-center ">
-                            <img src="https://images.unsplash.com/photo-1592899940510-1240e12e70db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGhhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="" class="img-fluid">
+                            <img src="images/bookings/9.jpg" alt="" class="img-fluid">
                         </div>
                     </div>
 
