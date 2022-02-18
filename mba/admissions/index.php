@@ -216,12 +216,12 @@ include('../../partials/navbar.php');
                                         <strong>January 31st, 2022</strong>
                                     </ul>
                                 </div>
-                            </div> -->
+                            </div>
 
                             
                              
 
-                            <!-- <div class="sec-row">
+                            <div class="sec-row">
                             *Please email KSBL Admissions for KUAT and KMAT Dates: admissions@ksbl.edu.pk
                             </div> -->
 
