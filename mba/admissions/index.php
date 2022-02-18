@@ -174,9 +174,10 @@ include('../../partials/navbar.php');
 
                         </div>
                         <!-- ==== deadlines === -->
+
                         <!--====== key dates started =======-->
                         <div class="tab-content" data-tab="deadlines">
-                            <div class="sec-row">
+                            <!-- <div class="sec-row">
                                 <strong>Admissions Open MEBA, IT&S, MBA, Executive MBA, MSBA </strong>
                             </div>
                             <div class="sec-row">
@@ -215,14 +216,14 @@ include('../../partials/navbar.php');
                                         <strong>January 31st, 2022</strong>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
 
                             
                              
 
-                            <div class="sec-row">
+                            <!-- <div class="sec-row">
                             *Please email KSBL Admissions for KUAT and KMAT Dates: admissions@ksbl.edu.pk
-                            </div>
+                            </div> -->
 
                         </div>  <!--==== Ended key dates============-->
                         <!-- ==== checklist started=== -->
