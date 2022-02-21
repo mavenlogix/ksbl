@@ -30,6 +30,162 @@ include('../partials/navbar.php');
                 </div>
                 <div class="open-house-tabs">
 
+                <!-- === Research Associates for National Center for Sustainable Growth === -->
+                <div class="tab-section" style="margin-top: 20px;">
+                        <div class="student-achievement">
+                            <div class="content-section">
+                                <h2>Research Associates for National Center for Sustainable Growth</h2>
+                                <div class="detail">
+                                    <div class="short-detail">
+                                    KSBL is looking for experienced Research Associates.
+                                    </div>
+                                    <div class="complete-detail highlights-content">
+                                        <br>
+                                        
+                                      <p>
+                                        Karachi School of Business and Leadership is establishing a National Center for Sustainable Growth (NCSG) with a vision to enhance national capacity for better harnessing the growth potential of Pakistan's economy.
+                                      </p>
+                                      <p>
+                                        NCSG’s mission is to assist the Government in evidence-based policymaking for designing high-potential, cost-effective, politically feasible and innovative solutions for the socio-economic problems of Pakistan. To achieve this objective, NCSG is tasked to conduct research, carry out advocacy campaigns, provide consulting and act as a watchdog over Federal and Provincial Governments’ policies.  
+                                      </p>
+                                        
+                                      <h3>Positions:</h3>
+                                      <p>
+                                      We are looking for experienced Research Associates in the following disciplines; 
+                                      </p>
+                                      
+                                        <ol>
+                                            <li>Policy and Institutional Reforms</li>
+                                            <li>Public-Private Partnerships </li>
+                                            <li>Industrial Dynamics / Special Economic Zones</li>
+                                            <li>Future of Work / Labor Market Dynamics </li>
+                                        </ol>
+                                        <br>
+                                        <h3>The successful candidate is likely to have:</h3>
+                                        
+                                        <ul>
+                                            <li>
+                                                A strong academic background; minimum Masters level in Economics, public policy, Finance, Business Studies or a related discipline;
+                                            </li>
+                                            <li>
+                                                At least 2 - 3 years of professional experience in Pakistan’s context; experience of working in a consultancy capacity is an asset;
+                                            </li>
+                                            <li>
+                                                Experience of conducting high-quality research and evaluation assignments, including the development and implementation of research methodologies (quantitative and qualitative), analytical frameworks and approaches within their relevant disciplines; 
+                                            </li>
+                                            <li>
+                                                Strong analytical skills and the ability to develop sound conclusions and policy-relevant recommendations;
+                                            </li>
+                                            <li>
+                                                Strong team spirit and interpersonal skills with the ability to self-organize, prioritize and conduct research on multiple projects under tight deadlines;
+                                            </li>
+                                            <li>
+                                                Ability to quickly absorb and synthesize complex information;
+                                            </li>
+                                            <li>
+                                                Excellent communication skills, including experience with presenting key concepts to both internal and external stakeholders; 
+                                            </li>
+                                            <li>
+                                                Excellent verbal, written, analytical and presentation skills in English.
+                                            </li>
+                                        </ul>
+
+                                        <h3>The core responsibilities of the role will be to:</h3>
+
+                                        <ul>
+                                            <li>
+                                                Contribute to strengthening NCSG’s capacity to deliver on the research agenda;
+                                            </li>
+                                            <li>
+                                                Conduct research as well as manage crowdsourced research;
+                                            </li>
+                                            <li>
+                                                Design methodologies, including both quantitative and qualitative analysis, to assess economic, environmental, and social impacts;
+                                            </li>
+                                            <li>
+                                                Collaborate in collecting and analyzing data, including primary and secondary quantitative and qualitative data;
+                                            </li>
+                                            <li>
+                                                Write and present advisory notes and study reports to Pakistan’s policymakers;
+                                            </li>
+                                            <li>
+                                                Support business development, including proposal preparation. 
+                                            </li>
+                                        </ul>
+
+
+                                        <h3>Organization structure:</h3>
+                                        <p>
+                                        The person will report to the Executive Director/Head of NCSG. The position is based in Karachi. Occasional traveling, especially to Islamabad and Provincial Capitals may be required.
+                                        </p>
+                                        <h3>Career Progression:</h3>
+                                        <p>
+                                        At KSBL, we take the professional and personal development of our staff members very seriously. As part of that development, you may be asked to get training and get involved to teach a course at the undergraduate level pertaining to your discipline as well as to prepare yourself to pursue PhD program at any International University of your choice. 
+                                        </p>
+                                        <h3>What we offer:</h3>
+                                        <ul>
+                                            <li>
+                                                A full time, open-ended position;
+                                            </li>
+                                            <li>
+                                                A competitive salary package;
+                                            </li>
+                                            <li>
+                                                A positive, open-minded and flexible working environment within a team of like-minded professionals;
+                                            </li>
+                                            <li>
+                                                We are an equal opportunities employer and welcome applications from all suitably qualified persons.
+                                            </li>
+                                        </ul>
+
+                                        <h3>How to apply:</h3>
+                                        <p>
+                                        Please submit an Expression of Interest at <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>, which should include the following: 
+                                        </p>
+
+                                        <ul>
+                                            <li>
+                                                Description of how your skills and experience match the job’s TORs, 
+                                            </li>
+                                            <li>
+                                                Your understanding of the assignment 
+                                            </li>
+                                            <li>
+                                                A financial proposal/salary expectation
+                                            </li>
+                                            <li>
+                                                Your CV includes a track record of recent projects, and at least three (3) references
+                                            </li>
+                                            <li>
+                                                Sample of your academic writing/publication  
+                                            </li>
+                                        </ul>
+
+
+
+                                        <p>
+                                            Application deadline
+                                            <br>
+                                            March 06, 2022. We plan to invite successful candidates for online interviews from the second half of March onwards.
+                                            Kindly apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
+                                           
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="button-links">
+                                    <div class="other-details">
+                                        Application Deadline - Open
+                                    </div>
+                                    <div class="tab-links">
+                                        <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>
+                                        <a href="mailto:hr@ksbl.edu.pk" title="Apply" class="btn-blue btn-yellow-orange-white btn-grey">Apply</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- === Research Associates for National Center for Sustainable Growth=== -->
+
 
                  <!-- === Executive Secretary to the Rector === -->
                  <div class="tab-section" style="margin-top: 20px;">
