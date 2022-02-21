@@ -118,33 +118,33 @@ include('../partials/head.php');
                     <div class="event-date">
                         <div class="current-month">
                             <h3 class="">
-                                Feb 8 - 9, 2022
+                                22-23 February
                             </h3>
                         </div>
                     </div>
                     <div class="eventDesc">
-                        <h2>Leading High Performance Teams For Growth & Change</h2>
+                        <h2>Creating Value Through Financial Decision Making</h2>
                         <!-- <span>Your first step towards success</span> -->
                     </div>
                     <div class="actionBtns">
-                        <a class="btn btn_events" href="https://bit.ly/leading-high-performance-teams">Enroll now</a>
-                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Leading High Performance Teams for Growth & Change.pdf">View catalog</a>
+                        <a class="btn btn_events" href="https://docs.google.com/forms/d/1A6q6oAcZG8aCkFbYKdmDxyMzcsXhMvZMi_-0sBV6Uak/edit">Enroll now</a>
+                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Creating Value through Financial Decision Making.pdf">View catalog</a>
                     </div>
                 </div>
                 <div class="eventDescDetail ">
                     <div class="event-date">
                         <div class="current-month">
                             <h3 class="">
-                                Feb 15 - 16, 2022
+                                3-4 March
                             </h3>
                         </div>
                     </div>
                     <div class="eventDesc">
-                        <h2>Strategy "In" Execution</h2>
+                        <h2>Strategy "IN" Execution</h2>
                         <!-- <span>Finance fundamentals for non-finance executives</span> -->
                     </div>
                     <div class="actionBtns">
-                        <a class="btn btn_events" href="https://bit.ly/strategy-in-execution">Enroll now</a>
+                        <a class="btn btn_events" href="https://docs.google.com/forms/d/1A5Fgqzm_iV6EG4NGOEpYFKJ_rEnhWGpryOHhLINtEdI/edit">Enroll now</a>
                         <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Strategy IN Execution.pdf">View catalog</a>
                     </div>
                 </div>
@@ -152,17 +152,17 @@ include('../partials/head.php');
                     <div class="event-date">
                         <div class="current-month">
                             <h3 class="">
-                                Feb 22 - 23, 2022
+                                16-17 March
                             </h3>
                         </div>
                     </div>
                     <div class="eventDesc">
-                        <h2>Creating Value Through Financial Decision Making</h2>
+                        <h2>Women in Leadership</h2>
                         <!-- <span>Unlock the magical ways to turn hidden gems into shining insights</span> -->
                     </div>
                     <div class="actionBtns">
-                        <a class="btn btn_events" href="https://bit.ly/financial-decision-making">Enroll now</a>
-                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Creating Value through Financial Decision Making.pdf">View catalog</a>
+                        <a class="btn btn_events" href="https://docs.google.com/forms/d/1R_iVGMaj2Uvt79ItxKCOzfkerwz4IGiG9rkCVPbBKCI/edit">Enroll now</a>
+                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Women in Leadership.pdf">View catalog</a>
                     </div>
                 </div>
             </div>

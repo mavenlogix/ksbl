@@ -104,7 +104,7 @@ include('../../partials/navbar.php');
                 <div class="admission-process">
                     <div class="tabs">
                         <div class="tab active" data-tab="eligibility">Eligibility</div>
-                        <div class="tab" data-tab="deadlines">Key Dates</div>
+                        <div class="tabUnActive" data-tab="deadlines">Key Dates</div>
                         <div class="tab" data-tab="checklist">Checklist</div>
                         <div class="tab" data-tab="process">Process</div>
                     </div>

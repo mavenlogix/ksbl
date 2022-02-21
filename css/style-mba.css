@@ -1698,6 +1698,16 @@ a.btn-primary:hover {
     font-family: MyriadPro-Cond;
 }
 
+.admission-process .tabs .tabUnActive {
+    font-size: 25px;
+    padding: 10px 20px;
+    border-top: 4px solid transparent;
+    color: rgba(0, 0, 0, .5);
+    margin-right: 5px;
+    font-family: MyriadPro-Cond;
+}
+
+
 .admission-process .tabs .tab.active {
     border-color: #FAA633;
     color: #000;
