@@ -116,7 +116,7 @@ include('../partials/head.php');
                         <br><b>Supply Chain</b> 
                         <br><b>Information Management</b>
                     </p>
-                    <a target="_blank" href="emba/admissions/EMBA KSBL Spring 2022 admissions.pdf" title="Download Brochure" class="rmv btn-primary">Download Brochure</a>
+                    <a target="_blank" href="emba/admissions/KSBL- Executive Mba Fall 2022 Admissions.pdf" title="Download Brochure" class="rmv btn-primary">Download Brochure</a>
                     <a target="_blank" href="http://admissions.colaraz.com/signup?institute=ksbledu" class="rmv btn-primary">Apply Now</a>
                 </div>
             </div>

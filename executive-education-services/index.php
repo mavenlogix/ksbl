@@ -118,30 +118,13 @@ include('../partials/head.php');
                     <div class="event-date">
                         <div class="current-month">
                             <h3 class="">
-                                22-23 February
+                                March 3rd & 4th, 2022
                             </h3>
                         </div>
                     </div>
                     <div class="eventDesc">
-                        <h2>Creating Value Through Financial Decision Making</h2>
+                        <h2>Strategy IN Execution</h2>
                         <!-- <span>Your first step towards success</span> -->
-                    </div>
-                    <div class="actionBtns">
-                        <a class="btn btn_events" href="https://docs.google.com/forms/d/1A6q6oAcZG8aCkFbYKdmDxyMzcsXhMvZMi_-0sBV6Uak/edit">Enroll now</a>
-                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Creating Value through Financial Decision Making.pdf">View catalog</a>
-                    </div>
-                </div>
-                <div class="eventDescDetail ">
-                    <div class="event-date">
-                        <div class="current-month">
-                            <h3 class="">
-                                3-4 March
-                            </h3>
-                        </div>
-                    </div>
-                    <div class="eventDesc">
-                        <h2>Strategy "IN" Execution</h2>
-                        <!-- <span>Finance fundamentals for non-finance executives</span> -->
                     </div>
                     <div class="actionBtns">
                         <a class="btn btn_events" href="https://docs.google.com/forms/d/1A5Fgqzm_iV6EG4NGOEpYFKJ_rEnhWGpryOHhLINtEdI/edit">Enroll now</a>
@@ -152,17 +135,34 @@ include('../partials/head.php');
                     <div class="event-date">
                         <div class="current-month">
                             <h3 class="">
-                                16-17 March
+                                March 16th & 17th, 2022
                             </h3>
                         </div>
                     </div>
                     <div class="eventDesc">
                         <h2>Women in Leadership</h2>
-                        <!-- <span>Unlock the magical ways to turn hidden gems into shining insights</span> -->
+                        <!-- <span>Finance fundamentals for non-finance executives</span> -->
                     </div>
                     <div class="actionBtns">
                         <a class="btn btn_events" href="https://docs.google.com/forms/d/1R_iVGMaj2Uvt79ItxKCOzfkerwz4IGiG9rkCVPbBKCI/edit">Enroll now</a>
                         <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Women in Leadership.pdf">View catalog</a>
+                    </div>
+                </div>
+                <div class="eventDescDetail ">
+                    <div class="event-date">
+                        <div class="current-month">
+                            <h3 class="">
+                                March 29th & 30th, 2022
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="eventDesc">
+                        <h2>Data Savvy Decision Making</h2>
+                        <!-- <span>Unlock the magical ways to turn hidden gems into shining insights</span> -->
+                    </div>
+                    <div class="actionBtns">
+                        <a class="btn btn_events" href="https://docs.google.com/forms/d/1tVmV3-cbCcXpvyB4konMUtDGcIHSGAeX10LDpZVUIRs/edit">Enroll now</a>
+                        <a class="btn btn_events" target="_blank" href="executive-education-services/pdf/Data Savvy Decision Making.pdf">View catalog</a>
                     </div>
                 </div>
             </div>

@@ -118,7 +118,7 @@ include('../partials/navbar.php');
                             <br>Information Management
                         </b>
                     </p>
-                    <a target="_blank" href="mba/admissions/MBA KSBL Spring 2022 admissions.pdf"  class=" rmv btn-primary">Download Brochure</a>
+                    <a target="_blank" href="mba/admissions/KSBL-MBA Fall 2022 Admissions.pdf"  class=" rmv btn-primary">Download Brochure</a>
                     <a target="_blank" href="http://admissions.colaraz.com/signup?institute=ksbledu" class=" rmv  btn-primary">Apply Now</a>
                 </div>
             </div>

@@ -104,7 +104,7 @@ include('../../partials/navbar.php');
                 <div class="admission-process">
                     <div class="tabs">
                         <div class="tab active" data-tab="eligibility">Eligibility</div>
-                        <div class="tabUnActive" data-tab="deadlines">Key Dates</div>
+                        <div class="tab" data-tab="deadlines">Key Dates</div>
                         <div class="tab" data-tab="checklist">Checklist</div>
                         <div class="tab" data-tab="process">Process</div>
                     </div>
@@ -179,8 +179,8 @@ include('../../partials/navbar.php');
                         <div class="tab-content" data-tab="deadlines">
                             <!-- <div class="sec-row">
                                 <strong>Admissions Open MEBA, IT&S, MBA, Executive MBA, MSBA </strong>
-                            </div>
-                            <div class="sec-row">
+                            </div> -->
+                            <!-- <div class="sec-row">
                                 <div class="sec-col heading"><strong>
                                     Admissions announcement:
                                     </strong></div>
@@ -189,39 +189,39 @@ include('../../partials/navbar.php');
                                         <strong>November 5, 2021</strong>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                          
                          
                             <div class="sec-row">
-                                <div class="sec-col heading"><strong>Test start date:</strong></div>
+                                <div class="sec-col heading"><strong>Test Start Date:</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong> Monday, November 22, 2021 (Ongoing)</strong>
+                                        <strong> February 28th, 2022 (Ongoing)</strong>
                                     </ul>
                                 </div>
                             </div>
                             <div class="sec-row">
-                                <div class="sec-col heading"><strong>Spring 2022 semester Start Date:</strong></div>
+                                <div class="sec-col heading"><strong>Classes Commencement Date</strong></div>
                                 <div class="sec-col">
                                     <ul>
-                                        <strong>February 21, 2022</strong>
+                                        <strong>August 22nd, 2022</strong>
                                     </ul>
                                 </div>
                             </div>
 
-                            <div class="sec-row">
+                            <!-- <div class="sec-row">
                                 <div class="sec-col heading"><strong>Application Deadline for Spring 2022:</strong></div>
                                 <div class="sec-col">
                                     <ul>
                                         <strong>January 31st, 2022</strong>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
 
                             
                              
 
-                            <div class="sec-row">
+                            <!-- <div class="sec-row">
                             *Please email KSBL Admissions for KUAT and KMAT Dates: admissions@ksbl.edu.pk
                             </div> -->
 
