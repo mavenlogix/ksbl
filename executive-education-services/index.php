@@ -55,7 +55,7 @@ include('../partials/head.php');
             <a href="executive-education-services/customized-programs/" class="department" title="Custom Programs">Custom Programs</a>
             <!-- Custom Programs -->
             <a href="ela/" class="department" title="Engro Leadership Academy">Engro Leadership Academy</a>
-            <a href="bookings/" class="department" title="Bookings">Facility Bookings</a>
+            <!-- <a href="bookings/" class="department" title="Bookings">Facility Bookings</a> -->
         </div><!-- container -->
     </div>
     <!-----------------------------------------------------------------#
