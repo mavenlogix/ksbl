@@ -43,12 +43,27 @@ include('../../../partials/navbar.php');
                 <div class="center-page-content news-and-events container-boxes" >
      
 
+                <a href="blog/KSBL_Spring_2022_Orientation.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/Ksbl_Spring_2022_Orientation_pic1.jpg" alt="">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >Spring 2022 Orientation for Graduate and Undergraduate Programs</div>
+                                <div class="date">Wednesday, February 23rd, 2022</div>
+                            </div>
+                        </div>
+                    </a>
+
+
      <a href="blog/Leading-High-Performance-teams-for-growth.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/lead_high_1.jpg" alt="">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events </div>
                           
                             <div class="other-details">
                                 <div class="detail" >A Two-Day training program on 'Leading High-Performance Teams for Growth & Change' was organized by Executive Education at KSBL, on February 08-09, 2022.</div>
