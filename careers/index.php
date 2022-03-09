@@ -397,13 +397,13 @@ include('../partials/navbar.php');
                                         <p>
                                             Apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
                                             <br>
-                                            Deadline to apply: 16th January, 2022
+                                            Deadline to apply: March 6th, 2022
                                         </p>
                                     </div>
                                 </div>
                                 <div class="button-links">
                                     <div class="other-details">
-                                        Application Deadline - Closed
+                                        Application Deadline - Open
                                     </div>
                                     <div class="tab-links">
                                         <a href="javascript:void(0)" title="Job Description" class="btn-highlights join-btn btn-blue btn-yellow-orange-white">Job Description</a>

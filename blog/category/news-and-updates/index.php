@@ -43,12 +43,29 @@ include('../../../partials/navbar.php');
                 <div class="center-page-content news-and-events container-boxes" >
      
 
+                
+
+                <a href="blog/KSBL_Invited_Hira_Ali.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/KSBL_invited_Hira_Ali_pic4.jpg" alt="">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >#BreakTheBias with Hira Ali by KSBL</div>
+                                <div class="date">Thursday, March 3rd, 2022</div>
+                            </div>
+                        </div>
+                    </a>
+
+
                 <a href="blog/KSBL_Spring_2022_Orientation.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/Ksbl_Spring_2022_Orientation_pic1.jpg" alt="">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events</div>
                           
                             <div class="other-details">
                                 <div class="detail" >Spring 2022 Orientation for Graduate and Undergraduate Programs</div>
@@ -58,7 +75,7 @@ include('../../../partials/navbar.php');
                     </a>
 
 
-     <a href="blog/Leading-High-Performance-teams-for-growth.php" class="latest-news-event half-wrap  " >
+                <a href="blog/Leading-High-Performance-teams-for-growth.php" class="latest-news-event half-wrap  " >
                         <div class="image-area">
                             <img src="images/blog/lead_high_1.jpg" alt="">
                         </div>
