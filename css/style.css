@@ -2785,6 +2785,25 @@ button.gsc-search-button.gsc-search-button-v2:hover svg {
     height: 560px;
 }
 
+.faculty_grid_left.danish_haroon {
+    background: url(../images/about/Danish_Haroon.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
+
+
+.faculty_grid_left.muhammad_anwar {
+    background: url(../images/about/Muhammad_Anwar.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
+
+.faculty_grid_left.muhammad_khan {
+    background: url(../images/about/Muhammad_Khan.jpg) no-repeat left center;
+    background-size: cover;
+    height: 560px;
+}
+
 
 .faculty_grid_left.amra_mubashir {
     background: url(../images/about/Amra_Mubashir.jpg) no-repeat left center;
@@ -3644,7 +3663,7 @@ input.search {
     border: 0;
     color: #FAA633;
     border-radius: 0;
-    background-image: url(../images/popupn.jpg);
+    background-image: url(../images/popupsave.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -4293,7 +4312,27 @@ button.playBtnVid:focus {
     min-height: 580px;
 }
 
+nav#top-navigation li.headerBtn:before{
 
+    content: initial;
+}
+nav#top-navigation li.headerBtn{
+    margin-top: -7px;
+}
+nav#top-navigation li.headerBtn a.btn {
+   
+    width: 150px;
+    border: 1px solid #2b2b2b;
+   color: #fff;
+    display: block;
+
+}
+
+.mba nav#top-navigation li.headerBtn a{
+color: #b7b7b7;
+    font-size: 12px;
+     border: 1px solid #b7b7b7;
+}
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
@@ -4391,12 +4430,31 @@ button.playBtnVid:focus {
         height: 224px;
     }
 
+
     .faculty_grid_left.sarfaraz_nihal {
         background: url(../images/about/male_dummy_1024.jpg) no-repeat top center;
         background-size: cover;
         height: 224px;
     }
+    
+    
+    .faculty_grid_left.danish_haroon {
+        background: url(../images/about/Danish_Haroon_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
 
+    .faculty_grid_left.muhammad_anwar {
+        background: url(../images/about/Muhammad_Anwar_Gopalani_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
+
+    .faculty_grid_left.muhammad_khan {
+        background: url(../images/about/Muhammad_khan_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 224px;
+    }
 
     .faculty_grid_left.amra_mubashir {
         background: url(../images/about/Amra_Mubashir_1024.jpg) no-repeat top center;
@@ -4618,7 +4676,26 @@ button.playBtnVid:focus {
         height: 153px
     }
 
+    
 
+    .faculty_grid_left.danish_haroon {
+        background: url(../images/about/Danish_Haroon_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px
+    }
+
+    
+    .faculty_grid_left.muhammad_anwar {
+        background: url(../images/about/Muhammad_Anwar_Gopalani_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px
+    }
+
+    .faculty_grid_left.muhammad_khan {
+        background: url(../images/about/Muhammad_khan_1024.jpg) no-repeat top center;
+        background-size: cover;
+        height: 153px
+    }
 
     .faculty_grid_left.amra_mubashir {
         background: url(../images/about/Amra_Mubashir_1024.jpg) no-repeat top center;

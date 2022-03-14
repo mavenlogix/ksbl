@@ -166,7 +166,7 @@ include('../partials/navbar.php');
                                         <p>
                                             Application deadline
                                             <br>
-                                            March 06, 2022. We plan to invite successful candidates for online interviews from the second half of March onwards.
+                                            March 22, 2022. We plan to invite successful candidates for online interviews from the second half of March onwards.
                                             Kindly apply at: <a href="mailto:hr@ksbl.edu.pk">hr@ksbl.edu.pk</a>
                                            
                                         </p>

@@ -92,14 +92,14 @@ include('../partials/head.php');
 
             <div class="faculty_grid">
 
-                <div class="faculty_grid_left danish_haroon">
+                <div class="faculty_grid_left muhammad_khan">
 
                     <div class="faculty_grid_head">
 
-                        <h1>Mr. Danish Haroon</h1>
-                        <h4>Visiting Faculty<br>Data Mining and Big Data</h4>
+                        <h1>Dr. Mehmood Khan</h1>
+                        <h4>Professor<br>Operations and Supply Chain Management</h4>
 
-                        <a href="mailto:danish.haroon@ksbl.edu.pk">danish.haroon@ksbl.edu.pk</a>
+                        <a href="mailto:mehmood.khan@ksbl.edu.pk">mehmood.khan@ksbl.edu.pk</a>
 
                     </div>
 
@@ -109,13 +109,13 @@ include('../partials/head.php');
 
                     <ul class="nav nav-tabs border-0" role="tablist">
 
-                         <li class="nav-item">
+                         <li class="nav-item ">
                             <a class="nav-link active" data-toggle="tab" href="#vita">Profile Summary</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item ">
                             <a class="nav-link" data-toggle="tab" href="#credentials">Credentials</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item ">
                             <a class="nav-link" data-toggle="tab" href="#interests">Consulting & Teaching</a>
                         </li>
                         <li class="nav-item">
@@ -129,13 +129,17 @@ include('../partials/head.php');
                     <div class="tab-content mt-2">
 
                         <div id="vita" class=" tab-pane active">
-                            <p><span style="color: #ff9f19;">Danish Haroon </span>is a visiting faculty of Data Mining and Big Data at KSBL. He has over 6 years of experience in the data science space, spanning along the verticals of retail, banking, and utility.</p>
+                            <p><span style="color: #ff9f19;">Dr. Khan </span>is a Professor of Operations, Supply Chain and Quality Management. He has taught for more than 20 years in leading university in Canada, Saudi Arabia and United Arab Emirates. He has also served as a development engineer at Dawood Yamaha Limited Pakistan.</p>
 
                             <p>
-                            He has worked in consulting roles for multiple offshore clients, and delivered data driven products within the local market as well. During his experience at K Electric, he has built a team from scratch, providing value to business units by building end-to-end machine learning pipelines.
+                            He has more than two decades of teaching experience at leading universities in Canada, Saudi Arabia, and United Arab Emirates. This involves teaching in-person, hybrid and online courses to both graduate and undergraduate classes. This rich experience has provided him with excellent opportunities for teaching a variety of courses to a diverse audience throughout his career in ABET-accredited engineering and AACSB-accredited business schools.  
                             </p>
                             <p>
-                            He is an MBA from KSBL and did his MS Data Science from FAST NUCES. He is associated with a research group working on tackling with the issues in long tailed tabular data, and aspires to pursue his Ph.D. along the same lines.
+                            He has worked as a Development Engineer at an assembly plant of Dawood Yamaha Limited in Pakistan. Besides, he has worked with various industrial units in United Arab Emirates for his research on empirical business models. He has recently worked on a project with healthcare units in Abu Dhabi to explore antecedents of social sustainability. Moreover, he has offered training programs to professionals from armed forces, tourism authority and ministry of health in the UAE. 
+                            </p>
+
+                            <p>
+                            He has a bachelor’s degree in Mechanical Engineering, MS in Industrial Systems Engineering and a PhD in Mechanical/Industrial Engineering.
                             </p>
 
                           
@@ -144,118 +148,127 @@ include('../partials/head.php');
                         <div id="credentials" class=" tab-pane fade"><br>
                             <h4 class="text-primary">Education</h4>
                             <ul>
-                            <li>
-                                MS in Data Science, FAST NUCES, Pakistan <br>
-                            Thesis Title “Learning a better representation while retaining classification performance on imbalanced data” 2021 
-                            </li>
-                            <li>
-                                MBA, KSBL <br>
-                            Research Title "Feasibility study for launching a water-displacing spray in the local market" <br>
-                            2015
-                            </li>
-                            <li>
-                                BS Telecommunication Engineering <br>
-                                2012
-                            </li>
+                                <li>
+                                    PhD in Industrial Engineering, Ryerson University, Toronto, Canada (2011) <br>
+                                    Thesis Title: Inventory Control in a Two-Level Supply Chain with Learning and Inspection Errors
+                                </li>
 
+                                <li>
+                                    MS in Industrial Systems Engineering, King Fahd University, Dhahran, Saudi Arabia (2000) <br>
+                                    Thesis Title: Optimal Repeat Inspection Plan with Several Classifications
+                                </li>
+
+                                <li>
+                                    BS in Mechanical Engineering, NED University, Karachi,Pakistan <br>
+                                    Thesis Title: PLC Based Industrial Furnace
+                                </li>
                             </ul>
-
-
+                        
                         </div>
 
                         <div id="interests" class=" tab-pane fade"><br>
 
-                           <div class="container">
+                        <div class="container">
                                 <div class="row">
-                                    <div class="col-lg-3"><p>2019 – Present</p></div>
+                                    <div class="col-lg-3"><p>Sep 2016 - Date</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            Manager - Analytics, <br>
-                                            K Electric
+                                            Associate Professor, <br>
+                                            College of Business, Abu Dhabi University, UAE
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2018 - 2019</p></div>
+                                    <div class="col-lg-3"><p>Sep 2011 - Aug 2016</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            Data Scientist Consultant <br>
-                                            qordata
+                                            Assistant Professor, <br>
+                                            College of Business, Abu Dhabi University, UAE
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2016- 2018</p></div>
+                                    <div class="col-lg-3"><p>Sep 2010 – Dec 2010 </p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            Data Scientist <br>
-                                            Market IQ Inc
+                                            Instructor, <br>
+                                            College of Business, Brock University, Canada
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2015- 2016</p></div>
+                                    <div class="col-lg-3"><p>Sep 2007 – Aug 2011 </p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            Senior Data Analyst <br>
-                                            PredictifyMe
+                                            Teaching Assistant, <br>
+                                            College of Engineering, Ryerson University, Canada  <br>
+                                            College of Business, Ryerson University, Canada
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2014 – 2015</p></div>
+                                    <div class="col-lg-3"><p>Mar 2001 – Aug 2007 </p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            Idea Engineering Consultant  <br>
-                                            Ephlux
+                                            Lecturer, <br>
+                                            College of Computer Science & Engineering, King Fahd University, Saudi Arabia
                                         </p>
                                     </div>
                                 </div>
 
-                            
+                                <div class="row mt-3">
+                                    <div class="col-lg-3"><p>Sep 1998 – Feb 2001 </p></div>
+                                    <div class="col-lg-8">
+                                        <p>
+                                            Research Assistant,  <br>
+                                            College of Computer Science & Engineering, King Fahd University, Saudi Arabia
+                                        </p>
+                                    </div>
+                                </div>
 
-                                <h4 class="text-primary mt-4">Details of Keynote Speeches, Panelist and Chair</h4>
-                                <ul>
-                                    <li>
-                                        Guest Speaker session on “Open Archive – Innovating the meter reading process within utilities”, AI Hub, Inqline, 10 April 2021
-                                    </li>
-                                    <li>
-                                        Guest Speaker session on “The World of Predictive Analytics”, Consulting webinar, qordata, 18 December 2021
-                                    </li>
-                                    <li>
-                                        Guest Speaker session on “Release the Breaks & Accelerate Your Journey to AI”, DataCon Pakistan 2019, Marriot Karachi, 14 November 2019
-                                    </li>
-                                    <li>
-                                        Guest Speaker session on “Machine Learning Modelling with ScikitLearn/GraphLab”, Pycon Pakistan 2019, Habib University, Karachi, 12 October 2019
-                                    </li>
-                                    <li>
-                                        8 week long workshop on “Data Science 101”, qordata, 10 October – 28 November, 2018
-                                    </li>
-                                    <li>
-                                        Guest Speaker session on “What it takes to be a Data Scientist”, NED UET, Karachi, 4 August 2016
-                                    </li>
 
-                                </ul>
-                              
+                                <div class="row mt-3">
+                                    <div class="col-lg-3"><p>Aug 1997 – Jul 1998  </p></div>
+                                    <div class="col-lg-8">
+                                        <p>
+                                            Development Engineer, <br>
+                                            Dawood Yamaha Limited, Hub Chowki, Pakistan
+                                        </p>
+                                    </div>
+                                </div>
+
                            </div>
 
                         </div>
 
                         <div id="publications" class=" tab-pane fade"><br>
 
-                            <ul>
-                                <li>
-                                    “Python Machine Learning Case Studies”, Apress 2017, ISBN # 9781484228227
-                                </li>
-                                <li>
-                                    “Deep generative models to counter class imbalance: a guided model selection strategy”, 2021, IEEE Access, Vol 9, pp. 55879-55897
-                                </li>
 
-                            </ul>
+
+
+                            <p>
+                                Khan, M., Ajmal, M. M., Gunasekaran, A., AlMarzouqi, A. H., & AlNuaimi, B. K. (2021). Measures of greenness: An empirical study in service supply chains in the UAE. <em>International Journal of Production Economics, 241,</em> 108257.
+                            </p>
+                                
+                            <p>
+                                AlNuaimi, B. K., Khan, M., & Ajmal, M. M. (2021). The role of big data analytics capabilities in greening e-procurement: A higher order PLS-SEM analysis. <em>Technological Forecasting and Social Change, 169,</em> 120808.
+                            </p>
+
+                            <p>    
+                                Alrahbi, D. A., Khan, M., Gupta, S., Modgil, S., & Jabbour, C. J. C. (2021). Health-care information technologies for dispersed knowledge management. <em>Journal of Knowledge Management.</em>
+                            </p>
+                                
+                            <p>
+                                Alrahbi, D. A., Khan, M., Gupta, S., Modgil, S., & Jabbour, C. J. C. (2020). Challenges for developing health-care knowledge in the digital age. <em>Journal of Knowledge Management.</em>
+                            </p>
+                                
+                            <p>
+                                Khan, M., Hussain, M., & Saber, H. M. (2016). Information sharing in a sustainable supply chain. <em>International Journal of Production Economics, 181,</em> 208-214.
+                            </p>
 
                         </div>
 
@@ -378,7 +391,5 @@ include('../partials/head.php');
 
 
 </body>
-
-
 
 </html>

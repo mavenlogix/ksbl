@@ -16,6 +16,8 @@ include('./partials/head.php');
 
     #----------------------------------------------------------------->
     <header id="header" class="run">
+        <meta name="robots" content="noindex" />
+        <meta name="googlebot" content="noindex" />
         <div class="container">
             <?php
                 include('./partials/navbar.php'); 
@@ -594,11 +596,11 @@ include('./partials/head.php');
                <div class="person come-out ">
                    <a href="faculty-profile/Mr_Danish_Haroon.php">
                        <div class="person-info ">
-                           <img src="images/faculty/male_dummy.jpg" alt="Danish Haroon" />
+                           <img src="images/faculty/Danish_Haroon_thumbnail.jpg" alt="Danish Haroon" />
                        </div>
                    </a>
                     <div class="person-detail">
-                        <h2 class="name">Danish Haroon</h2>
+                        <h2 class="name">Mr. Danish Haroon</h2>
                         <div class="designation">
                             Visiting Faculty<br>Data Mining and Big Data
                         </div>
@@ -607,9 +609,38 @@ include('./partials/head.php');
                 <!-- END Person  Danish Haroon -->
 
 
-
+                <!-- Person  Mr. Muhammad Anwar Gopalani -->
+                <div class="person come-out ">
+                   <a href="faculty-profile/Muhammad_Anwar_Gopalani.php">
+                       <div class="person-info ">
+                           <img src="images/faculty/Muhammad_Anwar_Gopalani.jpg" alt="Danish Haroon" />
+                       </div>
+                   </a>
+                    <div class="person-detail">
+                        <h2 class="name">Mr. Muhammad Anwar Gopalani</h2>
+                        <div class="designation">
+                            Visiting Faculty<br>Performance & Compensation Strategy
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person  Mr. Muhammad Anwar Gopalanin -->
  
 
+                <!-- Person  Dr. Mehmood Khan -->
+                <div class="person come-out ">
+                   <a href="faculty-profile/Dr_Mehmood_Khan.php">
+                       <div class="person-info ">
+                           <img src="images/faculty/Mehmood_khan_thumbnail.jpg" alt="Danish Haroon" />
+                       </div>
+                   </a>
+                    <div class="person-detail">
+                        <h2 class="name">Dr. Mehmood Khan</h2>
+                        <div class="designation">
+                            Professor<br>Operations and Supply Chain Management
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person  Dr. Mehmood Khan -->
         
 
                 

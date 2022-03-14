@@ -42,7 +42,19 @@ include('../../../partials/navbar.php');
 
                 <div class="center-page-content news-and-events container-boxes" >
      
-
+                <a href="blog/Session_Environmental_Sustainability.php" class="latest-news-event half-wrap  " >
+                        <div class="image-area">
+                            <img src="images/blog/environmental_sustainability_pic4.jpg" alt="">
+                        </div>
+                        <div class="news-event-detail">
+                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                          
+                            <div class="other-details">
+                                <div class="detail" >Session on Environmental Sustainability - TrashIt CEO talks to KSBL Students</div>
+                                <div class="date">Wednesday, March 9th, 2022</div>
+                            </div>
+                        </div>
+                    </a>
                 
 
                 <a href="blog/KSBL_Invited_Hira_Ali.php" class="latest-news-event half-wrap  " >
@@ -50,7 +62,7 @@ include('../../../partials/navbar.php');
                             <img src="images/blog/KSBL_invited_Hira_Ali_pic4.jpg" alt="">
                         </div>
                         <div class="news-event-detail">
-                            <div class="tag">Events <?=  $catalog->check() ? '<span class="badge">New</span>' : null ?></div>
+                            <div class="tag">Events</div>
                           
                             <div class="other-details">
                                 <div class="detail" >#BreakTheBias with Hira Ali by KSBL</div>

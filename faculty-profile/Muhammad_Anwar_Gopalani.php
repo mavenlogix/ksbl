@@ -92,14 +92,14 @@ include('../partials/head.php');
 
             <div class="faculty_grid">
 
-                <div class="faculty_grid_left danish_haroon">
+                <div class="faculty_grid_left muhammad_anwar">
 
                     <div class="faculty_grid_head">
 
-                        <h1>Mr. Danish Haroon</h1>
-                        <h4>Visiting Faculty<br>Data Mining and Big Data</h4>
+                        <h1>Mr. Muhammad Anwar Gopalani</h1>
+                        <h4>Visiting Faculty<br>Performance & Compensation Strategy</h4>
 
-                        <a href="mailto:danish.haroon@ksbl.edu.pk">danish.haroon@ksbl.edu.pk</a>
+                        <a href="mailto:anwar.gopalani@ksbl.edu.pk">anwar.gopalani@ksbl.edu.pk</a>
 
                     </div>
 
@@ -109,18 +109,18 @@ include('../partials/head.php');
 
                     <ul class="nav nav-tabs border-0" role="tablist">
 
-                         <li class="nav-item">
+                         <li class="nav-item page_tabs_adjusment">
                             <a class="nav-link active" data-toggle="tab" href="#vita">Profile Summary</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item page_tabs_adjusment">
                             <a class="nav-link" data-toggle="tab" href="#credentials">Credentials</a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item page_tabs_adjusment">
                             <a class="nav-link" data-toggle="tab" href="#interests">Consulting & Teaching</a>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link" data-toggle="tab" href="#publications">Publications & Research</a>
-                        </li>
+                        </li> -->
 
                     </ul>
 
@@ -129,13 +129,55 @@ include('../partials/head.php');
                     <div class="tab-content mt-2">
 
                         <div id="vita" class=" tab-pane active">
-                            <p><span style="color: #ff9f19;">Danish Haroon </span>is a visiting faculty of Data Mining and Big Data at KSBL. He has over 6 years of experience in the data science space, spanning along the verticals of retail, banking, and utility.</p>
+                            <p><span style="color: #ff9f19;">Muhammad Anwar Gopalani </span>is a visiting faculty for Performance & Compensation Strategy at KSBL. He enjoys more than 35 years strategic and operational exposure of Human Resource Management & Industrial Relations with top of the line national and multinational companies. </p>
 
                             <p>
-                            He has worked in consulting roles for multiple offshore clients, and delivered data driven products within the local market as well. During his experience at K Electric, he has built a team from scratch, providing value to business units by building end-to-end machine learning pipelines.
+                            Over these years, he has been sharing his experience with students and professionals at ICAP, ICMAP, PIQC, NIPA, NED University, SZABIST, MAJU, and Establishment Division, Management Wing of Government of Pakistan. 
                             </p>
                             <p>
-                            He is an MBA from KSBL and did his MS Data Science from FAST NUCES. He is associated with a research group working on tackling with the issues in long tailed tabular data, and aspires to pursue his Ph.D. along the same lines.
+                            He has served as member Board of Governors of Pakistan Society for Training & Development. (2005 – 2006) and also served as member Scholarship Committee, Petroleum Institute of Pakistan.  <br>
+                            (2004 – 2008) 
+
+                            </p>
+
+                            <p>
+                                Anwar enjoys strategic and operational experience in the following areas: Human Resource Management.
+                                <br>
+                                <ol>
+                                     <li>
+                                         Succession Planning & Potential Assessment.
+                                    </li>
+                                     <li>
+                                         Compensation Administration & Planning.
+                                    </li>
+                                     <li>
+                                         Strategic Planning & Management, vision, mission and core values.
+                                    </li>
+                                     <li>
+                                         Performance Management, (Leadership Assessment, 360 Degree, Balanced Score card)
+                                    </li>
+                                     <li>
+                                         Industrial Relations / Employment Laws. (Collective Bargaining & Compliance)
+                                    </li>
+                                     <li>
+                                         Organization / People Development. (OD interventions e.g., Org. Restructuring, VSS)
+                                    </li>
+                                     <li>
+                                         Organization Behaviour.
+                                    </li>
+                                     <li>
+                                         Climate Assessment, Engagement and Compensation Surveys.
+                                    </li>
+                                     <li>
+                                         Training Development. (TNA, TNI and Training Plan execution)
+                                    </li>
+                                    <li>Psychometrics & Personality Assessment. (MBTI & Thomas DISC)</li>
+
+                                </ol>
+                            </p>
+
+                            <p>
+                            Master in political science from university of Karachi and graduation in law from S. M. Law college. Obtained post graduate diploma in “Labour Administration and Industrial Welfare”. He is certified leadership trainers from B & W USA. Accredited MBTI practitioner from Centre for Application of Psychological Type, USA. Certified Chartered Member of Australian Human Resource Institute.  
                             </p>
 
                           
@@ -144,118 +186,108 @@ include('../partials/head.php');
                         <div id="credentials" class=" tab-pane fade"><br>
                             <h4 class="text-primary">Education</h4>
                             <ul>
-                            <li>
-                                MS in Data Science, FAST NUCES, Pakistan <br>
-                            Thesis Title “Learning a better representation while retaining classification performance on imbalanced data” 2021 
-                            </li>
-                            <li>
-                                MBA, KSBL <br>
-                            Research Title "Feasibility study for launching a water-displacing spray in the local market" <br>
-                            2015
-                            </li>
-                            <li>
-                                BS Telecommunication Engineering <br>
-                                2012
-                            </li>
+                                <li>M. A. Political Science from University of Karachi in 1987</li>
+                                <li>Bachelor of Law (LLb) from University of Karachi 1989.</li>
+                                <li>Postgraduate Diploma in Labour Administration & Industrial Welfare 1986</li>
+                                <li>Certified Facilitator, Leadership Training Program from Blessing & White, USA, 2000  </li>
+                                <li>Certification as Chartered Member of Australian Human Resource Institute 2003.</li>
+                                <li>Accreditation from Centre for Application of Psychological Type (CAPT) USA, 2006.</li>
 
                             </ul>
+                            <p>
+                                <b>Professional Trainings</b>
+                                <br>
+                                <ul>
+                                    <li>
+                                    Attended numerous training programs in Pakistan and abroad on Strategic HR, Organization Development, Climate Audit, Change Management, Performance Management, Compensation Administration & Planning System, Strategic Planning etc.
+                                    </li>
+                                </ul>
+                            </p>
 
 
                         </div>
 
                         <div id="interests" class=" tab-pane fade"><br>
 
-                           <div class="container">
+                        <div class="container">
                                 <div class="row">
-                                    <div class="col-lg-3"><p>2019 – Present</p></div>
+                                    <div class="col-lg-3"><p>2008 - 2022 <br>(Retired) </p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            Manager - Analytics, <br>
-                                            K Electric
+                                            Chief Human Resource Officer, <br>
+ 	                                        Central Depository Company of Pakistan Limited. <br>
+                                            Karachi.
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2018 - 2019</p></div>
+                                    <div class="col-lg-3"><p>2001 - 2008</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            Data Scientist Consultant <br>
-                                            qordata
+                                            General Manager, Organization & People Development <br>
+                                            Sui Southern Gas Company Limited. <br>
+                                            Karachi.
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2016- 2018</p></div>
+                                    <div class="col-lg-3"><p>1992- 2001</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            Data Scientist <br>
-                                            Market IQ Inc
+                                            Manager Human Resources <br>
+                                            Merck Sharp & Dohme of Pakistan Limited, subsidiary of Merck & CO. <br>
+                                            Karachi. 
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2015- 2016</p></div>
+                                    <div class="col-lg-3"><p>1988- 1992</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            Senior Data Analyst <br>
-                                            PredictifyMe
+                                            Personnel Manager. <br>
+                                            Philips Electrical Industries of Pakistan Limited <br>
+                                            Karachi.
                                         </p>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-lg-3"><p>2014 – 2015</p></div>
+                                    <div class="col-lg-3"><p>1983 – 1988</p></div>
                                     <div class="col-lg-8">
                                         <p>
-                                            Idea Engineering Consultant  <br>
-                                            Ephlux
+                                            Manager Personnel & Administration. <br>
+                                            Canadian Jeans Company (Pvt.) Limited (Wrangler) <br>
+                                            Karachi.
                                         </p>
                                     </div>
                                 </div>
 
-                            
-
-                                <h4 class="text-primary mt-4">Details of Keynote Speeches, Panelist and Chair</h4>
-                                <ul>
-                                    <li>
-                                        Guest Speaker session on “Open Archive – Innovating the meter reading process within utilities”, AI Hub, Inqline, 10 April 2021
-                                    </li>
-                                    <li>
-                                        Guest Speaker session on “The World of Predictive Analytics”, Consulting webinar, qordata, 18 December 2021
-                                    </li>
-                                    <li>
-                                        Guest Speaker session on “Release the Breaks & Accelerate Your Journey to AI”, DataCon Pakistan 2019, Marriot Karachi, 14 November 2019
-                                    </li>
-                                    <li>
-                                        Guest Speaker session on “Machine Learning Modelling with ScikitLearn/GraphLab”, Pycon Pakistan 2019, Habib University, Karachi, 12 October 2019
-                                    </li>
-                                    <li>
-                                        8 week long workshop on “Data Science 101”, qordata, 10 October – 28 November, 2018
-                                    </li>
-                                    <li>
-                                        Guest Speaker session on “What it takes to be a Data Scientist”, NED UET, Karachi, 4 August 2016
-                                    </li>
-
-                                </ul>
-                              
                            </div>
+
+                           <br>
+                           <p>
+                               <ul>
+                                   <li>Consultancy projects undertook:
+                                       <ul style="list-style: circle;">
+                                            <li>SUPARCO</li>
+                                            <li>Amreli Steels Limited.</li>
+                                            <li>DYNEA Pak Limited</li>
+                                            <li>KEPCO</li>
+                                            <li>Naymat Collateral Management Company.</li>
+
+                                       </ul>
+                                   </li>
+                               </ul>
+                           </p>
 
                         </div>
 
                         <div id="publications" class=" tab-pane fade"><br>
 
-                            <ul>
-                                <li>
-                                    “Python Machine Learning Case Studies”, Apress 2017, ISBN # 9781484228227
-                                </li>
-                                <li>
-                                    “Deep generative models to counter class imbalance: a guided model selection strategy”, 2021, IEEE Access, Vol 9, pp. 55879-55897
-                                </li>
-
-                            </ul>
+                           
 
                         </div>
 
@@ -378,7 +410,5 @@ include('../partials/head.php');
 
 
 </body>
-
-
 
 </html>
