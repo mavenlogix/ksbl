@@ -371,10 +371,10 @@ include('../../partials/navbar.php');
                 <!-- END Mr. Inam-Ur-Rahman -->
 
 
-            <!--Ms. Dominique Russue -->
+            <!--Ms. Dominique Russo -->
                <div class="person come-out">
                     <div class="person-info">
-                        <img src="images/faculty/Ms.-Dominique-Russo.jpg" alt="Inam-Ur-Rahman" />
+                        <img src="images/faculty/Ms.-Dominique-Russo.jpg" alt="Ms. Dominique Russo" />
                         <div class="hover-detail">
                             <span class="orange-yellow-text">Ms. Dominique Russo</span> brings two decades of investment management, corporate structuring, and nation-level advisory experience, having commenced her investment management career at Merrill Lynch’s New York headquarters and later moving to the GCC with the Financial Services practice of strategy firm Booz Allen Hamilton / Booz & Company.<br /><br />
                             Ms. Russo has advised various GCC governments and semi-governmental entities on economic development strategy, investment affairs, and related policy development. In addition, she has advised and led multinational family conglomerates in the wider region, including in Pakistan, as an advisor, Chief Executive Officer, and Board Director.<br /><br />
@@ -382,14 +382,14 @@ include('../../partials/navbar.php');
                         </div>
                     </div>
                     <div class="person-detail">
-                        <h2 class="name">Ms. Dominique Russue</h2>
+                        <h2 class="name">Ms. Dominique Russo</h2>
                         <div class="designation">
                             Director, KEI<br>
                             Director, Engro
                         </div>
                     </div>
                 </div>
-                <!-- END Ms. Dominique Russue -->
+                <!-- END Ms. Dominique Russo -->
 
 
                 <!-- Mr. Imran Sayeed -->

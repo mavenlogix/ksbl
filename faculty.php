@@ -642,8 +642,19 @@ include('./partials/head.php');
                 </div>
                 <!-- END Person  Dr. Mehmood Khan -->
         
-
-                
+                 <!-- Person Stephanie Erin Lee -->
+               <div class="person come-out no-hover">
+                    <div class="person-info no-hover">
+                        <img src="images/faculty/Stephanie_Erin_Lee.jpg" alt="Stephanie Erin Lee" />
+                    </div>
+                    <div class="person-detail">
+                        <h2 class="name">Stephanie Erin Lee</h2>
+                        <div class="designation">
+                            Senior Lecturer<br>Director English Language Centre
+                        </div>
+                    </div>
+                </div>
+                <!-- END Person Stephanie Erin Lee -->
 
 
 
